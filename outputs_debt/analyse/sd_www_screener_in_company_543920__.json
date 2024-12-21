@@ -1,0 +1,262 @@
+
+{
+  "Company Overview": {
+    "Name": "CFF Fluid Control Ltd",
+    "Sector": "Aerospace & Defence",
+    "Industry": "Engineering",
+    "Business Description": "Manufacturing and servicing shipboard machinery, critical component systems and test facilities for submarines and surface ships for the Indian Navy.  Designs and develops mechanical equipment and systems for industries such as nuclear and clean energy.",
+    "Market Position": "Not explicitly stated in provided HTML" 
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,337 Cr.",
+    "Current Price": "₹ 687",
+    "High/Low": "₹ 949 / ₹ 355",
+    "P/E Ratio": "63.6",
+    "Book Value": "₹ 71.4",
+    "Dividend Yield": "0.15 %",
+    "ROCE": "24.0 %",
+    "ROE": "22.6 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but can be inferred from Balance Sheet data"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2022": "39",
+        "Mar 2023": "32",
+        "Sep 2023": "59",
+        "Mar 2024": "47",
+        "Sep 2024": "80"
+      },
+      "Expenses": {
+        "Sep 2022": "29",
+        "Mar 2023": "23",
+        "Sep 2023": "42",
+        "Mar 2024": "34",
+        "Sep 2024": "57"
+      },
+      "Operating Profit": {
+        "Sep 2022": "10",
+        "Mar 2023": "8",
+        "Sep 2023": "18",
+        "Mar 2024": "13",
+        "Sep 2024": "23"
+      },
+      "Net Profit": {
+        "Sep 2022": "6",
+        "Mar 2023": "4",
+        "Sep 2023": "10",
+        "Mar 2024": "7",
+        "Sep 2024": "14"
+      },
+      "EPS": {
+        "Sep 2022": "4.48",
+        "Mar 2023": "2.62",
+        "Sep 2023": "5.19",
+        "Mar 2024": "3.59",
+        "Sep 2024": "7.21"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2020": "32",
+        "Mar 2021": "15",
+        "Mar 2022": "47",
+        "Mar 2023": "71",
+        "Mar 2024": "107"
+      },
+      "Expenses": {
+        "Mar 2020": "27",
+        "Mar 2021": "12",
+        "Mar 2022": "34",
+        "Mar 2023": "52",
+        "Mar 2024": "76"
+      },
+      "Operating Profit": {
+        "Mar 2020": "5",
+        "Mar 2021": "3",
+        "Mar 2022": "13",
+        "Mar 2023": "18",
+        "Mar 2024": "31"
+      },
+      "Net Profit": {
+        "Mar 2020": "1",
+        "Mar 2021": "0",
+        "Mar 2022": "8",
+        "Mar 2023": "10",
+        "Mar 2024": "17"
+      },
+      "EPS": {
+        "Mar 2020": "18.92",
+        "Mar 2021": "3.50",
+        "Mar 2022": "108.31",
+        "Mar 2023": "7.10",
+        "Mar 2024": "8.78"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": {
+        "Mar 2020": "0.71",
+        "Mar 2021": "0.71",
+        "Mar 2022": "0.71",
+        "Mar 2023": "14",
+        "Mar 2024": "19",
+        "Sep 2024": "19"
+      },
+      "Total Liabilities": {
+        "Mar 2020": "45",
+        "Mar 2021": "42",
+        "Mar 2022": "56",
+        "Mar 2023": "89",
+        "Mar 2024": "161",
+        "Sep 2024": "185"
+      },
+      "Total Assets": {
+        "Mar 2020": "45",
+        "Mar 2021": "42",
+        "Mar 2022": "56",
+        "Mar 2023": "89",
+        "Mar 2024": "161",
+        "Sep 2024": "185"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": {
+        "Mar 2020": "20",
+        "Mar 2021": "-7",
+        "Mar 2022": "15",
+        "Mar 2023": "-9",
+        "Mar 2024": "-27"
+      },
+      "Net Cash Flow": {
+        "Mar 2020": "1",
+        "Mar 2021": "-1",
+        "Mar 2022": "2",
+        "Mar 2023": "-2",
+        "Mar 2024": "16"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (3 Years)": "95%",
+      "Compounded Sales Growth (TTM)": "40%",
+      "Compounded Profit Growth (3 Years)": "309%",
+      "Compounded Profit Growth (TTM)": "52%",
+      "Stock Price CAGR (1 Year)": "64%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": {
+        "Mar 2020": "41",
+        "Mar 2021": "166",
+        "Mar 2022": "102",
+        "Mar 2023": "42",
+        "Mar 2024": "30"
+      },
+      "Inventory Days": {
+        "Mar 2020": "282",
+        "Mar 2021": "746",
+        "Mar 2022": "244",
+        "Mar 2023": "307",
+        "Mar 2024": "351"
+      },
+      "Days Payable": {
+        "Mar 2020": "134",
+        "Mar 2021": "225",
+        "Mar 2022": "230",
+        "Mar 2023": "77",
+        "Mar 2024": "17"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2020": "189",
+        "Mar 2021": "687",
+        "Mar 2022": "116",
+        "Mar 2023": "272",
+        "Mar 2024": "364"
+      },
+      "Working Capital Days": {
+        "Mar 2020": "96",
+        "Mar 2021": "468",
+        "Mar 2022": "148",
+        "Mar 2023": "220",
+        "Mar 2024": "317"
+      }
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Mar 2020": "8%",
+        "Mar 2021": "38%",
+        "Mar 2022": "34%",
+        "Mar 2023": "24%",
+        "Mar 2024": "%" 
+      },
+      "ROE": {
+        "3 Years": "33%",
+        "Last Year": "23%"
+      },
+      "OPM": {
+        "Sep 2022": "26%",
+        "Mar 2023": "26%",
+        "Sep 2023": "30%",
+        "Mar 2024": "28%",
+        "Sep 2024": "29%",
+        "Mar 2020": "16%",
+        "Mar 2021": "19%",
+        "Mar 2022": "27%",
+        "Mar 2023": "26%",
+        "Mar 2024": "28%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Not explicitly stated, but implied as 9.62 times"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Hind.Aeronautics", "CMP": "4190.20", "P/E": "33.10", "Mar Cap": "280230.10", "Div Yld": "0.84", "NP Qtr": "1490.36", "Qtr Profit Var": "20.30", "Sales Qtr": "5976.55", "Qtr Sales Var": "6.05", "ROCE": "38.88"},
+      {"Name": "Bharat Dynamics", "CMP": "1239.25", "P/E": "82.06", "Mar Cap": "45426.26", "Div Yld": "0.43", "NP Qtr": "122.53", "Qtr Profit Var": "-16.70", "Sales Qtr": "544.77", "Qtr Sales Var": "-11.54", "ROCE": "24.23"},
+      {"Name": "BEML Ltd", "CMP": "4073.80", "P/E": "59.41", "Mar Cap": "16965.14", "Div Yld": "0.50", "NP Qtr": "51.03", "Qtr Profit Var": "-1.47", "Sales Qtr": "859.84", "Qtr Sales Var": "-6.21", "ROCE": "15.25"},
+      {"Name": "MTAR Technologie", "CMP": "1722.20", "P/E": "136.01", "Mar Cap": "5297.42", "Div Yld": "0.00", "NP Qtr": "18.78", "Qtr Profit Var": "-9.84", "Sales Qtr": "190.18", "Qtr Sales Var": "14.07", "ROCE": "11.38"},
+      {"Name": "Paras Defence", "CMP": "1005.40", "P/E": "95.84", "Mar Cap": "4051.13", "Div Yld": "0.00", "NP Qtr": "12.70", "Qtr Profit Var": "44.98", "Sales Qtr": "87.09", "Qtr Sales Var": "42.05", "ROCE": "10.32"},
+      {"Name": "Unimech Aero.", "CMP": "68.77", "P/E": "3992.27", "Mar Cap": "38.68", "Div Yld": "120.66", "NP Qtr": "75.43", "Qtr Profit Var": null, "Sales Qtr": null, "Qtr Sales Var": null, "ROCE": null},
+      {"Name": "Ideaforge Tech", "CMP": "587.25", "P/E": "145.17", "Mar Cap": "2527.35", "Div Yld": "0.00", "NP Qtr": "-12.20", "Qtr Profit Var": "-1470.79", "Sales Qtr": "37.20", "Qtr Sales Var": "56.76", "ROCE": "12.09"}
+    ],
+    "Median": {
+      "CMP": "1122.33",
+      "P/E": "82.06",
+      "Mar Cap": "2527.35",
+      "Div Yld": "0.03",
+      "NP Qtr": "13.38",
+      "Qtr Profit Var": "-5.66",
+      "Sales Qtr": "103.88",
+      "Qtr Sales Var": "34.62",
+      "ROCE": "21.28"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 32.9%",
+      "Debtor days have improved from 58.1 to 30.1 days."
+    ],
+    "Cons": [
+      "Stock is trading at 9.62 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": [
+    {"Title": "Capital Expenditure For Production Of Towed Array Sonar", "Date": "11 Dec"},
+    {"Title": "Lease agreement for new production facility in Pune", "Date": "11 Dec"},
+    {"Title": "Earnings Presentation_H1FY25", "Date": "10 Dec"},
+    {"Title": "CFF Fluid Control Ltd. showcases growth in defense sector", "Date": "10 Dec"},
+    {"Title": "Board Meeting Outcome for Outcome Of Board Meeting Held On November 07 , 2024", "Date": "7 Nov"},
+    {"Title": "Approval of financial statements and FPO committee formation", "Date": "7 Nov"},
+    {"Title": "Board Meeting Intimation for Audited Results For The Special Purpose", "Date": "4 Nov"},
+    {"Title": "Board meeting to discuss and approve restated financials", "Date": "4 Nov"},
+    {"Title": "Submission Of Unaudited Financial Results For The Half Year Ended September 30Th , 2024", "Date": "29 Oct"},
+    {"Title": "Annual reports Financial Year 2024", "Source": "bse"},
+    {"Title": "Annual reports Financial Year 2023", "Source": "bse"},
+    {"Title": "Rating update", "Date": "30 Nov", "Source": "crisil"}
+  ]
+}

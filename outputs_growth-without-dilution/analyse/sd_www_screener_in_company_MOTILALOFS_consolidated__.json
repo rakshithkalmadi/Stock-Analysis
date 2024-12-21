@@ -1,0 +1,136 @@
+
+{
+  "Company Overview": {
+    "Name": "Motilal Oswal Financial Services Ltd",
+    "Sector": "Stock/ Commodity Brokers",
+    "Industry": "Finance & Investments",
+    "Business Description": "Well-diversified financial services firm founded in 1987 with a network spread across 550+ cities and towns, comprising 2,500+ Business Locations and 16,00,000+ customers.  Offers services in Capital markets (Broking and distribution, Institutional Equities, Investment Banking), Asset and Wealth Management (Asset Management Co., Private Equity & Real Estate, Wealth Management), and Housing Finance (Broking & Distribution and Institutional Equities services).",
+    "Market Position": "Part of Nifty 500, Multicap 50:25:25, BSE 250, SmallCap Index, BSE Diversified Financials Revenue Growth Index, BSE 400 MidSmallCap Index, BSE SmallCap, BSE Allcap, Nifty MidSmallcap 400, Nifty Smallcap 250, BSE Financial Services, Nifty Total Market, BSE 500, Nifty 500"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 55,523 Cr.",
+    "Current Price": "₹ 926",
+    "High/Low": "₹ 1,064 / ₹ 298",
+    "Stock P/E": 16.4,
+    "Book Value": "₹ 185",
+    "Dividend Yield": "0.38 %",
+    "ROCE": "20.7 %",
+    "ROE": "32.6 %",
+    "Face Value": "₹ 1.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [
+        1323, 1025, 1051, 754, 1321, 1076, 1027, 1502, 1655, 1784, 2152, 2312, 2838
+      ],
+      "Expenses": [
+        544, 577, 559, 553, 576, 588, 584, 664, 740, 696, 915, 920, 1022
+      ],
+      "Operating Profit": [
+        779, 448, 493, 201, 744, 488, 444, 837, 915, 1088, 1238, 1393, 1816
+      ],
+      "OPM %": [
+        59, 44, 47, 27, 56, 45, 43, 56, 55, 61, 58, 60, 64
+      ],
+      "Net Profit": [
+        549, 240, 303, 32, 510, 227, 165, 528, 532, 661, 725, 884, 1122
+      ],
+      "EPS in Rs": [
+        9.34, 4.07, 5.02, 0.52, 8.62, 3.83, 2.78, 8.90, 8.96, 11.11, 12.13, 14.77, 18.71
+      ]
+    },
+    "Annual Results": {
+      "Sales": [473, 467, 772, 1080, 1923, 2751, 2450, 2358, 3626, 4298, 4178, 7069, 9087],
+      "Expenses": [259, 326, 516, 647, 915, 1357, 1543, 1546, 1610, 2178, 2301, 3002, 3552],
+      "Operating Profit": [213, 141, 256, 432, 1008, 1394, 907, 812, 2016, 2120, 1877, 4067, 5534],
+      "Net Profit": [110, 42, 145, 172, 371, 632, 298, 190, 1265, 1312, 935, 2446, 3391],
+      "EPS in Rs": [1.88, 0.72, 2.56, 2.97, 6.23, 10.72, 5.04, 3.10, 21.49, 21.97, 15.74, 40.96, 56.72]
+    },
+    "Sales Growth": {
+      "10 Years": "31%",
+      "5 Years": "24%",
+      "3 Years": "25%",
+      "TTM": "73%"
+    },
+    "Profit Growth": {
+      "10 Years": "42%",
+      "5 Years": "53%",
+      "3 Years": "22%",
+      "TTM": "134%"
+    },
+    "Stock Price CAGR": {
+      "10 Years": "31%",
+      "5 Years": "38%",
+      "3 Years": "59%",
+      "1 Year": "193%"
+    },
+    "Return on Equity": {
+      "10 Years": "22%",
+      "5 Years": "24%",
+      "3 Years": "25%",
+      "Last Year": "33%"
+    }
+  },
+  "Ratios": {
+    "ROCE %": [13, 10, 14, 13, 18, 18, 11, 10, 22, 19, 13, 21],
+    "Debtor Days": [337, 377, 279, 240, 239, 138, 226, 115, 92, 85, 90, 99],
+    "Inventory Days": [],
+    "Days Payable": [],
+    "Cash Conversion Cycle": [337, 377, 279, 240, 239, 138, 226, 115, 92, 85, 90, 99],
+    "Working Capital Days": [428, 313, 154, -50, -30, -126, -48, -189, -206, -279, -402, -329]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "ICICI Securities", "CMP": 831.65, "P/E": 13.14, "Mar Cap": 27034.07, "Div Yld": 3.49, "NP Qtr": 529.04, "Qtr Profit Var": 24.88, "Sales Qtr": 1706.65, "Qtr Sales Var": 36.64, "ROCE": 19.74},
+      {"Name": "Angel One", "CMP": 2881.70, "P/E": 19.76, "Mar Cap": 26006.81, "Div Yld": 1.20, "NP Qtr": 423.37, "Qtr Profit Var": 39.06, "Sales Qtr": 1514.71, "Qtr Sales Var": 44.55, "ROCE": 38.70},
+      {"Name": "Nuvama Wealth", "CMP": 6850.70, "P/E": 29.43, "Mar Cap": 24577.28, "Div Yld": 2.11, "NP Qtr": 257.31, "Qtr Profit Var": 77.50, "Sales Qtr": 1051.35, "Qtr Sales Var": 42.99, "ROCE": 16.54},
+      {"Name": "Prudent Corp.", "CMP": 2846.90, "P/E": 66.98, "Mar Cap": 11788.07, "Div Yld": 0.07, "NP Qtr": 51.52, "Qtr Profit Var": 69.36, "Sales Qtr": 286.08, "Qtr Sales Var": 50.54, "ROCE": 43.29},
+      {"Name": "IIFL Capital", "CMP": 339.70, "P/E": 14.67, "Mar Cap": 10519.21, "Div Yld": 0.88, "NP Qtr": 205.34, "Qtr Profit Var": 90.52, "Sales Qtr": 645.37, "Qtr Sales Var": 27.30, "ROCE": 34.56},
+      {"Name": "Share India Sec.", "CMP": 296.40, "P/E": 14.12, "Mar Cap": 6468.03, "Div Yld": 0.61, "NP Qtr": 124.27, "Qtr Profit Var": 10.19, "Sales Qtr": 452.76, "Qtr Sales Var": 23.58, "ROCE": 38.31}
+    ],
+    "Median": {
+      "CMP": 213.2,
+      "P/E": 15.96,
+      "Mar Cap": 932.32,
+      "Div Yld": 0.38,
+      "NP Qtr": 14.75,
+      "Qtr Profit Var": 37.71,
+      "Sales Qtr": 58.4,
+      "Qtr Sales Var": 36.47,
+      "ROCE": 20.41
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 52.7% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 25.3%",
+      "Company's median sales growth is 39.9% of last 10 years"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Shareholding Pattern Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier.",
+      "The sudden changes in FII or DII can be because of these changes.",
+      "Click on the line-items to see the names of individual entities."
+    ]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [70.40, 69.50, 69.50, 69.57, 69.46, 69.68, 69.66, 69.53, 69.39, 69.16, 69.04, 68.86],
+      "FIIs": [10.24, 10.08, 9.80, 9.29, 7.35, 6.47, 6.41, 6.29, 6.48, 6.73, 6.46, 6.34],
+      "DIIs": [2.87, 3.63, 4.02, 5.01, 5.95, 6.28, 6.11, 6.29, 6.76, 6.94, 6.06, 6.41],
+      "Public": [16.50, 16.78, 16.67, 16.12, 17.22, 17.58, 17.84, 17.90, 17.36, 17.16, 18.42, 18.39]
+    },
+    "Yearly": {
+      "Promoters": [70.86, 70.55, 70.29, 69.76, 70.66, 69.50, 69.68, 69.16, 68.86],
+      "FIIs": [12.48, 15.25, 13.31, 9.77, 9.44, 10.08, 6.47, 6.73, 6.34],
+      "DIIs": [1.54, 0.35, 1.55, 4.56, 4.51, 3.63, 6.28, 6.94, 6.41],
+      "Public": [15.12, 13.85, 14.86, 15.90, 15.39, 16.78, 17.58, 17.16, 18.39]
+    }
+  }
+}

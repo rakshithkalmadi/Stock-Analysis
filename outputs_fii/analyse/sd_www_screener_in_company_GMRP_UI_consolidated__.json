@@ -1,0 +1,148 @@
+
+{
+  "Company Overview": {
+    "Name": "GMR Power & Urban Infra Ltd",
+    "Sector": "Infrastructure Developers & Operators",
+    "Industry": "Engineering - Turnkey Services",
+    "Business Description": "A subsidiary of GEPL with expertise in Energy, Urban Infrastructure, and Transportation.",
+    "MarketPosition": "Part of GMR Group, an Indian multinational conglomerate."
+  },
+  "Financial Metrics": {
+    "MarketCap": "7,255 Cr.",
+    "CurrentPrice": 101,
+    "HighLow": "169 / 38.6",
+    "PEratio": null, 
+    "BookValue": 11.1,
+    "DividendYield": "0.00 %",
+    "ROCE": "11.4 %",
+    "ROE": null,
+    "FaceValue": 5.00
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": [1051, 964, 1211, 1069, 1581, 1447, 1423, 1124, 627, 1103, 1634, 1612, 1384],
+      "Expenses": [886, 847, 1129, 923, 1524, 1377, 1502, 934, 519, 880, 1272, 1099, 973],
+      "OperatingProfit": [165, 117, 82, 146, 57, 71, -78, 191, 108, 222, 362, 513, 411],
+      "OPM%": ["16%", "12%", "7%", "14%", "4%", "5%", "-6%", "17%", "17%", "20%", "22%", "32%", "30%"],
+      "OtherIncome": [590, -321, 80, 433, 1557, 580, -46, -88, 101, 327, 468, 1529, 348],
+      "Interest": [350, 328, 346, 324, 411, 276, 326, 279, 272, 405, 523, 450, 367],
+      "Depreciation": [28, 32, 44, 47, 47, 36, 21, 39, 40, 100, 127, 185, 154],
+      "ProfitBeforeTax": [377, -564, -228, 209, 1156, 339, -471, -215, -103, 45, 180, 1407, 239],
+      "Tax%": ["12%", "2%", "20%", "3%", "7%", "0%", "0%", "1%", "19%", "4%", "5%", "3%", "-4%"],
+      "NetProfit": [332, -574, -272, 202, 1069, 339, -471, -218, -123, 43, 170, 1362, 250],
+      "EPSinRs": [-3.55, 3.52, 17.94, 5.97, -7.84, -3.40, -1.74, 0.75, 2.69, 20.30, 3.57]
+    },
+    "AnnualResults": {
+      "Sales": [2733, 4102, 5516, 4489, 5733],
+      "Expenses": [2689, 3606, 5089, 3583, 4224],
+      "OperatingProfit": [44, 495, 427, 906, 1509],
+      "OPM%": ["2%", "12%", "8%", "20%", "26%"],
+      "OtherIncome": [-552, 441, 2304, 785, 2672],
+      "Interest": [1530, 1354, 1350, 1479, 1745],
+      "Depreciation": [123, 128, 149, 305, 566],
+      "ProfitBeforeTax": [-2161, -546, 1232, -94, 1870],
+      "Tax%": ["1%", "19%", "8%", "36%"],
+      "NetProfit": [-2185, -652, 1139, -127, 1825],
+      "EPSinRs": [-10.73, 19.60, -1.71, 27.31]
+    },
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "18%",
+        "TTM": "24%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "18%",
+        "TTM": "58%"
+      },
+      "StockPriceCAGR": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "1Year": "92%"
+      }
+    }
+  },
+  "Ratios": {
+    "LiquidityRatios": {
+      "DebtorDays": [113, 55, 36, 125],
+      "InventoryDays": [18, 12, 5, 52],
+      "DaysPayable": [419, 330, 239, 635],
+      "CashConversionCycle": [-288, -263, -198, -458],
+      "WorkingCapitalDays": [-243, -178, -145, -227]
+    },
+    "ProfitabilityRatios": {
+      "ROCE%": ["8%", "19%", "11%"]
+    },
+    "ValuationRatios": {
+      "PriceToBook": null
+    }
+  },
+  "PeerComparison": [
+    {"Name": "Larsen & Toubro", "CMP": 3629.85, "PE": 37.08, "MarCap": 499151.79, "DivYld": 0.77, "NPQtr": 4098.84, "QtrProfitVar": 5.36, "SalesQtr": 61554.58, "QtrSalesVar": 20.64, "ROCE": 13.44},
+    {"Name": "Techno Elec.Engg", "CMP": 1625.15, "PE": 59.64, "MarCap": 18900.43, "DivYld": 0.43, "NPQtr": 94.21, "QtrProfitVar": 27.69, "SalesQtr": 441.42, "QtrSalesVar": -4.51, "ROCE": 16.53},
+    {"Name": "ACME Solar Hold.", "CMP": 232.95, "PE": 114.63, "MarCap": 14095.52, "DivYld": 0.00, "NPQtr": 15.30, "QtrProfitVar": -19.09, "SalesQtr": 259.59, "QtrSalesVar": -19.71, "ROCE": 8.41},
+    {"Name": "Reliance Infra.", "CMP": 290.30, "PE": null, "MarCap": 11499.69, "DivYld": 0.00, "NPQtr": 4194.63, "QtrProfitVar": 389.06, "SalesQtr": 7258.49, "QtrSalesVar": 1.48, "ROCE": 7.38},
+    {"Name": "ISGEC Heavy", "CMP": 1511.85, "PE": 38.17, "MarCap": 11116.56, "DivYld": 0.26, "NPQtr": 95.70, "QtrProfitVar": 54.83, "SalesQtr": 1643.90, "QtrSalesVar": 11.59, "ROCE": 12.31},
+    {"Name": "Sterling & Wils.", "CMP": 443.20, "PE": null, "MarCap": 10348.47, "DivYld": 0.00, "NPQtr": 8.57, "QtrProfitVar": 113.00, "SalesQtr": 1030.49, "QtrSalesVar": 35.68, "ROCE": 3.77},
+    {"Name": "Engineers India", "CMP": 183.68, "PE": 27.89, "MarCap": 10323.59, "DivYld": 1.63, "NPQtr": 99.63, "QtrProfitVar": -21.83, "SalesQtr": 688.94, "QtrSalesVar": -12.77, "ROCE": 22.21},
+    {"Name": "GMR Urban", "CMP": 101.49, "PE": null, "MarCap": 7254.87, "DivYld": 0.00, "NPQtr": 249.56, "QtrProfitVar": 128.48, "SalesQtr": 1384.09, "QtrSalesVar": 120.58, "ROCE": 11.39}
+  ],
+  "OtherInsights": {
+    "Pros": ["Company is expected to give good quarter"],
+    "Cons": ["Stock is trading at 9.17 times its book value", "Company has low interest coverage ratio.", "Promoter holding has decreased over last quarter: -9.28%", "Contingent liabilities of Rs.5,484 Cr.", "Promoters have pledged 37.4% of their holding.", "Earnings include an other income of Rs.2,672 Cr.", "Debtor days have increased from 72.3 to 125 days."],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPatternNotes": ["The classifications might have changed from Sep'2022 onwards.", "The new XBRL format added more details from Sep'22 onwards.", "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."]
+  },
+  "ShareholdingPattern": {
+    "Quarterly": {
+      "Promoters": [59.83, 59.83, 59.83, 59.83, 59.83, 59.83, 59.83, 59.83, 59.83, 59.83, 50.55],
+      "FIIs": [27.29, 21.59, 21.07, 21.05, 21.19, 20.86, 13.87, 6.50, 5.06, 1.52, 3.41],
+      "DIIs": [1.23, 1.02, 2.75, 2.75, 2.74, 2.74, 2.73, 2.73, 2.57, 2.70, 2.35],
+      "Public": [11.66, 17.56, 16.36, 16.39, 16.26, 16.58, 23.56, 30.95, 32.54, 35.94, 43.70]
+    },
+    "Yearly": {
+      "Promoters": [59.83, 59.83, 59.83, 50.55],
+      "FIIs": [27.29, 21.19, 5.06, 3.41],
+      "DIIs": [1.23, 2.74, 2.57, 2.35],
+      "Public": [11.66, 16.26, 32.54, 43.70]
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"title": "Disclosures under Reg. 10(5) in respect of acquisition under Reg. 10(1)(a) of SEBI (SAST) Regulations, 2011", "date": "10 Dec"},
+      {"title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation", "date": "6 Dec"},
+      {"title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation", "date": "6 Dec"},
+      {"title": "Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.", "date": "30 Oct"},
+      {"title": "Disclosures of reasons for encumbrance by promoter of listed companies under Reg. 31(1) read with Regulation 28(3) of SEBI (SAST) Regulations, 2011.", "date": "26 Oct"}
+    ],
+    "AnnualReports": [
+      {"year": 2024, "source": "bse"},
+      {"year": 2023, "source": "bse"},
+      {"year": 2022, "source": "bse"}
+    ],
+    "CreditRatings": [
+      {"date": "30 May", "source": "infomerics"},
+      {"date": "5 Mar", "source": "infomerics"},
+      {"date": "2 Feb", "source": "infomerics"},
+      {"date": "7 Aug 2023", "source": "infomerics"},
+      {"date": "4 Nov 2022", "source": "infomerics"}
+    ],
+    "Concalls": [
+      {"month": "Oct", "year": 2024},
+      {"month": "Aug", "year": 2024},
+      {"month": "May", "year": 2024},
+      {"month": "Feb", "year": 2024},
+      {"month": "Nov", "year": 2023},
+      {"month": "Aug", "year": 2023},
+      {"month": "May", "year": 2023},
+      {"month": "Feb", "year": 2023},
+      {"month": "Nov", "year": 2022},
+      {"month": "Aug", "year": 2022},
+      {"month": "May", "year": 2022}
+    ]
+  }
+}

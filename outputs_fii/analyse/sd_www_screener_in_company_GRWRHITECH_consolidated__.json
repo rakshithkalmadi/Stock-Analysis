@@ -1,0 +1,152 @@
+
+{
+  "Company Overview": {
+    "Name": "Garware Hi Tech Films Ltd",
+    "Sector": "Packaging",
+    "Industry": "Packaging",
+    "Business Description": "Garware Polyester is engaged in the business of manufacturing of Polyester Films.",
+    "Market Position": "Leading Indian manufacturer of polyester films and high-margin specialty films. Sole producer of Solar Control window films in India. Only company globally with backward integration for producing raw materials and components for these films. Leading player in India's shrink film market with a 70% market share."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 11,619 Cr.",
+    "Current Price": "₹ 5,001",
+    "High / Low": "₹ 5,378 / 1,315",
+    "Stock P/E": "37.9",
+    "Book Value": "₹ 960",
+    "Dividend Yield": "0.20 %",
+    "ROCE": "14.0 %",
+    "ROE": "10.4 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [340, 334, 324, 370, 395, 324, 349, 380, 397, 454, 447, 474, 621],
+      "Expenses": [280, 269, 268, 308, 328, 279, 296, 316, 332, 379, 368, 356, 484],
+      "Operating Profit": [59, 65, 55, 62, 67, 45, 53, 64, 65, 75, 78, 119, 137],
+      "OPM %": ["17%", "19%", "17%", "17%", "17%", "14%", "15%", "17%", "16%", "17%", "18%", "25%", "22%"],
+      "Other Income": [10, 8, 15, 8, 9, 7, 17, 9, 9, 9, 12, 11, 14],
+      "Interest": [5, 5, 5, 4, 4, 4, 5, 4, 4, 2, 2, 2, 2],
+      "Depreciation": [7, 7, 7, 7, 8, 8, 10, 10, 10, 10, 10, 10, 10],
+      "Profit before tax": [57, 60, 59, 59, 64, 40, 56, 59, 61, 73, 78, 118, 138],
+      "Tax %": ["24%", "29%", "23%", "25%", "25%", "25%", "23%", "25%", "24%", "23%", "26%", "25%", "25%"],
+      "Net Profit": [43, 43, 45, 45, 48, 30, 43, 44, 46, 56, 58, 88, 104],
+      "EPS in Rs": [18.65, 18.46, 19.42, 19.17, 20.72, 13.09, 18.54, 18.81, 19.76, 24.05, 24.88, 38.03, 44.88]
+    },
+    "Annual Results": {
+      "Sales": [777, 843, 896, 857, 874, 833, 948, 925, 989, 1303, 1438, 1677, 1995],
+      "Expenses": [709, 774, 836, 776, 801, 750, 804, 763, 770, 1065, 1211, 1395, 1586],
+      "Operating Profit": [69, 69, 60, 81, 73, 83, 144, 162, 219, 238, 227, 282, 409],
+      "OPM %": ["9%", "8%", "7%", "9%", "8%", "10%", "15%", "17%", "22%", "18%", "16%", "17%", "20%"],
+      "Other Income": [14, 16, 27, 6, 8, 5, 9, 12, 15, 39, 42, 39, 46],
+      "Interest": [30, 37, 44, 44, 33, 25, 19, 18, 20, 18, 17, 12, 8],
+      "Depreciation": [39, 34, 15, 17, 14, 14, 14, 20, 24, 28, 32, 39, 40],
+      "Profit before tax": [13, 14, 27, 27, 34, 50, 120, 135, 190, 231, 220, 270, 407],
+      "Tax %": ["-113%", "26%", "35%", "38%", "33%", "34%", "32%", "36%", "34%", "28%", "24%", "25%"],
+      "Net Profit": [28, 10, 18, 16, 22, 33, 82, 86, 126, 167, 166, 203, 306],
+      "EPS in Rs": [12.15, 4.41, 7.64, 7.08, 9.66, 14.26, 35.14, 37.03, 54.21, 71.96, 71.51, 87.50, 131.84]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "7%",
+        "5 Years": "12%",
+        "3 Years": "19%",
+        "TTM": "38%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "40%",
+        "5 Years": "20%",
+        "3 Years": "18%",
+        "TTM": "88%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "43%",
+        "5 Years": "87%",
+        "3 Years": "83%",
+        "1 Year": "278%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [20, 25, 20, 17, 26, 17, 22, 21, 16, 9, 8, 8],
+      "Inventory Days": [80, 107, 93, 111, 90, 82, 70, 100, 128, 145, 109, 132],
+      "Days Payable": [27, 30, 30, 36, 39, 54, 68, 62, 89, 76, 57, 73],
+      "Cash Conversion Cycle": [74, 102, 82, 91, 77, 44, 24, 58, 54, 79, 60, 67],
+      "Working Capital Days": [49, 70, 55, 50, 49, 25, 7, 19, 9, 26, 23, 36]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [5, 5, 7, 8, 5, 5, 9, 10, 13, 13, 12, 14],
+      "ROE": [7, 9, 10, 10]
+    },
+    "Valuation Ratios": {
+      "P/E": 37.9,
+      "Price to Book": 5.21 
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Inox India", "CMP": 1092.40, "P/E": 50.90, "Mar Cap": 9915.00, "Div Yld": 0.00, "NP Qtr": 49.49, "Qtr Profit Var": 7.01, "Sales Qtr": 306.56, "Qtr Sales Var": 18.98, "ROCE": 43.06},
+      {"Name": "EPL Ltd", "CMP": 265.25, "P/E": 29.22, "Mar Cap": 8453.10, "Div Yld": 1.68, "NP Qtr": 88.30, "Qtr Profit Var": 72.28, "Sales Qtr": 1086.20, "Qtr Sales Var": 8.45, "ROCE": 15.09},
+      {"Name": "AGI Greenpac", "CMP": 1239.95, "P/E": 30.04, "Mar Cap": 8022.15, "Div Yld": 0.48, "NP Qtr": 72.08, "Qtr Profit Var": 28.39, "Sales Qtr": 599.18, "Qtr Sales Var": -2.55, "ROCE": 17.73},
+      {"Name": "Polyplex Corpn", "CMP": 1298.90, "P/E": 26.42, "Mar Cap": 4077.57, "Div Yld": 0.69, "NP Qtr": 164.11, "Qtr Profit Var": 214.39, "Sales Qtr": 1738.86, "Qtr Sales Var": 10.61, "ROCE": 1.81},
+      {"Name": "Uflex", "CMP": 532.65, "P/E": 25.12, "Mar Cap": 3846.34, "Div Yld": 0.19, "NP Qtr": -64.58, "Qtr Profit Var": -108.72, "Sales Qtr": 3833.38, "Qtr Sales Var": 13.77, "ROCE": 6.50},
+      {"Name": "XPRO India", "CMP": 1542.70, "P/E": 70.56, "Mar Cap": 3428.71, "Div Yld": 0.13, "NP Qtr": 9.94, "Qtr Profit Var": 4.85, "Sales Qtr": 133.98, "Qtr Sales Var": 21.83, "ROCE": 15.41}
+    ],
+    "Median": {
+      "NP Qtr": 4.13,
+      "P/E": 28.2,
+      "Mar Cap": 303.43,
+      "Div Yld": 0.05,
+      "Qtr Profit Var": 15.93,
+      "Sales Qtr": 98.98,
+      "Qtr Sales Var": 13.6,
+      "ROCE": 12.16
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company is expected to give good quarter"
+    ],
+    "Cons": [
+      "Stock is trading at 5.21 times its book value",
+      "Company has a low return on equity of 9.70% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Balance Sheet": {
+    "Equity Capital": [23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23],
+    "Reserves": [519, 530, 545, 562, 1231, 1269, 1349, 1380, 1540, 1688, 1833, 2022, 2206],
+    "Borrowings": [351, 440, 368, 315, 312, 171, 149, 147, 138, 182, 141, 0, 14],
+    "Other Liabilities": [82, 96, 105, 119, 87, 107, 125, 128, 167, 240, 218, 279, 272],
+    "Total Liabilities": [975, 1089, 1042, 1020, 1653, 1570, 1646, 1679, 1868, 2133, 2214, 2324, 2515],
+    "Fixed Assets": [555, 562, 649, 648, 1231, 1226, 1238, 1279, 1329, 1341, 1467, 1450, 1445],
+    "CWIP": [39, 86, 11, 5, 8, 10, 11, 20, 11, 96, 10, 2, 11],
+    "Investments": [1, 1, 1, 1, 29, 36, 120, 116, 226, 274, 393, 363, 525],
+    "Other Assets": [380, 441, 381, 366, 386, 298, 277, 264, 302, 423, 344, 508, 535],
+    "Total Assets": [975, 1089, 1042, 1020, 1653, 1570, 1646, 1679, 1868, 2133, 2214, 2324, 2515]
+  },
+  "Cash Flows": {
+    "Cash from Operating Activity": [48, 22, 91, 101, 77, 134, 141, 99, 199, 172, 218, 172],
+    "Cash from Investing Activity": [-42, -78, -20, -5, -12, -5, -101, -44, -126, -141, -168, 46],
+    "Cash from Financing Activity": [32, 50, -107, -96, -40, -172, -49, -64, -36, 6, -89, -169],
+    "Net Cash Flow": [39, -6, -36, 0, 25, -43, -8, -9, 38, 37, -39, 48]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [60.72, 60.72, 60.72, 60.73, 60.73, 60.73, 60.73, 60.73, 60.73, 60.73, 60.73, 60.73],
+      "FIIs": [0.11, 0.10, 0.07, 0.12, 0.08, 0.18, 0.12, 0.14, 0.12, 0.31, 0.52, 1.56],
+      "DIIs": [3.24, 3.26, 3.22, 2.03, 2.39, 2.19, 2.35, 3.49, 3.77, 4.21, 4.76, 4.48],
+      "Public": [35.93, 35.92, 36.00, 37.13, 36.80, 36.91, 36.81, 35.65, 35.38, 34.75, 34.00, 33.25]
+    },
+    "Yearly": {
+      "Promoters": [60.58, 60.64, 60.64, 60.72, 60.72, 60.72, 60.73, 60.73, 60.73],
+      "FIIs": [0.01, 0.01, 0.00, 0.00, 0.03, 0.10, 0.18, 0.31, 1.56],
+      "DIIs": [3.75, 3.75, 3.73, 3.71, 3.88, 3.26, 2.19, 4.21, 4.48],
+      "Public": [35.66, 35.60, 35.63, 35.57, 35.37, 35.92, 36.91, 34.75, 33.25]
+    },
+    "No. of Shareholders": [30599, 30837, 31086, 31173, 31924, 32022, 31580, 30410, 38092, 39316, 42191, 50963]
+  }
+}

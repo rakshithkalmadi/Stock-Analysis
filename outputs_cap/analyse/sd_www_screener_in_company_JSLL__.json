@@ -1,0 +1,197 @@
+
+{
+  "Company Overview": {
+    "Name": "Jeena Sikho Lifecare Ltd",
+    "Sector": "Pharmaceuticals",
+    "Industry": "Pharmaceuticals - Indian - Formulations",
+    "Business Description": "One of the leading ayurvedic healthcare system providers in India. The company is providing healthcare services for the last ten years.  A developing healthcare product & services provider in India. The company has a portfolio of a wide range of Ayurvedic products. The company also conducts various health checkup camps, and yoga sessions free of cost to make people aware of their health problems.",
+    "Market Position": "Leading Ayurveda Company"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 5,619 Cr.",
+    "Current Price": "₹ 2,260",
+    "High / Low": "₹ 2,499 / 587",
+    "Stock P/E": 66.7,
+    "Book Value": "₹ 92.2",
+    "Dividend Yield": "0.18 %",
+    "ROCE": "57.9 %",
+    "ROE": "42.7 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data not explicitly provided in the given HTML, but implied through other sections."
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Mar 2021": { "Sales": 79, "Expenses": 70, "Operating Profit": 9, "OPM %": "12%", "Net Profit": 6, "EPS in Rs": 280.00 },
+        "Sep 2021": { "Sales": 71, "Expenses": 62, "Operating Profit": 9, "OPM %": "13%", "Net Profit": 6, "EPS in Rs": 3.42 },
+        "Mar 2022": { "Sales": 75, "Expenses": 66, "Operating Profit": 9, "OPM %": "12%", "Net Profit": 5, "EPS in Rs": 2.78 },
+        "Sep 2022": { "Sales": 86, "Expenses": 70, "Operating Profit": 16, "OPM %": "19%", "Net Profit": 11, "EPS in Rs": 4.50 },
+        "Mar 2023": { "Sales": 117, "Expenses": 88, "Operating Profit": 30, "OPM %": "25%", "Net Profit": 23, "EPS in Rs": 9.05 },
+        "Sep 2023": { "Sales": 157, "Expenses": 112, "Operating Profit": 45, "OPM %": "29%", "Net Profit": 32, "EPS in Rs": 12.78 },
+        "Mar 2024": { "Sales": 167, "Expenses": 119, "Operating Profit": 48, "OPM %": "29%", "Net Profit": 37, "EPS in Rs": 15.04 },
+        "Sep 2024": { "Sales": 214, "Expenses": 155, "Operating Profit": 59, "OPM %": "28%", "Net Profit": 47, "EPS in Rs": 18.86 }
+      },
+      "Yearly": {
+        "Mar 2019": { "Sales": 106, "Expenses": 95, "Operating Profit": 11, "OPM %": "10%", "Net Profit": 6, "EPS in Rs": 300.00 },
+        "Mar 2020": { "Sales": 94, "Expenses": 84, "Operating Profit": 11, "OPM %": "11%", "Net Profit": 6, "EPS in Rs": 286.50 },
+        "Mar 2021": { "Sales": 136, "Expenses": 119, "Operating Profit": 17, "OPM %": "13%", "Net Profit": 10, "EPS in Rs": 514.50 },
+        "Mar 2022": { "Sales": 146, "Expenses": 128, "Operating Profit": 18, "OPM %": "12%", "Net Profit": 11, "EPS in Rs": 6.19 },
+        "Mar 2023": { "Sales": 204, "Expenses": 158, "Operating Profit": 46, "OPM %": "23%", "Net Profit": 34, "EPS in Rs": 13.55 },
+        "Mar 2024": { "Sales": 324, "Expenses": 231, "Operating Profit": 93, "OPM %": "29%", "Net Profit": 69, "EPS in Rs": 27.84 },
+        "TTM": { "Sales": 381, "Expenses": 274, "Operating Profit": 107, "OPM %": "28%", "Net Profit": 84, "EPS in Rs": 33.90 }
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Data available for Equity Capital, Reserves, Borrowings, Other Liabilities, Fixed Assets, CWIP, Investments, Other Assets, Total Liabilities, and Total Assets.  Specific values are present in the HTML but omitted for brevity."
+    },
+    "Cash Flow": {
+      "Note": "Data available for Cash from Operating Activity, Cash from Investing Activity, Cash from Financing Activity, and Net Cash Flow. Specific values are present in the HTML but omitted for brevity."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "%",
+        "5 Years": "25%",
+        "3 Years": "34%",
+        "TTM": "39%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "%",
+        "5 Years": "62%",
+        "3 Years": "87%",
+        "TTM": "55%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "1 Year": "274%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Note": "Data not explicitly categorized as liquidity ratios, but implied through debtor days, inventory days, days payable, cash conversion cycle, and working capital days."
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Mar 2019": "38%",
+        "Mar 2020": "50%",
+        "Mar 2021": "39%",
+        "Mar 2022": "53%",
+        "Mar 2023": "58%"
+      },
+      "ROE": {
+        "5 Years": "43%",
+        "3 Years": "41%",
+        "Last Year": "43%"
+      }
+    },
+    "Valuation Ratios": {
+      "Note": "P/E ratio and Price to Book ratio are available, but other valuation ratios are not explicitly listed."
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2019": 15,
+        "Mar 2020": 17,
+        "Mar 2021": 9,
+        "Mar 2022": 22,
+        "Mar 2023": 40,
+        "Mar 2024": 46
+      },
+      "Inventory Days": {
+        "Mar 2019": 204,
+        "Mar 2020": 315,
+        "Mar 2021": 208,
+        "Mar 2022": 136,
+        "Mar 2023": 87,
+        "Mar 2024": 121
+      },
+      "Days Payable": {
+        "Mar 2019": 125,
+        "Mar 2020": 168,
+        "Mar 2021": 73,
+        "Mar 2022": 109,
+        "Mar 2023": 129,
+        "Mar 2024": 75
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2019": 94,
+        "Mar 2020": 163,
+        "Mar 2021": 143,
+        "Mar 2022": 49,
+        "Mar 2023": -2,
+        "Mar 2024": 92
+      },
+      "Working Capital Days": {
+        "Mar 2019": 35,
+        "Mar 2020": 30,
+        "Mar 2021": 13,
+        "Mar 2022": 6,
+        "Mar 2023": 29,
+        "Mar 2024": 57
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Torrent Pharma.", "CMP": 3437.00, "P/E": 66.84, "Mar Cap": 116318.47, "Div Yld": 0.81, "NP Qtr": 453.00, "Qtr Profit Var": 17.36, "Sales Qtr": 2889.00, "Qtr Sales Var": 8.61, "ROCE": 23.16},
+      {"Name": "Ajanta Pharma", "CMP": 2866.45, "P/E": 40.92, "Mar Cap": 35805.43, "Div Yld": 1.26, "NP Qtr": 216.48, "Qtr Profit Var": 10.84, "Sales Qtr": 1186.64, "Qtr Sales Var": 15.38, "ROCE": 31.60},
+      {"Name": "Gland Pharma", "CMP": 1772.30, "P/E": 42.22, "Mar Cap": 29198.95, "Div Yld": 1.13, "NP Qtr": 163.53, "Qtr Profit Var": -15.74, "Sales Qtr": 1405.83, "Qtr Sales Var": 2.36, "ROCE": 13.58},
+      {"Name": "ERIS Lifescience", "CMP": 1380.30, "P/E": 54.12, "Mar Cap": 18789.92, "Div Yld": 0.00, "NP Qtr": 96.35, "Qtr Profit Var": -25.12, "Sales Qtr": 741.17, "Qtr Sales Var": 46.68, "ROCE": 11.27},
+      {"Name": "Caplin Point Lab", "CMP": 2311.45, "P/E": 35.62, "Mar Cap": 17569.72, "Div Yld": 0.22, "NP Qtr": 130.81, "Qtr Profit Var": 13.87, "Sales Qtr": 483.10, "Qtr Sales Var": 17.81, "ROCE": 26.46},
+      {"Name": "Sai Life", "CMP": 703.65, "P/E": 176.75, "Mar Cap": 14635.18, "Div Yld": 0.00, "NP Qtr": 28.01, "Qtr Profit Var": 675.29, "Sales Qtr": 5.13, "Qtr Sales Var": 10.57, "ROCE": 10.57},
+      {"Name": "Marksans Pharma", "CMP": 304.90, "P/E": 39.92, "Mar Cap": 13816.96, "Div Yld": 0.20, "NP Qtr": 97.76, "Qtr Profit Var": 15.80, "Sales Qtr": 641.92, "Qtr Sales Var": 20.83, "ROCE": 20.61},
+      {"Name": "Jeena Sikho", "CMP": 2260.10, "P/E": 66.68, "Mar Cap": 5618.64, "Div Yld": 0.18, "NP Qtr": 46.88, "Qtr Profit Var": 214.13, "Sales Qtr": 36.08, "Qtr Sales Var": 57.94, "ROCE": 57.94}
+    ],
+    "Median": {
+      "CMP": 372.42,
+      "P/E": 36.33,
+      "Mar Cap": 520.58,
+      "Div Yld": 0.14,
+      "NP Qtr": 7.85,
+      "Qtr Profit Var": 10.84,
+      "Sales Qtr": 69.66,
+      "Qtr Sales Var": 10.68,
+      "ROCE": 13.41
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 62.4% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 41.4%"
+    ],
+    "Cons": [
+      "Stock is trading at 24.5 times its book value",
+      "Promoter holding has decreased over last quarter: -2.07%",
+      "Debtor days have increased from 36.1 to 46.4 days."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "18 December 2024", "Title": "Reply to Clarification- Financial results", "Description": "Exchange had sought clarification from Jeena Sikho Lifecare Limited for the quarter ended 30-Sep-2024 with respect to Regulation 33 of the SEBI (LODR) Regulations, 2015."},
+      {"Date": "16 December 2024", "Title": "Company has received disclosure in Form C", "Description": "under regulation 7(2) of SEBI (Prohibition of Insider Trading) Regulations, 2015 dated 16.12.2024 from Mr. Manish Grover Promoter"},
+      {"Date": "16 December 2024", "Title": "Jeena Sikho Lifecare Limited has informed regarding", "Description": "' Jeena Sikho Lifecare Limited has informed about the disclosure under regulation 29(2) of SEBI (Substantial Acquisition of"},
+      {"Date": "13 December 2024", "Title": "Jeena Sikho Lifecare Limited has informed regarding", "Description": "'ESTABLISHMENT OF SHUDDHI AYURVEDA PANCHKARMA HOSPITAL/ SHUDDHIPANCHKARMA DAYCARE CENTRE.'"},
+      {"Date": "11 December 2024", "Title": "Jeena Sikho Lifecare Limited has informed regarding", "Description": "'Empanelment of Jeena Sikho Lifecare Limited under CGHS and CS (MA) rules for Ayurveda.'"}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "nse"},
+      {"Year": 2023, "Source": "nse"},
+      {"Year": 2022, "Source": "nse"}
+    ],
+    "Concalls": [
+      {"Date": "Nov 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Nov 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "May 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Feb 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Aug 2023", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Aug 2023", "Materials": ["Transcript", "Notes", "PPT"]}
+    ]
+  }
+}

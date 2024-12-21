@@ -1,0 +1,172 @@
+
+{
+  "Company Overview": {
+    "Name": "Harshdeep Hortico Ltd",
+    "Sector": "Miscellaneous",
+    "Industry": "Miscellaneous",
+    "Business Description": "Harshdeep Hortico Limited designs, manufactures, and supplies pots and planters for indoor and outdoor use.  They offer various types of pots and planters (plastic Indoor Planters, Outdoor Planters, Illuminated Planters, Decorative Planters, Roto Moulded Planters, Fiber Reinforced Plastic (FRP) Planters, Eco series Planters, etc.) along with accessories like Garden Hose Pipe & Water Can.  Recently, they also entered the field of Roto Moulded Outdoor Furniture.",
+    "Market Position": "Part of BSE SME IPO" 
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 110 Cr.",
+    "Current Price": "₹ 68.5",
+    "High/Low": "₹ 86.0 / ₹ 39.0",
+    "Stock P/E": 13.3,
+    "Book Value": "₹ 26.1",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "50.1 %",
+    "ROE": "35.2 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but company is described as 'almost debt free'"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Mar 2023": "0.00",
+        "Sep 2023": "22.97",
+        "Mar 2024": "25.27",
+        "Sep 2024": "24.75"
+      },
+      "Expenses": {
+        "Mar 2023": "0.00",
+        "Sep 2023": "18.85",
+        "Mar 2024": "19.33",
+        "Sep 2024": "18.96"
+      },
+      "Net Profit": {
+        "Mar 2023": "0.00",
+        "Sep 2023": "2.47",
+        "Mar 2024": "4.08",
+        "Sep 2024": "4.23"
+      },
+      "EPS": {
+        "Mar 2023": "0.00",
+        "Sep 2023": "354.38",
+        "Mar 2024": "2.54",
+        "Sep 2024": "2.63"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2023": "0.00",
+        "Mar 2024": "48.22"
+      },
+      "Expenses": {
+        "Mar 2023": "0.00",
+        "Mar 2024": "37.60"
+      },
+      "Net Profit": {
+        "Mar 2023": "0.00",
+        "Mar 2024": "6.55"
+      },
+      "EPS": {
+        "Mar 2023": "0.00",
+        "Mar 2024": "4.07"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Mar 2023": {
+        "Equity Capital": "0.05",
+        "Reserves": "0.00",
+        "Borrowings": "0.00",
+        "Other Liabilities": "0.00",
+        "Total Liabilities": "0.05",
+        "Fixed Assets": "0.00",
+        "CWIP": "0.00",
+        "Investments": "0.00",
+        "Other Assets": "0.05",
+        "Total Assets": "0.05"
+      },
+      "Mar 2024": {
+        "Equity Capital": "16.09",
+        "Reserves": "21.03",
+        "Borrowings": "0.00",
+        "Other Liabilities": "7.82",
+        "Total Liabilities": "44.94",
+        "Fixed Assets": "10.62",
+        "CWIP": "0.00",
+        "Investments": "0.00",
+        "Other Assets": "34.32",
+        "Total Assets": "44.94"
+      },
+      "Sep 2024": {
+        "Equity Capital": "4.31",
+        "Reserves": "37.63",
+        "Borrowings": "0.00",
+        "Other Liabilities": "6.15",
+        "Total Liabilities": "48.09",
+        "Fixed Assets": "12.73",
+        "CWIP": "0.00",
+        "Investments": "0.00",
+        "Other Assets": "35.36",
+        "Total Assets": "48.09"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Mar 2023": {
+        "Cash from Operating Activity": "0.00",
+        "Cash from Investing Activity": "0.00",
+        "Cash from Financing Activity": "0.05",
+        "Net Cash Flow": "0.05"
+      },
+      "Mar 2024": {
+        "Cash from Operating Activity": "-14.90",
+        "Cash from Investing Activity": "-13.36",
+        "Cash from Financing Activity": "29.96",
+        "Net Cash Flow": "1.70"
+      }
+    }
+  },
+  "Ratios": {
+    "Mar 2023": {
+      "Debtor Days": 83.42,
+      "Inventory Days": 224.16,
+      "Days Payable": 73.04,
+      "Cash Conversion Cycle": 234.53,
+      "Working Capital Days": 187.12,
+      "ROCE %": "50.09%"
+    },
+    "Mar 2024": {
+      "Debtor Days": null,
+      "Inventory Days": null,
+      "Days Payable": null,
+      "Cash Conversion Cycle": null,
+      "Working Capital Days": null,
+      "ROCE %": null
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "GMR Airports", "CMP": 78.82, "P/E": 83225.85, "Mar Cap": "Rs.Cr.", "Div Yld": 0.00, "NP Qtr": -428.77, "Qtr Profit Var": -318.52, "Sales Qtr": 2495.46, "Qtr Sales Var": 20.93, "ROCE": 6.41},
+      {"Name": "SJVN", "CMP": 111.54, "P/E": 47.39, "Mar Cap": 43832.94, "Div Yld": 1.61, "NP Qtr": 439.90, "Qtr Profit Var": 0.06, "Sales Qtr": 1026.25, "Qtr Sales Var": 16.84, "ROCE": 4.99},
+      {"Name": "Sagility India", "CMP": 45.17, "P/E": 92.88, "Mar Cap": 21145.56, "Div Yld": 0.00, "NP Qtr": 117.34, "Qtr Profit Var": 235.64, "Sales Qtr": 1325.05, "Qtr Sales Var": 21.11, "ROCE": 4.71},
+      {"Name": "International Ge", "CMP": 471.15, "P/E": 62.68, "Mar Cap": 20361.20, "Div Yld": 0.00, "NP Qtr": 98.79, "Qtr Profit Var": null, "Sales Qtr": null, "Qtr Sales Var": null, "ROCE": null},
+      {"Name": "Rites", "CMP": 281.00, "P/E": 33.91, "Mar Cap": 13504.97, "Div Yld": 4.09, "NP Qtr": 82.50, "Qtr Profit Var": -27.85, "Sales Qtr": 540.86, "Qtr Sales Var": -7.13, "ROCE": 25.36},
+      {"Name": "RattanIndia Ent", "CMP": 66.69, "P/E": 12.87, "Mar Cap": 9218.36, "Div Yld": 0.00, "NP Qtr": -241.59, "Qtr Profit Var": -227.06, "Sales Qtr": 1800.62, "Qtr Sales Var": 11.52, "ROCE": 2.89},
+      {"Name": "CMS Info Systems", "CMP": 490.50, "P/E": 22.22, "Mar Cap": 8004.13, "Div Yld": 1.17, "NP Qtr": 90.92, "Qtr Profit Var": 7.78, "Sales Qtr": 624.54, "Qtr Sales Var": 14.86, "ROCE": 26.95}
+    ],
+    "Median": {
+      "CMP": 212.43,
+      "P/E": 32.44,
+      "Mar Cap": 378.27,
+      "Div Yld": 0.0,
+      "NP Qtr": 3.4,
+      "Qtr Profit Var": 6.41,
+      "Sales Qtr": 47.6,
+      "Qtr Sales Var": 16.62,
+      "ROCE": 13.48
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company is almost debt free.",
+    "Cons": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": [
+    {"Title": "Revised Financial Results For Half The Year Ended September 30, 2024", "Date": "2d"},
+    {"Title": "Announcement under Regulation 30 (LODR)-Resignation of Statutory Auditors", "Date": "6 Dec"},
+    {"Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation", "Date": "4 Dec"},
+    {"Title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011", "Date": "27 Nov"},
+    {"Title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript", "Date": "15 Nov"}
+  ]
+}

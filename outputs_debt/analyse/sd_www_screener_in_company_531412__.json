@@ -1,0 +1,142 @@
+
+{
+  "Company Overview": {
+    "Name": "Radix Industries (India) Ltd",
+    "Sector": "Miscellaneous",
+    "Industry": "Personal Care - Indian",
+    "Business Description": "Manufacturing and selling of human hair products.  Company was earlier involved in bottling of LPG and supplying for domestic and commercial use. It was acquired by the promoters of Arqube Industries (India) in 2011. Post-acquisition, the line of business changed from storage and marketing of gas to export of human hair, wigs and its related products",
+    "Market Position": "Not explicitly stated in the provided HTML"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 234 Cr.",
+    "Current Price": "₹ 156",
+    "High / Low": "₹ 180 / ₹ 116",
+    "Stock P/E": 103,
+    "Book Value": "₹ 13.3",
+    "Dividend Yield": "0.32 %",
+    "ROCE": "16.8 %",
+    "ROE": "12.0 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated in the provided HTML" 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": 6.58,
+        "Dec 2021": 4.74,
+        "Mar 2022": 10.30,
+        "Jun 2022": 2.93,
+        "Sep 2022": 4.57,
+        "Dec 2022": 9.66,
+        "Mar 2023": 9.11,
+        "Jun 2023": 7.11,
+        "Sep 2023": 9.83,
+        "Dec 2023": 8.14,
+        "Mar 2024": 7.93,
+        "Jun 2024": 6.98,
+        "Sep 2024": 13.33
+      },
+      "Expenses": {
+        "Sep 2021": 5.87,
+        "Dec 2021": 4.07,
+        "Mar 2022": 9.68,
+        "Jun 2022": 2.56,
+        "Sep 2022": 3.95,
+        "Dec 2022": 8.94,
+        "Mar 2023": 8.43,
+        "Jun 2023": 6.42,
+        "Sep 2023": 9.21,
+        "Dec 2023": 7.04,
+        "Mar 2024": 6.99,
+        "Jun 2024": 6.21,
+        "Sep 2024": 12.70
+      },
+      // ... (rest of the quarterly results data) ...  This would include Operating Profit, OPM %, Other Income, Interest, Depreciation, Profit before tax, Tax %, Net Profit, and EPS in Rs.  All available in the provided HTML.
+    },
+    "Annual Results": {
+      // ... (Annual data from Mar 2013 to Mar 2024, and Sep 2024 for Sales, Expenses, Operating Profit, OPM %, Other Income, Interest, Depreciation, Profit before tax, Tax %, Net Profit, and EPS in Rs.  All available in the provided HTML.)
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "3%",
+        "5 Years": "25%",
+        "3 Years": "6%",
+        "TTM": "2%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "4%",
+        "5 Years": "12%",
+        "3 Years": "17%",
+        "TTM": "23%"
+      }
+    },
+    "Liquidity Ratios": {
+      //Not explicitly stated, but could be derived from Balance Sheet data.
+    },
+    "Profitability Ratios": {
+      "ROCE %": { //Data available for multiple years
+      },
+      "ROE": { //Data available for multiple years
+      },
+      "OPM %": { //Data available for multiple years
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Not explicitly stated, but can be calculated from available data.",
+      "Market Cap / Sales": "Not explicitly stated, but can be calculated from available data."
+    },
+    "Other Ratios": {
+      "Debtor Days": { //Data available for multiple years
+      },
+      "Inventory Days": { //Data available for multiple years
+      },
+      "Days Payable": { //Data available for multiple years
+      },
+      "Cash Conversion Cycle": { //Data available for multiple years
+      },
+      "Working Capital Days": { //Data available for multiple years
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Competitors": "Loading peers table ... (Data not yet available in the provided HTML)",
+    "Benchmarks": "Not explicitly stated in the provided HTML"
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has been maintaining a healthy dividend payout of 77.0%"
+    ],
+    "Cons": [
+      "Stock is trading at 11.8 times its book value",
+      "Company has a low return on equity of 9.64% over last 3 years."
+    ],
+    "Note": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      //Data available for multiple quarters for Promoters and Public
+    },
+    "Yearly": {
+      //Data available for multiple years for Promoters and Public
+    }
+  },
+  "Corporate Actions": {
+    //No data explicitly labeled as "Corporate Actions" but could be inferred from other sections.
+  },
+  "Documents": {
+    "Announcements": [
+      //List of announcements available in the provided HTML
+    ],
+    "Annual Reports": [
+      //List of annual reports available in the provided HTML
+    ],
+    "Credit Ratings": [
+      //List of credit ratings available in the provided HTML
+    ]
+  }
+}
+```
+
+**Note:**  This JSON object represents a significant portion of the extractable data.  Some ratios and metrics require calculation from the provided financial statements (Balance Sheet, Profit & Loss, Cash Flow).  The "..." placeholders indicate where this calculation or further parsing of the HTML tables would be needed to complete the JSON.  The HTML provided is partially structured, making complete automation challenging without more sophisticated HTML parsing and table extraction techniques.  The "Loading peers table..." indicates that peer comparison data was not yet loaded when the HTML was captured.

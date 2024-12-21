@@ -1,0 +1,175 @@
+
+{
+  "Company Overview": {
+    "Name": "Axtel Industries Ltd",
+    "Sector": "Engineering",
+    "Industry": "Engineering",
+    "Business Description": "Incorporated in 1991, Axtel Industries Ltd manufactures custom-designed food processing plants and machinery as per client's requirements. AIL specializes in engineering process systems for the food industry, offering solutions for the entire food processing value chain, from raw ingredients to final processing stages.",
+    "Market Position": null 
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 760 Cr.",
+    "Current Price": "₹ 470",
+    "High / Low": "₹ 770 / ₹ 421",
+    "Stock P/E": 30.5,
+    "Book Value": "₹ 76.0",
+    "Dividend Yield": "1.28 %",
+    "ROCE": "40.7 %",
+    "ROE": "29.4 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [26.50, 37.99, 55.29, 30.44, 42.00, 40.37, 67.33, 47.91, 69.47, 53.79, 52.16, 44.70, 55.84],
+      "Expenses": [24.42, 34.63, 45.77, 30.87, 35.61, 36.72, 54.15, 40.87, 52.86, 41.11, 44.44, 39.22, 46.96],
+      "Operating Profit": [2.08, 3.36, 9.52, -0.43, 6.39, 3.65, 13.18, 7.04, 16.61, 12.68, 7.72, 5.48, 8.88],
+      "OPM %": ["7.85%", "8.84%", "17.22%", "-1.41%", "15.21%", "9.04%", "19.58%", "14.69%", "23.91%", "23.57%", "14.80%", "12.26%", "15.90%"],
+      "Other Income": [1.91, 0.20, 0.31, 0.46, 0.59, 0.36, 2.27, 0.75, 1.09, 0.75, 0.60, 0.91, 1.31],
+      "Interest": [0.17, 0.09, 0.15, 0.14, 0.36, 0.14, 0.46, 0.31, 0.42, 0.49, 0.40, 0.18, 0.12],
+      "Depreciation": [0.70, 0.74, 0.74, 0.57, 0.59, 0.61, 0.63, 0.47, 0.53, 0.77, 0.98, 0.87, 0.92],
+      "Profit before tax": [3.12, 2.73, 8.94, -0.68, 6.03, 3.26, 14.36, 7.01, 16.75, 12.17, 6.94, 5.34, 9.15],
+      "Tax %": ["33.97%", "28.57%", "23.83%", "-1.47%", "22.39%", "31.90%", "22.77%", "23.97%", "28.90%", "21.20%", "23.34%", "23.03%", "35.52%"],
+      "Net Profit": [2.06, 1.94, 6.81, -0.67, 4.67, 2.21, 11.09, 5.32, 11.92, 9.58, 5.31, 4.11, 5.90],
+      "EPS in Rs": [1.28, 1.20, 4.22, -0.41, 2.89, 1.37, 6.86, 3.29, 7.38, 5.93, 3.29, 2.54, 3.65]
+    },
+    "Annual Results": {
+      "Sales": [60, 48, 39, 67, 76, 82, 111, 100, 153, 144, 180, 223, 206],
+      "Expenses": [53, 39, 42, 57, 65, 71, 91, 85, 124, 127, 157, 179, 172],
+      "Operating Profit": [7, 9, -2, 10, 11, 10, 20, 14, 29, 17, 23, 44, 35],
+      "OPM %": ["11%", "19%", "-6%", "15%", "14%", "12%", "18%", "14%", "19%", "12%", "13%", "20%", "17%"],
+      "Other Income": [0, 0, 0, 0, 1, 1, 2, 4, 3, 5, 4, 3, 4],
+      "Interest": [1, 2, 2, 1, 1, 0, 0, 1, 1, 0, 1, 2, 1],
+      "Depreciation": [1, 3, 4, 3, 3, 2, 3, 3, 3, 3, 2, 3, 4],
+      "Profit before tax": [5, 4, -8, 6, 8, 8, 18, 15, 29, 19, 23, 43, 34],
+      "Tax %": ["33%", "34%", "-4%", "16%", "18%", "25%", "29%", "27%", "26%", "26%", "25%", "25%", null],
+      "Net Profit": [3, 3, -8, 5, 7, 6, 13, 11, 21, 14, 17, 32, 25],
+      "EPS in Rs": [3.38, 2.76, -4.67, 2.97, 4.23, 3.67, 8.02, 6.74, 13.18, 8.56, 10.71, 19.89, 15.41]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [10, 10, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16],
+      "Reserves": [16, 19, 10, 14, 21, 27, 36, 39, 55, 65, 80, 97, 107],
+      "Borrowings": [15, 17, 12, 10, 5, 4, 1, 8, 1, 0, 0, 0, 0],
+      "Other Liabilities": [21, 21, 31, 21, 23, 36, 31, 40, 36, 50, 83, 83, 57],
+      "Total Liabilities": [62, 67, 69, 61, 64, 83, 84, 103, 108, 131, 179, 196, 179],
+      "Fixed Assets": [17, 24, 21, 19, 17, 17, 16, 16, 16, 14, 13, 25, 25],
+      "CWIP": [3, 0, 0, 0, 0, 0, 0, 1, 0, 0, 5, 0, 1],
+      "Investments": [0, 0, 0, 0, 4, 14, 15, 26, 34, 18, 34, 35, 40],
+      "Other Assets": [42, 42, 47, 43, 44, 52, 53, 60, 59, 98, 127, 135, 113],
+      "Total Assets": [62, 67, 69, 61, 64, 83, 84, 103, 108, 131, 179, 196, 179]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [1, 8, 7, -1, 15, 12, 9, 12, 25, -11, 30, 39, null],
+      "Cash from Investing Activity": [-11, -8, -1, -1, -4, -13, -2, -11, -8, 14, -20, -9, null],
+      "Cash from Financing Activity": [6, 0, -1, -4, -6, -1, -6, -2, -13, -5, -5, -16, null],
+      "Net Cash Flow": [-3, 0, 5, -5, 5, -3, 1, -1, 4, -2, 5, 13, null]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "17%",
+      "Compounded Sales Growth (5 Years)": "15%",
+      "Compounded Sales Growth (3 Years)": "13%",
+      "Compounded Sales Growth (TTM)": "-8%",
+      "Compounded Profit Growth (10 Years)": "27%",
+      "Compounded Profit Growth (5 Years)": "17%",
+      "Compounded Profit Growth (3 Years)": "14%",
+      "Compounded Profit Growth (TTM)": "-18%",
+      "Stock Price CAGR (10 Years)": "45%",
+      "Stock Price CAGR (5 Years)": "35%",
+      "Stock Price CAGR (3 Years)": "15%",
+      "Stock Price CAGR (1 Year)": "-24%"
+    },
+    "Liquidity Ratios": null,
+    "Profitability Ratios": {
+      "Return on Equity (10 Years)": "20%",
+      "Return on Equity (5 Years)": "24%",
+      "Return on Equity (3 Years)": "22%",
+      "Return on Equity (Last Year)": "29%"
+    },
+    "Valuation Ratios": null,
+    "Other Ratios": {
+      "Debtor Days": [105, 134, 121, 99, 86, 90, 64, 43, 48, 116, 125, 81, null],
+      "Inventory Days": [78, 191, 327, 158, 123, 161, 146, 235, 101, 175, 172, 177, null],
+      "Days Payable": [90, 164, 233, 97, 116, 172, 93, 132, 86, 148, 153, 111, null],
+      "Cash Conversion Cycle": [92, 160, 216, 160, 93, 78, 117, 147, 62, 143, 143, 147, null],
+      "Working Capital Days": [114, 155, 97, 113, 67, 46, 51, 54, 34, 106, 62, 40, null],
+      "ROCE %": ["16%", "15%", "-14%", "18%", "22%", "19%", "39%", "27%", "43%", "22%", "26%", "41%", null]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Tega Inds.", "CMP": 1610.75, "P/E": 63.39, "Mar Cap": 10717.20, "Div Yld": 0.12, "NP Qtr": 7.22, "Qtr Profit Var": -84.76, "Sales Qtr": 353.30, "Qtr Sales Var": -6.40, "ROCE": 19.20},
+      {"Name": "Azad Engineering", "CMP": 1659.10, "P/E": 140.63, "Mar Cap": 9807.44, "Div Yld": 0.00, "NP Qtr": 20.88, "Qtr Profit Var": 7.46, "Sales Qtr": 111.54, "Qtr Sales Var": 34.65, "ROCE": 19.89},
+      {"Name": "The Anup Enginee", "CMP": 3421.45, "P/E": 57.35, "Mar Cap": 6844.77, "Div Yld": 0.44, "NP Qtr": 32.31, "Qtr Profit Var": 48.76, "Sales Qtr": 187.87, "Qtr Sales Var": 34.34, "ROCE": 22.58},
+      {"Name": "Skipper", "CMP": 563.15, "P/E": 59.09, "Mar Cap": 6334.74, "Div Yld": 0.02, "NP Qtr": 33.94, "Qtr Profit Var": 78.82, "Sales Qtr": 1109.74, "Qtr Sales Var": 43.68, "ROCE": 20.33},
+      {"Name": "Rajoo Engineers", "CMP": 268.15, "P/E": 179.22, "Mar Cap": 4397.99, "Div Yld": 0.07, "NP Qtr": 7.24, "Qtr Profit Var": 36.86, "Sales Qtr": 56.81, "Qtr Sales Var": 6.13, "ROCE": 23.70},
+      {"Name": "KRN Heat Exchan", "CMP": 703.45, "P/E": 109.72, "Mar Cap": 4372.41, "Div Yld": 0.00, "NP Qtr": 12.10, "Qtr Profit Var": 40.53, "Sales Qtr": 98.94, "Qtr Sales Var": 38.98, "ROCE": 42.09},
+      {"Name": "KP Green Engg.", "CMP": 568.80, "P/E": 55.02, "Mar Cap": 2844.00, "Div Yld": 0.04, "NP Qtr": 27.48, "Qtr Profit Var": 262.36, "Sales Qtr": 152.44, "Qtr Sales Var": 29.85, "ROCE": null},
+      {"Name": "Axtel Industries", "CMP": 470.30, "P/E": 30.51, "Mar Cap": 759.76, "Div Yld": 1.28, "NP Qtr": 5.90, "Qtr Profit Var": -50.50, "Sales Qtr": 55.84, "Qtr Sales Var": -19.62, "ROCE": 40.73}
+    ],
+    "Median": {
+      "CMP": 373.52,
+      "P/E": 47.03,
+      "Mar Cap": 523.72,
+      "Div Yld": 0.0,
+      "NP Qtr": 3.43,
+      "Qtr Profit Var": 6.79,
+      "Sales Qtr": 43.93,
+      "Qtr Sales Var": 12.68,
+      "ROCE": 24.98
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has been maintaining a healthy dividend payout of 27.2%",
+      "Debtor days have improved from 107 to 81.3 days.",
+      "Company's working capital requirements have reduced from 69.4 days to 40.1 days"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Shareholding Pattern Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes.",
+      "Click on the line-items to see the names of individual entities."
+    ]
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "18 Dec", "Title": "Issuance of duplicate share certificates for lost ones."},
+      {"Date": "18 Dec", "Title": "Information on loss of share certificates."},
+      {"Date": "17 Dec", "Title": "Information on loss of share certificates."},
+      {"Date": "4 Dec", "Title": "Information on loss of share certificates."},
+      {"Date": "3 Dec", "Title": "Information on loss of share certificates."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "bse"},
+      {"Year": 2010, "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "5 Jan", "Source": "care"},
+      {"Date": "23 Feb 2023", "Source": "care"},
+      {"Date": "4 Feb 2022", "Source": "care"},
+      {"Date": "20 Jan 2021", "Source": "care"},
+      {"Date": "20 Jan 2021", "Source": "care"},
+      {"Date": "26 Jun 2020", "Source": "care"}
+    ]
+  }
+}

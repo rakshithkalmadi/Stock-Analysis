@@ -1,0 +1,271 @@
+
+{
+  "Company Overview": {
+    "Name": "Brisk Technovision Ltd",
+    "Sector": "IT - Hardware",
+    "Industry": "Computers - Hardware",
+    "BusinessDescription": "Incorporated in 2007, Brisk Technovision Ltd is in the business of IT Infrastructure Management & Information Security. BTVL is an ISO 9001:2015 Certified company with end-to-end capabilities in setting up and managing IT infrastructure. It has tied up with OEMs to offer a comprehensive vendor neutral solution.",
+    "MarketPosition": "Part of BSE SME IPO" 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 29.0 Cr.",
+    "CurrentPrice": "₹ 145",
+    "HighLow": "₹ 208 / ₹ 119",
+    "StockPE": 22.1,
+    "BookValue": "₹ 36.1",
+    "DividendYield": "1.38 %",
+    "ROCE": "46.1 %",
+    "ROE": "34.5 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": null //Not explicitly provided, needs further calculation from Balance Sheet
+  },
+  "PerformanceTrends": {
+    "QuarterlyResults": {
+      "Sales": {
+        "Mar2023": "10.28",
+        "Sep2023": "15.67",
+        "Mar2024": "11.19",
+        "Sep2024": "12.55"
+      },
+      "Expenses": {
+        "Mar2023": "8.11",
+        "Sep2023": "13.72",
+        "Mar2024": "10.61",
+        "Sep2024": "11.55"
+      },
+      "OperatingProfit": {
+        "Mar2023": "2.17",
+        "Sep2023": "1.95",
+        "Mar2024": "0.58",
+        "Sep2024": "1.00"
+      },
+      "NetProfit": {
+        "Mar2023": "1.67",
+        "Sep2023": "1.52",
+        "Mar2024": "0.48",
+        "Sep2024": "0.83"
+      },
+      "EPS": {
+        "Mar2023": "8.35",
+        "Sep2023": "7.60",
+        "Mar2024": "2.40",
+        "Sep2024": "4.15"
+      }
+    },
+    "AnnualResults": {
+      "Sales": {
+        "Mar2021": "16.86",
+        "Mar2022": "22.05",
+        "Mar2023": "18.31",
+        "Mar2024": "26.86",
+        "TTM": "23.74"
+      },
+      "Expenses": {
+        "Mar2021": "16.55",
+        "Mar2022": "20.58",
+        "Mar2023": "15.90",
+        "Mar2024": "24.33",
+        "TTM": "22.16"
+      },
+      "OperatingProfit": {
+        "Mar2021": "0.31",
+        "Mar2022": "1.47",
+        "Mar2023": "2.41",
+        "Mar2024": "2.53",
+        "TTM": "1.58"
+      },
+      "NetProfit": {
+        "Mar2021": "0.15",
+        "Mar2022": "1.10",
+        "Mar2023": "1.85",
+        "Mar2024": "2.00",
+        "TTM": "1.31"
+      },
+      "EPS": {
+        "Mar2021": "0.15",
+        "Mar2022": "5.50",
+        "Mar2023": "9.25",
+        "Mar2024": "10.00",
+        "TTM": "6.55"
+      }
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": {
+        "Mar2021": "0.01",
+        "Mar2022": "2.00",
+        "Mar2023": "2.00",
+        "Mar2024": "2.00",
+        "Sep2024": "2.00"
+      },
+      "Reserves": {
+        "Mar2021": "1.97",
+        "Mar2022": "1.08",
+        "Mar2023": "2.79",
+        "Mar2024": "4.79",
+        "Sep2024": "5.22"
+      },
+      "Borrowings": {
+        "Mar2021": "0.12",
+        "Mar2022": "0.00",
+        "Mar2023": "0.13",
+        "Mar2024": "0.00",
+        "Sep2024": "0.22"
+      },
+      "TotalAssets": {
+        "Mar2021": "5.62",
+        "Mar2022": "6.62",
+        "Mar2023": "6.80",
+        "Mar2024": "9.43",
+        "Sep2024": "10.21"
+      }
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": {
+        "Mar2021": "0.68",
+        "Mar2022": "0.82",
+        "Mar2023": "2.44",
+        "Mar2024": "0.96"
+      },
+      "CashFromInvestingActivity": {
+        "Mar2021": "-0.02",
+        "Mar2022": "0.00",
+        "Mar2023": "-0.01",
+        "Mar2024": "0.00"
+      },
+      "CashFromFinancingActivity": {
+        "Mar2021": "-0.18",
+        "Mar2022": "-0.12",
+        "Mar2023": "-0.15",
+        "Mar2024": "-0.13"
+      },
+      "NetCashFlow": {
+        "Mar2021": "0.48",
+        "Mar2022": "0.70",
+        "Mar2023": "2.28",
+        "Mar2024": "0.83"
+      }
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth_10Years": null,
+      "CompoundedSalesGrowth_5Years": null,
+      "CompoundedSalesGrowth_3Years": "17%",
+      "CompoundedSalesGrowth_TTM": "-9%"
+    },
+    "ProfitabilityRatios": {
+      "CompoundedProfitGrowth_10Years": null,
+      "CompoundedProfitGrowth_5Years": null,
+      "CompoundedProfitGrowth_3Years": "137%",
+      "CompoundedProfitGrowth_TTM": "-59%",
+      "OPM": {
+        "Mar2023": "21.11%",
+        "Sep2023": "12.44%",
+        "Mar2024": "5.18%",
+        "Sep2024": "7.97%"
+      },
+      "ROE": {
+        "3Years": "40%",
+        "LastYear": "35%"
+      },
+      "ROCE": {
+        "Mar2021": "56.76%",
+        "Mar2022": "62.00%",
+        "Mar2023": "46.11%"
+      }
+    },
+    "LiquidityRatios": null, //Not explicitly provided, needs further calculation
+    "ValuationRatios": {
+      "PE": 22.1,
+      "PriceToBook": null //Needs calculation
+    },
+    "OtherRatios": {
+      "DebtorDays": {
+        "Mar2021": "71.22",
+        "Mar2022": "58.10",
+        "Mar2023": "40.87",
+        "Mar2024": "48.92"
+      },
+      "InventoryDays": {
+        "Mar2021": "11.46",
+        "Mar2022": "14.65",
+        "Mar2023": "5.25",
+        "Mar2024": "2.07"
+      },
+      "DaysPayable": {
+        "Mar2021": "78.08",
+        "Mar2022": "66.18",
+        "Mar2023": "52.54",
+        "Mar2024": "34.93"
+      },
+      "CashConversionCycle": {
+        "Mar2021": "4.61",
+        "Mar2022": "6.58",
+        "Mar2023": "-6.42",
+        "Mar2024": "16.06"
+      },
+      "WorkingCapitalDays": {
+        "Mar2021": "6.71",
+        "Mar2022": "14.40",
+        "Mar2023": "9.17",
+        "Mar2024": "19.98"
+      }
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Netweb Technol.", "CMP": "2759.45", "PE": "160.63", "MarCap": "15554.14", "DivYld": "0.07", "NPQtr": "25.72", "QtrProfitVar": "69.88", "SalesQtr": "251.06", "QtrSalesVar": "73.17", "ROCE": "38.43"},
+      {"Name": "Bharat Global", "CMP": "1236.45", "PE": "791.42", "MarCap": "12520.24", "DivYld": "0.00", "NPQtr": "10.11", "QtrProfitVar": "216.35", "SalesQtr": "8.55", "QtrSalesVar": "3.00", "ROCE": null},
+      {"Name": "Control Print", "CMP": "713.00", "PE": "22.46", "MarCap": "1140.39", "DivYld": "1.26", "NPQtr": "13.48", "QtrProfitVar": "-4.53", "SalesQtr": "101.79", "QtrSalesVar": "17.77", "ROCE": "23.60"},
+      {"Name": "AGS Transact", "CMP": "70.35", "PE": "93.99", "MarCap": "863.78", "DivYld": "0.00", "NPQtr": "15.17", "QtrProfitVar": "124.91", "SalesQtr": "351.69", "QtrSalesVar": "-6.60", "ROCE": "1.26"},
+      {"Name": "TVS Elec.", "CMP": "404.70", "PE": "754.78", "MarCap": null, "DivYld": "0.25", "NPQtr": "-1.32", "QtrProfitVar": "-217.86", "SalesQtr": "104.61", "QtrSalesVar": "13.47", "ROCE": "0.73"},
+      {"Name": "HCL Infosystems", "CMP": "15.88", "PE": "522.79", "MarCap": null, "DivYld": "0.00", "NPQtr": "-7.84", "QtrProfitVar": "-10.11", "SalesQtr": "6.79", "QtrSalesVar": "13.36", "ROCE": "-28.03"},
+      {"Name": "Esconet", "CMP": "355.85", "PE": "104.71", "MarCap": "465.95", "DivYld": "0.00", "NPQtr": "2.20", "QtrProfitVar": "104.60", "SalesQtr": "46.75", "QtrSalesVar": "32.36", "ROCE": null},
+      {"Name": "Brisk Technovisi", "CMP": "145.00", "PE": "22.14", "MarCap": "29.00", "DivYld": "1.38", "NPQtr": "0.83", "QtrProfitVar": "12.55", "SalesQtr": "-19.91", "QtrSalesVar": "46.11", "ROCE": null}
+    ],
+    "Median": {
+      "CMP": "296.0",
+      "PE": "59.0",
+      "MarCap": "465.95",
+      "DivYld": "0.0",
+      "NPQtr": "2.22",
+      "QtrProfitVar": "32.18",
+      "SalesQtr": "101.79",
+      "QtrSalesVar": "13.41",
+      "ROCE": "10.68"
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 40.4%"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Notes": null
+  },
+  "Documents": [
+    {
+      "Date": "17 Dec",
+      "Title": "Submission Of Unaudited Standalone Financial Results For The Half Year Ended September 30, 2024 Along With Limited Review Report Of The Auditors As Per Regulation 33 Of SEBI (Listing Obligations And Disclosures Requirements), Regulations 2015."
+    },
+    {
+      "Date": "11 Nov",
+      "Title": "Announcement Under Regulation 30 - Redesignation As Key Managerial Personnel."
+    },
+    {
+      "Date": "11 Nov",
+      "Title": "Board Meeting Outcome for Outcome Of Board Meeting Held On Monday, November 11, 2024 At 10:15 Am (IST) At Unit No-506 A Wing, 5Th Floor, Centrum Business Square IT Park, Road No 16 Near Lotus IT Park Wagle Estate, Thane -400604."
+    },
+    {
+      "Date": "11 Nov",
+      "Title": "Submission Of Unaudited Standalone Financial Results For The Half Year Ended September 30, 2024 Along With Limited Review Report Of The Auditors As Per Regulation 33 Of SEBI (Listing Obligations And Disclosures Requirements), Regulations 2015."
+    },
+    {
+      "Date": "7 Nov",
+      "Title": "Price Movement Clarification Sought By BSE Limited Vide Communication L/SURV/ONL/PV/AJ/ 2024-2025 / 2796"
+    }
+  ]
+}

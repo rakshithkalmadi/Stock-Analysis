@@ -1,0 +1,216 @@
+
+{
+  "Company Overview": {
+    "Name": "Stanley Lifestyles Ltd",
+    "Sector": "Miscellaneous",
+    "Industry": "Miscellaneous",
+    "Business Description": "Manufactures and trades furniture and leather products. Part of the Stanley group. Manufactures leather-based furniture and leather car seat covers. Among the top 4 completely Integrated Indian super-premium and luxury furniture manufacturing companies, along with the largest network of retail outlets.",
+    "Market Position": "Among the top 4 completely Integrated Indian super-premium and luxury furniture manufacturing companies"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,408 Cr.",
+    "Current Price": "₹ 422",
+    "High/Low": "₹ 628 / ₹ 407",
+    "P/E Ratio": 91.9,
+    "Book Value": "₹ 77.7",
+    "Dividend Yield": "0.00%",
+    "ROCE": "14.2%",
+    "ROE": "12.2%",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": null 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [96.90, 95.90, 110.10, 107.30, 119.20, 100.70, 103.00],
+      "Expenses": [84.10, 79.90, 89.00, 86.70, 92.10, 80.60, 84.50],
+      "Operating Profit": [12.80, 16.00, 21.10, 20.60, 27.10, 20.10, 18.50],
+      "OPM %": ["13.21%", "16.68%", "19.16%", "19.20%", "22.73%", "19.96%", "17.96%"],
+      "Other Income": [5.70, 2.00, 4.40, 2.60, 2.30, 1.70, 5.60],
+      "Interest": [4.10, 4.40, 5.00, 4.90, 4.80, 5.30, 4.60],
+      "Depreciation": [6.00, 8.90, 9.00, 9.80, 10.40, 10.70, 10.70],
+      "Profit before tax": [8.40, 4.70, 11.50, 8.50, 14.20, 5.80, 8.80],
+      "Tax %": ["35.71%", "25.53%", "24.35%", "23.53%", "27.46%", "34.48%", "35.23%"],
+      "Net Profit": [5.40, 3.50, 8.70, 6.50, 10.30, 3.80, 5.70],
+      "EPS in Rs": [7.87, 0.74, 1.69, 1.36, 1.98, 0.67, 1.00]
+    },
+    "Annual Results": {
+      "Sales": [206, 196, 292, 419, 432, 430],
+      "Expenses": [193, 162, 232, 335, 343, 344],
+      "Operating Profit": [14, 34, 60, 84, 89, 86],
+      "OPM %": ["7%", "17%", "21%", "20%", "21%", "20%"],
+      "Other Income": [6, 2, 5, 7, 10, 12],
+      "Interest": [1, 10, 12, 16, 22, 20],
+      "Depreciation": [4, 21, 22, 28, 38, 42],
+      "Profit before tax": [14, 6, 32, 46, 39, 37],
+      "Tax %": ["38%", "69%", "27%", "25%", "25%"],
+      "Net Profit": [8, 2, 23, 35, 29, 26],
+      "EPS in Rs": [10.39, 1.40, 28.96, 44.63, 5.83, 5.01]
+    },
+    "Compounded Growth": {
+      "Sales Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "30%",
+        "TTM": "3%"
+      },
+      "Profit Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "170%",
+        "TTM": "-14%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": null
+      }
+    },
+    "Return on Equity": {
+      "10 Years": null,
+      "5 Years": null,
+      "3 Years": "13%",
+      "Last Year": "12%"
+    }
+  },
+  "Ratios": {
+    "Debtor Days": [22, 26, 24, 14, 22],
+    "Inventory Days": [306, 357, 299, 217, 260],
+    "Days Payable": [111, 159, 123, 78, 91],
+    "Cash Conversion Cycle": [217, 224, 200, 153, 191],
+    "Working Capital Days": [103, 103, 90, 66, 81],
+    "ROCE %": ["8%", "15%", "18%", "14%"]
+  },
+  "Peer Comparison": [
+    {"Name": "GMR Airports", "CMP": 78.82, "P/E": 83225.85, "Mar Cap": "Rs.Cr.", "Div Yld": 0.00, "NP Qtr": -428.77, "Qtr Profit Var": -318.52, "Sales Qtr": 2495.46, "Qtr Sales Var": 20.93, "ROCE": 6.41},
+    {"Name": "SJVN", "CMP": 111.54, "P/E": 47.39, "Mar Cap": 43832.94, "Div Yld": 1.61, "NP Qtr": 439.90, "Qtr Profit Var": 0.06, "Sales Qtr": 1026.25, "Qtr Sales Var": 16.84, "ROCE": 4.99},
+    {"Name": "Sagility India", "CMP": 45.17, "P/E": 92.88, "Mar Cap": 21145.56, "Div Yld": 0.00, "NP Qtr": 117.34, "Qtr Profit Var": 235.64, "Sales Qtr": 1325.05, "Qtr Sales Var": 21.11, "ROCE": 4.71},
+    {"Name": "International Ge", "CMP": 471.15, "P/E": 62.68, "Mar Cap": 20361.20, "Div Yld": 0.00, "NP Qtr": 98.79},
+    {"Name": "Rites", "CMP": 281.00, "P/E": 33.91, "Mar Cap": 13504.97, "Div Yld": 4.09, "NP Qtr": 82.50, "Qtr Profit Var": -27.85, "Sales Qtr": 540.86, "Qtr Sales Var": -7.13, "ROCE": 25.36},
+    {"Name": "RattanIndia Ent", "CMP": 66.69, "P/E": 12.87, "Mar Cap": 9218.36, "Div Yld": 0.00, "NP Qtr": -241.59, "Qtr Profit Var": -227.06, "Sales Qtr": 1800.62, "Qtr Sales Var": 11.52, "ROCE": 2.89},
+    {"Name": "CMS Info Systems", "CMP": 490.50, "P/E": 22.22, "Mar Cap": 8004.13, "Div Yld": 1.17, "NP Qtr": 90.92, "Qtr Profit Var": 7.78, "Sales Qtr": 624.54, "Qtr Sales Var": 14.86, "ROCE": 26.95},
+    {"Name": "Stanley Lifesty.", "CMP": 422.30, "P/E": 91.90, "Mar Cap": 2407.84, "Div Yld": 0.00, "NP Qtr": 5.70, "Qtr Profit Var": -34.48, "Sales Qtr": 103.00, "Qtr Sales Var": -6.45, "ROCE": 14.19}
+  ],
+  "Other Insights": {
+    "Pros and Cons": "Company has a low return on equity of 13.0% over last 3 years.",
+    "Shareholding Pattern": {
+      "Promoters": "56.81%",
+      "FIIs": "5.06%",
+      "DIIs": "20.86%",
+      "Public": "17.26%"
+    },
+    "Notes": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ]
+  },
+  "Balance Sheet": {
+    "Mar 2020": {
+      "Equity Capital": 7,
+      "Reserves": 182,
+      "Borrowings": 7,
+      "Other Liabilities": 55,
+      "Total Liabilities": 251,
+      "Fixed Assets": 38,
+      "CWIP": 0,
+      "Investments": 0,
+      "Other Assets": 213,
+      "Total Assets": 251
+    },
+    "Mar 2021": {
+      "Equity Capital": 7,
+      "Reserves": 176,
+      "Borrowings": 88,
+      "Other Liabilities": 76,
+      "Total Liabilities": 347,
+      "Fixed Assets": 118,
+      "CWIP": 0,
+      "Investments": 0,
+      "Other Assets": 229,
+      "Total Assets": 347
+    },
+    "Mar 2022": {
+      "Equity Capital": 7,
+      "Reserves": 192,
+      "Borrowings": 130,
+      "Other Liabilities": 93,
+      "Total Liabilities": 422,
+      "Fixed Assets": 165,
+      "CWIP": 1,
+      "Investments": 0,
+      "Other Assets": 256,
+      "Total Assets": 422
+    },
+    "Mar 2023": {
+      "Equity Capital": 7,
+      "Reserves": 209,
+      "Borrowings": 151,
+      "Other Liabilities": 90,
+      "Total Liabilities": 458,
+      "Fixed Assets": 202,
+      "CWIP": 2,
+      "Investments": 0,
+      "Other Assets": 254,
+      "Total Assets": 458
+    },
+    "Mar 2024": {
+      "Equity Capital": 10,
+      "Reserves": 237,
+      "Borrowings": 204,
+      "Other Liabilities": 113,
+      "Total Liabilities": 564,
+      "Fixed Assets": 247,
+      "CWIP": 40,
+      "Investments": 0,
+      "Other Assets": 278,
+      "Total Assets": 564
+    },
+    "Sep 2024": {
+      "Equity Capital": 11,
+      "Reserves": 432,
+      "Borrowings": 184,
+      "Other Liabilities": 113,
+      "Total Liabilities": 740,
+      "Fixed Assets": 258,
+      "CWIP": 40,
+      "Investments": 0,
+      "Other Assets": 443,
+      "Total Assets": 740
+    }
+  },
+  "Cash Flows": {
+    "Mar 2020": {
+      "Cash from Operating Activity": 10,
+      "Cash from Investing Activity": -57,
+      "Cash from Financing Activity": 25,
+      "Net Cash Flow": -22
+    },
+    "Mar 2021": {
+      "Cash from Operating Activity": 33,
+      "Cash from Investing Activity": -3,
+      "Cash from Financing Activity": -24,
+      "Net Cash Flow": 6
+    },
+    "Mar 2022": {
+      "Cash from Operating Activity": 29,
+      "Cash from Investing Activity": -12,
+      "Cash from Financing Activity": -19,
+      "Net Cash Flow": -2
+    },
+    "Mar 2023": {
+      "Cash from Operating Activity": 68,
+      "Cash from Investing Activity": -27,
+      "Cash from Financing Activity": -41,
+      "Net Cash Flow": -1
+    },
+    "Mar 2024": {
+      "Cash from Operating Activity": 36,
+      "Cash from Investing Activity": -26,
+      "Cash from Financing Activity": -12,
+      "Net Cash Flow": -3
+    }
+  }
+}

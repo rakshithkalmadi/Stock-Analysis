@@ -1,0 +1,145 @@
+
+{
+  "Company Overview": {
+    "Name": "SpiceJet Ltd",
+    "Sector": "Air Transport Service",
+    "Industry": "Transport - Airlines",
+    "Description": "SpiceJet Ltd is principally engaged in the business of providing air transport services for the carriage of passengers and cargo.",
+    "MarketPosition": "SpiceJet is a low-cost airline operating in India primarily. It operates the maximum number of UDAN flights in India. It operates ~250 daily flights to 48 destinations within India and to international destinations. Its fleet includes Boeing 737 Max, Boeing 700 and Q400s."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 7,413 Cr.",
+    "CurrentPrice": "₹ 57.8",
+    "High/Low": "₹ 79.9 / 46.0",
+    "PEratio": null, 
+    "BookValue": "₹ -33.0",
+    "DividendYield": "0.00 %",
+    "ROCE": "1.64 %",
+    "ROE": null,
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": null 
+  },
+  "PerformanceTrends": {
+    "QuarterlyResults": {
+      "Sales": [1090, 1343, 2259, 1866, 2457, 1953, 2315, 2145, 2002, 1425, 1904, 1719, 1696],
+      "Expenses": [1510, 1645, 2169, 2161, 2858, 2518, 2374, 2143, 1734, 1856, 2142, 1964, 1661],
+      "OperatingProfit": [-420, -302, 91, -295, -401, -566, -60, 2, 268, -431, -238, -245, 35],
+      "OPM%": [-39, -23, 4, -16, -16, -29, -3, 0, 13, -30, -13, -14, 2],
+      "OtherIncome": [176, 196, 343, 259, 22, 152, 515, 357, 266, 301, 245, 635, 372],
+      "Interest": [137, 114, 88, 144, 130, 143, 115, 118, 122, 113, 126, 100, 87],
+      "Depreciation": [348, 342, 323, 278, 280, 281, 234, 224, 207, 188, 183, 170, 170],
+      "ProfitBeforeTax": [-729, -562, 23, -458, -789, -838, 107, 17, 205, -432, -301, 119, 150],
+      "Tax%": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "NetProfit": [-729, -562, 23, -458, -789, -838, 107, 17, 205, -432, -301, 119, 150],
+      "EPSinRs": [-12.12, -9.34, 0.39, -7.61, -13.11, -13.92, 1.77, 0.28, 3.40, -6.31, -4.41, 1.52, 1.89]
+    },
+    "AnnualResults": {
+      "Sales": [5550, 6237, 5163, 5088, 6191, 7756, 9113, 12359, 5133, 6557, 8869, 7050, 6744],
+      "Expenses": [5746, 7084, 5776, 4542, 5646, 6992, 9119, 11842, 4958, 7480, 9892, 7692, 7624],
+      "OperatingProfit": [-195, -847, -613, 546, 545, 764, -6, 517, 175, -923, -1023, -642, -880],
+      "OPM%": [-4, -14, -12, 11, 9, 10, 0, 4, 3, -14, -12, -9, -13],
+      "OtherIncome": [204, 131, 218, 210, 150, 127, 79, 828, 987, 973, 1046, 1443, 1552],
+      "Interest": [117, 139, 165, 126, 66, 93, 134, 546, 603, 486, 507, 462, 426],
+      "Depreciation": [84, 148, 127, 180, 199, 231, 256, 1734, 1558, 1290, 1019, 748, 711],
+      "ProfitBeforeTax": [-191, -1003, -687, 450, 431, 567, -316, -935, -998, -1725, -1503, -409, -464],
+      "Tax%": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "NetProfit": [-191, -1003, -687, 450, 431, 567, -316, -935, -998, -1725, -1503, -409, -464],
+      "EPSinRs": [-3.95, -18.74, -11.46, 7.50, 7.19, 9.45, -5.27, -15.58, -16.61, -28.67, -24.97, -5.23, -7.31]
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": [484, 535, 599, 599, 599, 599, 600, 600, 601, 602, 602, 783],
+      "Reserves": [-709, -1530, -1685, -1638, -1209, -642, -950, -2179, -3172, -4890, -3833, -3369],
+      "Borrowings": [1802, 1709, 1477, 1230, 1155, 1303, 1110, 1097, 1068, 8330, 7348, 5376],
+      "OtherLiabilities": [1493, 2233, 2215, 2656, 2445, 2772, 4048, 13354, 12879, 5479, 6163, 6167],
+      "TotalLiabilities": [3071, 2947, 2607, 2847, 2991, 4032, 4807, 12872, 11376, 9520, 10280, 8957],
+      "FixedAssets": [1794, 1877, 1714, 1628, 1620, 1598, 1604, 8681, 7000, 5540, 3973, 2536],
+      "CWIP": [1, 1, 0, 0, 0, 0, 0, 0, 6, 6, 6, 5],
+      "Investments": [0, 0, 0, 20, 140, 101, 0, 1, 3, 3, 3, 19],
+      "OtherAssets": [1276, 1070, 893, 1199, 1231, 2333, 3203, 4190, 4367, 3972, 6297, 6396],
+      "TotalAssets": [3071, 2947, 2607, 2847, 2991, 4032, 4807, 12872, 11376, 9520, 10280, 8957]
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": [-54, 59, -411, 711, 496, 1046, 456, 1778, 226, 978, 93, -613],
+      "CashFromInvestingActivity": [-741, -50, 304, -275, -491, -806, -146, -156, 210, -122, 561, 36],
+      "CashFromFinancingActivity": [791, -221, 126, -379, -62, -140, -364, -1659, -435, -876, -632, 732],
+      "NetCashFlow": [-3, -212, 19, 58, -57, 100, -54, -37, 1, -20, 23, 154]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth10Years": "1%",
+      "CompoundedSalesGrowth5Years": "-5%",
+      "CompoundedSalesGrowth3Years": "11%",
+      "CompoundedSalesGrowthTTM": "-20%",
+      "CompoundedProfitGrowth10Years": "5%",
+      "CompoundedProfitGrowth5Years": "-16%",
+      "CompoundedProfitGrowth3Years": "17%",
+      "CompoundedProfitGrowthTTM": "9%",
+      "StockPriceCAGR10Years": "13%",
+      "StockPriceCAGR5Years": "-9%",
+      "StockPriceCAGR3Years": "-5%",
+      "StockPriceCAGR1Year": "-7%"
+    },
+    "LiquidityRatios": null,
+    "ProfitabilityRatios": {
+      "ROCE": [-6, -75, -105, 178, 124, 72, -12, -269, -91, -24, 2]
+    },
+    "ValuationRatios": null,
+    "OtherRatios": {
+      "DebtorDays": [7, 9, 9, 3, 4, 4, 6, 9, 25, 14, 6, 10],
+      "InventoryDays": null,
+      "DaysPayable": null,
+      "CashConversionCycle": [7, 9, 9, 3, 4, 4, 6, 9, 25, 14, 6, 10],
+      "WorkingCapitalDays": [-60, -106, -121, -141, -102, -97, -77, -117, -342, -155, -147, -191]
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Interglobe Aviat", "CMP": 4395.60, "PE": 25.62, "MarCap": 169841.74, "DivYld": 0.00, "NPQtr": -988.80, "QtrProfitVar": -626.35, "SalesQtr": 16969.60, "QtrSalesVar": 13.56, "ROCE": 24.53},
+      {"Name": "SpiceJet", "CMP": 57.84, "PE": null, "MarCap": 7413.27, "DivYld": 0.00, "NPQtr": 149.96, "QtrProfitVar": -26.69, "SalesQtr": 1695.52, "QtrSalesVar": -15.30, "ROCE": 1.64},
+      {"Name": "Afcom", "CMP": 914.95, "PE": 70.76, "MarCap": 2274.36, "DivYld": 0.00, "NPQtr": 18.86, "QtrProfitVar": 88.76, "SalesQtr": 25.12, "QtrSalesVar": 36.65, "ROCE": 7.21},
+      {"Name": "TAAL Enterprises", "CMP": 2922.85, "PE": 21.19, "MarCap": 910.86, "DivYld": 0.86, "NPQtr": 14.53, "QtrProfitVar": 32.69, "SalesQtr": 49.12, "QtrSalesVar": 2.38, "ROCE": 31.31},
+      {"Name": "Global Vectra", "CMP": 288.00, "PE": null, "MarCap": 403.20, "DivYld": 0.00, "NPQtr": -4.15, "QtrProfitVar": 39.15, "SalesQtr": 124.30, "QtrSalesVar": 18.53, "ROCE": 7.21}
+    ],
+    "Median": {
+      "CMP": 914.95,
+      "PE": 25.62,
+      "MarCap": 2274.36,
+      "DivYld": 0.0,
+      "NPQtr": 14.53,
+      "QtrProfitVar": 3.0,
+      "SalesQtr": 124.3,
+      "QtrSalesVar": 13.56,
+      "ROCE": 24.53
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company has reduced debt."
+    ],
+    "Cons": [
+      "Company has low interest coverage ratio.",
+      "Promoter holding has decreased over last quarter: -18.5%",
+      "The company has delivered a poor sales growth of -5.00% over past five years.",
+      "Promoter holding is low: 29.1%",
+      "Promoters have pledged 52.8% of their holding.",
+      "Earnings include an other income of Rs.1,552 Cr."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPatternNotes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "ShareholdingPattern": {
+    "Quarterly": {
+      "Promoters": [59.46, 59.40, 59.40, 59.39, 59.39, 58.98, 58.98, 56.53, 55.28, 48.27, 47.67, 29.14],
+      "FIIs": [1.16, 1.19, 1.18, 1.19, 0.65, 0.43, 0.35, 0.29, 0.33, 1.73, 1.81, 22.87],
+      "DIIs": [0.80, 0.03, 0.04, 0.04, 0.01, 0.01, 0.01, 0.01, 0.04, 5.30, 5.05, 8.37],
+      "Public": [38.59, 39.38, 39.38, 39.37, 39.95, 40.58, 40.67, 43.16, 44.35, 44.71, 45.48, 39.63]
+    },
+    "Yearly": {
+      "Promoters": [60.25, 60.03, 60.00, 59.93, 59.81, 59.40, 58.98, 48.27, 29.14],
+      "FIIs": [4.42, 6.51, 4.27, 1.71, 2.12, 1.19, 0.43, 1.73, 22.87],
+      "DIIs": [3.64, 5.22, 7.74, 10.66, 3.66, 0.03, 0.01, 5.30, 8.37],
+      "Public": [31.69, 28.24, 27.99, 27.71, 34.41, 39.38, 40.58, 44.71, 39.63]
+    }
+  }
+}

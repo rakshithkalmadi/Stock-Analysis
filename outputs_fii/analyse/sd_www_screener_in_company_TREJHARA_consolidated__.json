@@ -1,0 +1,167 @@
+
+{
+  "Company Overview": {
+    "Name": "Trejhara Solutions Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Incorporated in 2017, Trejhara Solutions Ltd is in software services and product licence business. TSL is a technology products and solutions provider that helps enterprises accelerate digitally, securely and efficiently. It provides customer experience through interactive presentation and offline analytical capabilities.",
+    "MarketPosition": null 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 391 Cr.",
+    "CurrentPrice": "₹ 269",
+    "High/Low": "₹ 306 / 139",
+    "StockPE": 221,
+    "BookValue": "₹ 154",
+    "DividendYield": "0.00 %",
+    "ROCE": "1.66 %",
+    "ROE": "3.79 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": null, 
+    "OtherMetrics": null
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": [13.60, 15.21, 16.30, 16.74, 6.44, 17.29, 5.74, 4.03, 6.03, 6.36, 6.43, 6.05, 6.34],
+      "Expenses": [9.81, 10.97, 13.29, 12.16, 4.90, 12.31, 5.91, 3.18, 3.45, 3.64, 6.50, 4.76, 5.11],
+      "OperatingProfit": [3.79, 4.24, 3.01, 4.58, 1.54, 4.98, -0.17, 0.85, 2.58, 2.72, -0.07, 1.29, 1.23],
+      "OPM%": [27.87, 27.88, 18.47, 27.36, 23.91, 28.80, -2.96, 21.09, 42.79, 42.77, -1.09, 21.32, 19.40],
+      "OtherIncome": [0.66, 0.43, 0.48, 0.55, 3.22, -0.17, -311.73, 4.56, 2.76, 0.26, 12.10, 0.91, 1.19],
+      "Interest": [0.33, 0.26, 0.62, 0.28, 0.22, 0.16, 1.54, 0.60, 0.36, 0.05, 0.02, 0.08, 0.05],
+      "Depreciation": [0.37, 0.37, 0.14, 0.28, 0.25, 0.26, 1.63, 1.12, 1.07, 0.95, 0.94, 0.94, 0.96],
+      "ProfitBeforeTax": [3.75, 4.04, 2.73, 4.57, 4.29, 4.39, -315.07, 3.69, 3.91, 1.98, 11.07, 1.18, 1.41],
+      "Tax%": [12.00, 17.08, 37.00, 24.73, 9.32, 21.41, -1.64, -6.50, 1.28, 21.21, 6.50, 22.03, 22.70],
+      "NetProfit": [3.31, 3.35, 1.72, 3.44, 3.89, 3.45, -309.91, 3.94, 3.86, 1.57, 10.35, 0.91, 1.10],
+      "EPSinRs": [2.80, 2.84, 1.46, 2.91, 3.29, 2.92, -262.27, 3.33, 3.27, 1.08, 7.13, 0.63, 0.76]
+    },
+    "AnnualResults": {
+      "Sales": [88, 77, 58, 54, 58, 22, 23, 25],
+      "Expenses": [73, 61, 48, 40, 44, 20, 17, 20],
+      "OperatingProfit": [14, 16, 10, 14, 14, 3, 6, 5],
+      "OPM%": [17, 21, 17, 27, 25, 13, 27, 21],
+      "OtherIncome": [0, 6, 4, 2, 2, -302, 20, 14],
+      "Interest": [5, 6, 5, 2, 2, 2, 1, 0],
+      "Depreciation": [2, 1, 1, 1, 1, 2, 4, 4],
+      "ProfitBeforeTax": [7, 15, 8, 13, 14, -304, 21, 16],
+      "Tax%": [4, 20, 16, 13, 20, -1, 4, 0],
+      "NetProfit": [7, 12, 7, 11, 11, -299, 20, 14],
+      "EPSinRs": [10.40, 5.87, 9.39, 9.28, -253.15, 13.58, 9.60]
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": [0.00, 12, 12, 12, 12, 12, 15, 15],
+      "Reserves": [390, 394, 441, 447, 464, 186, 207, 208],
+      "Borrowings": [80, 56, 34, 34, 24, 21, 2, 2],
+      "OtherLiabilities": [46, 70, 110, 87, 110, 128, 18, 26],
+      "TotalLiabilities": [516, 532, 596, 580, 610, 346, 241, 251],
+      "FixedAssets": [4, 3, 2, 2, 1, 32, 24, 28],
+      "CWIP": [107, 114, 146, 143, 148, 43, 6, 0],
+      "Investments": [0, 0, 0, 0, 0, 0, 0, 0],
+      "OtherAssets": [405, 415, 448, 435, 461, 270, 211, 224],
+      "TotalAssets": [516, 532, 596, 580, 610, 346, 241, 251]
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": [-16, 36, 16, -0, 17, 19, -123],
+      "CashFromInvestingActivity": [-2, -7, -6, 3, -6, -10, 137],
+      "CashFromFinancingActivity": [17, -28, -9, -3, -11, -8, -14],
+      "NetCashFlow": [-1, -0, 1, -1, 0, 1, 0]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth10Years": null,
+      "CompoundedSalesGrowth5Years": "-22%",
+      "CompoundedSalesGrowth3Years": "-25%",
+      "CompoundedSalesGrowthTTM": "-24%",
+      "CompoundedProfitGrowth10Years": null,
+      "CompoundedProfitGrowth5Years": "-8%",
+      "CompoundedProfitGrowth3Years": "-10%",
+      "CompoundedProfitGrowthTTM": "-77%"
+    },
+    "LiquidityRatios": null,
+    "ProfitabilityRatios": {
+      "ROCE": [5, 3, 3, 3, 0, 2],
+      "ROE": [null, null, null, null, -2, -5, 4]
+    },
+    "ValuationRatios": {
+      "PE": 221,
+      "PriceToBook": null
+    },
+    "OtherRatios": {
+      "DebtorDays": [173, 140, 166, 158, 157, 283, 217],
+      "InventoryDays": null,
+      "DaysPayable": null,
+      "CashConversionCycle": null,
+      "WorkingCapitalDays": [1056, 1161, 1448, 1686, 1578, 828, 1676]
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "PE": 42.61, "MarCap": 106322.89, "DivYld": 1.96, "NPQtr": 577.70, "QtrProfitVar": 38.39, "SalesQtr": 1673.90, "QtrSalesVar": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "PE": 554.42, "MarCap": 96075.89, "DivYld": 0.00, "NPQtr": 50.98, "QtrProfitVar": 350.35, "SalesQtr": 1167.23, "QtrSalesVar": 43.81, "ROCE": 1.75},
+      {"Name": "Coforge", "CMP": 9370.45, "PE": 79.48, "MarCap": 62650.25, "DivYld": 0.81, "NPQtr": 233.60, "QtrProfitVar": 11.71, "SalesQtr": 3062.30, "QtrSalesVar": 34.54, "ROCE": 28.60},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "PE": 52.77, "MarCap": 43110.04, "DivYld": 1.01, "NPQtr": 229.43, "QtrProfitVar": 14.70, "SalesQtr": 955.09, "QtrSalesVar": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "PE": 54.80, "MarCap": 39785.12, "DivYld": 0.46, "NPQtr": 203.75, "QtrProfitVar": 45.30, "SalesQtr": 1471.41, "QtrSalesVar": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "PE": 56.02, "MarCap": 36238.37, "DivYld": 0.94, "NPQtr": 157.41, "QtrProfitVar": -1.85, "SalesQtr": 1296.45, "QtrSalesVar": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "PE": 87.35, "MarCap": 32355.27, "DivYld": 0.00, "NPQtr": 208.58, "QtrProfitVar": 1282.88, "SalesQtr": 103.35, "QtrSalesVar": 30.01, "ROCE": null},
+      {"Name": "Trejhara Solutio", "CMP": 269.10, "PE": 220.69, "MarCap": 390.63, "DivYld": 0.00, "NPQtr": 1.10, "QtrProfitVar": -40.54, "SalesQtr": 6.34, "QtrSalesVar": 5.14, "ROCE": 1.66}
+    ],
+    "Median": {
+      "CMP": 283.15,
+      "PE": 43.44,
+      "MarCap": 1028.49,
+      "DivYld": 0.0,
+      "NPQtr": 4.85,
+      "QtrProfitVar": 13.68,
+      "SalesQtr": 52.64,
+      "QtrSalesVar": 13.45,
+      "ROCE": 17.45
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free."
+    ],
+    "Cons": [
+      "The company has delivered a poor sales growth of -21.6% over past five years.",
+      "Promoter holding is low: 23.1%",
+      "Company has a low return on equity of -5.44% over last 3 years.",
+      "Earnings include an other income of Rs.14.5 Cr.",
+      "Company has high debtors of 217 days.",
+      "Promoter holding has decreased over last 3 years: -6.93%"
+    ],
+    "Disclaimer": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPatternNotes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "ShareholdingPattern": {
+    "Quarterly": {
+      "Promoters": [30.00, 30.00, 30.00, 29.99, 29.99, 29.99, 29.99, 29.99, 28.33, 23.06, 23.06, 23.06],
+      "FIIs": [1.02, 1.64, 0.75, 0.78, 0.61, 0.32, 0.03, 0.03, 0.00, 0.00, 0.00, 1.38],
+      "DIIs": [0.22, 0.22, 0.21, 0.22, 0.22, 0.22, 0.22, 0.22, 0.22, 0.00, 0.00, 0.00],
+      "Public": [68.76, 68.15, 69.04, 69.00, 69.17, 69.46, 69.75, 69.75, 71.46, 76.93, 76.94, 75.55]
+    },
+    "Yearly": {
+      "Promoters": [31.19, 27.13, 27.13, 30.00, 29.99, 23.06, 23.06],
+      "FIIs": [0.14, 0.07, 0.07, 1.64, 0.32, 0.00, 1.38],
+      "DIIs": [0.22, 0.22, 0.21, 0.22, 0.22, 0.00, 0.00],
+      "Public": [68.45, 72.58, 72.59, 68.15, 69.46, 76.93, 75.55]
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "1d", "Title": "Announcement under Regulation 30 (LODR)-Scheme of Arrangement", "Description": "NCLT approved amalgamation scheme for Trejhara Solutions."},
+      {"Date": "22 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Description": "Newspaper Publication regarding Notice of Postal Ballot"},
+      {"Date": "21 Nov", "Title": "Shareholder Meeting / Postal Ballot-Notice of Postal Ballot", "Description": null},
+      {"Date": "28 Oct", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Description": "Newspaper Publication(s) for un-audited financial results for quarter and half year ended September 20, 2024"},
+      {"Date": "25 Oct", "Title": "Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s", "Description": "Board approved financial results and auditor changes."}
+    ],
+    "AnnualReports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"}
+    ]
+  }
+}

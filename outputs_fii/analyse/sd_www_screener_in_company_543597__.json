@@ -1,0 +1,317 @@
+
+{
+  "Company Overview": {
+    "Name": "Virtuoso Optoelectronics Ltd",
+    "Sector": "Consumer Durables",
+    "Industry": "Domestic Appliances",
+    "Business Description": "Manufacturer of White Goods and offers Electronics Manufacturing Services (EMS).  It's an OEM/ODM for white goods and electronic items, manufacturing, selling, and marketing consumer electronics goods like Air Conditioners, Water Heaters, and Lighting.",
+    "Market Position": "Information not explicitly provided, but peer comparison data suggests a smaller market cap compared to competitors."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,353 Cr.",
+    "Current Price": "₹ 592",
+    "High/Low": "₹ 634 / ₹ 182",
+    "Stock P/E": "89.0",
+    "Book Value": "₹ 94.6",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "13.1 %",
+    "ROE": "6.68 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly provided" 
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Detailed data available in Profit & Loss statements (see below)"
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Sep 2022": {
+          "Sales": "113",
+          "Expenses": "97",
+          "Operating Profit": "16",
+          "OPM %": "14%",
+          "Other Income": "1",
+          "Interest": "5",
+          "Depreciation": "5",
+          "Profit before tax": "7",
+          "Tax %": "28%",
+          "Net Profit": "5",
+          "EPS in Rs": "2.47"
+        },
+        "Mar 2023": {
+          "Sales": "225",
+          "Expenses": "207",
+          "Operating Profit": "18",
+          "OPM %": "8%",
+          "Other Income": "-0",
+          "Interest": "8",
+          "Depreciation": "5",
+          "Profit before tax": "4",
+          "Tax %": "37%",
+          "Net Profit": "3",
+          "EPS in Rs": "1.20"
+        },
+        "Sep 2023": {
+          "Sales": "238",
+          "Expenses": "215",
+          "Operating Profit": "23",
+          "OPM %": "10%",
+          "Other Income": "1",
+          "Interest": "10",
+          "Depreciation": "8",
+          "Profit before tax": "6",
+          "Tax %": "38%",
+          "Net Profit": "4",
+          "EPS in Rs": "1.54"
+        },
+        "Mar 2024": {
+          "Sales": "293",
+          "Expenses": "264",
+          "Operating Profit": "28",
+          "OPM %": "10%",
+          "Other Income": "1",
+          "Interest": "10",
+          "Depreciation": "10",
+          "Profit before tax": "9",
+          "Tax %": "23%",
+          "Net Profit": "7",
+          "EPS in Rs": "2.90"
+        },
+        "Sep 2024": {
+          "Sales": "309",
+          "Expenses": "285",
+          "Operating Profit": "25",
+          "OPM %": "8%",
+          "Other Income": "4",
+          "Interest": "11",
+          "Depreciation": "5",
+          "Profit before tax": "12",
+          "Tax %": "31%",
+          "Net Profit": "9",
+          "EPS in Rs": "3.76"
+        }
+      },
+      "Yearly": {
+        "Mar 2019": {
+          "Sales": "55",
+          "Expenses": "52",
+          "Operating Profit": "3",
+          "OPM %": "5%",
+          "Other Income": "0",
+          "Interest": "2",
+          "Depreciation": "0",
+          "Profit before tax": "1",
+          "Tax %": "39%",
+          "Net Profit": "1",
+          "EPS in Rs": "0.36"
+        },
+        "Mar 2020": {
+          "Sales": "68",
+          "Expenses": "60",
+          "Operating Profit": "8",
+          "OPM %": "12%",
+          "Other Income": "0",
+          "Interest": "5",
+          "Depreciation": "1",
+          "Profit before tax": "2",
+          "Tax %": "27%",
+          "Net Profit": "1",
+          "EPS in Rs": "0.85"
+        },
+        "Mar 2021": {
+          "Sales": "115",
+          "Expenses": "103",
+          "Operating Profit": "12",
+          "OPM %": "11%",
+          "Other Income": "0",
+          "Interest": "7",
+          "Depreciation": "2",
+          "Profit before tax": "3",
+          "Tax %": "28%",
+          "Net Profit": "2",
+          "EPS in Rs": "1.25"
+        },
+        "Mar 2022": {
+          "Sales": "200",
+          "Expenses": "180",
+          "Operating Profit": "20",
+          "OPM %": "10%",
+          "Other Income": "0",
+          "Interest": "9",
+          "Depreciation": "5",
+          "Profit before tax": "6",
+          "Tax %": "31%",
+          "Net Profit": "4",
+          "EPS in Rs": "2.63"
+        },
+        "Mar 2023": {
+          "Sales": "337",
+          "Expenses": "304",
+          "Operating Profit": "34",
+          "OPM %": "10%",
+          "Other Income": "1",
+          "Interest": "14",
+          "Depreciation": "9",
+          "Profit before tax": "11",
+          "Tax %": "31%",
+          "Net Profit": "8",
+          "EPS in Rs": "3.40"
+        },
+        "Mar 2024": {
+          "Sales": "531",
+          "Expenses": "480",
+          "Operating Profit": "51",
+          "OPM %": "10%",
+          "Other Income": "1",
+          "Interest": "20",
+          "Depreciation": "18",
+          "Profit before tax": "14",
+          "Tax %": "29%",
+          "Net Profit": "10",
+          "EPS in Rs": "4.44"
+        },
+        "TTM": {
+          "Sales": "602",
+          "Expenses": "549",
+          "Operating Profit": "53",
+          "OPM %": "9%",
+          "Other Income": "4",
+          "Interest": "21",
+          "Depreciation": "15",
+          "Profit before tax": "21",
+          "Tax %": "0",
+          "Net Profit": "15",
+          "EPS in Rs": "6.66"
+        }
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Detailed data available in Balance Sheet (see below)"
+    },
+    "Cash Flow": {
+      "Note": "Detailed data available in Cash Flow statement (see below)"
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "%",
+        "5 Years": "57%",
+        "3 Years": "66%",
+        "TTM": "30%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "%",
+        "5 Years": "80%",
+        "3 Years": "70%",
+        "TTM": "144%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "1 Year": "154%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Note": "Not explicitly provided, but data for debtor days, inventory days, days payable, cash conversion cycle, and working capital days are available (see below)."
+    },
+    "Profitability Ratios": {
+      "ROCE %": {
+        "Mar 2019": "19%",
+        "Mar 2020": "18%",
+        "Mar 2021": "19%",
+        "Mar 2022": "18%",
+        "Mar 2023": "13%"
+      },
+      "ROE": {
+        "10 Years": "%",
+        "5 Years": "10%",
+        "3 Years": "10%",
+        "Last Year": "7%"
+      }
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "89.0",
+      "Price to Book": "Not explicitly provided",
+      "Market Cap / Sales": "Not explicitly provided",
+      "EV/EBITDA": "Not explicitly provided"
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2019": "75",
+        "Mar 2020": "106",
+        "Mar 2021": "34",
+        "Mar 2022": "16",
+        "Mar 2023": "28",
+        "Mar 2024": "15"
+      },
+      "Inventory Days": {
+        "Mar 2019": "53",
+        "Mar 2020": "94",
+        "Mar 2021": "137",
+        "Mar 2022": "134",
+        "Mar 2023": "182",
+        "Mar 2024": "138"
+      },
+      "Days Payable": {
+        "Mar 2019": "34",
+        "Mar 2020": "43",
+        "Mar 2021": "37",
+        "Mar 2022": "64",
+        "Mar 2023": "114",
+        "Mar 2024": "82"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2019": "95",
+        "Mar 2020": "157",
+        "Mar 2021": "134",
+        "Mar 2022": "86",
+        "Mar 2023": "96",
+        "Mar 2024": "70"
+      },
+      "Working Capital Days": {
+        "Mar 2019": "100",
+        "Mar 2020": "151",
+        "Mar 2021": "130",
+        "Mar 2022": "70",
+        "Mar 2023": "86",
+        "Mar 2024": "75"
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Whirlpool India", "CMP": "1939.95", "P/E": "78.32", "Mar Cap": "24612.50", "Div Yld": "0.26", "NP Qtr": "53.53", "Qtr Profit Var": "42.21", "Sales Qtr": "1712.99", "Qtr Sales Var": "12.58", "ROCE": "9.07"},
+      {"Name": "TTK Prestige", "CMP": "830.65", "P/E": "54.31", "Mar Cap": "11514.19", "Div Yld": "0.72", "NP Qtr": "52.25", "Qtr Profit Var": "-11.50", "Sales Qtr": "750.06", "Qtr Sales Var": "2.82", "ROCE": "14.55"},
+      {"Name": "Eureka Forbes", "CMP": "572.20", "P/E": "84.90", "Mar Cap": "11065.84", "Div Yld": "0.00", "NP Qtr": "46.67", "Qtr Profit Var": "74.72", "Sales Qtr": "672.87", "Qtr Sales Var": "13.60", "ROCE": "3.46"},
+      {"Name": "Symphony", "CMP": "1326.25", "P/E": "39.25", "Mar Cap": "9145.42", "Div Yld": "0.98", "NP Qtr": "56.00", "Qtr Profit Var": "60.00", "Sales Qtr": "315.00", "Qtr Sales Var": "14.55", "ROCE": "18.84"},
+      {"Name": "Bajaj Electrical", "CMP": "774.20", "P/E": "82.92", "Mar Cap": "8929.21", "Div Yld": "0.39", "NP Qtr": "12.90", "Qtr Profit Var": "-59.28", "Sales Qtr": "1118.33", "Qtr Sales Var": "0.50", "ROCE": "12.73"},
+      {"Name": "IFB Industries", "CMP": "1782.70", "P/E": "65.85", "Mar Cap": "7223.50", "Div Yld": "0.00", "NP Qtr": "33.30", "Qtr Profit Var": "16.07", "Sales Qtr": "1176.56", "Qtr Sales Var": "10.16", "ROCE": "12.75"},
+      {"Name": "Orient Electric", "CMP": "242.20", "P/E": "83.47", "Mar Cap": "5167.72", "Div Yld": "0.62", "NP Qtr": "10.44", "Qtr Profit Var": "180.65", "Sales Qtr": "660.15", "Qtr Sales Var": "16.45", "ROCE": "14.24"}
+    ],
+    "Median": {
+      "CMP": "790.9",
+      "P/E": "80.62",
+      "Mar Cap": "5167.72",
+      "Div Yld": "0.26",
+      "NP Qtr": "16.72",
+      "Qtr Profit Var": "8.61",
+      "Sales Qtr": "418.31",
+      "Qtr Sales Var": "11.37",
+      "ROCE": "12.73"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 79.7% CAGR over last 5 years"
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Company has low interest coverage ratio.",
+      "Company has a low return on equity of 9.59% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

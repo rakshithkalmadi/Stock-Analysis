@@ -1,0 +1,357 @@
+
+{
+  "Company Overview": {
+    "Name": "Meson Valves India Ltd",
+    "Sector": "Capital Goods-Non Electrical Equipment",
+    "Industry": "Engineering",
+    "Business Description": "Designs, manufactures, and supplies various types of valves in Ferrous and Non-Ferrous materials.  Specializes in assembling, manufacturing, purchasing, distributing, and servicing a diverse range of products, including valves, actuators, strainers, and remote control systems, across various industries.",
+    "MarketPosition": "Information not explicitly provided in HTML."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 610 Cr.",
+    "CurrentPrice": "₹ 600",
+    "High/Low": "₹ 1,400 / ₹ 490",
+    "StockPE": 57.5,
+    "BookValue": "₹ (Not specified)",
+    "DividendYield": "0.00 %",
+    "ROCE": "28.4 %",
+    "ROE": "22.5 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Information not explicitly provided, but implied low debt based on 'Company is almost debt free' note."
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sep 2023": {
+        "Sales": "20 Cr",
+        "Expenses": "16 Cr",
+        "OperatingProfit": "4 Cr",
+        "OPM%": "21%",
+        "OtherIncome": "0 Cr",
+        "Interest": "0 Cr",
+        "Depreciation": "0 Cr",
+        "ProfitBeforeTax": "3 Cr",
+        "Tax%": "23%",
+        "NetProfit": "3 Cr"
+      },
+      "Mar 2024": {
+        "Sales": "43 Cr",
+        "Expenses": "33 Cr",
+        "OperatingProfit": "11 Cr",
+        "OPM%": "25%",
+        "OtherIncome": "0 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "1 Cr",
+        "ProfitBeforeTax": "10 Cr",
+        "Tax%": "33%",
+        "NetProfit": "6 Cr"
+      },
+      "Sep 2024": {
+        "Sales": "32 Cr",
+        "Expenses": "24 Cr",
+        "OperatingProfit": "7 Cr",
+        "OPM%": "23%",
+        "OtherIncome": "0 Cr",
+        "Interest": "0 Cr",
+        "Depreciation": "1 Cr",
+        "ProfitBeforeTax": "6 Cr",
+        "Tax%": "24%",
+        "NetProfit": "4 Cr"
+      }
+    },
+    "AnnualResults": {
+      "Mar 2021": {
+        "Sales": "15 Cr",
+        "Expenses": "15 Cr",
+        "OperatingProfit": "1 Cr",
+        "OPM%": "4%",
+        "OtherIncome": "0 Cr",
+        "Interest": "0 Cr",
+        "Depreciation": "0 Cr",
+        "ProfitBeforeTax": "0 Cr",
+        "Tax%": "45%",
+        "NetProfit": "0 Cr"
+      },
+      "Mar 2022": {
+        "Sales": "14 Cr",
+        "Expenses": "10 Cr",
+        "OperatingProfit": "4 Cr",
+        "OPM%": "27%",
+        "OtherIncome": "0 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "0 Cr",
+        "ProfitBeforeTax": "3 Cr",
+        "Tax%": "29%",
+        "NetProfit": "2 Cr"
+      },
+      "Mar 2023": {
+        "Sales": "37 Cr",
+        "Expenses": "30 Cr",
+        "OperatingProfit": "7 Cr",
+        "OPM%": "19%",
+        "OtherIncome": "1 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "0 Cr",
+        "ProfitBeforeTax": "6 Cr",
+        "Tax%": "27%",
+        "NetProfit": "4 Cr"
+      },
+      "Mar 2024": {
+        "Sales": "63 Cr",
+        "Expenses": "48 Cr",
+        "OperatingProfit": "15 Cr",
+        "OPM%": "23%",
+        "OtherIncome": "0 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "1 Cr",
+        "ProfitBeforeTax": "13 Cr",
+        "Tax%": "30%",
+        "NetProfit": "9 Cr"
+      },
+      "TTM": {
+        "Sales": "75 Cr",
+        "Expenses": "57 Cr",
+        "OperatingProfit": "18 Cr",
+        "OPM%": "24%",
+        "OtherIncome": "0 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "2 Cr",
+        "ProfitBeforeTax": "15 Cr",
+        "Tax%": null,
+        "NetProfit": "11 Cr"
+      }
+    },
+    "BalanceSheetHighlights": {
+      "Mar 2021": {
+        "EquityCapital": "0.07 Cr",
+        "Reserves": "0 Cr",
+        "Borrowings": "9 Cr",
+        "OtherLiabilities": "11 Cr",
+        "TotalLiabilities": "21 Cr",
+        "FixedAssets": "1 Cr",
+        "CWIP": "0 Cr",
+        "Investments": "0 Cr",
+        "OtherAssets": "20 Cr",
+        "TotalAssets": "21 Cr"
+      },
+      "Mar 2022": {
+        "EquityCapital": "0.07 Cr",
+        "Reserves": "3 Cr",
+        "Borrowings": "9 Cr",
+        "OtherLiabilities": "15 Cr",
+        "TotalLiabilities": "27 Cr",
+        "FixedAssets": "2 Cr",
+        "CWIP": "0 Cr",
+        "Investments": "0 Cr",
+        "OtherAssets": "26 Cr",
+        "TotalAssets": "27 Cr"
+      },
+      "Mar 2023": {
+        "EquityCapital": "7 Cr",
+        "Reserves": "13 Cr",
+        "Borrowings": "11 Cr",
+        "OtherLiabilities": "14 Cr",
+        "TotalLiabilities": "45 Cr",
+        "FixedAssets": "2 Cr",
+        "CWIP": "0 Cr",
+        "Investments": "0 Cr",
+        "OtherAssets": "44 Cr",
+        "TotalAssets": "45 Cr"
+      },
+      "Mar 2024": {
+        "EquityCapital": "10 Cr",
+        "Reserves": "50 Cr",
+        "Borrowings": "6 Cr",
+        "OtherLiabilities": "19 Cr",
+        "TotalLiabilities": "85 Cr",
+        "FixedAssets": "14 Cr",
+        "CWIP": "4 Cr",
+        "Investments": "0 Cr",
+        "OtherAssets": "67 Cr",
+        "TotalAssets": "85 Cr"
+      },
+      "Sep 2024": {
+        "EquityCapital": "10 Cr",
+        "Reserves": "54 Cr",
+        "Borrowings": "5 Cr",
+        "OtherLiabilities": "20 Cr",
+        "TotalLiabilities": "89 Cr",
+        "FixedAssets": "16 Cr",
+        "CWIP": "2 Cr",
+        "Investments": "0 Cr",
+        "OtherAssets": "70 Cr",
+        "TotalAssets": "89 Cr"
+      }
+    },
+    "CashFlowSummaries": {
+      "Mar 2021": {
+        "CashFromOperatingActivity": "4 Cr",
+        "CashFromInvestingActivity": "0 Cr",
+        "CashFromFinancingActivity": "-1 Cr",
+        "NetCashFlow": "3 Cr"
+      },
+      "Mar 2022": {
+        "CashFromOperatingActivity": "-1 Cr",
+        "CashFromInvestingActivity": "-1 Cr",
+        "CashFromFinancingActivity": "-1 Cr",
+        "NetCashFlow": "-2 Cr"
+      },
+      "Mar 2023": {
+        "CashFromOperatingActivity": "-8 Cr",
+        "CashFromInvestingActivity": "0 Cr",
+        "CashFromFinancingActivity": "9 Cr",
+        "NetCashFlow": "0 Cr"
+      },
+      "Mar 2024": {
+        "CashFromOperatingActivity": "-13 Cr",
+        "CashFromInvestingActivity": "-17 Cr",
+        "CashFromFinancingActivity": "31 Cr",
+        "NetCashFlow": "1 Cr"
+      }
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "60%",
+        "TTM": "72%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "323%",
+        "TTM": "102%"
+      },
+      "StockPriceCAGR": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "1Year": "19%"
+      }
+    },
+    "LiquidityRatios": {
+      "CurrentRatio": "Information not explicitly provided in HTML."
+    },
+    "ProfitabilityRatios": {
+      "ReturnOnEquity": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "29%",
+        "LastYear": "23%"
+      },
+      "ROCE": {
+        "Mar 2021": "33%",
+        "Mar 2022": "33%",
+        "Mar 2023": "28%"
+      }
+    },
+    "ValuationRatios": {
+      "PE": 57.5,
+      "PriceToBook": "Information not explicitly provided in HTML."
+    },
+    "OtherRatios": {
+      "DebtorDays": {
+        "Mar 2021": 242,
+        "Mar 2022": 266,
+        "Mar 2023": 155,
+        "Mar 2024": 201
+      },
+      "InventoryDays": {
+        "Mar 2021": 94,
+        "Mar 2022": 933,
+        "Mar 2023": 189,
+        "Mar 2024": 141
+      },
+      "DaysPayable": {
+        "Mar 2021": 346,
+        "Mar 2022": 1081,
+        "Mar 2023": 106
+      },
+      "CashConversionCycle": {
+        "Mar 2021": -9,
+        "Mar 2022": 118,
+        "Mar 2023": 238,
+        "Mar 2024": 342
+      },
+      "WorkingCapitalDays": {
+        "Mar 2021": 101,
+        "Mar 2022": 212,
+        "Mar 2023": 266,
+        "Mar 2024": 258
+      }
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Jyoti CNC Auto.", "CMP": 1331.85, "PE": 110.35, "MarCap": 30289.35, "DivYld": 0.00, "NPQtr": 75.88, "QtrProfitVar": 352.74, "SalesQtr": 430.67, "QtrSalesVar": 42.47, "ROCE": 21.22},
+      {"Name": "Jupiter Wagons", "CMP": 540.80, "PE": 62.81, "MarCap": 22956.85, "DivYld": 0.18, "NPQtr": 88.62, "QtrProfitVar": 8.63, "SalesQtr": 973.63, "QtrSalesVar": 10.73, "ROCE": 31.67},
+      {"Name": "Action Const.Eq.", "CMP": 1491.40, "PE": 48.57, "MarCap": 17760.07, "DivYld": 0.13, "NPQtr": 94.82, "QtrProfitVar": 28.25, "SalesQtr": 756.69, "QtrSalesVar": 12.40, "ROCE": 42.30},
+      {"Name": "Titagarh Rail", "CMP": 1310.55, "PE": 58.02, "MarCap": 17649.67, "DivYld": 0.06, "NPQtr": 80.69, "QtrProfitVar": 15.01, "SalesQtr": 1056.95, "QtrSalesVar": 12.99, "ROCE": 24.97},
+      {"Name": "Praj Industries", "CMP": 810.15, "PE": 53.53, "MarCap": 14891.62, "DivYld": 0.74, "NPQtr": 53.83, "QtrProfitVar": -13.69, "SalesQtr": 816.19, "QtrSalesVar": -7.50, "ROCE": 29.29},
+      {"Name": "Elecon Engg.Co", "CMP": 601.75, "PE": 38.02, "MarCap": 13503.27, "DivYld": 0.25, "NPQtr": 87.72, "QtrProfitVar": -0.96, "SalesQtr": 508.14, "QtrSalesVar": 4.79, "ROCE": 31.32},
+      {"Name": "Lloyds Engineeri", "CMP": 77.15, "PE": 92.08, "MarCap": 8966.64, "DivYld": 0.26, "NPQtr": 27.95, "QtrProfitVar": 48.75, "SalesQtr": 212.15, "QtrSalesVar": 74.21, "ROCE": 28.33}
+    ],
+    "Median": {
+      "CMP": 510.05,
+      "PE": 42.42,
+      "MarCap": 622.68,
+      "DivYld": 0.15,
+      "NPQtr": 5.13,
+      "QtrProfitVar": 24.7,
+      "SalesQtr": 62.58,
+      "QtrSalesVar": 10.19,
+      "ROCE": 20.64
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 29.4%"
+    ],
+    "Cons": [
+      "Promoter holding is low: 32.8%",
+      "Company has high debtors of 201 days."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "ShareholdingPattern": {
+    "Quarterly": {
+      "Sep 2023": {
+        "Promoters": "32.83%",
+        "FIIs": "1.90%",
+        "DIIs": "2.48%",
+        "Public": "62.79%"
+      },
+      "Mar 2024": {
+        "Promoters": "32.83%",
+        "FIIs": "2.15%",
+        "DIIs": "1.94%",
+        "Public": "63.09%"
+      },
+      "Sep 2024": {
+        "Promoters": "32.83%",
+        "FIIs": "2.28%",
+        "DIIs": "1.96%",
+        "Public": "62.93%"
+      }
+    },
+    "Yearly": {
+      "Mar 2024": {
+        "Promoters": "32.83%",
+        "FIIs": "2.15%",
+        "DIIs": "1.94%",
+        "Public": "63.09%"
+      },
+      "Sep 2024": {
+        "Promoters": "32.83%",
+        "FIIs": "2.28%",
+        "DIIs": "1.96%",
+        "Public": "62.93%"
+      }
+    },
+    "Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "CorporateActions": "Information not explicitly structured in HTML, but mentioned as available."
+}

@@ -1,0 +1,133 @@
+
+{
+  "Company Overview": {
+    "Name": "Systango Technologies Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Incorporated in 2007, Systango Technologies Ltd deals in supplying Software and Development Services. STI is an ISO 27001 & ISO 9001 certified digital engineering services company with 3 offices in the USA, UK, and India. It provides software solutions that enable companies to design, implement and manage their own Customized Digital Platforms including Web2, Web3 and Mobile applications; with an emphasis on data and analytics.",
+    "MarketPosition": "Not explicitly stated in provided HTML" 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 379 Cr.",
+    "CurrentPrice": "₹ 258",
+    "High/Low": "₹ 408 / ₹ 200",
+    "PEratio": "20.5",
+    "BookValue": "₹ 60.2",
+    "DividendYield": "0.00%",
+    "ROCE": "28.4%",
+    "ROE": "22.8%",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Not explicitly stated, but implied to be low based on 'Company is almost debt free'"
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": [16, 22, 30, 27, 30, 29], 
+      "Expenses": [13, 16, 20, 19, 20, 20],
+      "OperatingProfit": [3, 6, 9, 8, 9, 8],
+      "OPM%": ["19%", "29%", "32%", "30%", "32%", "30%"],
+      "NetProfit": [3, 4, 10, 8, 9, 10],
+      "EPS": [1.29, 16.15, 6.56, 5.55, 5.99, 6.61]
+    },
+    "AnnualResults": {
+      "Sales": [14, 23, 33, 52, 57, 58],
+      "Expenses": [11, 16, 25, 36, 39, 40],
+      "OperatingProfit": [3, 7, 8, 16, 17, 18],
+      "OPM%": ["22%", "29%", "23%", "30%", "31%", "31%"],
+      "NetProfit": [3, 6, 7, 14, 17, 18],
+      "EPS": [45.82, 2.10, 2.53, 9.54, 11.53, 12.60]
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": [0.55, 3, 3, 15, 15, 15],
+      "Reserves": [4, 8, 15, 47, 64, 74],
+      "Borrowings": [0, 0, 0, 1, 0, 0],
+      "OtherLiabilities": [3, 5, 5, 7, 8, 9],
+      "FixedAssets": [1, 1, 2, 3, 4, 5],
+      "Investments": [4, 10, 11, 15, 57, 62],
+      "OtherAssets": [2, 4, 9, 50, 24, 31]
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": [4, 7, 3, 5, 9],
+      "CashFromInvestingActivity": [-3, -6, -1, -7, -40],
+      "CashFromFinancingActivity": [-1, 0, 1, 32, 0],
+      "NetCashFlow": [0, 1, 3, 30, -31]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth_10Years": "%",
+      "CompoundedSalesGrowth_5Years": "%",
+      "CompoundedSalesGrowth_3Years": "35%",
+      "CompoundedSalesGrowth_TTM": "3%",
+      "CompoundedProfitGrowth_10Years": "%",
+      "CompoundedProfitGrowth_5Years": "%",
+      "CompoundedProfitGrowth_3Years": "42%",
+      "CompoundedProfitGrowth_TTM": "4%",
+      "StockPriceCAGR_10Years": "%",
+      "StockPriceCAGR_5Years": "%",
+      "StockPriceCAGR_3Years": "%",
+      "StockPriceCAGR_1Year": "-2%"
+    },
+    "LiquidityRatios": {
+      "Not explicitly stated" : null
+    },
+    "ProfitabilityRatios": {
+      "ROCE": [90, 56, 41, 28],
+      "ROE": [null, null, null, 30, 23]
+    },
+    "ValuationRatios": {
+      "PEratio": "20.5",
+      "PriceToBook": "Not explicitly stated"
+    },
+    "OtherRatios": {
+      "DebtorDays": [0, 0, 3, 45, 69],
+      "InventoryDays": null,
+      "DaysPayable": null,
+      "CashConversionCycle": [0, 0, 3, 45, 69],
+      "WorkingCapitalDays": [-50, -53, -21, 44, 71]
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "PE": 42.61, "MarCap": 106322.89, "DivYld": 1.96, "NPQtr": 577.70, "QtrProfitVar": 38.39, "SalesQtr": 1673.90, "QtrSalesVar": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "PE": 554.42, "MarCap": 96075.89, "DivYld": 0.00, "NPQtr": 50.98, "QtrProfitVar": 350.35, "SalesQtr": 1167.23, "QtrSalesVar": 43.81, "ROCE": 1.75},
+      {"Name": "Coforge", "CMP": 9370.45, "PE": 79.48, "MarCap": 62650.25, "DivYld": 0.81, "NPQtr": 233.60, "QtrProfitVar": 11.71, "SalesQtr": 3062.30, "QtrSalesVar": 34.54, "ROCE": 28.60},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "PE": 52.77, "MarCap": 43110.04, "DivYld": 1.01, "NPQtr": 229.43, "QtrProfitVar": 14.70, "SalesQtr": 955.09, "QtrSalesVar": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "PE": 54.80, "MarCap": 39785.12, "DivYld": 0.46, "NPQtr": 203.75, "QtrProfitVar": 45.30, "SalesQtr": 1471.41, "QtrSalesVar": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "PE": 56.02, "MarCap": 36238.37, "DivYld": 0.94, "NPQtr": 157.41, "QtrProfitVar": -1.85, "SalesQtr": 1296.45, "QtrSalesVar": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "PE": 87.35, "MarCap": 32355.27, "DivYld": 0.00, "NPQtr": 208.58, "QtrProfitVar": 1282.88, "SalesQtr": 103.35, "QtrSalesVar": 30.01, "ROCE": null},
+      {"Name": "Systango Tech", "CMP": 258.05, "PE": 20.48, "MarCap": 378.53, "DivYld": 0.00, "NPQtr": 9.70, "QtrProfitVar": 28.78, "SalesQtr": 6.91, "QtrSalesVar": 28.40, "ROCE": 28.40}
+    ],
+    "Median": {
+      "CMP": 153,
+      "PE": 43.44,
+      "MarCap": 1028.49,
+      "DivYld": 0.0,
+      "NPQtr": 4.85,
+      "QtrProfitVar": 13.68,
+      "SalesQtr": 52.64,
+      "QtrSalesVar": 13.45,
+      "ROCE": 17.45
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 29.5%"
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Debtor days have increased from 39.0 to 69.3 days.",
+      "Working capital days have increased from 31.4 days to 70.9 days"
+    ],
+    "Disclaimer": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPatternNotes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "NewsAndAnnouncements": [
+    {"Date": "12 December 2024", "Headline": "Systango Technologies Limited has informed regarding 'Vinita Rathi, Founder and Chief Executive Officer of Systango got recognised with theprestigious Tech Innovator Award at the 2024 …"},
+    {"Date": "9 December 2024", "Headline": "Systango Technologies Limited has informed regarding 'Onboarding of UK s leading training provider for the energy and wider safety sectors with Turnover Exceeding #60m'."},
+    {"Date": "2 December 2024", "Headline": "Systango Technologies Limited has informed regarding 'Onboarding of a New UK Customer, an highest rated, ready-to-eat meal deliverysubscription platform'."},
+    {"Date": "25 November 2024", "Headline": "Systango Technologies Limited has informed regarding 'New UK Customer Onboarding in Public Services with Turnover Exceeding #50m'."},
+    {"Date": "14 November 2024", "Headline": "Systango Technologies Limited has informed about statement of deviation(s) or variation(s) under Reg. 32"}
+  ]
+}

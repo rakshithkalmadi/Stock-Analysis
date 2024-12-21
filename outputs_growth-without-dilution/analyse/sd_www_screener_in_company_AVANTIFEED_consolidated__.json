@@ -1,0 +1,106 @@
+
+{
+  "Company Overview": {
+    "Name": "Avanti Feeds Ltd",
+    "Sector": "FMCG",
+    "Industry": "Food - Processing - Indian",
+    "Business Description": "Manufactures and sells shrimp feed, and exports processed shrimp.",
+    "Market Position": "Largest producer of shrimp feed in India with a market share of ~45% in the domestic feed business."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 8,479 Cr.",
+    "Current Price": "₹ 622",
+    "High/Low": "₹ 793 / ₹ 396",
+    "P/E Ratio": 20.3,
+    "Book Value": "₹ 185",
+    "Dividend Yield": "1.08 %",
+    "ROCE": "20.0 %",
+    "ROE": "15.1 %",
+    "Face Value": "₹ 1.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [1226, 1069, 1332, 1569, 1322, 1103, 1093, 1554, 1278, 1253, 1284, 1506, 1355],
+      "Expenses": [1185, 1004, 1217, 1466, 1247, 1023, 960, 1416, 1185, 1157, 1154, 1346, 1219],
+      "Operating Profit": [41, 65, 115, 103, 75, 80, 134, 138, 94, 97, 130, 160, 136],
+      "OPM %": [3, 6, 9, 7, 6, 7, 12, 9, 7, 8, 10, 11, 10],
+      "Net Profit": [33, 44, 92, 73, 67, 71, 101, 115, 83, 83, 113, 138, 121],
+      "EPS in Rs": [1.77, 2.95, 6.19, 4.86, 4.16, 4.58, 6.85, 7.81, 5.45, 5.32, 7.64, 9.41, 8.34]
+    },
+    "Annual Results": {
+      "Sales": [626, 1093, 1709, 1935, 2616, 3393, 3488, 4115, 4101, 5036, 5087, 5369, 5398],
+      "Expenses": [575, 982, 1526, 1704, 2284, 2708, 3078, 3659, 3639, 4722, 4692, 4909, 4876],
+      "Operating Profit": [52, 112, 182, 231, 332, 684, 410, 456, 461, 314, 395, 460, 522],
+      "OPM %": [8, 10, 11, 12, 13, 20, 12, 11, 11, 6, 8, 9, 10],
+      "Net Profit": [30, 70, 116, 158, 226, 466, 307, 386, 397, 245, 312, 394, 455],
+      "EPS in Rs": [2.21, 5.18, 8.52, 11.56, 15.83, 32.78, 20.08, 25.43, 26.43, 16.26, 20.45, 26.21, 30.71]
+    }
+  },
+  "Ratios": {
+    "ROCE %": [29, 52, 65, 62, 57, 74, 33, 32, 26, 15, 18, 20],
+    "Debtor Days": [23, 15, 7, 7, 3, 5, 5, 8, 6, 8, 9, 10],
+    "Inventory Days": [71, 84, 59, 68, 63, 79, 51, 61, 63, 85, 71, 75],
+    "Days Payable": [15, 51, 24, 34, 44, 43, 24, 24, 27, 26, 25, 27],
+    "Cash Conversion Cycle": [80, 48, 42, 41, 22, 41, 32, 44, 42, 67, 55, 57],
+    "Working Capital Days": [50, 33, 26, 29, 15, 29, 26, 36, 34, 57, 46, 48]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Varun Beverages", "CMP": 612.55, "P/E": 81.50, "Mar Cap": 207131.87, "Div Yld": 0.16, "NP Qtr": 628.82, "Qtr Profit Var": 23.66, "Sales Qtr": 4804.68, "Qtr Sales Var": 24.14, "ROCE": 28.82},
+      {"Name": "Hatsun Agro", "CMP": 1017.60, "P/E": 74.46, "Mar Cap": 22666.86, "Div Yld": 0.59, "NP Qtr": 64.32, "Qtr Profit Var": -17.08, "Sales Qtr": 2072.10, "Qtr Sales Var": 8.75, "ROCE": 13.19},
+      {"Name": "Bikaji Foods", "CMP": 770.15, "P/E": 64.75, "Mar Cap": 19283.18, "Div Yld": 0.13, "NP Qtr": 72.08, "Qtr Profit Var": 17.57, "Sales Qtr": 713.25, "Qtr Sales Var": 19.31, "ROCE": 29.65},
+      {"Name": "L T Foods", "CMP": 412.20, "P/E": 23.80, "Mar Cap": 14313.77, "Div Yld": 0.36, "NP Qtr": 150.61, "Qtr Profit Var": -4.86, "Sales Qtr": 2107.79, "Qtr Sales Var": 6.57, "ROCE": 21.09},
+      {"Name": "Zydus Wellness", "CMP": 1911.35, "P/E": 38.73, "Mar Cap": 12162.33, "Div Yld": 0.26, "NP Qtr": 20.90, "Qtr Profit Var": 166.10, "Sales Qtr": 492.90, "Qtr Sales Var": 12.05, "ROCE": 5.33},
+      {"Name": "Mrs Bectors", "CMP": 1638.75, "P/E": 70.56, "Mar Cap": 10061.62, "Div Yld": 0.20, "NP Qtr": 38.94, "Qtr Profit Var": 4.45, "Sales Qtr": 496.29, "Qtr Sales Var": 19.72, "ROCE": 25.35},
+      {"Name": "Avanti Feeds", "CMP": 622.35, "P/E": 20.27, "Mar Cap": 8479.25, "Div Yld": 1.08, "NP Qtr": 121.47, "Qtr Profit Var": 53.11, "Sales Qtr": 1355.09, "Qtr Sales Var": 5.99, "ROCE": 20.01}
+    ],
+    "Median": {
+      "CMP": 66,
+      "P/E": 195.24,
+      "Mar Cap": 36.52,
+      "Div Yld": 423.11,
+      "NP Qtr": 0,
+      "Qtr Profit Var": 6.17,
+      "Sales Qtr": 17.57,
+      "Qtr Sales Var": 105.92,
+      "ROCE": 9.47
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has been maintaining a healthy dividend payout of 30.9%"
+    ],
+    "Cons": [
+      "The company has delivered a poor sales growth of 9.01% over past five years.",
+      "Company has a low return on equity of 13.5% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [43.68, 43.68, 43.68, 43.28, 43.28, 43.28, 43.28, 43.28, 43.28, 43.25, 43.23, 43.23],
+      "FIIs": [17.11, 15.16, 14.02, 14.06, 12.67, 12.71, 13.06, 13.50, 13.47, 14.11, 14.28, 14.40],
+      "DIIs": [6.14, 8.18, 8.73, 8.62, 8.75, 9.54, 9.08, 8.81, 8.64, 7.47, 6.41, 5.82],
+      "Government": [2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72],
+      "Public": [30.34, 30.26, 30.85, 31.33, 32.57, 31.73, 31.87, 31.70, 31.88, 32.44, 33.36, 33.85]
+    },
+    "Yearly": {
+      "Promoters": [43.94, 43.78, 43.76, 43.69, 43.69, 43.68, 43.28, 43.25, 43.23],
+      "FIIs": [4.20, 14.14, 13.42, 17.83, 17.65, 15.16, 12.71, 14.11, 14.40],
+      "DIIs": [26.39, 17.06, 3.03, 2.22, 3.13, 8.18, 9.54, 7.47, 5.82],
+      "Government": [2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72, 2.72],
+      "Public": [22.74, 22.29, 37.06, 33.54, 32.81, 30.26, 31.73, 32.44, 33.85]
+    }
+  },
+  "Documents": {
+    "Annual Reports": ["Financial Year 2024", "Financial Year 2023", "Financial Year 2022", "Financial Year 2021", "Financial Year 2020", "Financial Year 2019", "Financial Year 2018", "Financial Year 2017", "Financial Year 2016", "Financial Year 2015", "Financial Year 2014", "Financial Year 2013", "Financial Year 2012", "Financial Year 2011", "Financial Year 2010"],
+    "Credit Ratings": ["Rating update 17 May 2023 from fitch", "Rating update 18 Feb 2022 from fitch", "Rating update 5 Jan 2021 from fitch", "Rating update 31 Dec 2019 from fitch", "Rating update 21 Nov 2018 from fitch", "Rating update 22 Sep 2017 from fitch"],
+    "Announcements": ["Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot", "Shareholder Meeting / Postal Ballot-Scrutinizer's Report", "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate", "Announcement under Regulation 30 (LODR)-Earnings Call Transcript", "Announcement under Regulation 30 (LODR)-Newspaper Publication"]
+  },
+  "Concalls": {
+    "Available": true,
+    "Dates": ["Nov 2024", "Aug 2024", "Jun 2024", "Feb 2024", "Nov 2023", "Aug 2023", "Jun 2023", "Feb 2023", "Nov 2022", "Aug 2022", "May 2022", "Mar 2022", "Nov 2021", "Aug 2021", "Jul 2021", "Mar 2021", "Feb 2021", "Dec 2020", "Sep 2020", "Aug 2020", "Apr 2020", "Mar 2020", "Nov 2019", "Aug 2019", "Jul 2019", "Jun 2019", "Feb 2019", "Dec 2018", "Sep 2018", "Aug 2018", "Jun 2018", "Mar 2018", "Feb 2018", "Dec 2017", "Sep 2017", "May 2017", "Feb 2017"]
+  }
+}

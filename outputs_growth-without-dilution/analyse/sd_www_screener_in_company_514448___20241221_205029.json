@@ -1,0 +1,158 @@
+
+{
+  "Company Overview": {
+    "Name": "Jyoti Resins and Adhesives Ltd",
+    "Sector": "Chemicals",
+    "Industry": "Chemicals",
+    "Business Description": "Manufacturer of synthetic resin adhesives.  Manufactures various types of wood adhesives (white glue) under the brand name EURO 7000.",
+    "Market Position": "Second largest selling wood adhesive brand in India in the retail segment (Euro 7000 brand)."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,590 Cr.",
+    "Current Price": "₹ 1,325",
+    "High/Low": "₹ 1,635 / ₹ 1,181",
+    "P/E Ratio": 22.6,
+    "Book Value": "₹ 159",
+    "Dividend Yield": "0.68 %",
+    "ROCE": "65.9 %",
+    "ROE": "49.3 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided in the HTML
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [49, 49, 57, 64, 66, 67, 65, 61, 63, 62, 71, 69, 65],
+      "Expenses": [43, 42, 50, 53, 52, 50, 45, 40, 42, 41, 50, 46, 46],
+      "Operating Profit": [6, 7, 8, 11, 13, 16, 20, 21, 21, 21, 21, 23, 19],
+      "OPM %": ["12%", "14%", "13%", "17%", "20%", "25%", "31%", "34%", "34%", "33%", "30%", "34%", "30%"],
+      "Other Income": [0, 0, 2, 0, 0, 0, 2, 1, 1, 1, 4, 2, 3],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Profit before tax": [6, 7, 9, 11, 13, 16, 21, 21, 22, 22, 25, 25, 22],
+      "Tax %": ["26%", "29%", "24%", "16%", "33%", "25%", "23%", "25%", "26%", "24%", "25%", "25%", "25%"],
+      "Net Profit": [4, 5, 7, 9, 9, 12, 16, 16, 16, 16, 19, 19, 16],
+      "EPS in Rs": [3.62, 4.08, 5.77, 7.56, 7.34, 10.12, 13.68, 13.11, 13.48, 13.70, 15.64, 15.63, 13.58]
+    },
+    "Annual Results": {
+      "Sales": [10, 15, 26, 46, 41, 54, 69, 74, 101, 182, 261, 257, 268],
+      "Expenses": [9, 14, 25, 45, 40, 52, 66, 62, 91, 158, 201, 173, 183],
+      "Operating Profit": [1, 1, 1, 1, 1, 2, 3, 12, 10, 24, 61, 84, 85],
+      "OPM %": ["10%", "5%", "3%", "3%", "3%", "3%", "4%", "16%", "10%", "13%", "23%", "33%", "32%"],
+      "Other Income": [-0, 0, 0, 0, 0, 0, 1, 0, 6, 3, 2, 7, 10],
+      "Interest": [0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+      "Profit before tax": [1, 0, 0, 0, 1, 1, 3, 11, 16, 26, 61, 90, 93],
+      "Tax %": ["28%", "31%", "33%", "33%", "31%", "30%", "28%", "27%", "25%", "25%", "24%", "25%"],
+      "Net Profit": [0, 0, 0, 0, 0, 1, 2, 8, 12, 20, 46, 67, 70],
+      "EPS in Rs": [0.39, 0.20, 0.18, 0.18, 0.32, 0.88, 1.83, 6.75, 10.14, 16.47, 38.70, 55.93, 58.55]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 12, 12, 12],
+      "Reserves": [-0, 0, 0, 0, 1, 2, 4, 24, 40, 59, 94, 154, 179],
+      "Borrowings": [3, 5, 9, 8, 8, 0, 1, 1, 0, 0, 0, 0, 0],
+      "Other Liabilities": [3, 4, 7, 17, 36, 51, 74, 91, 100, 89, 105, 104, 115],
+      "Total Liabilities": [10, 13, 21, 29, 49, 58, 82, 120, 144, 152, 211, 270, 305],
+      "Fixed Assets": [1, 1, 1, 1, 1, 4, 5, 19, 39, 46, 47, 48, 48],
+      "CWIP": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Investments": [0, 0, 0, 0, 0, 0, 0, 6, 3, 0, 0, 0, 3],
+      "Other Assets": [9, 12, 20, 28, 48, 53, 77, 96, 102, 105, 163, 222, 254],
+      "Total Assets": [10, 13, 21, 29, 49, 58, 82, 120, 144, 152, 211, 270, 305]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [-1, -2, -4, 1, 4, 3, 4, 7, 10, 3, 1, 27],
+      "Cash from Investing Activity": [-0, 0, -0, -0, -1, -2, -1, -7, -9, -2, -0, 5],
+      "Cash from Financing Activity": [1, 2, 4, -1, -1, 0, 0, 0, -2, -1, -3, -7],
+      "Net Cash Flow": [-0, -0, 0, 0, 2, 2, 3, 0, -1, -1, -2, 24]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "33%",
+      "Compounded Sales Growth (5 Years)": "30%",
+      "Compounded Sales Growth (3 Years)": "36%",
+      "Compounded Sales Growth (TTM)": "5%",
+      "Compounded Profit Growth (10 Years)": "76%",
+      "Compounded Profit Growth (5 Years)": "98%",
+      "Compounded Profit Growth (3 Years)": "82%",
+      "Compounded Profit Growth (TTM)": "16%",
+      "Stock Price CAGR (10 Years)": "84%",
+      "Stock Price CAGR (5 Years)": "91%",
+      "Stock Price CAGR (3 Years)": "51%",
+      "Stock Price CAGR (1 Year)": "-15%"
+    },
+    "Liquidity Ratios": null, //Not explicitly provided
+    "Profitability Ratios": {
+      "ROCE %": [15, 8, 7, 9, 10, 18, 43, 57, 40, 46, 73, 66]
+    },
+    "Valuation Ratios": null, //Partially provided (P/E ratio), others not explicitly stated.
+    "Other Ratios": {
+      "Debtor Days": [245, 222, 205, 165, 333, 294, 288, 264, 188, 129, 128, 133],
+      "Inventory Days": [112, 140, 139, 121, 110, 57, 43, 89, 44, 36, 16, 29],
+      "Days Payable": [182, 135, 162, 166, 142, 26, 23, 41, 17, 8, 46, 58],
+      "Cash Conversion Cycle": [175, 227, 182, 119, 301, 325, 308, 313, 214, 157, 98, 104],
+      "Working Capital Days": [193, 186, 166, 85, 66, -13, -22, -82, -98, -15, 1, 10]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Pidilite Inds.", "CMP": 2976.80, "P/E": 77.17, "Mar Cap": 151413.76, "Div Yld": 0.54, "NP Qtr": 540.30, "Qtr Profit Var": 18.75, "Sales Qtr": 3234.91, "Qtr Sales Var": 5.16, "ROCE": 29.74},
+      {"Name": "SRF", "CMP": 2277.60, "P/E": 59.78, "Mar Cap": 67513.72, "Div Yld": 0.32, "NP Qtr": 201.42, "Qtr Profit Var": -33.03, "Sales Qtr": 3424.30, "Qtr Sales Var": 7.77, "ROCE": 12.71},
+      {"Name": "Linde India", "CMP": 6359.80, "P/E": 123.99, "Mar Cap": 54236.37, "Div Yld": 0.06, "NP Qtr": 104.39, "Qtr Profit Var": -2.17, "Sales Qtr": 634.42, "Qtr Sales Var": -10.81, "ROCE": 17.36},
+      {"Name": "Gujarat Fluoroch", "CMP": 4329.05, "P/E": 115.96, "Mar Cap": 47554.61, "Div Yld": 0.07, "NP Qtr": 121.00, "Qtr Profit Var": 128.30, "Sales Qtr": 1188.00, "Qtr Sales Var": 25.45, "ROCE": 9.76},
+      {"Name": "Godrej Industrie", "CMP": 1119.90, "P/E": 54.56, "Mar Cap": 37712.87, "Div Yld": 0.00, "NP Qtr": 488.86, "Qtr Profit Var": 229.46, "Sales Qtr": 4804.96, "Qtr Sales Var": 22.03, "ROCE": 5.59},
+      {"Name": "Deepak Nitrite", "CMP": 2596.85, "P/E": 44.57, "Mar Cap": 35419.23, "Div Yld": 0.29, "NP Qtr": 194.20, "Qtr Profit Var": -5.31, "Sales Qtr": 2032.00, "Qtr Sales Var": 14.28, "ROCE": 21.65},
+      {"Name": "Himadri Special", "CMP": 546.85, "P/E": 56.02, "Mar Cap": 26996.96, "Div Yld": 0.09, "NP Qtr": 135.70, "Qtr Profit Var": 34.53, "Sales Qtr": 1136.92, "Qtr Sales Var": 13.18, "ROCE": 18.81}
+    ],
+    "Median": {
+      "CMP": 456.5,
+      "P/E": 34.96,
+      "Mar Cap": 1547.37,
+      "Div Yld": 0.29,
+      "NP Qtr": 9.66,
+      "Qtr Profit Var": 6.63,
+      "Sales Qtr": 168.44,
+      "Qtr Sales Var": 6.18,
+      "ROCE": 14.5
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 98.1% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 48.2%",
+      "Company's median sales growth is 31.7% of last 10 years"
+    ],
+    "Cons": [
+      "Stock is trading at 8.34 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "12 Dec", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation"},
+      {"Date": "12 Dec", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation"},
+      {"Date": "12 Dec", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation"},
+      {"Date": "27 Nov", "Title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript"},
+      {"Date": "21 Nov", "Title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript"}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "bse"},
+      {"Year": 2010, "Source": "bse"}
+    ],
+    "Concalls": [] //List of concalls is present but requires further parsing to extract relevant data.
+  }
+}

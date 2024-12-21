@@ -1,0 +1,166 @@
+
+{
+  "Company Overview": {
+    "Name": "Paramount Communications Ltd",
+    "Sector": "Cables",
+    "Industry": "Cables - Power",
+    "Business Description": "Engaged in manufacturing of Wires and Cables comprising of power cables, telecom cables, railway cables and specialised cables.  Offers turnkey services, including repair and installation of undersea cables.  Company has 25 products with 2,500+ SKUs.",
+    "Market Position": "Prestigious clientele including government, institutional and major private sector organizations (Indian Railways, BSNL, RailTel, Tata Projects Limited, Adani Renewables, Adani Power, L&T, Siemens, etc.)"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,589 Cr.",
+    "Current Price": "₹ 84.9",
+    "High/Low": "₹ 117 / ₹ 62.8",
+    "P/E Ratio": 26.6,
+    "Book Value": "₹ 22.2",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "14.7 %",
+    "ROE": "18.4 %",
+    "Face Value": "₹ 2.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [138, 163, 183, 164, 213, 218, 202, 211, 252, 284, 323, 321, 356], 
+      "Expenses": [133, 157, 176, 156, 199, 203, 191, 194, 231, 260, 296, 294, 325],
+      "Operating Profit": [5, 6, 7, 8, 14, 15, 11, 17, 21, 24, 27, 27, 31],
+      "OPM %": ["4%", "4%", "4%", "5%", "7%", "7%", "6%", "8%", "8%", "8%", "8%", "8%", "9%"],
+      "Other Income": [1, 1, 2, 3, 3, 4, 7, 2, 2, 2, 3, 3, 2],
+      "Interest": [2, 2, 1, 1, 2, 2, 2, 2, 1, 1, 1, 1, 2],
+      "Depreciation": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3],
+      "Profit before tax": [2, 3, 5, 7, 13, 14, 14, 15, 20, 22, 26, 26, 29],
+      "Tax %": ["0%", "0%", "0%", "0%", "0%", "0%", "0%", "0%", "0%", "0%", "-14%", "2%", "30%"],
+      "Net Profit": [2, 3, 5, 7, 13, 14, 14, 15, 19, 22, 29, 25, 20],
+      "EPS in Rs": [0.08, 0.14, 0.25, 0.36, 0.65, 0.74, 0.71, 0.62, 0.82, 0.79, 0.97, 0.83, 0.67]
+    },
+    "Annual Results": {
+      "Sales": [677, 412, 451, 308, 314, 433, 614, 606, 518, 580, 794, 1068, 1285],
+      "Expenses": [685, 431, 486, 351, 362, 436, 571, 561, 501, 559, 746, 978, 1175],
+      "Operating Profit": [-8, -20, -35, -44, -48, -3, 42, 45, 17, 20, 48, 89, 109],
+      "OPM %": ["-1%", "-5%", "-8%", "-14%", "-15%", "-1%", "7%", "7%", "3%", "4%", "6%", "8%", "8%"],
+      "Other Income": [45, -29, 4, 2, 92, 31, 3, 3, 3, 4, 16, 8, 10],
+      "Interest": [49, 42, 61, 74, 20, 4, 8, 11, 7, 6, 7, 6, 6],
+      "Depreciation": [12, 11, 9, 9, 10, 9, 9, 11, 9, 10, 9, 9, 11],
+      "Profit before tax": [-24, -101, -101, -124, 15, 15, 29, 26, 3, 8, 48, 82, 103],
+      "Tax %": ["0%", "0%", "0%", "0%", "0%", "0%", "0%", "0%", "0%", "0%", "0%", "-4%", "0%"],
+      "Net Profit": [-25, -101, -101, -124, 15, 15, 29, 26, 3, 8, 48, 86, 97],
+      "EPS in Rs": [-1.96, -8.05, -8.06, -9.89, 1.17, 1.03, 1.70, 1.43, 0.16, 0.42, 2.46, 2.82, 3.26]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "10%",
+        "5 Years": "12%",
+        "3 Years": "27%",
+        "TTM": "45%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "12%",
+        "5 Years": "24%",
+        "3 Years": "202%",
+        "TTM": "56%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "44%",
+        "5 Years": "59%",
+        "3 Years": "88%",
+        "1 Year": "-8%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [105, 122, 128, 152, 135, 159, 127, 125, 118, 109, 78, 86],
+      "Inventory Days": [163, 149, 65, 69, 17, 29, 60, 88, 88, 92, 71, 108],
+      "Days Payable": [67, 82, 28, 66, 25, 95, 80, 88, 59, 67, 25, 39],
+      "Cash Conversion Cycle": [200, 189, 164, 156, 127, 93, 107, 125, 147, 134, 123, 155],
+      "Working Capital Days": [139, 74, 14, -203, 36, 105, 107, 126, 150, 142, 128, 153]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["-4%", "-9%", "-20%", "-52%", "-49%", "-3%", "12%", "10%", "3%", "4%", "13%", "15%"],
+      "ROE": ["%", "14%", "16%", "18%"]
+    },
+    "Valuation Ratios": {
+      "EV/EBITDA": "Hidden",
+      "Price to Book": "Hidden",
+      "Market Cap / Sales": "Hidden"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Polycab India", "CMP": 7178.25, "P/E": 60.17, "Mar Cap": 107975.00, "Div Yld": 0.42, "NP Qtr": 445.21, "Qtr Profit Var": 3.35, "Sales Qtr": 5498.42, "Qtr Sales Var": 30.37, "ROCE": 31.33},
+      {"Name": "KEI Industries", "CMP": 4166.25, "P/E": 63.74, "Mar Cap": 39809.60, "Div Yld": 0.08, "NP Qtr": 154.81, "Qtr Profit Var": 10.41, "Sales Qtr": 2279.65, "Qtr Sales Var": 17.21, "ROCE": 27.21},
+      {"Name": "Finolex Cables", "CMP": 1157.95, "P/E": 32.64, "Mar Cap": 17709.61, "Div Yld": 0.69, "NP Qtr": 146.09, "Qtr Profit Var": -11.67, "Sales Qtr": 1311.72, "Qtr Sales Var": 10.47, "ROCE": 18.68},
+      {"Name": "R R Kabel", "CMP": 1399.20, "P/E": 60.14, "Mar Cap": 15820.54, "Div Yld": 0.43, "NP Qtr": 49.75, "Qtr Profit Var": -32.72, "Sales Qtr": 1810.14, "Qtr Sales Var": 12.45, "ROCE": 21.71},
+      {"Name": "Diamond Power", "CMP": 153.20, "P/E": 465.85, "Mar Cap": 8073.20, "Div Yld": 0.00, "NP Qtr": 4.00, "Qtr Profit Var": 14.94, "Sales Qtr": 250.30, "Qtr Sales Var": 235.75, "ROCE": 6.00},
+      {"Name": "Paramount Comm.", "CMP": 84.91, "P/E": 26.65, "Mar Cap": 2589.20, "Div Yld": 0.00, "NP Qtr": 20.33, "Qtr Profit Var": 4.31, "Sales Qtr": 355.89, "Qtr Sales Var": 40.98, "ROCE": 14.68},
+      {"Name": "Universal Cables", "CMP": 739.75, "P/E": 26.62, "Mar Cap": 2566.59, "Div Yld": 0.41, "NP Qtr": 18.28, "Qtr Profit Var": 56.91, "Sales Qtr": 638.12, "Qtr Sales Var": 29.07, "ROCE": 10.00}
+    ],
+    "Median": {
+      "CMP": 212.24,
+      "P/E": 43.48,
+      "Mar Cap": 1086.09,
+      "Div Yld": 0.0,
+      "NP Qtr": 8.49,
+      "Qtr Profit Var": 14.94,
+      "Sales Qtr": 234.15,
+      "Qtr Sales Var": 29.76,
+      "ROCE": 18.7
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 23.8% CAGR over last 5 years"
+    ],
+    "Cons": [
+      "Stock is trading at 3.82 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Tax rate seems low",
+      "Promoter holding has decreased over last 3 years: -13.0%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate", "Date": "18 Dec"},
+      {"Title": "Intimation W.R.T The Proposal Of Allotment Of Land By MPIDC", "Date": "10 Dec", "Description": "MPIDC has issued LOI with respect to proposal of allotment of land"},
+      {"Title": "Announcement under Regulation 30 (LODR)-Credit Rating", "Date": "2 Dec", "Description": "ICRA upgrades Paramount's credit rating to BBB (Stable)."},
+      {"Title": "Announcement under Regulation 30 (LODR)-Resignation of Company Secretary / Compliance Officer", "Date": "19 Nov", "Description": "Resignation of Company Secretary and Compliance Officer."},
+      {"Title": "Announcement under Regulation 30 (LODR)-Monitoring Agency Report", "Date": "14 Nov", "Description": "Monitoring Agency Report for Q2 FY2025 issued."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "nse"},
+      {"Year": 2011, "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "3 Dec", "Source": "icra"},
+      {"Date": "5 Apr", "Source": "icra"},
+      {"Date": "17 Sep 2015", "Source": "icra"}
+    ],
+    "Concalls": [
+      {"Date": "Nov 2024"},
+      {"Date": "Aug 2024"},
+      {"Date": "May 2024"},
+      {"Date": "Apr 2024"},
+      {"Date": "Feb 2024"},
+      {"Date": "Nov 2023"},
+      {"Date": "Aug 2023"},
+      {"Date": "May 2023"}
+    ]
+  }
+}

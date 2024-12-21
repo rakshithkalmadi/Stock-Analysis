@@ -1,0 +1,167 @@
+
+{
+  "Company Overview": {
+    "Name": "Z-Tech (India) Ltd",
+    "Sector": "Entertainment",
+    "Industry": "Recreation / Amusement Parks",
+    "Business Description": "Incorporated in November 1994, Z-Tech (India) Limited designs civil engineering products and provides state-of-the-art specialty Geo-Technical Solutions for infrastructure and civil construction projects in India. The company is involved in the waste management sector, focusing on creating theme parks using recycled scrap materials.",
+    "MarketPosition": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 647 Cr.",
+    "CurrentPrice": "₹ 505",
+    "High/Low": "₹ 505 / ₹ 99.2",
+    "StockPE": 82.9,
+    "BookValue": "₹ 45.5",
+    "DividendYield": "0.00%",
+    "ROCE": "63.6%",
+    "ROE": "48.9%",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Information not explicitly available, but mentioned as 'almost debt free' in pros."
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": [10.76, 18.59, 22.14, 16.23, 19.04],
+      "Expenses": [9.61, 13.81, 18.71, 12.86, 15.20],
+      "OperatingProfit": [1.15, 4.78, 3.43, 3.37, 3.84],
+      "OPM%": ["10.69%", "25.71%", "15.49%", "20.76%", "20.17%"],
+      "OtherIncome": [0.00, 0.39, 0.03, 0.01, 0.27],
+      "Interest": [0.02, 0.02, 0.04, 0.01, 0.03],
+      "Depreciation": [0.13, 0.15, 0.16, 0.17, 0.17],
+      "ProfitBeforeTax": [1.00, 5.00, 3.26, 3.20, 3.91],
+      "Tax%": ["-3.00%", "26.40%", "17.48%", "26.25%", "23.27%"],
+      "NetProfit": [1.02, 3.68, 2.70, 2.35, 3.00],
+      "EPSinRs": [2.87, 1.84, 2.34, null, null] 
+    },
+    "AnnualResults": {
+      "Sales": [23.48, 30.64, 25.73, 67.32],
+      "Expenses": [22.68, 30.31, 22.58, 56.11],
+      "OperatingProfit": [0.80, 0.33, 3.15, 11.21],
+      "OPM%": ["3.41%", "1.08%", "12.24%", "16.65%"],
+      "OtherIncome": [0.46, 0.20, 0.08, 0.05],
+      "Interest": [0.14, 0.07, 0.12, 0.11],
+      "Depreciation": [0.17, 0.30, 0.43, 0.64],
+      "ProfitBeforeTax": [0.95, 0.16, 2.68, 10.51],
+      "Tax%": ["27.37%", "56.25%", "27.24%", "25.78%"],
+      "NetProfit": [0.70, 0.07, 1.96, 7.80],
+      "EPSinRs": [8.29, null, null, null]
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": [1.10, 1.10, 1.10, 9.41, 12.80],
+      "Reserves": [6.84, 6.92, 8.89, 12.50, 45.47],
+      "Borrowings": [0.94, 0.72, 0.71, 1.31, 1.79],
+      "OtherLiabilities": [10.85, 10.51, 12.70, 18.70, 18.16],
+      "TotalLiabilities": [19.73, 19.25, 23.40, 41.92, 78.22],
+      "FixedAssets": [0.68, 1.02, 1.50, 4.31, 4.49],
+      "CWIP": [0.00, 0.00, 0.00, 0.00, 0.00],
+      "Investments": [0.00, 0.00, 0.00, -0.39, 0.00],
+      "OtherAssets": [19.05, 18.23, 21.90, 38.00, 73.73],
+      "TotalAssets": [19.73, 19.25, 23.40, 41.92, 78.22]
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": [-0.83, 1.68, 0.08, -1.50],
+      "CashFromInvestingActivity": [-0.17, -0.62, -0.96, -2.12],
+      "CashFromFinancingActivity": [-0.36, -0.27, -0.07, 4.21],
+      "NetCashFlow": [-1.35, 0.78, -0.95, 0.59]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "42%",
+        "TTM": "162%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "128%",
+        "TTM": "286%"
+      },
+      "StockPriceCAGR": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "1Year": null
+      }
+    },
+    "LiquidityRatios": {
+      "DebtorDays": [189.03, 144.98, 213.92, 154.58],
+      "InventoryDays": [21.23, 7.67, 20.61, 8.03],
+      "DaysPayable": [170.05, 143.75, 214.23, 110.05],
+      "CashConversionCycle": [40.21, 8.90, 20.31, 52.55],
+      "WorkingCapitalDays": [108.97, 66.47, 107.53, 87.94]
+    },
+    "ProfitabilityRatios": {
+      "ROCE%": ["2.65%", "31.29%", "63.59%", null],
+      "ROE": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "30%",
+        "LastYear": "49%"
+      }
+    },
+    "ValuationRatios": {
+      "PriceToBook": null, 
+      "MarketCapToSales": null,
+      "EV/EBITDA": null
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Wonderla Holiday", "CMP": 801.75, "PE": 36.86, "MarCap": 5083.80, "DivYld": 0.31, "NPQtr": 14.72, "QtrProfitVar": 8.88, "SalesQtr": 67.38, "QtrSalesVar": -10.35, "ROCE": 19.76},
+      {"Name": "Imagica. Enter.", "CMP": 73.59, "PE": 50.30, "MarCap": 3991.00, "DivYld": 0.00, "NPQtr": -6.59, "QtrProfitVar": 46.78, "SalesQtr": 39.97, "QtrSalesVar": 11.52, "ROCE": 3.04},
+      {"Name": "Z-Tech", "CMP": 505.45, "PE": 82.93, "MarCap": 646.84, "DivYld": 0.00, "NPQtr": 3.00, "QtrProfitVar": -18.48, "SalesQtr": 19.04, "QtrSalesVar": 2.42, "ROCE": 63.59},
+      {"Name": "Nicco Parks", "CMP": 134.85, "PE": 26.99, "MarCap": 631.10, "DivYld": 0.74, "NPQtr": 5.44, "QtrProfitVar": 14.29, "SalesQtr": 13.77, "QtrSalesVar": -17.50, "ROCE": 40.12},
+      {"Name": "Ajwa Fun World", "CMP": 21.80, "PE": 27.31, "MarCap": 13.93, "DivYld": 0.00, "NPQtr": -0.50, "QtrProfitVar": -127.27, "SalesQtr": -0.06, "QtrSalesVar": -116.67, "ROCE": 12.15}
+    ],
+    "Median": {
+      "CMP": 320.15,
+      "PE": 43.58,
+      "MarCap": 2318.92,
+      "DivYld": 0.15,
+      "NPQtr": 4.22,
+      "QtrProfitVar": 11.59,
+      "SalesQtr": 29.5,
+      "QtrSalesVar": -3.96,
+      "ROCE": 29.94
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 30.0%"
+    ],
+    "Cons": [
+      "Stock is trading at 11.1 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Company has high debtors of 155 days."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPattern": {
+      "Quarterly": {
+        "Promoters": "60.75%",
+        "FIIs": "6.74%",
+        "DIIs": "7.17%",
+        "Public": "25.34%",
+        "NoOfShareholders": 1444
+      },
+      "Yearly": {
+        "Promoters": "60.75%",
+        "FIIs": "1.73%",
+        "DIIs": "0.06%",
+        "Public": "37.46%",
+        "NoOfShareholders": 1126
+      },
+      "Disclaimer": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    },
+    "Documents": [
+      {"Date": "21 December 2024", "Title": "Board Meeting Intimation", "Description": "Z-TECH (INDIA) LIMITED has informed about Board Meeting to be held on 26-Dec-2024 to consider and approve Fund raising/Other business."},
+      {"Date": "21 December 2024", "Title": "Trading Window-XBRL", "Description": "Z-Tech (India) Limited has informed about Closure of Trading Window"},
+      {"Date": "21 December 2024", "Title": "Trading Window", "Description": "Z-Tech (India) Limited has informed regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015"},
+      {"Date": "13 December 2024", "Title": "Updates", "Description": "Z-Tech (India) Limited has informed regarding intimation under Regulation 30 of SEBI (LODR) Regulations, 2015''."},
+      {"Date": "27 November 2024", "Title": "Analysts/Institutional Investor Meet/Con. Call Updates", "Description": "Z-Tech (India) Limited has informed about Update on investor meet held on today i.e. 27.11.2024"}
+    ]
+  }
+}

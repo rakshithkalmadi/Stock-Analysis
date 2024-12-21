@@ -1,0 +1,303 @@
+
+{
+  "Company Overview": {
+    "Name": "Enviro Infra Engineers Ltd",
+    "Sector": "Infrastructure Developers & Operators",
+    "Industry": "Engineering - Turnkey Services",
+    "Business Description": "Engaged in the design, construction, operation, and maintenance of water and Waste-Water Treatment Plants (WWTPs) and water supply projects (WSSPs) for government agencies/entities.",
+    "Market Position": "Information not explicitly provided in the HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 5,633 Cr.",
+    "Current Price": "₹ 321",
+    "High/Low": "₹ 392 / ₹ 205",
+    "P/E Ratio": "52.9",
+    "Book Value": "₹ (Not specified)",
+    "Dividend Yield": "0.00%",
+    "ROCE": "47.4%",
+    "ROE": "50.8%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly provided in the HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sep 2023": {
+        "Sales": "213",
+        "Expenses": "157",
+        "Operating Profit": "56",
+        "OPM %": "26%",
+        "Other Income": "9",
+        "Interest": "12",
+        "Depreciation": "2",
+        "Profit before tax": "50",
+        "Tax %": "27%",
+        "Net Profit": "36",
+        "EPS in Rs": "2.60"
+      },
+      "Jun 2024": {
+        "Sales": "205",
+        "Expenses": "154",
+        "Operating Profit": "51",
+        "OPM %": "25%",
+        "Other Income": "2",
+        "Interest": "8",
+        "Depreciation": "2",
+        "Profit before tax": "43",
+        "Tax %": "30%",
+        "Net Profit": "30",
+        "EPS in Rs": "2.25"
+      },
+      "Sep 2024": {
+          "Sales": "213",
+          "Expenses": "157",
+          "Operating Profit": "56",
+          "OPM %": "26%",
+          "Other Income": "9",
+          "Interest": "12",
+          "Depreciation": "2",
+          "Profit before tax": "50",
+          "Tax %": "27%",
+          "Net Profit": "36",
+          "EPS in Rs": "2.60"
+      }
+    },
+    "Annual Results": {
+      "Mar 2020": {
+        "Sales": "108",
+        "Expenses": "98",
+        "Operating Profit": "10",
+        "OPM %": "9%",
+        "Other Income": "2",
+        "Interest": "3",
+        "Depreciation": "1",
+        "Profit before tax": "7",
+        "Tax %": "27%",
+        "Net Profit": "5",
+        "EPS in Rs": "21.35"
+      },
+      "Mar 2021": {
+        "Sales": "124",
+        "Expenses": "110",
+        "Operating Profit": "15",
+        "OPM %": "12%",
+        "Other Income": "2",
+        "Interest": "4",
+        "Depreciation": "1",
+        "Profit before tax": "12",
+        "Tax %": "26%",
+        "Net Profit": "9",
+        "EPS in Rs": "35.29"
+      },
+      "Mar 2023": {
+        "Sales": "338",
+        "Expenses": "256",
+        "Operating Profit": "82",
+        "OPM %": "24%",
+        "Other Income": "4",
+        "Interest": "8",
+        "Depreciation": "2",
+        "Profit before tax": "75",
+        "Tax %": "26%",
+        "Net Profit": "55",
+        "EPS in Rs": "21.46"
+      },
+      "Mar 2024": {
+        "Sales": "729",
+        "Expenses": "562",
+        "Operating Profit": "166",
+        "OPM %": "23%",
+        "Other Income": "9",
+        "Interest": "23",
+        "Depreciation": "6",
+        "Profit before tax": "147",
+        "Tax %": "28%",
+        "Net Profit": "106",
+        "EPS in Rs": "7.92"
+      }
+    },
+    "Sales Growth": {
+      "10 Years": "%",
+      "5 Years": "%",
+      "3 Years": "80%",
+      "TTM": "116%"
+    },
+    "Profit Growth": {
+      "10 Years": "%",
+      "5 Years": "%",
+      "3 Years": "131%",
+      "TTM": "93%"
+    },
+    "Stock Price CAGR": {
+      "10 Years": "%",
+      "5 Years": "%",
+      "3 Years": "%",
+      "1 Year": "%"
+    }
+  },
+  "Ratios": {
+    "ROCE %": {
+      "Mar 2020": "25%",
+      "Mar 2021": "47%"
+    },
+    "Debtor Days": {
+      "Mar 2020": "200",
+      "Mar 2021": "150",
+      "Mar 2023": "61",
+      "Mar 2024": "52"
+    },
+    "Inventory Days": {
+      "Mar 2020": "14",
+      "Mar 2021": "24",
+      "Mar 2023": "20",
+      "Mar 2024": "32"
+    },
+    "Days Payable": {
+      "Mar 2020": "292",
+      "Mar 2021": "249",
+      "Mar 2023": "197",
+      "Mar 2024": "141"
+    },
+    "Cash Conversion Cycle": {
+      "Mar 2020": "-78",
+      "Mar 2021": "-75",
+      "Mar 2023": "-117",
+      "Mar 2024": "-57"
+    },
+    "Working Capital Days": {
+      "Mar 2020": "107",
+      "Mar 2021": "125",
+      "Mar 2023": "1",
+      "Mar 2024": "96"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Larsen & Toubro", "CMP": "3629.85", "P/E": "37.08", "Mar Cap": "499151.79", "Div Yld": "0.77", "NP Qtr": "4098.84", "Qtr Profit Var": "5.36", "Sales Qtr": "61554.58", "Qtr Sales Var": "20.64", "ROCE": "13.44"},
+      {"Name": "Techno Elec.Engg", "CMP": "1625.15", "P/E": "59.64", "Mar Cap": "18900.43", "Div Yld": "0.43", "NP Qtr": "94.21", "Qtr Profit Var": "27.69", "Sales Qtr": "441.42", "Qtr Sales Var": "-4.51", "ROCE": "16.53"},
+      {"Name": "ACME Solar Hold.", "CMP": "232.95", "P/E": "114.63", "Mar Cap": "14095.52", "Div Yld": "0.00", "NP Qtr": "15.30", "Qtr Profit Var": "-19.09", "Sales Qtr": "259.59", "Qtr Sales Var": "-19.71", "ROCE": "8.41"},
+      {"Name": "Reliance Infra.", "CMP": "290.30", "P/E": null, "Mar Cap": "11499.69", "Div Yld": "0.00", "NP Qtr": "4194.63", "Qtr Profit Var": "389.06", "Sales Qtr": "7258.49", "Qtr Sales Var": "1.48", "ROCE": "7.38"},
+      {"Name": "ISGEC Heavy", "CMP": "1511.85", "P/E": "38.17", "Mar Cap": "11116.56", "Div Yld": "0.26", "NP Qtr": "95.70", "Qtr Profit Var": "54.83", "Sales Qtr": "1643.90", "Qtr Sales Var": "11.59", "ROCE": "12.31"},
+      {"Name": "Sterling & Wils.", "CMP": "443.20", "P/E": null, "Mar Cap": "10348.47", "Div Yld": "0.00", "NP Qtr": "8.57", "Qtr Profit Var": "113.00", "Sales Qtr": "1030.49", "Qtr Sales Var": "35.68", "ROCE": "3.77"},
+      {"Name": "Engineers India", "CMP": "183.68", "P/E": "27.89", "Mar Cap": "10323.59", "Div Yld": "1.63", "NP Qtr": "99.63", "Qtr Profit Var": "-21.83", "Sales Qtr": "688.94", "Qtr Sales Var": "-12.77", "ROCE": "22.21"},
+      {"Name": "Enviro Infra", "CMP": "320.92", "P/E": "52.92", "Mar Cap": "5633.11", "Div Yld": "0.00", "NP Qtr": "36.37", "Qtr Profit Var": "193.32", "Sales Qtr": "213.01", "Qtr Sales Var": "77.82", "ROCE": "47.37"}
+    ],
+    "Median": {
+      "CMP": "270.95",
+      "P/E": "34.29",
+      "Mar Cap": "1417.01",
+      "Div Yld": "0.0",
+      "NP Qtr": "8.0",
+      "Qtr Profit Var": "28.58",
+      "Sales Qtr": "196.64",
+      "Qtr Sales Var": "11.32",
+      "ROCE": "15.6"
+    }
+  },
+  "Other Insights": {
+    "Warnings": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and your own analysis.",
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ],
+    "Shareholding Pattern": {
+      "Nov 2024": {
+        "Promoters": "70.02%",
+        "FIIs": "2.67%",
+        "DIIs": "10.85%",
+        "Public": "16.46%",
+        "No. of Shareholders": "1,56,894"
+      }
+    },
+    "Notes": "Information regarding working capital days increase from 48.2 days to 95.7 days."
+  },
+  "Balance Sheet": {
+    "Mar 2020": {
+      "Equity Capital": "2",
+      "Reserves": "26",
+      "Borrowings": "26",
+      "Other Liabilities": "56",
+      "Total Liabilities": "111",
+      "Fixed Assets": "8",
+      "CWIP": "0",
+      "Investments": "0",
+      "Other Assets": "103",
+      "Total Assets": "111"
+    },
+    "Mar 2021": {
+      "Equity Capital": "2",
+      "Reserves": "35",
+      "Borrowings": "30",
+      "Other Liabilities": "45",
+      "Total Liabilities": "112",
+      "Fixed Assets": "8",
+      "CWIP": "0",
+      "Investments": "0",
+      "Other Assets": "104",
+      "Total Assets": "112"
+    },
+    "Mar 2023": {
+      "Equity Capital": "26",
+      "Reserves": "101",
+      "Borrowings": "65",
+      "Other Liabilities": "157",
+      "Total Liabilities": "348",
+      "Fixed Assets": "18",
+      "CWIP": "0",
+      "Investments": "0",
+      "Other Assets": "329",
+      "Total Assets": "348"
+    },
+    "Mar 2024": {
+      "Equity Capital": "137",
+      "Reserves": "155",
+      "Borrowings": "234",
+      "Other Liabilities": "235",
+      "Total Liabilities": "761",
+      "Fixed Assets": "47",
+      "CWIP": "1",
+      "Investments": "0",
+      "Other Assets": "713",
+      "Total Assets": "761"
+    },
+    "Sep 2024": {
+      "Equity Capital": "137",
+      "Reserves": "222",
+      "Borrowings": "376",
+      "Other Liabilities": "214",
+      "Total Liabilities": "948",
+      "Fixed Assets": "55",
+      "CWIP": "0",
+      "Investments": "0",
+      "Other Assets": "893",
+      "Total Assets": "948"
+    }
+  },
+  "Cash Flows": {
+    "Mar 2020": {
+      "Cash from Operating Activity": "-2",
+      "Cash from Investing Activity": "-1",
+      "Cash from Financing Activity": "1",
+      "Net Cash Flow": "-2"
+    },
+    "Mar 2021": {
+      "Cash from Operating Activity": "5",
+      "Cash from Investing Activity": "-3",
+      "Cash from Financing Activity": "-1",
+      "Net Cash Flow": "1"
+    },
+    "Mar 2023": {
+      "Cash from Operating Activity": "101",
+      "Cash from Investing Activity": "-141",
+      "Cash from Financing Activity": "42",
+      "Net Cash Flow": "2"
+    },
+    "Mar 2024": {
+      "Cash from Operating Activity": "-68",
+      "Cash from Investing Activity": "-139",
+      "Cash from Financing Activity": "206",
+      "Net Cash Flow": "-2"
+    }
+  }
+}

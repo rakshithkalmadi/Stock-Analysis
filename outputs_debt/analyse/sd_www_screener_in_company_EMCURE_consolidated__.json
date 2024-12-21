@@ -1,0 +1,145 @@
+
+{
+  "Company Overview": {
+    "Name": "Emcure Pharmaceuticals Ltd",
+    "Sector": "Pharmaceuticals",
+    "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+    "Business Description": "Emcure Pharmaceuticals Ltd manufactures and markets pharmaceutical products globally. EPL develops, manufactures and markets a broad range of pharmaceutical and biopharmaceutical products across a wide range of dosage forms, including oral solids, oral liquids, injectables, including liposomal and lyophilized injectables, biotherapeutics and complex APIs, including chiral molecules, iron molecules and cytotoxic products. It has a presence in all major therapeutic areas including Gynaecology, cardiology, blood-related, oncology, respiratory, CNS & HIV etc. Company has 350+ brands, with a wide network across 70+ countries.",
+    "Market Position": "Part of BSE IPO, Nifty 500, Multicap 50:25:25, Nifty Smallcap 250, Nifty Total Market, Nifty 500, Nifty MidSmallcap 400"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 26,007 Cr.",
+    "Current Price": "₹ 1,373",
+    "High/Low": "₹ 1,580 / ₹ 1,225",
+    "P/E Ratio": "51.7",
+    "Book Value": "₹ 218",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "18.6 %",
+    "ROE": "18.5 %",
+    "Face Value": "₹ 10.0",
+    "BSE Code": "544210",
+    "NSE Code": "EMCURE"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [1556, 1663, 1771, 1815, 2002], 
+      "Expenses": [1261, 1334, 1460, 1479, 1621],
+      "Operating Profit": [296, 329, 311, 336, 381],
+      "OPM %": ["19%", "20%", "18%", "19%", "19%"],
+      "Other Income": [15, -2, 12, 23, 36],
+      "Interest": [52, 59, 65, 59, 46],
+      "Depreciation": [67, 70, 91, 94, 97],
+      "Profit before tax": [191, 198, 167, 207, 273],
+      "Tax %": ["26%", "26%", "27%", "26%", "26%"],
+      "Net Profit": [141, 146, 121, 153, 202],
+      "EPS in Rs": [7.21, 7.69, 6.36, 7.95, 10.29]
+    },
+    "Annual Results": {
+      "Sales": [4717, 5049, 5033, 5855, 5986, 6658],
+      "Expenses": [3968, 4340, 3817, 4525, 4804, 5429],
+      "Operating Profit": [749, 708, 1216, 1330, 1182, 1230],
+      "OPM %": ["16%", "14%", "24%", "23%", "20%", "18%"],
+      "Other Income": [72, -25, -159, 63, 39, 47],
+      "Interest": [223, 257, 155, 176, 214, 237],
+      "Depreciation": [267, 321, 250, 245, 260, 312],
+      "Profit before tax": [331, 105, 652, 973, 747, 727],
+      "Tax %": ["37%", "4%", "36%", "28%", "25%", "27%"],
+      "Net Profit": [209, 101, 419, 703, 562, 528],
+      "EPS in Rs": [10.79, 4.62, 23.15, 36.62, 29.42, 27.50],
+      "Dividend Payout %": ["32%", "0%", "4%", "8%", "7%", "11%"]
+    },
+    "Sales Growth": {
+      "10 Years": null,
+      "5 Years": "7%",
+      "3 Years": "10%",
+      "TTM": "11%"
+    },
+    "Profit Growth": {
+      "10 Years": null,
+      "5 Years": "20%",
+      "3 Years": "6%",
+      "TTM": "-6%"
+    },
+    "Stock Price CAGR": {
+      "10 Years": null,
+      "5 Years": null,
+      "3 Years": null,
+      "1 Year": null
+    },
+    "Return on Equity": {
+      "10 Years": null,
+      "5 Years": "21%",
+      "3 Years": "24%",
+      "Last Year": "18%"
+    }
+  },
+  "Ratios": {
+    "Debtor Days": [75, 83, 107, 82, 101, 102],
+    "Inventory Days": [234, 211, 293, 237, 223, 225],
+    "Days Payable": [142, 133, 188, 184, 175, 193],
+    "Cash Conversion Cycle": [167, 161, 212, 135, 148, 134],
+    "Working Capital Days": [69, 67, 75, 96, 112, 103],
+    "ROCE %": ["11%", "22%", "26%", "21%", "19%"]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Sun Pharma.Inds.", "CMP": 1808.85, "P/E": 38.73, "Mar Cap": 434003.71, "Div Yld": 0.75, "NP Qtr": 3037.33, "Qtr Profit Var": 27.86, "Sales Qtr": 13291.39, "Qtr Sales Var": 9.01, "ROCE": 17.32},
+      {"Name": "Cipla", "CMP": 1472.05, "P/E": 25.81, "Mar Cap": 118884.82, "Div Yld": 0.88, "NP Qtr": 1305.01, "Qtr Profit Var": 15.18, "Sales Qtr": 7051.02, "Qtr Sales Var": 5.58, "ROCE": 22.80},
+      {"Name": "Mankind Pharma", "CMP": 2805.20, "P/E": 56.07, "Mar Cap": 112393.74, "Div Yld": 0.00, "NP Qtr": 634.43, "Qtr Profit Var": 34.84, "Sales Qtr": 2529.74, "Qtr Sales Var": 11.91, "ROCE": 24.57},
+      {"Name": "Dr Reddy's Labs", "CMP": 1343.65, "P/E": 21.00, "Mar Cap": 112115.62, "Div Yld": 0.60, "NP Qtr": 1341.90, "Qtr Profit Var": -15.28, "Sales Qtr": 8038.20, "Qtr Sales Var": 16.45, "ROCE": 26.53},
+      {"Name": "Lupin", "CMP": 2150.70, "P/E": 37.36, "Mar Cap": 98114.41, "Div Yld": 0.37, "NP Qtr": 859.48, "Qtr Profit Var": 74.12, "Sales Qtr": 5672.73, "Qtr Sales Var": 12.59, "ROCE": 15.72},
+      {"Name": "Zydus Lifesci.", "CMP": 973.50, "P/E": 22.90, "Mar Cap": 97956.88, "Div Yld": 0.31, "NP Qtr": 920.20, "Qtr Profit Var": 13.62, "Sales Qtr": 5237.00, "Qtr Sales Var": 19.87, "ROCE": 22.34},
+      {"Name": "Aurobindo Pharma", "CMP": 1241.70, "P/E": 19.96, "Mar Cap": 72756.00, "Div Yld": 0.36, "NP Qtr": 816.95, "Qtr Profit Var": 8.65, "Sales Qtr": 7796.07, "Qtr Sales Var": 7.99, "ROCE": 14.10},
+      {"Name": "Emcure Pharma", "CMP": 1372.90, "P/E": 51.67, "Mar Cap": 26007.10, "Div Yld": 0.00, "NP Qtr": 201.55, "Qtr Profit Var": 37.65, "Sales Qtr": 2001.98, "Qtr Sales Var": 20.38, "ROCE": 18.62}
+    ],
+    "Median": {
+      "CMP": 512.7,
+      "P/E": 33.34,
+      "Mar Cap": 2869.55,
+      "Div Yld": 0.05,
+      "NP Qtr": 17.27,
+      "Qtr Profit Var": 19.36,
+      "Sales Qtr": 188.19,
+      "Qtr Sales Var": 9.43,
+      "ROCE": 14.1
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has reduced debt.",
+    "Cons": "The company has delivered a poor sales growth of 7.14% over past five years. Company's cost of borrowing seems high.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Sep 2024": {
+      "Promoters": "78.08%",
+      "FIIs": "2.91%",
+      "DIIs": "3.96%",
+      "Public": "15.05%",
+      "No. of Shareholders": "1,52,914"
+    },
+    "Disclaimer": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Corporate Actions": {
+    "Announcements": [
+      {"Date": "18 Dec", "Title": "Closure of Trading Window"},
+      {"Date": "29 Nov", "Title": "Announcement under Regulation 30 (LODR)-Change in Management - Resignation of Mr. Aravamuthan Balaji, President - IT & Digital."},
+      {"Date": "23 Nov", "Title": "Announcement under Regulation 30 (LODR)-Resignation of Director - Resignation of Mr. Samonnoi Banerjee as director."},
+      {"Date": "23 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication - For Newspaper Advertisement of Noice of Postal Ballot dated November 07, 2024, electronically dispatched on November 22, 2024"},
+      {"Date": "22 Nov", "Title": "Shareholder Meeting / Postal Ballot-Notice of Postal Ballot"}
+    ],
+    "Annual Reports": "No data available.",
+    "DRHP": null,
+    "Credit Ratings": [
+      {"Date": "6 Nov", "Agency": "crisil"},
+      {"Date": "12 Aug", "Agency": "care"},
+      {"Date": "19 Jul", "Agency": "crisil"},
+      {"Date": "7 Feb", "Agency": "crisil"},
+      {"Date": "5 Jan", "Agency": "care"},
+      {"Date": "13 Feb 2023", "Agency": "crisil"}
+    ],
+    "Concalls": [
+      {"Date": "Nov 2024", "Transcript": null, "Notes": null, "PPT": null},
+      {"Date": "Aug 2024", "Transcript": null, "Notes": null, "PPT": null}
+    ]
+  }
+}

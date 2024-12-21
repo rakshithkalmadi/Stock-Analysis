@@ -1,0 +1,149 @@
+
+{
+  "Company Overview": {
+    "Name": "Dynacons Systems & Solutions Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Incorporated in 1995, Dynacons Ltd provides IT infrastructure-related activities. DSSL operates in a single segment of System Integration and Services.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Information Technology"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,774 Cr.",
+    "Current Price": "₹ 1,396",
+    "High / Low": "₹ 1,737 / 605",
+    "Stock P/E": 28.0,
+    "Book Value": "₹ 152",
+    "Dividend Yield": "0.04 %",
+    "ROCE": "44.2 %",
+    "ROE": "41.2 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs further parsing or calculation from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "Sales & Margin": null, // Needs extraction from tables
+    "EV / EBITDA": null, // Needs extraction from tables
+    "Price to Book": null, // Needs extraction from tables
+    "Market Cap / Sales": null, // Needs extraction from tables
+    "Quarterly Results": {
+      "Sales": [139, 160, 209, 160, 246, 172, 226, 296, 220, 227, 282, 321, 306],
+      "Expenses": [133, 153, 197, 151, 231, 160, 208, 275, 201, 208, 263, 296, 281],
+      "Operating Profit": [6, 6, 12, 9, 15, 12, 18, 21, 19, 19, 20, 25, 26],
+      "OPM %": [5, 4, 6, 5, 6, 7, 8, 7, 9, 8, 7, 8, 8],
+      "Other Income": [1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 1, 2],
+      "Interest": [3, 2, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2],
+      "Depreciation": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2],
+      "Profit before tax": [4, 4, 9, 6, 12, 10, 16, 19, 17, 18, 19, 24, 24],
+      "Tax %": [21, 24, 30, 25, 25, 25, 25, 25, 27, 26, 24, 25, 24],
+      "Net Profit": [3, 3, 6, 5, 9, 8, 12, 14, 13, 13, 14, 18, 18],
+      "EPS in Rs": [3.29, 3.05, 5.72, 4.02, 7.19, 5.96, 9.59, 11.06, 9.90, 10.29, 11.24, 13.91, 14.36]
+    },
+    "Annual Results": {
+      "Sales": [59, 77, 105, 124, 158, 211, 304, 328, 436, 654, 804, 1024, 1136],
+      "Expenses": [56, 74, 101, 120, 154, 204, 292, 313, 417, 623, 750, 946, 1047],
+      "Operating Profit": [3, 3, 4, 4, 5, 7, 12, 15, 19, 31, 55, 78, 89],
+      "OPM %": [5, 4, 4, 3, 3, 3, 4, 4, 4, 5, 7, 8, 8],
+      "Other Income": [0, 0, 0, 1, 0, 1, 1, 2, 2, 2, 2, 4, 7],
+      "Interest": [1, 2, 2, 3, 3, 4, 6, 8, 7, 9, 11, 9, 8],
+      "Depreciation": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3],
+      "Profit before tax": [1, 1, 1, 1, 2, 3, 6, 8, 12, 22, 45, 72, 84],
+      "Tax %": [29, 31, 33, 30, 25, 33, 34, 24, 24, 25, 25, 25, 24],
+      "Net Profit": [1, 1, 1, 1, 1, 2, 4, 6, 9, 16, 33, 54, 63],
+      "EPS in Rs": [0.88, 0.98, 1.16, 1.54, 1.94, 2.74, 4.57, 6.67, 9.10, 14.59, 26.30, 42.44, 49.80]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [6, 6, 6, 6, 6, 7, 9, 9, 10, 11, 13, 13, 13],
+      "Reserves": [10, 10, 10, 11, 14, 16, 22, 27, 39, 57, 92, 145, 180],
+      "Borrowings": [9, 14, 13, 21, 20, 35, 35, 37, 44, 64, 69, 36, 68],
+      "Other Liabilities": [5, 4, 5, 12, 12, 11, 32, 49, 88, 167, 229, 394, 291],
+      "Total Liabilities": [30, 34, 34, 50, 53, 69, 98, 122, 181, 299, 402, 587, 551],
+      "Fixed Assets": [4, 5, 3, 3, 3, 3, 2, 4, 6, 6, 7, 6, 37],
+      "CWIP": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Investments": [2, 2, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1],
+      "Other Assets": [24, 28, 31, 46, 50, 67, 95, 118, 174, 292, 395, 581, 513],
+      "Total Assets": [30, 34, 34, 50, 53, 69, 98, 122, 181, 299, 402, 587, 551]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [-3, 6, 3, -4, 4, -13, 2, 4, 9, -15, 15, 29],
+      "Cash from Investing Activity": [5, -1, 1, -1, 0, -1, 0, 0, -2, -1, 0, 0],
+      "Cash from Financing Activity": [-1, -2, -2, 5, -1, 13, -2, -8, 0, 14, -5, -42],
+      "Net Cash Flow": [0, 2, 2, 0, 3, -1, 0, -4, 6, -2, 9, -14]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "29%",
+      "Compounded Sales Growth (5 Years)": "28%",
+      "Compounded Sales Growth (3 Years)": "33%",
+      "Compounded Sales Growth (TTM)": "24%",
+      "Compounded Profit Growth (10 Years)": "56%",
+      "Compounded Profit Growth (5 Years)": "67%",
+      "Compounded Profit Growth (3 Years)": "80%",
+      "Compounded Profit Growth (TTM)": "37%",
+      "Stock Price CAGR (10 Years)": "63%",
+      "Stock Price CAGR (5 Years)": "126%",
+      "Stock Price CAGR (3 Years)": "114%",
+      "Stock Price CAGR (1 Year)": "122%"
+    },
+    "Liquidity Ratios": null, //Needs calculation from Balance Sheet data
+    "Profitability Ratios": {
+      "Return on Equity (10 Years)": "28%",
+      "Return on Equity (5 Years)": "34%",
+      "Return on Equity (3 Years)": "38%",
+      "Return on Equity (Last Year)": "41%",
+      "ROCE %": [9, 9, 11, 12, 12, 14, 20, 23, 23, 28, 36, 44]
+    },
+    "Valuation Ratios": null, //Needs calculation or extraction from tables
+    "Debtor Days": [77, 70, 54, 89, 66, 68, 69, 93, 85, 98, 136, 143],
+    "Inventory Days": [38, 29, 29, 22, 24, 28, 23, 11, 40, 44, 19, 30],
+    "Days Payable": [16, 5, 8, 25, 18, 12, 35, 55, 75, 100, 113, 156],
+    "Cash Conversion Cycle": [99, 94, 75, 86, 72, 85, 57, 50, 50, 42, 42, 17],
+    "Working Capital Days": [88, 81, 67, 76, 67, 83, 56, 60, 54, 50, 55, 35]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "P/E": 42.61, "Mar Cap": 106322.89, "Div Yld": 1.96, "NP Qtr": 577.70, "Qtr Profit Var": 38.39, "Sales Qtr": 1673.90, "Qtr Sales Var": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "P/E": 554.42, "Mar Cap": 96075.89, "Div Yld": 0.00, "NP Qtr": 50.98, "Qtr Profit Var": 350.35, "Sales Qtr": 1167.23, "Qtr Sales Var": 43.81, "ROCE": 1.75},
+      {"Name": "Coforge", "CMP": 9370.45, "P/E": 79.48, "Mar Cap": 62650.25, "Div Yld": 0.81, "NP Qtr": 233.60, "Qtr Profit Var": 11.71, "Sales Qtr": 3062.30, "Qtr Sales Var": 34.54, "ROCE": 28.60},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "P/E": 52.77, "Mar Cap": 43110.04, "Div Yld": 1.01, "NP Qtr": 229.43, "Qtr Profit Var": 14.70, "Sales Qtr": 955.09, "Qtr Sales Var": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "P/E": 54.80, "Mar Cap": 39785.12, "Div Yld": 0.46, "NP Qtr": 203.75, "Qtr Profit Var": 45.30, "Sales Qtr": 1471.41, "Qtr Sales Var": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "P/E": 56.02, "Mar Cap": 36238.37, "Div Yld": 0.94, "NP Qtr": 157.41, "Qtr Profit Var": -1.85, "Sales Qtr": 1296.45, "Qtr Sales Var": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "P/E": 87.35, "Mar Cap": 32355.27, "Div Yld": 0.00, "NP Qtr": 208.58, "Qtr Profit Var": 1282.88, "Sales Qtr": 103.35, "Qtr Sales Var": 30.01, "ROCE": null},
+      {"Name": "Dynacons Sys.", "CMP": 1395.80, "P/E": 28.04, "Mar Cap": 1774.50, "Div Yld": 0.04, "NP Qtr": 18.26, "Qtr Profit Var": 45.27, "Sales Qtr": 306.33, "Qtr Sales Var": 39.33, "ROCE": 44.24}
+    ],
+    "Median": {
+      "CMP": 153,
+      "P/E": 43.44,
+      "Mar Cap": 1028.49,
+      "Div Yld": 0.0,
+      "NP Qtr": 4.85,
+      "Qtr Profit Var": 13.68,
+      "Sales Qtr": 52.64,
+      "Qtr Sales Var": 13.45,
+      "ROCE": 17.45
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 66.7% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 37.6%",
+      "Company's median sales growth is 27.5% of last 10 years",
+      "Company's working capital requirements have reduced from 46.9 days to 35.4 days"
+    ],
+    "Cons": [
+      "Stock is trading at 9.20 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Announcements": [
+    {"Date": "13 Dec", "Title": "Dynacons upgraded credit rating by Acuite Ratings."},
+    {"Date": "5 Dec", "Title": "Dynacons included in Dun & Bradstreet's Top 500 Value Creators 2024."},
+    {"Date": "28 Nov", "Title": "Revision of credit rating by CARE Ratings Limited."},
+    {"Date": "11 Nov", "Title": "Newspaper Advertisement published for Un-audited standalone and consolidated financial results for the quarter and half-year ended on September 30, 2024"},
+    {"Date": "8 Nov", "Title": "Approval of unaudited financial results for Q2 FY2024."}
+  ],
+  "Documents": {
+    "Annual Reports": ["Financial Year 2024", "Financial Year 2023", "Financial Year 2022", "Financial Year 2021", "Financial Year 2020", "Financial Year 2019", "Financial Year 2018", "Financial Year 2017", "Financial Year 2016", "Financial Year 2015", "Financial Year 2014", "Financial Year 2013", "Financial Year 2012", "Financial Year 2011"],
+    "Credit Ratings": ["12 Dec from smera", "27 Nov from care", "1 Apr from care", "19 Jan from care", "28 Nov 2023 from smera", "16 Nov 2022 from care"]
+  }
+}

@@ -1,0 +1,143 @@
+
+{
+  "Company Overview": {
+    "Name": "Arihant Capital Markets Ltd",
+    "Sector": "Stock/ Commodity Brokers",
+    "Industry": "Finance & Investments",
+    "Description": "Incorporated in 1992, Arihant Capital Markets Ltd provides Stock & Commodities Broking, PMS, Financial Services, Real Estate, Insurance Broking and other related activities. ACML acts as a stock and commodities broker to execute proprietary trades on behalf of its clients which include retail customers (including high net worth individuals), mutual funds, financial institutions and corporate clients.",
+    "MarketPosition": null 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 1,033 Cr.",
+    "CurrentPrice": "₹ 99.3",
+    "HighLow": "₹ 125 / 48.9",
+    "PEratio": 12.4,
+    "BookValue": "₹ 35.5",
+    "DividendYield": "0.50 %",
+    "ROCE": "29.0 %",
+    "ROE": "24.4 %",
+    "FaceValue": "₹ 1.00",
+    "DebtToEquityRatio": null
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": [40, 48, 44, 35, 40, 34, 29, 43, 56, 73, 64, 73, 76],
+      "Expenses": [23, 30, 24, 22, 22, 21, 24, 25, 35, 43, 27, 43, 46],
+      "OperatingProfit": [17, 18, 20, 13, 18, 13, 6, 17, 21, 29, 37, 30, 31],
+      "OPM%": ["43%", "38%", "46%", "37%", "45%", "37%", "20%", "41%", "38%", "41%", "58%", "41%", "40%"],
+      "OtherIncome": [0, -0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1],
+      "Interest": [1, 2, 2, 2, 2, 3, 3, 2, 2, 4, 4, 5, 6],
+      "Depreciation": [0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1],
+      "ProfitBeforeTax": [16, 16, 18, 11, 16, 10, 3, 15, 19, 26, 33, 25, 25],
+      "Tax%": ["20%", "20%", "29%", "30%", "22%", "27%", "28%", "24%", "23%", "24%", "24%", "25%", "21%"],
+      "NetProfit": [12, 13, 13, 7, 13, 7, 2, 12, 15, 20, 25, 19, 20],
+      "EPSinRs": [1.20, 1.26, 1.24, 0.72, 1.21, 0.69, 0.19, 1.11, 1.41, 1.88, 2.37, 1.81, 1.92]
+    },
+    "AnnualResults": {
+      "Sales": [50, 46, 62, 56, 87, 102, 93, 91, 116, 170, 138, 235, 286],
+      "Expenses": [40, 34, 41, 39, 48, 58, 58, 58, 67, 97, 86, 128, 159],
+      "OperatingProfit": [11, 11, 20, 17, 39, 44, 35, 33, 49, 73, 51, 107, 127],
+      "OPM%": ["21%", "25%", "33%", "30%", "45%", "43%", "38%", "36%", "42%", "43%", "37%", "45%", "44%"],
+      "OtherIncome": [1, -4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 3, 4],
+      "Interest": [2, 1, 3, 3, 13, 14, 11, 9, 4, 7, 11, 14, 19],
+      "Depreciation": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 3],
+      "ProfitBeforeTax": [8, 5, 16, 13, 25, 30, 24, 23, 44, 65, 39, 93, 109],
+      "Tax%": ["30%", "26%", "31%", "33%", "33%", "31%", "31%", "24%", "21%", "23%", "26%", "24%", "24%"],
+      "NetProfit": [6, 4, 11, 9, 17, 21, 17, 17, 35, 50, 29, 71, 83],
+      "EPSinRs": [0.53, 0.35, 1.06, 0.82, 1.60, 1.99, 1.61, 1.68, 3.33, 4.84, 2.80, 6.77, 7.98]
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": [10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10],
+      "Reserves": [56, 58, 66, 73, 90, 108, 124, 139, 172, 218, 246, 312, 359],
+      "Borrowings": [0, 0, 0, 0, 8, 95, 109, 41, 56, 82, 60, 99, 197],
+      "OtherLiabilities": [50, 53, 62, 57, 91, 95, 99, 144, 223, 267, 206, 359, 423],
+      "TotalLiabilities": [116, 121, 139, 140, 200, 309, 343, 335, 461, 579, 522, 780, 989],
+      "FixedAssets": [17, 22, 11, 18, 19, 21, 21, 21, 20, 12, 14, 15, 28],
+      "CWIP": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Investments": [10, 10, 13, 0, 15, 3, 15, 8, 16, 26, 19, 15, 20],
+      "OtherAssets": [89, 90, 115, 122, 165, 285, 306, 307, 425, 541, 489, 751, 941],
+      "TotalAssets": [116, 121, 139, 140, 200, 309, 343, 335, 461, 579, 522, 780, 989]
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": [2, 14, 1, -13, 14, -46, -4, 118, -32, -18, 15, -30],
+      "CashFromInvestingActivity": [2, -5, 6, 5, -16, 16, -4, -2, -7, 13, -0, 6],
+      "CashFromFinancingActivity": [-8, -2, -2, -4, 8, 85, 3, -77, 10, 18, -32, 27],
+      "NetCashFlow": [-4, 8, 6, -12, 6, 54, -5, 38, -28, 13, -17, 4]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": "18%",
+        "5Years": "20%",
+        "3Years": "27%",
+        "TTM": "77%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": "26%",
+        "5Years": "33%",
+        "3Years": "27%",
+        "TTM": "135%"
+      },
+      "StockPriceCAGR": {
+        "10Years": "36%",
+        "5Years": "63%",
+        "3Years": "42%",
+        "1Year": "42%"
+      }
+    },
+    "LiquidityRatios": null,
+    "ProfitabilityRatios": {
+      "ReturnOnEquity": {
+        "10Years": "18%",
+        "5Years": "19%",
+        "3Years": "20%",
+        "LastYear": "24%"
+      },
+      "ROCE": [15, 16, 27, 20, 40, 27, 15, 15, 22, 27, 16, 29]
+    },
+    "ValuationRatios": null,
+    "OtherRatios": {
+      "DebtorDays": [189, 175, 164, 179, 282, 417, 503, 303, 478, 421, 459, 150],
+      "InventoryDays": 1136,
+      "DaysPayable": 2291,
+      "CashConversionCycle": [189, 175, 164, 179, -873, 417, 503, 303, 478, 421, 459, 150],
+      "WorkingCapitalDays": [-52, -137, -40, 115, 113, 296, 312, -32, -72, -53, -38, -317]
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Motil.Oswal.Fin.", "CMP": 926.50, "PE": 16.40, "MarCap": 55523.16, "DivYld": 0.38, "NPQtr": 1121.80, "QtrProfitVar": 110.86, "SalesQtr": 2837.83, "QtrSalesVar": 71.49, "ROCE": 20.69},
+      {"Name": "ICICI Securities", "CMP": 831.65, "PE": 13.14, "MarCap": 27034.07, "DivYld": 3.49, "NPQtr": 529.04, "QtrProfitVar": 24.88, "SalesQtr": 1706.65, "QtrSalesVar": 36.64, "ROCE": 19.74},
+      {"Name": "Angel One", "CMP": 2881.70, "PE": 19.76, "MarCap": 26006.81, "DivYld": 1.20, "NPQtr": 423.37, "QtrProfitVar": 39.06, "SalesQtr": 1514.71, "QtrSalesVar": 44.55, "ROCE": 38.70},
+      {"Name": "Nuvama Wealth", "CMP": 6850.70, "PE": 29.43, "MarCap": 24577.28, "DivYld": 2.11, "NPQtr": 257.31, "QtrProfitVar": 77.50, "SalesQtr": 1051.35, "QtrSalesVar": 42.99, "ROCE": 16.54},
+      {"Name": "Prudent Corp.", "CMP": 2846.90, "PE": 66.98, "MarCap": 11788.07, "DivYld": 0.07, "NPQtr": 51.52, "QtrProfitVar": 69.36, "SalesQtr": 286.08, "QtrSalesVar": 50.54, "ROCE": 43.29},
+      {"Name": "IIFL Capital", "CMP": 339.70, "PE": 14.67, "MarCap": 10519.21, "DivYld": 0.88, "NPQtr": 205.34, "QtrProfitVar": 90.52, "SalesQtr": 645.37, "QtrSalesVar": 27.30, "ROCE": 34.56},
+      {"Name": "Share India Sec.", "CMP": 296.40, "PE": 14.12, "MarCap": 6468.03, "DivYld": 0.61, "NPQtr": 124.27, "QtrProfitVar": 10.19, "SalesQtr": 452.76, "QtrSalesVar": 23.58, "ROCE": 38.31},
+      {"Name": "Arihant Capital", "CMP": 99.26, "PE": 12.45, "MarCap": 1033.42, "DivYld": 0.50, "NPQtr": 19.94, "QtrProfitVar": 35.83, "SalesQtr": 76.38, "QtrSalesVar": 36.47, "ROCE": 28.97}
+    ],
+    "Median": {
+      "CMP": 213.2,
+      "PE": 15.96,
+      "MarCap": 932.32,
+      "DivYld": 0.38,
+      "NPQtr": 14.75,
+      "QtrProfitVar": 37.71,
+      "SalesQtr": 58.4,
+      "QtrSalesVar": 36.47,
+      "ROCE": 20.41
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 33.4% CAGR over last 5 years",
+      "Debtor days have improved from 343 to 150 days."
+    ],
+    "Cons": [
+      "Promoter holding has decreased over last 3 years: -4.76%"
+    ],
+    "Disclaimer": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and your own analysis.",
+    "ShareholdingPatternNotes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

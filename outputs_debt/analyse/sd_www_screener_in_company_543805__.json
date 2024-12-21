@@ -1,0 +1,214 @@
+
+{
+  "Company Overview": {
+    "Name": "Resgen Ltd",
+    "Sector": "Refineries",
+    "Industry": "Refineries",
+    "Business Description": "Incorporated in 2018, Resgen Ltd does manufacturing and selling of pyrolysis oil and carbon from plastic waste. Company manufactures PlasEco which is Pyrolysis Oil (a substitute for furnace oil) from waste plastics. It also repurposes the by-products generated, such as Carbon to substitute coal, and gas to substitute LPG. The major by-product are combustible liquid and gaseous fuel which can replace diesel or furnace oils, and reduce the need and impact of company's combustible fuel resources. Resgen uses a patented catalytic process to improve efficiency, safety and scalability of the pyrolysis process.",
+    "Market Position": "Not explicitly stated, but peer comparison data is provided."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 240 Cr.",
+    "Current Price": "₹ 114",
+    "High/Low": "₹ 183 / ₹ 56.2",
+    "Stock P/E": "30.7",
+    "Book Value": "₹ 25.5",
+    "Dividend Yield": "0.00%",
+    "ROCE": "18.5%",
+    "ROE": "14.3%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but implied through balance sheet data."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Mar 2023": "12.29 Cr",
+        "Sep 2023": "15.09 Cr",
+        "Mar 2024": "30.41 Cr",
+        "Sep 2024": "25.69 Cr"
+      },
+      "Net Profit": {
+        "Mar 2023": "2.06 Cr",
+        "Sep 2023": "2.61 Cr",
+        "Mar 2024": "3.96 Cr",
+        "Sep 2024": "3.84 Cr"
+      },
+      "EPS": {
+        "Mar 2023": "0.98",
+        "Sep 2023": "1.24",
+        "Mar 2024": "1.89",
+        "Sep 2024": "1.83"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2020": "-0.00 Cr",
+        "Mar 2021": "0.02 Cr",
+        "Mar 2022": "4.81 Cr",
+        "Mar 2023": "23.58 Cr",
+        "Mar 2024": "45.50 Cr",
+        "TTM": "56.10 Cr"
+      },
+      "Net Profit": {
+        "Mar 2020": "-0.15 Cr",
+        "Mar 2021": "0.01 Cr",
+        "Mar 2022": "0.76 Cr",
+        "Mar 2023": "4.17 Cr",
+        "Mar 2024": "6.57 Cr",
+        "TTM": "7.80 Cr"
+      },
+      "EPS": {
+        "Mar 2020": "-9.71",
+        "Mar 2021": "0.65",
+        "Mar 2022": "34.55",
+        "Mar 2023": "1.99",
+        "Mar 2024": "3.13",
+        "TTM": "3.72"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": {
+        "Mar 2020": "1.55 Cr",
+        "Mar 2021": "1.55 Cr",
+        "Mar 2022": "2.20 Cr",
+        "Mar 2023": "20.98 Cr",
+        "Mar 2024": "20.98 Cr",
+        "Sep 2024": "20.98 Cr"
+      },
+      "Total Liabilities": {
+        "Mar 2020": "1.62 Cr",
+        "Mar 2021": "11.10 Cr",
+        "Mar 2022": "13.72 Cr",
+        "Mar 2023": "67.41 Cr",
+        "Mar 2024": "65.79 Cr",
+        "Sep 2024": "67.84 Cr"
+      },
+      "Total Assets": {
+        "Mar 2020": "1.62 Cr",
+        "Mar 2021": "11.10 Cr",
+        "Mar 2022": "13.72 Cr",
+        "Mar 2023": "67.41 Cr",
+        "Mar 2024": "65.79 Cr",
+        "Sep 2024": "67.84 Cr"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": {
+        "Mar 2020": "-1.74 Cr",
+        "Mar 2021": "1.65 Cr",
+        "Mar 2022": "-1.36 Cr",
+        "Mar 2023": "-14.05 Cr",
+        "Mar 2024": "5.12 Cr"
+      },
+      "Net Cash Flow": {
+        "Mar 2020": "-0.02 Cr",
+        "Mar 2021": "0.07 Cr",
+        "Mar 2022": "-0.07 Cr",
+        "Mar 2023": "0.01 Cr",
+        "Mar 2024": "-0.01 Cr"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "3 Years": "1215%",
+        "TTM": "105%"
+      },
+      "Compounded Profit Growth": {
+        "3 Years": "772%",
+        "TTM": "67%"
+      },
+      "Stock Price CAGR": {
+        "1 Year": "66%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": {
+        "Mar 2020": "365.00",
+        "Mar 2021": "212.47",
+        "Mar 2022": "249.53",
+        "Mar 2023": "88.64"
+      },
+      "Inventory Days": {
+        "Mar 2020": "90.88",
+        "Mar 2021": "294.93",
+        "Mar 2022": "309.16"
+      },
+      "Days Payable": {
+        "Mar 2020": "2.98",
+        "Mar 2021": "299.92",
+        "Mar 2022": "49.05"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2020": "365.00",
+        "Mar 2021": "300.37",
+        "Mar 2022": "244.54",
+        "Mar 2023": "348.75"
+      },
+      "Working Capital Days": {
+        "Mar 2020": "-912.50",
+        "Mar 2021": "243.59",
+        "Mar 2022": "402.15",
+        "Mar 2023": "264.48"
+      }
+    },
+    "Profitability Ratios": {
+      "ROCE %": {
+        "Mar 2020": "0.16%",
+        "Mar 2021": "11.33%",
+        "Mar 2022": "21.74%",
+        "Mar 2023": "18.46%"
+      },
+      "OPM %": {
+        "Mar 2023": "42.72%",
+        "Sep 2023": "46.79%",
+        "Mar 2024": "26.57%",
+        "Sep 2024": "28.38%"
+      },
+      "Tax %": {
+        "Mar 2023": "29.45%",
+        "Sep 2023": "35.00%",
+        "Mar 2024": "23.60%",
+        "Sep 2024": "25.92%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Not explicitly stated, but can be calculated from Current Price and Book Value."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Reliance Industr", "CMP": "1205.30", "P/E": "24.02", "Mar Cap": "1631056.46", "Div Yld": "0.41", "NP Qtr": "19323.00", "Qtr Profit Var": "-4.78", "Sales Qtr": "231535.00", "Qtr Sales Var": "-0.15", "ROCE": "9.61"},
+      {"Name": "I O C L", "CMP": "137.08", "P/E": "11.32", "Mar Cap": "193573.94", "Div Yld": "8.75", "NP Qtr": "-448.78", "Qtr Profit Var": "-104.63", "Sales Qtr": "174976.12", "Qtr Sales Var": "-2.38", "ROCE": "21.14"},
+      {"Name": "B P C L", "CMP": "289.05", "P/E": "9.37", "Mar Cap": "125404.50", "Div Yld": "7.27", "NP Qtr": "2297.23", "Qtr Profit Var": "-71.62", "Sales Qtr": "102785.27", "Qtr Sales Var": "-0.25", "ROCE": "32.09"},
+      {"Name": "H P C L", "CMP": "399.50", "P/E": "20.25", "Mar Cap": "85006.51", "Div Yld": "5.26", "NP Qtr": "142.67", "Qtr Profit Var": "-97.55", "Sales Qtr": "99977.12", "Qtr Sales Var": "4.41", "ROCE": "21.26"},
+      {"Name": "M R P L", "CMP": "142.22", "P/E": "27.32", "Mar Cap": "24925.46", "Div Yld": "2.11", "NP Qtr": "-696.94", "Qtr Profit Var": "-166.27", "Sales Qtr": "24967.87", "Qtr Sales Var": "29.01", "ROCE": "25.75"},
+      {"Name": "C P C L", "CMP": "594.30", "P/E": "12.91", "Mar Cap": "8849.80", "Div Yld": "9.25", "NP Qtr": "-629.49", "Qtr Profit Var": "-152.87", "Sales Qtr": "12086.54", "Qtr Sales Var": "-26.95", "ROCE": "35.44"},
+      {"Name": "Gandhar Oil Ref.", "CMP": "219.33", "P/E": "20.36", "Mar Cap": "2146.58", "Div Yld": "0.23", "NP Qtr": "18.14", "Qtr Profit Var": "-53.85", "Sales Qtr": "935.09", "Qtr Sales Var": "-6.58", "ROCE": "21.63"}
+    ],
+    "Median": {
+      "CMP": "254.19",
+      "P/E": "20.3",
+      "Mar Cap": "54965.99",
+      "Div Yld": "3.68",
+      "NP Qtr": "10.99",
+      "Qtr Profit Var": "-97.55",
+      "Sales Qtr": "62472.49",
+      "Qtr Sales Var": "-0.2",
+      "ROCE": "21.45"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Debtor days have improved from 184 to 88.6 days."
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Promoter holding has decreased over last quarter: -0.89%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  }
+}

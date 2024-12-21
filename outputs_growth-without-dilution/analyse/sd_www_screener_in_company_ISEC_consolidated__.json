@@ -1,0 +1,209 @@
+
+{
+  "Company Overview": {
+    "Name": "ICICI Securities Ltd",
+    "Sector": "Stock/ Commodity Brokers",
+    "Industry": "Finance & Investments",
+    "Business Description": "ICICI Securities Limited is engaged in the business of broking (institutional and retail), distribution of financial products, merchant banking and advisory services.",
+    "Market Position": "Part of BSE Diversified Financials Revenue Growth Index, BSE MidCap, BSE Allcap, BSE Financial Services, BSE 400 MidSmallCap Index, Nifty 500 Multicap 50:25:25, Nifty Midcap150 Quality 50, Nifty MidSmallcap 400, Nifty Smallcap 250, BSE 250 LargeMidCap Index, Nifty Total Market, BSE 500, BSE 150 MidCap Index, Nifty 500"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 27,034 Cr.",
+    "Current Price": "₹ 832",
+    "High/Low": "₹ 922 / ₹ 672",
+    "Stock P/E": 13.1,
+    "Book Value": "₹ 138",
+    "Dividend Yield": "3.49 %",
+    "ROCE": "19.7 %",
+    "ROE": "50.1 %",
+    "Face Value": "₹ 5.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [
+        {"period": "Sep 2021", "value": 856},
+        {"period": "Dec 2021", "value": 942},
+        {"period": "Mar 2022", "value": 892},
+        {"period": "Jun 2022", "value": 794},
+        {"period": "Sep 2022", "value": 858},
+        {"period": "Dec 2022", "value": 879},
+        {"period": "Mar 2023", "value": 885},
+        {"period": "Jun 2023", "value": 934},
+        {"period": "Sep 2023", "value": 1249},
+        {"period": "Dec 2023", "value": 1323},
+        {"period": "Mar 2024", "value": 1543},
+        {"period": "Jun 2024", "value": 1641},
+        {"period": "Sep 2024", "value": 1707}
+      ],
+      "Expenses": [
+        {"period": "Sep 2021", "value": 313},
+        {"period": "Dec 2021", "value": 333},
+        {"period": "Mar 2022", "value": 329},
+        {"period": "Jun 2022", "value": 311},
+        {"period": "Sep 2022", "value": 335},
+        {"period": "Dec 2022", "value": 330},
+        {"period": "Mar 2023", "value": 337},
+        {"period": "Jun 2023", "value": 363},
+        {"period": "Sep 2023", "value": 439},
+        {"period": "Dec 2023", "value": 412},
+        {"period": "Mar 2024", "value": 464},
+        {"period": "Jun 2024", "value": 506},
+        {"period": "Sep 2024", "value": 539}
+      ],
+      "Net Profit": [
+        {"period": "Sep 2021", "value": 351},
+        {"period": "Dec 2021", "value": 380},
+        {"period": "Mar 2022", "value": 340},
+        {"period": "Jun 2022", "value": 274},
+        {"period": "Sep 2022", "value": 300},
+        {"period": "Dec 2022", "value": 281},
+        {"period": "Mar 2023", "value": 263},
+        {"period": "Jun 2023", "value": 271},
+        {"period": "Sep 2023", "value": 424},
+        {"period": "Dec 2023", "value": 466},
+        {"period": "Mar 2024", "value": 537},
+        {"period": "Jun 2024", "value": 527},
+        {"period": "Sep 2024", "value": 529}
+      ]
+    },
+    "Annual Results": {
+      "Sales": [
+        {"year": 2013, "value": 706},
+        {"year": 2014, "value": 812},
+        {"year": 2015, "value": 1210},
+        {"year": 2016, "value": 1125},
+        {"year": 2017, "value": 1403},
+        {"year": 2018, "value": 1861},
+        {"year": 2019, "value": 1725},
+        {"year": 2020, "value": 1721},
+        {"year": 2021, "value": 2586},
+        {"year": 2022, "value": 3435},
+        {"year": 2023, "value": 3422},
+        {"year": 2024, "value": 5049}
+      ],
+      "Net Profit": [
+        {"year": 2013, "value": 72},
+        {"year": 2014, "value": 89},
+        {"year": 2015, "value": 294},
+        {"year": 2016, "value": 239},
+        {"year": 2017, "value": 339},
+        {"year": 2018, "value": 553},
+        {"year": 2019, "value": 491},
+        {"year": 2020, "value": 542},
+        {"year": 2021, "value": 1068},
+        {"year": 2022, "value": 1383},
+        {"year": 2023, "value": 1118},
+        {"year": 2024, "value": 1697}
+      ]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "20%",
+        "5 Years": "24%",
+        "3 Years": "25%",
+        "TTM": "57%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "34%",
+        "5 Years": "28%",
+        "3 Years": "17%",
+        "TTM": "66%"
+      }
+    },
+    "Profitability Ratios": {
+      "ROE": {
+        "10 Years": "57%",
+        "5 Years": "54%",
+        "3 Years": "51%",
+        "Last Year": "50%"
+      },
+      "ROCE": {
+        "Mar 2013": "31%",
+        "Mar 2014": "84%",
+        "Mar 2015": "70%",
+        "Mar 2016": "76%",
+        "Mar 2017": "75%",
+        "Mar 2018": "53%",
+        "Mar 2019": "38%",
+        "Mar 2020": "37%",
+        "Mar 2021": "27%",
+        "Mar 2022": "18%",
+        "Mar 2023": "20%"
+      }
+    },
+    "Valuation Ratios": {
+      "P/E": 13.1,
+      "Price to Book": null //Not explicitly available, needs calculation from Market Cap and Book Value.
+    },
+    "Liquidity Ratios": null //Not explicitly available in the provided HTML.
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Motil.Oswal.Fin.", "CMP": 926.50, "P/E": 16.40, "Mar Cap": 55523.16, "Div Yld": 0.38, "NP Qtr": 1121.80, "Qtr Profit Var": 110.86, "Sales Qtr": 2837.83, "Qtr Sales Var": 71.49, "ROCE": 20.69},
+      {"Name": "ICICI Securities", "CMP": 831.65, "P/E": 13.14, "Mar Cap": 27034.07, "Div Yld": 3.49, "NP Qtr": 529.04, "Qtr Profit Var": 24.88, "Sales Qtr": 1706.65, "Qtr Sales Var": 36.64, "ROCE": 19.74},
+      {"Name": "Angel One", "CMP": 2881.70, "P/E": 19.76, "Mar Cap": 26006.81, "Div Yld": 1.20, "NP Qtr": 423.37, "Qtr Profit Var": 39.06, "Sales Qtr": 1514.71, "Qtr Sales Var": 44.55, "ROCE": 38.70},
+      {"Name": "Nuvama Wealth", "CMP": 6850.70, "P/E": 29.43, "Mar Cap": 24577.28, "Div Yld": 2.11, "NP Qtr": 257.31, "Qtr Profit Var": 77.50, "Sales Qtr": 1051.35, "Qtr Sales Var": 42.99, "ROCE": 16.54},
+      {"Name": "Prudent Corp.", "CMP": 2846.90, "P/E": 66.98, "Mar Cap": 11788.07, "Div Yld": 0.07, "NP Qtr": 51.52, "Qtr Profit Var": 69.36, "Sales Qtr": 286.08, "Qtr Sales Var": 50.54, "ROCE": 43.29},
+      {"Name": "IIFL Capital", "CMP": 339.70, "P/E": 14.67, "Mar Cap": 10519.21, "Div Yld": 0.88, "NP Qtr": 205.34, "Qtr Profit Var": 90.52, "Sales Qtr": 645.37, "Qtr Sales Var": 27.30, "ROCE": 34.56},
+      {"Name": "Share India Sec.", "CMP": 296.40, "P/E": 14.12, "Mar Cap": 6468.03, "Div Yld": 0.61, "NP Qtr": 124.27, "Qtr Profit Var": 10.19, "Sales Qtr": 452.76, "Qtr Sales Var": 23.58, "ROCE": 38.31}
+    ],
+    "Median": {
+      "CMP": 213.2,
+      "P/E": 15.96,
+      "Mar Cap": 932.32,
+      "Div Yld": 0.38,
+      "NP Qtr": 14.75,
+      "Qtr Profit Var": 37.71,
+      "Sales Qtr": 58.4,
+      "Qtr Sales Var": 36.47,
+      "ROCE": 20.41
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Stock is providing a good dividend yield of 3.49%.",
+      "Company is expected to give good quarter",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 51.4%",
+      "Company has been maintaining a healthy dividend payout of 55.4%",
+      "Company's median sales growth is 24.8% of last 10 years"
+    ],
+    "Cons": [
+      "Company might be capitalizing the interest cost"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  },
+  "Documents": {
+    "Announcements": [
+      {"date": "2d", "title": "Appointment of Drupad Shah as Head - Customer Service."},
+      {"date": "16 Dec", "title": "The Company has allotted 6,956 equity shares of face value of Rs. 5/- each on December 16, 2024."},
+      {"date": "4 Dec", "title": "Allotment of 3,214 equity shares under employee schemes."},
+      {"date": "26 Nov", "title": "The Company has allotted 5,003 equity shares of face value of Rs. 5/- each on November 26, 2024."},
+      {"date": "19 Nov", "title": "The Company has allotted 9,280 equity shares of face value of Rs. 5/- each on November 19, 2024."}
+    ],
+    "Annual Reports": [
+      {"year": 2024, "source": "bse"},
+      {"year": 2023, "source": "bse"},
+      {"year": 2022, "source": "bse"},
+      {"year": 2021, "source": "bse"},
+      {"year": 2020, "source": "bse"},
+      {"year": 2019, "source": "bse"},
+      {"year": 2018, "source": "bse"},
+      {"year": 2009, "source": "bse"},
+      {"year": 2006, "source": "bse"},
+      {"year": 2005, "source": "bse"}
+    ],
+    "DRHP": null,
+    "Credit Ratings": [
+      {"date": "30 Oct", "agency": "icra"},
+      {"date": "28 Oct", "agency": "crisil"},
+      {"date": "2 May", "agency": "icra"},
+      {"date": "24 Apr", "agency": "crisil"},
+      {"date": "15 Dec 2023", "agency": "icra"},
+      {"date": "13 Dec 2023", "agency": "crisil"}
+    ],
+    "Concalls": [] //List of concalls is too extensive to include here.  The structure could be added if needed.
+  }
+}

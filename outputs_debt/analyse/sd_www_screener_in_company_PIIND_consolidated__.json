@@ -1,0 +1,119 @@
+
+{
+  "Company Overview": {
+    "Name": "P I Industries Ltd",
+    "Sector": "Agro Chemicals",
+    "Industry": "Pesticides / Agrochemicals - Indian",
+    "Description": "PI Industries Ltd is a leading player in the agro-chemicals space having strong presence in both Domestic and Export markets. It has state-of-art facilities in Gujarat having integrated process development teams with in-house engineering capabilities.",
+    "MarketPosition": "Leading player in the agro-chemicals space"
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 57,862 Cr.",
+    "CurrentPrice": "₹ 3,814",
+    "HighLow": "₹ 4,804 / 3,060",
+    "PEratio": 32.6,
+    "BookValue": "₹ 629",
+    "DividendYield": "0.39 %",
+    "ROCE": "24.0 %",
+    "ROE": "21.1 %",
+    "FaceValue": "₹ 1.00"
+  },
+  "Performance Trends": {
+    "SalesGrowth": {
+      "10Years": "17%",
+      "5Years": "22%",
+      "3Years": "19%",
+      "TTM": "10%"
+    },
+    "ProfitGrowth": {
+      "10Years": "24%",
+      "5Years": "33%",
+      "3Years": "32%",
+      "TTM": "19%"
+    },
+    "StockPriceCAGR": {
+      "10Years": "23%",
+      "5Years": "21%",
+      "3Years": "9%",
+      "1Year": "11%"
+    },
+    "QuarterlyResults": {
+      "Sales": [1354, 1356, 1395, 1543, 1770, 1613, 1566, 1910, 2117, 1898, 1741, 2069, 2221],
+      "Expenses": [1063, 1060, 1090, 1198, 1338, 1198, 1223, 1443, 1566, 1344, 1299, 1486, 1593],
+      "OperatingProfit": [292, 296, 305, 346, 432, 415, 343, 468, 551, 554, 442, 583, 628],
+      "OPM%": ["22%", "22%", "22%", "22%", "24%", "26%", "22%", "24%", "26%", "29%", "25%", "28%", "28%"],
+      "NetProfit": [230, 223, 204, 262, 335, 352, 281, 383, 480, 449, 370, 449, 508],
+      "EPS": [15.13, 14.67, 13.47, 17.30, 22.07, 23.19, 18.49, 25.24, 31.67, 29.57, 24.35, 29.58, 33.50]
+    },
+    "AnnualResults": {
+      "Sales": [1151, 1596, 1940, 2096, 2277, 2277, 2841, 3366, 4577, 5300, 6492, 7666, 7928],
+      "Expenses": [969, 1300, 1558, 1661, 1722, 1781, 2261, 2647, 3559, 4154, 4948, 5636, 5722],
+      "OperatingProfit": [183, 295, 382, 435, 555, 496, 580, 720, 1018, 1146, 1544, 2030, 2207],
+      "NetProfit": [97, 188, 246, 312, 459, 368, 410, 457, 738, 844, 1230, 1682, 1775],
+      "EPS": [7.18, 13.81, 18.00, 22.72, 33.39, 26.66, 29.72, 33.06, 48.66, 55.62, 81.04, 110.83, 117.00]
+    }
+  },
+  "Ratios": {
+    "ROCE": [26, 36, 41, 36, 34, 25, 25, 23, 22, 17, 22, 24],
+    "DebtorDays": [83, 59, 72, 69, 68, 84, 85, 70, 56, 60, 43, 44],
+    "InventoryDays": [131, 126, 124, 124, 136, 141, 126, 158, 149, 178, 144, 124],
+    "DaysPayable": [130, 116, 116, 115, 90, 115, 121, 117, 113, 115, 86, 109],
+    "CashConversionCycle": [84, 70, 80, 78, 113, 110, 90, 111, 93, 122, 101, 59],
+    "WorkingCapitalDays": [69, 50, 55, 54, 72, 89, 87, 81, 79, 101, 71, 53]
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "UPL", "CMP": 504.50, "MarketCap": 42601.67, "DividendYield": 0.20, "NPQtr": -585.00, "QtrProfitVar": -152.09, "SalesQtr": 11090.00, "QtrSalesVar": 9.05, "ROCE": 3.29},
+      {"Name": "Sumitomo Chemi.", "CMP": 525.70, "MarketCap": 26240.09, "DividendYield": 0.17, "NPQtr": 190.84, "QtrProfitVar": 32.82, "SalesQtr": 971.35, "QtrSalesVar": 7.51, "ROCE": 20.83},
+      {"Name": "Sharda Cropchem", "CMP": 791.70, "MarketCap": 7142.76, "DividendYield": 0.38, "NPQtr": 42.42, "QtrProfitVar": 253.77, "SalesQtr": 776.89, "QtrSalesVar": 33.77, "ROCE": 4.27},
+      {"Name": "Dhanuka Agritech", "CMP": 1510.15, "MarketCap": 6883.01, "DividendYield": 0.93, "NPQtr": 117.52, "QtrProfitVar": 15.48, "SalesQtr": 654.28, "QtrSalesVar": 5.88, "ROCE": 26.93},
+      {"Name": "Rallis India", "CMP": 295.65, "MarketCap": 5749.47, "DividendYield": 0.85, "NPQtr": 98.00, "QtrProfitVar": 20.62, "SalesQtr": 928.00, "QtrSalesVar": 11.54, "ROCE": 11.20},
+      {"Name": "Bharat Rasayan", "CMP": 10440.95, "MarketCap": 4338.49, "DividendYield": 0.01, "NPQtr": 40.15, "QtrProfitVar": 421.43, "SalesQtr": 327.87, "QtrSalesVar": 24.73, "ROCE": 11.14}
+    ],
+    "Median": {
+      "CMP": 525.7,
+      "PE": 32.8,
+      "MarketCap": 2106.8,
+      "DividendYield": 0.2,
+      "NPQtr": 26.48,
+      "QtrProfitVar": 25.12,
+      "SalesQtr": 437.42,
+      "QtrSalesVar": 6.7,
+      "ROCE": 11.14
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 33.1% CAGR over last 5 years",
+      "Company's working capital requirements have reduced from 75.0 days to 52.5 days"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ]
+  },
+  "ShareholdingPattern": {
+    "Quarterly": {
+      "Promoters": [46.74, 46.74, 46.74, 46.09, 46.09, 46.08, 46.08, 46.09, 46.09, 46.09, 46.09, 46.09],
+      "FIIs": [18.88, 16.44, 15.97, 16.72, 18.60, 18.59, 19.17, 20.01, 20.41, 20.26, 18.76, 19.02],
+      "DIIs": [22.98, 25.33, 25.85, 26.00, 24.24, 24.06, 23.80, 23.11, 23.00, 24.18, 25.84, 26.21],
+      "Government": [0.00, 0.00, 0.00, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15, 0.15],
+      "Public": [11.35, 11.45, 11.39, 11.01, 10.90, 11.10, 10.77, 10.61, 10.34, 9.29, 9.14, 8.54],
+      "Others": [0.04, 0.04, 0.04, 0.03, 0.03, 0.03, 0.03, 0.02, 0.02, 0.02, 0.01, 0.01]
+    },
+    "Yearly": {
+      "Promoters": [51.55, 51.43, 51.38, 51.35, 46.74, 46.74, 46.08, 46.09, 46.09],
+      "FIIs": [21.73, 15.04, 13.09, 12.13, 19.35, 16.44, 18.59, 20.26, 19.02],
+      "DIIs": [13.58, 18.79, 19.02, 21.62, 21.27, 25.33, 24.06, 24.18, 26.21],
+      "Government": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.15, 0.15, 0.15],
+      "Public": [12.98, 14.55, 16.34, 14.79, 12.57, 11.45, 11.10, 9.29, 8.54],
+      "Others": [0.17, 0.20, 0.17, 0.11, 0.06, 0.04, 0.03, 0.02, 0.01]
+    }
+  }
+}

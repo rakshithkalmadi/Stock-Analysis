@@ -1,0 +1,149 @@
+
+{
+  "Company Overview": {
+    "Name": "Shilchar Technologies Ltd",
+    "Sector": "Capital Goods - Electrical Equipment",
+    "Industry": "Electric Equipment",
+    "Business Description": "Shilchar Technologies is engaged in the business of manufacturing Electronics & Telecom and Power & Distribution transformers. The company has recently ventured into the manufacturing of Ferrite transformers.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Industrials"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 6,364 Cr.",
+    "Current Price": "₹ 8,345",
+    "High/Low": "₹ 8,899 / ₹ 2,300",
+    "P/E Ratio": 59.0,
+    "Book Value": "₹ 337",
+    "Dividend Yield": "0.15 %",
+    "ROCE": "74.6 %",
+    "ROE": "55.5 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs further analysis from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [32, 46, 66, 57, 60, 68, 95, 67, 106, 118, 105, 107, 131],
+      "Expenses": [30, 40, 56, 50, 49, 54, 74, 47, 77, 86, 74, 78, 90],
+      "Operating Profit": [2, 6, 10, 7, 10, 15, 21, 20, 30, 32, 31, 29, 41],
+      "OPM %": ["6%", "13%", "16%", "12%", "17%", "22%", "22%", "30%", "28%", "27%", "30%", "28%", "31%"],
+      "Other Income": [1, 1, 1, 2, 3, 2, 1, 3, 4, 3, 3, 3, 4],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      "Profit before tax": [2, 6, 10, 8, 12, 16, 22, 22, 33, 35, 34, 32, 44],
+      "Tax %": ["29%", "22%", "29%", "26%", "26%", "26%", "26%", "25%", "25%", "25%", "27%", "25%", "25%"],
+      "Net Profit": [1, 5, 7, 6, 9, 12, 16, 16, 24, 26, 25, 24, 33],
+      "EPS in Rs": [1.84, 6.00, 9.84, 7.64, 12.03, 15.64, 21.42, 21.55, 31.99, 34.21, 32.81, 31.44, 42.91]
+    },
+    "Annual Results": {
+      "Sales": [73, 100, 106, 102, 109, 88, 118, 71, 118, 180, 280, 397, 461],
+      "Expenses": [69, 93, 98, 88, 92, 78, 104, 68, 108, 161, 227, 284, 327],
+      "Operating Profit": [4, 8, 8, 13, 18, 9, 14, 3, 10, 19, 53, 113, 134],
+      "OPM %": ["6%", "8%", "8%", "13%", "16%", "11%", "12%", "4%", "8%", "11%", "19%", "29%", "29%"],
+      "Other Income": [2, 3, 3, 3, 3, 1, 2, 3, 2, 3, 8, 13, 14],
+      "Interest": [3, 2, 1, 1, 1, 1, 3, 1, 2, 1, 1, 0, 0],
+      "Depreciation": [1, 1, 2, 1, 1, 1, 2, 3, 3, 3, 2, 3, 3],
+      "Profit before tax": [2, 7, 9, 14, 19, 8, 11, 2, 7, 19, 58, 123, 145],
+      "Tax %": ["33%", "40%", "35%", "35%", "35%", "28%", "27%", "25%", "24%", "27%", "26%", "25%", "25%"],
+      "Net Profit": [1, 4, 6, 9, 12, 6, 8, 2, 6, 14, 43, 92, 108],
+      "EPS in Rs": [1.70, 5.50, 7.64, 11.96, 16.17, 7.72, 10.20, 1.97, 7.26, 18.47, 56.74, 120.48, 141.37]
+    },
+    "Growth Rates": {
+      "Compounded Sales Growth": {
+        "10 Years": "15%",
+        "5 Years": "27%",
+        "3 Years": "50%",
+        "TTM": "37%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "36%",
+        "5 Years": "64%",
+        "3 Years": "155%",
+        "TTM": "56%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "57%",
+        "5 Years": "161%",
+        "3 Years": "319%",
+        "1 Year": "251%"
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE %": [11, 22, 24, 41, 43, 16, 19, 4, 13, 24, 54, 75],
+    "Debtor Days": [174, 139, 103, 104, 107, 115, 98, 167, 96, 140, 120, 86],
+    "Inventory Days": [84, 44, 38, 44, 37, 66, 72, 151, 109, 82, 42, 87],
+    "Days Payable": [192, 111, 122, 112, 107, 133, 73, 161, 113, 93, 67, 80],
+    "Cash Conversion Cycle": [66, 73, 20, 36, 38, 48, 97, 157, 93, 129, 96, 93],
+    "Working Capital Days": [89, 89, 43, 56, 59, 82, 98, 164, 107, 121, 86, 77]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Siemens", "CMP": 6868.90, "P/E": 90.04, "Mar Cap": 244615.61, "Div Yld": 0.15, "NP Qtr": 831.20, "Qtr Profit Var": 45.41, "Sales Qtr": 6461.10, "Qtr Sales Var": 11.25, "ROCE": 25.59},
+      {"Name": "A B B", "CMP": 6921.25, "P/E": 86.89, "Mar Cap": 146667.08, "Div Yld": 0.34, "NP Qtr": 440.45, "Qtr Profit Var": 21.68, "Sales Qtr": 2912.16, "Qtr Sales Var": 5.16, "ROCE": 30.69},
+      {"Name": "CG Power & Ind", "CMP": 730.05, "P/E": 124.61, "Mar Cap": 111592.02, "Div Yld": 0.18, "NP Qtr": 219.63, "Qtr Profit Var": -1.77, "Sales Qtr": 2412.69, "Qtr Sales Var": 20.54, "ROCE": 46.63},
+      {"Name": "Suzlon Energy", "CMP": 64.13, "P/E": 88.00, "Mar Cap": 86810.83, "Div Yld": 0.00, "NP Qtr": 200.60, "Qtr Profit Var": 45.89, "Sales Qtr": 2103.38, "Qtr Sales Var": 47.98, "ROCE": 24.93},
+      {"Name": "Waaree Energies", "CMP": 2879.35, "P/E": 83.70, "Mar Cap": 82718.89, "Div Yld": 0.00, "NP Qtr": 375.66, "Qtr Profit Var": 14.78, "Sales Qtr": 3574.38, "Qtr Sales Var": 1.05, "ROCE": 43.63},
+      {"Name": "B H E L", "CMP": 235.30, "P/E": 184.25, "Mar Cap": 81932.95, "Div Yld": 0.11, "NP Qtr": 106.15, "Qtr Profit Var": 268.47, "Sales Qtr": 6584.10, "Qtr Sales Var": 28.46, "ROCE": 3.37},
+      {"Name": "Premier Energies", "CMP": 1296.40, "P/E": 253.01, "Mar Cap": 58438.39, "Div Yld": 0.00, "NP Qtr": 205.95, "Qtr Profit Var": 289.61, "Sales Qtr": 1527.22, "Qtr Sales Var": 120.16, "ROCE": 25.23}
+    ],
+    "Median": {
+      "CMP": 525.73,
+      "P/E": 69.63,
+      "Mar Cap": 1616.72,
+      "Div Yld": 0.0,
+      "NP Qtr": 8.31,
+      "Qtr Profit Var": 34.14,
+      "Sales Qtr": 127.8,
+      "Qtr Sales Var": 21.98,
+      "ROCE": 19.48
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 64.0% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 44.0%",
+      "Debtor days have improved from 115 to 86.1 days."
+    ],
+    "Cons": [
+      "Stock is trading at 24.8 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "BalanceSheet": {
+    "Equity Capital": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 8, 8],
+    "Reserves": [17, 21, 26, 34, 46, 50, 57, 57, 63, 76, 118, 202, 249],
+    "Borrowings": [19, 21, 6, 0, 4, 13, 16, 15, 8, 17, 0, 0, 0],
+    "Other Liabilities": [35, 32, 37, 32, 30, 28, 22, 27, 33, 49, 56, 83, 104],
+    "Total Liabilities": [75, 77, 72, 69, 84, 96, 99, 103, 107, 146, 178, 292, 360],
+    "Fixed Assets": [18, 18, 18, 18, 17, 16, 41, 39, 37, 36, 39, 41, 56],
+    "CWIP": [0, 0, 0, 0, 6, 22, 0, 0, 0, 0, 0, 5, 0],
+    "Investments": [1, 1, 1, 3, 12, 6, 0, 0, 1, 0, 7, 20, 35],
+    "Other Assets": [56, 59, 53, 49, 49, 52, 57, 64, 69, 110, 132, 227, 270],
+    "Total Assets": [75, 77, 72, 69, 84, 96, 99, 103, 107, 146, 178, 292, 360]
+  },
+  "CashFlow": {
+    "Cash from Operating Activity": [3, 1, 20, 8, 12, 5, 1, 6, 10, -6, 39, 76],
+    "Cash from Investing Activity": [0, -1, -2, -3, -16, -11, 1, 0, -1, -1, -12, -23],
+    "Cash from Financing Activity": [-3, -1, -16, -7, 3, 7, -2, -4, -10, 6, -19, -29],
+    "Net Cash Flow": [1, -1, 2, -3, -1, 0, 0, 1, -1, -1, 9, 25]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [65.85, 65.85, 65.85, 65.85, 65.85, 65.85, 65.85, 65.85, 64.01, 64.01, 64.01, 64.01],
+      "FIIs": [1.41, 1.41, 1.41, 1.94, 1.94, 1.89, 0.59, 1.00, 3.17, 3.55, 3.08, 3.22],
+      "DIIs": [0.56, 0.56, 0.56, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.02, 0.03],
+      "Government": [0.49, 0.49, 0.49, 0.52, 0.52, 0.52, 0.52, 0.53, 0.53, 0.53, 0.53, 0.53],
+      "Public": [31.69, 31.69, 31.69, 31.69, 31.70, 31.76, 33.05, 32.63, 32.29, 31.93, 32.37, 32.22]
+    },
+    "Yearly": {
+      "Promoters": [65.85, 65.85, 65.85, 65.85, 65.85, 65.85, 65.85, 64.01, 64.01],
+      "FIIs": [0.00, 1.10, 1.10, 1.10, 1.28, 1.41, 1.89, 3.55, 3.22],
+      "DIIs": [0.00, 0.00, 0.56, 0.56, 0.57, 0.56, 0.00, 0.00, 0.03],
+      "Government": [0.00, 0.00, 0.41, 0.41, 0.49, 0.49, 0.52, 0.53, 0.53],
+      "Public": [34.15, 33.06, 32.08, 32.08, 31.81, 31.69, 31.76, 31.93, 32.22]
+    },
+    "No. of Shareholders": [1250, 1409, 2766, 2481, 2739, 3436, 5116, 9846, 12952, 16011, 23220, 27099]
+  }
+}

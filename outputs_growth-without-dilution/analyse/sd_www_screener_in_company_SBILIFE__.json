@@ -1,0 +1,186 @@
+
+{
+  "Company Overview": {
+    "Name": "SBI Life Insurance Company Ltd",
+    "Sector": "Insurance",
+    "Industry": "Finance & Investments",
+    "Business Description": "engaged in the business of life insurance and annuity. It was started as a Joint-venture between State Bank of India and BNP Paribas Cardif S.A.",
+    "Market Position": "Part of BSE 100 LargeCap TMC Index, Nifty LargeMidcap 250, BSE Diversified Financials Revenue Growth Index, Nifty 100, Nifty Services Sector, Nifty 200, Nifty Financial Services, Nifty 100 Equal Weight, BSE Allcap, BSE LargeCap, Nifty 50, BSE 250 LargeMidCap Index, BSE Financial Services, Nifty 500 Multicap 50:25:25, Nifty Financial Services 25/50, Nifty100 ESG, Nifty Total Market, BSE 500, BSE SENSEX 50, BSE 100, BSE 200, BSE Dollex 200, Nifty 50 Equal Weight, Nifty 100 Low Volatility 30, Nifty 500"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,40,346 Cr.",
+    "Current Price": "₹ 1,401",
+    "High / Low": "₹ 1,936 / ₹ 1,307",
+    "Stock P/E": "64.3",
+    "Book Value": "₹ 162",
+    "Dividend Yield": "0.19 %",
+    "ROCE": "13.2 %",
+    "ROE": "12.0 %",
+    "Face Value": "₹ 10.0",
+    "Solvency Ratio (FY21)": "215%",
+    "Claim Settlement Ratio (FY21)": "100%",
+    "Cost Ratio (FY21)": "8%",
+    "Commission Ratio (FY21)": "3.5%",
+    "Persistency Ratio (13 months, FY21)": "88%",
+    "Persistency Ratio (61 months, FY21)": "62%",
+    "VNB Margin (FY21)": "20%",
+    "Net Retention Ratio (FY21)": "99%"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [25636, 20672, 20671, 4806, 27717, 26817, 21296, 27895, 28805, 39033, 36255, 34654, 40302],
+      "Expenses": [25364, 20272, 20941, 4516, 27292, 26483, 22197, 27471, 28392, 38681, 37043, 34060, 39696],
+      "Operating Profit": [272, 400, -270, 290, 426, 333, -901, 424, 413, 352, -788, 594, 606],
+      "OPM %": [1, 2, -1, 6, 2, 1, -4, 2, 1, 1, -2, 2, 2],
+      "Other Income": [11, 10, 995, 11, 11, 13, 1723, 9, 12, 18, 1639, 3, -4],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Profit before tax": [282, 410, 725, 301, 437, 346, 822, 433, 424, 370, 851, 597, 601],
+      "Tax %": [13, 11, 7, 13, 14, 12, 5, 12, 10, 13, 5, 13, 12],
+      "Net Profit": [247, 364, 672, 263, 377, 304, 777, 381, 380, 322, 811, 520, 529],
+      "EPS in Rs": [2.47, 3.64, 6.72, 2.63, 3.76, 3.04, 7.76, 3.81, 3.80, 3.21, 8.10, 5.19, 5.28]
+    },
+    "Annual Results": {
+      "Sales": [14870, 17258, 23299, 19324, 30548, 34068, 44604, 43798, 81913, 82983, 80636, 131988, 150243],
+      "Expenses": [14443, 16747, 22505, 18404, 29479, 32736, 43130, 42447, 81040, 82254, 80514, 131742, 149480],
+      "Operating Profit": [427, 511, 794, 920, 1068, 1332, 1474, 1351, 872, 730, 122, 246, 763],
+      "OPM %": [3, 3, 3, 5, 4, 4, 3, 3, 1, 1, 0, 0, 1],
+      "Other Income": [292, 344, 183, 129, 139, 156, 266, 529, 867, 1032, 1862, 1917, 1657],
+      "Interest": [4, 5, 4, 5, 5, 6, 8, 0, 0, 0, 10, 9, 0],
+      "Depreciation": [25, 35, 34, 37, 48, 59, 92, 89, 99, 75, 68, 76, 0],
+      "Profit before tax": [690, 816, 939, 1007, 1154, 1422, 1642, 1790, 1640, 1687, 1906, 2078, 2419],
+      "Tax %": [9, 11, 13, 16, 17, 19, 19, 21, 11, 11, 10, 9, 11],
+      "Net Profit": [630, 728, 815, 844, 955, 1150, 1327, 1422, 1456, 1506, 1721, 1894, 2181],
+      "EPS in Rs": [6.30, 7.28, 8.15, 8.44, 9.55, 11.50, 13.27, 14.22, 14.56, 15.05, 17.19, 18.91, 21.78]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "23%",
+      "Compounded Sales Growth (5 Years)": "24%",
+      "Compounded Sales Growth (3 Years)": "17%",
+      "Compounded Sales Growth (TTM)": "43%",
+      "Compounded Profit Growth (10 Years)": "9%",
+      "Compounded Profit Growth (5 Years)": "6%",
+      "Compounded Profit Growth (3 Years)": "5%",
+      "Compounded Profit Growth (TTM)": "18%",
+      "Stock Price CAGR (10 Years)": null, 
+      "Stock Price CAGR (5 Years)": "7%",
+      "Stock Price CAGR (3 Years)": "8%",
+      "Stock Price CAGR (1 Year)": "0%"
+    },
+    "Liquidity Ratios": {},
+    "Profitability Ratios": {
+      "Return on Equity (10 Years)": "16%",
+      "Return on Equity (5 Years)": "14%",
+      "Return on Equity (3 Years)": "13%",
+      "Return on Equity (Last Year)": "12%",
+      "ROCE (10 Years)": "16%",
+      "ROCE (5 Years)": "14%",
+      "ROCE (3 Years)": "13%",
+      "ROCE (Last Year)": "12%"
+    },
+    "Valuation Ratios": {},
+    "Other Ratios": {
+      "Debtor Days": [0,0,0,0,0,0,0,0,0,0,0,0],
+      "Inventory Days": [],
+      "Days Payable": [],
+      "Cash Conversion Cycle": [0,0,0,0,0,0,0,0,0,0,0,0],
+      "Working Capital Days": [-5,-2,0,-6,3,3,4,11,1,-3,1,4]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Life Insurance", "CMP": 901.70, "P/E": 13.75, "Mar Cap": 570325.04, "Div Yld": 1.11, "NP Qtr": 7722.74, "Qtr Profit Var": -3.83, "Sales Qtr": 231132.12, "Qtr Sales Var": 13.84, "ROCE": 72.95},
+      {"Name": "SBI Life Insuran", "CMP": 1400.60, "P/E": 64.34, "Mar Cap": 140346.43, "Div Yld": 0.19, "NP Qtr": 529.42, "Qtr Profit Var": 39.25, "Sales Qtr": 40301.73, "Qtr Sales Var": 39.91, "ROCE": 13.23},
+      {"Name": "HDFC Life Insur.", "CMP": 623.80, "P/E": 79.31, "Mar Cap": 134291.84, "Div Yld": 0.32, "NP Qtr": 435.18, "Qtr Profit Var": 15.07, "Sales Qtr": 28496.97, "Qtr Sales Var": 23.14, "ROCE": 6.61},
+      {"Name": "ICICI Pru Life", "CMP": 653.90, "P/E": 107.89, "Mar Cap": 94501.94, "Div Yld": 0.09, "NP Qtr": 250.99, "Qtr Profit Var": 2.92, "Sales Qtr": 25158.31, "Qtr Sales Var": 44.69, "ROCE": 8.75},
+      {"Name": "ICICI Lombard", "CMP": 1902.15, "P/E": 42.33, "Mar Cap": 94185.89, "Div Yld": 0.32, "NP Qtr": 693.95, "Qtr Profit Var": 20.21, "Sales Qtr": 6147.30, "Qtr Sales Var": 16.63, "ROCE": 22.52},
+      {"Name": "General Insuranc", "CMP": 501.00, "P/E": 12.08, "Mar Cap": 87895.44, "Div Yld": 2.00, "NP Qtr": 1855.71, "Qtr Profit Var": 9.87, "Sales Qtr": 12377.97, "Qtr Sales Var": -5.33, "ROCE": 15.78},
+      {"Name": "New India Assura", "CMP": 214.10, "P/E": 25.92, "Mar Cap": 35283.68, "Div Yld": 0.96, "NP Qtr": 90.62, "Qtr Profit Var": 151.15, "Sales Qtr": 10785.91, "Qtr Sales Var": 2.08, "ROCE": 0.56}
+    ],
+    "Median": {
+      "CMP": 562.4,
+      "P/E": 53.34,
+      "Mar Cap": 91040.67,
+      "Div Yld": 0.26,
+      "NP Qtr": 343.09,
+      "Qtr Profit Var": 17.64,
+      "Sales Qtr": 11581.94,
+      "Qtr Sales Var": 17.28,
+      "ROCE": 10.99
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company is expected to give good quarter"
+    ],
+    "Cons": [
+      "Stock is trading at 8.63 times its book value",
+      "Tax rate seems low",
+      "Company has a low return on equity of 12.9% over last 3 years.",
+      "Earnings include an other income of Rs.1,657 Cr.",
+      "Dividend payout has been low at 14.0% of profits over last 3 years"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [55.69, 55.48, 55.48, 55.46, 55.45, 55.45, 55.45, 55.44, 55.43, 55.42, 55.41, 55.39],
+      "FIIs": [24.47, 24.15, 23.90, 24.33, 25.09, 25.14, 26.22, 26.17, 25.92, 25.16, 24.70, 25.18],
+      "DIIs": [12.00, 12.46, 12.29, 15.65, 14.93, 15.09, 14.15, 14.27, 14.63, 15.40, 15.88, 15.32],
+      "Public": [7.84, 7.91, 8.33, 4.56, 4.54, 4.34, 4.19, 4.11, 4.01, 4.01, 3.98, 4.10]
+    },
+    "Yearly": {
+      "Promoters": [84.10, 69.80, 62.80, 55.70, 55.48, 55.45, 55.42, 55.39],
+      "FIIs": [4.44, 14.06, 25.87, 30.51, 24.15, 25.14, 25.16, 25.18],
+      "DIIs": [4.41, 4.36, 5.74, 6.94, 12.46, 15.09, 15.40, 15.32],
+      "Public": [7.05, 11.78, 5.59, 6.85, 7.91, 4.34, 4.01, 4.10]
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "17 Dec", "Title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS"},
+      {"Date": "28 Nov", "Title": "Intimation Under Regulation 30 Of The SEBI (LODR) Regulations, 2015 ('Listing Regulations') - Clarification On News In Media"},
+      {"Date": "21 Nov", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome"},
+      {"Date": "14 Nov", "Title": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS"},
+      {"Date": "14 Nov", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome"}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"}
+    ],
+    "DRHP": [],
+    "Credit Ratings": [
+      {"Date": "10 May", "Source": "crisil"},
+      {"Date": "12 May 2023", "Source": "crisil"},
+      {"Date": "12 Dec 2022", "Source": "crisil"},
+      {"Date": "25 May 2022", "Source": "crisil"},
+      {"Date": "31 May 2021", "Source": "crisil"},
+      {"Date": "30 May 2020", "Source": "crisil"}
+    ],
+    "Concalls": [
+      {"Date": "Oct 2024"},
+      {"Date": "Jul 2024"},
+      {"Date": "May 2024"},
+      {"Date": "Feb 2024"},
+      {"Date": "Oct 2023"},
+      {"Date": "Jul 2023"},
+      {"Date": "Jun 2023"},
+      {"Date": "May 2023"},
+      {"Date": "Jan 2023"},
+      {"Date": "Nov 2022"},
+      {"Date": "Aug 2022"},
+      {"Date": "May 2022"},
+      {"Date": "May 2020"},
+      {"Date": "Jan 2018"}
+    ]
+  }
+}

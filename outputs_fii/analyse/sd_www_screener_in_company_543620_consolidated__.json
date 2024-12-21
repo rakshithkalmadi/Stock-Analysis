@@ -1,0 +1,219 @@
+
+{
+  "Company Overview": {
+    "Name": "Insolation Energy Ltd",
+    "Sector": "Capital Goods - Electrical Equipment",
+    "Industry": "Electric Equipment",
+    "Business Description": "Incorporated in 2015, Insolation Energy Ltd is engaged in the business of manufacturing solar panels and modules of high efficiency of various sizes. The company's 200 MW SPV Module manufacturing unit is located in Jaipur, spread over more than 60,000 Sq. ft area with the latest machinery.",
+    "Market Position": "2nd largest North Indian manufacturer of solar panels, batteries, and inverters based in Jaipur, Rajasthan."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 7,662 Cr.",
+    "Current Price": "₹ 3,678",
+    "High/Low": "₹ 4,750 / ₹ 676",
+    "P/E Ratio": 75.3,
+    "Book Value": "₹ 81.4",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "47.8 %",
+    "ROE": "68.5 %",
+    "Face Value": "₹ 10.0",
+    "BSE Code": "543620",
+    "Website": "insolationenergy.in"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data not explicitly provided in a structured format, needs further extraction from tables."
+    },
+    "Quarterly Results": {
+      "Sales": {
+        "Mar 2022": 116,
+        "Sep 2022": 116,
+        "Mar 2023": 164,
+        "Sep 2023": 278,
+        "Mar 2024": 459,
+        "Sep 2024": 612
+      },
+      "Expenses": {
+        "Mar 2022": 107,
+        "Sep 2022": 107,
+        "Mar 2023": 154,
+        "Sep 2023": 250,
+        "Mar 2024": 407,
+        "Sep 2024": 532
+      },
+      "Operating Profit": {
+        "Mar 2022": 8,
+        "Sep 2022": 8,
+        "Mar 2023": 10,
+        "Sep 2023": 28,
+        "Mar 2024": 52,
+        "Sep 2024": 80
+      },
+      "OPM %": {
+        "Mar 2022": "7%",
+        "Sep 2022": "7%",
+        "Mar 2023": "6%",
+        "Sep 2023": "10%",
+        "Mar 2024": "11%",
+        "Sep 2024": "13%"
+      },
+      "Net Profit": {
+        "Mar 2022": 5,
+        "Sep 2022": 5,
+        "Mar 2023": 6,
+        "Sep 2023": 15,
+        "Mar 2024": 40,
+        "Sep 2024": 61
+      },
+      "EPS in Rs": {
+        "Mar 2022": 3.07,
+        "Sep 2022": 3.07,
+        "Mar 2023": 2.92,
+        "Sep 2023": 7.22,
+        "Mar 2024": 19.41,
+        "Sep 2024": 29.41
+      }
+    },
+    "Yearly Results": {
+      "Sales": {
+        "Mar 2022": 215,
+        "Mar 2023": 279,
+        "Mar 2024": 737
+      },
+      "Expenses": {
+        "Mar 2022": 201,
+        "Mar 2023": 261,
+        "Mar 2024": 656
+      },
+      "Operating Profit": {
+        "Mar 2022": 14,
+        "Mar 2023": 19,
+        "Mar 2024": 81
+      },
+      "OPM %": {
+        "Mar 2022": "6%",
+        "Mar 2023": "7%",
+        "Mar 2024": "11%"
+      },
+      "Net Profit": {
+        "Mar 2022": 7,
+        "Mar 2023": 11,
+        "Mar 2024": 55
+      },
+      "EPS in Rs": {
+        "Mar 2022": 4.63,
+        "Mar 2023": 5.13,
+        "Mar 2024": 26.63
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Data available in table format, needs further extraction."
+    },
+    "Cash Flow": {
+      "Note": "Data available in table format, needs further extraction."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "TTM": "142%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "TTM": "382%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": "428%"
+      },
+      "Return on Equity": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "Last Year": "69%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Note": "Data needs extraction from the ratios table."
+    },
+    "Profitability Ratios": {
+      "Note": "Data needs extraction from the ratios table."
+    },
+    "Valuation Ratios": {
+      "Note": "Data needs extraction from the ratios table."
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2022": 28,
+        "Mar 2023": 37,
+        "Mar 2024": 26
+      },
+      "Inventory Days": {
+        "Mar 2022": 48,
+        "Mar 2023": 75,
+        "Mar 2024": 44
+      },
+      "Days Payable": {
+        "Mar 2022": 24,
+        "Mar 2023": 33,
+        "Mar 2024": 23
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2022": 52,
+        "Mar 2023": 78,
+        "Mar 2024": 48
+      },
+      "Working Capital Days": {
+        "Mar 2022": 53,
+        "Mar 2023": 77,
+        "Mar 2024": 42
+      },
+      "ROCE %": {
+        "Mar 2022": "20%",
+        "Mar 2023": "48%"
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Siemens", "CMP": 6868.90, "P/E": 90.04, "Mar Cap": 244615.61, "Div Yld": 0.15, "NP Qtr": 831.20, "Qtr Profit Var": 45.41, "Sales Qtr": 6461.10, "Qtr Sales Var": 11.25, "ROCE": 25.59},
+      {"Name": "A B B", "CMP": 6921.25, "P/E": 86.89, "Mar Cap": 146667.08, "Div Yld": 0.34, "NP Qtr": 440.45, "Qtr Profit Var": 21.68, "Sales Qtr": 2912.16, "Qtr Sales Var": 5.16, "ROCE": 30.69},
+      {"Name": "CG Power & Ind", "CMP": 730.05, "P/E": 124.61, "Mar Cap": 111592.02, "Div Yld": 0.18, "NP Qtr": 219.63, "Qtr Profit Var": -1.77, "Sales Qtr": 2412.69, "Qtr Sales Var": 20.54, "ROCE": 46.63},
+      {"Name": "Suzlon Energy", "CMP": 64.13, "P/E": 88.00, "Mar Cap": 86810.83, "Div Yld": 0.00, "NP Qtr": 200.60, "Qtr Profit Var": 45.89, "Sales Qtr": 2103.38, "Qtr Sales Var": 47.98, "ROCE": 24.93},
+      {"Name": "Waaree Energies", "CMP": 2879.35, "P/E": 83.70, "Mar Cap": 82718.89, "Div Yld": 0.00, "NP Qtr": 375.66, "Qtr Profit Var": 14.78, "Sales Qtr": 3574.38, "Qtr Sales Var": 1.05, "ROCE": 43.63},
+      {"Name": "B H E L", "CMP": 235.30, "P/E": 184.25, "Mar Cap": 81932.95, "Div Yld": 0.11, "NP Qtr": 106.15, "Qtr Profit Var": 268.47, "Sales Qtr": 6584.10, "Qtr Sales Var": 28.46, "ROCE": 3.37},
+      {"Name": "Premier Energies", "CMP": 1296.40, "P/E": 253.01, "Mar Cap": 58438.39, "Div Yld": 0.00, "NP Qtr": 205.95, "Qtr Profit Var": 289.61, "Sales Qtr": 1527.22, "Qtr Sales Var": 120.16, "ROCE": 25.23}
+    ],
+    "Median": {
+      "CMP": 525.73,
+      "P/E": 69.63,
+      "Mar Cap": 1616.72,
+      "Div Yld": 0.0,
+      "NP Qtr": 8.31,
+      "Qtr Profit Var": 34.14,
+      "Sales Qtr": 127.8,
+      "Qtr Sales Var": 21.98,
+      "ROCE": 19.48
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company's working capital requirements have reduced from 57.4 days to 42.3 days",
+    "Cons": "Stock is trading at 45.2 times its book value. Though the company is reporting repeated profits, it is not paying out dividend.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities.",
+    "Announcements": [
+      "INSOLATION ENERGY SETS CONSOLIDATED REVENUE TARGET OF RS. 8000 CRORE ($ I BILLION) ON THE EVE OF ALLOTMENT OF 1,82,108.50 SQ. MTR OF LAND FROM GOVERNMENT OF MADHYA PRADESH VIA LETTER OF INTENT (LOI) DATED DECEMBER 7, 2024 AT RS. 1/- PER SQ. MTR FOR SETTING OF SOLAR INTEGRATED PLANT",
+      "Disclosure under SEBI regulations regarding insider trading.",
+      "Disclosure under SEBI regulations by Managing Director.",
+      "Disclosure of share sale by promoter Vikas Jain.",
+      "Approval of preferential allotment of equity shares."
+    ]
+  }
+}

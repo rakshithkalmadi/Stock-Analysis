@@ -1,0 +1,145 @@
+
+{
+  "Company Overview": {
+    "Name": "Gravita India Ltd",
+    "Sector": "Non Ferrous Metals",
+    "Industry": "Mining / Minerals / Metals",
+    "Business Description": "Established in 1992, Gravita India Ltd is one of the largest lead producer in India. The company's business is organized across four specialized verticals: Lead Recycling (flagship), Aluminum recycling, Plastic recycling and Turnkey projects. The company also has expertise in the recycling of used batteries, cable scrap/other Lead scrap, Aluminum scrap, Plastic scrap, etc.",
+    "Market Position": "One of the largest lead producer in India"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 16,061 Cr.",
+    "Current Price": "₹ 2,326",
+    "High / Low": "₹ 2,700 / 730",
+    "Stock P/E": "59.8",
+    "Book Value": "₹ 134",
+    "Dividend Yield": "0.22 %",
+    "ROCE": "27.9 %",
+    "ROE": "33.7 %",
+    "Face Value": "₹ 2.00"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each quarter and line item (Sales, Expenses, Operating Profit, etc.)."
+      },
+      "Annual": {
+        "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each year and line item (Sales, Expenses, Operating Profit, etc.)."
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each year and line item (Equity Capital, Reserves, Borrowings, etc.)."
+    },
+    "Cash Flow": {
+      "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each year and line item (Cash from Operating Activity, Cash from Investing Activity, etc.)."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "20%",
+      "Compounded Sales Growth (5 Years)": "21%",
+      "Compounded Sales Growth (3 Years)": "31%",
+      "Compounded Sales Growth (TTM)": "12%",
+      "Compounded Profit Growth (10 Years)": "25%",
+      "Compounded Profit Growth (5 Years)": "73%",
+      "Compounded Profit Growth (3 Years)": "61%",
+      "Compounded Profit Growth (TTM)": "20%",
+      "Stock Price CAGR (10 Years)": "43%",
+      "Stock Price CAGR (5 Years)": "120%",
+      "Stock Price CAGR (3 Years)": "110%",
+      "Stock Price CAGR (1 Year)": "122%"
+    },
+    "Liquidity Ratios": {
+      "Note": "Requires further processing of the provided Balance Sheet and Cash Flow data."
+    },
+    "Profitability Ratios": {
+      "ROCE (10 Years)": "29%",
+      "ROCE (5 Years)": "34%",
+      "ROCE (3 Years)": "38%",
+      "ROCE (Last Year)": "34%",
+      "ROE (10 Years)": "29%",
+      "ROE (5 Years)": "34%",
+      "ROE (3 Years)": "38%",
+      "ROE (Last Year)": "34%"
+    },
+    "Valuation Ratios": {
+      "Note": "Some valuation ratios are available (P/E, Price to Book), but more detailed information requires further processing."
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      },
+      "Inventory Days": {
+        "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      },
+      "Days Payable": {
+        "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      },
+      "Cash Conversion Cycle": {
+        "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      },
+      "Working Capital Days": {
+        "Note": "Available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Hindustan Zinc", "CMP": "468.80", "P/E": "22.52", "Mar Cap": "198082.95", "Div Yld": "6.19", "NP Qtr": "2298.00", "Qtr Profit Var": "35.80", "Sales Qtr": "8242.00", "Qtr Sales Var": "21.35", "ROCE": "46.25"},
+      {"Name": "Hindustan Copper", "CMP": "271.50", "P/E": "65.25", "Mar Cap": "26254.70", "Div Yld": "0.34", "NP Qtr": "101.68", "Qtr Profit Var": "67.21", "Sales Qtr": "518.19", "Qtr Sales Var": "35.87", "ROCE": "17.99"},
+      {"Name": "Gravita India", "CMP": "2326.35", "P/E": "59.82", "Mar Cap": "16060.64", "Div Yld": "0.22", "NP Qtr": "71.92", "Qtr Profit Var": "24.30", "Sales Qtr": "927.42", "Qtr Sales Var": "10.91", "ROCE": "27.86"},
+      {"Name": "Shivalik Bimetal", "CMP": "602.70", "P/E": "43.18", "Mar Cap": "3471.81", "Div Yld": "0.28", "NP Qtr": "19.94", "Qtr Profit Var": "-1.97", "Sales Qtr": "126.65", "Qtr Sales Var": "-0.87", "ROCE": "32.84"},
+      {"Name": "Prec. Wires (I)", "CMP": "175.14", "P/E": "38.41", "Mar Cap": "3129.02", "Div Yld": "0.60", "NP Qtr": "19.27", "Qtr Profit Var": "17.86", "Sales Qtr": "1043.79", "Qtr Sales Var": "25.84", "ROCE": "25.35"},
+      {"Name": "Ram Ratna Wires", "CMP": "581.85", "P/E": "42.85", "Mar Cap": "2560.14", "Div Yld": "0.43", "NP Qtr": "16.80", "Qtr Profit Var": "22.27", "Sales Qtr": "939.80", "Qtr Sales Var": "24.14", "ROCE": "17.37"},
+      {"Name": "Pondy Oxides", "CMP": "907.65", "P/E": "41.67", "Mar Cap": "2364.46", "Div Yld": "0.28", "NP Qtr": "17.39", "Qtr Profit Var": "112.85", "Sales Qtr": "572.43", "Qtr Sales Var": "45.73", "ROCE": "16.10"}
+    ],
+    "Median": {
+      "CMP": "229.35",
+      "P/E": "34.6",
+      "Mar Cap": "639.43",
+      "Div Yld": "0.22",
+      "NP Qtr": "9.67",
+      "Qtr Profit Var": "23.29",
+      "Sales Qtr": "372.93",
+      "Qtr Sales Var": "21.35",
+      "ROCE": "19.77"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 73.0% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 38.3%"
+    ],
+    "Cons": [
+      "Stock is trading at 17.3 times its book value",
+      "Tax rate seems low",
+      "Promoter holding has decreased over last 3 years: -9.63%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation", "Date": "1d", "Description": "Schedule of Analyst/Institutional Investor meeting on 27th December."},
+      {"Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation", "Date": "1d", "Description": "Schedule of Analyst/Institutional Investor meeting on 26 Dec 2024."},
+      {"Title": "Announcement under Regulation 30 (LODR)-Allotment", "Date": "1d", "Description": "Qualified institutions placement of 47,70,537 equity shares."},
+      {"Title": "Announcement under Regulation 30 (LODR)-Qualified Institutional Placement", "Date": "1d", "Description": "Closure of QIP and allocation of equity shares."},
+      {"Title": "Announcement under Regulation 30 (LODR)-Qualified Institutional Placement", "Date": "16 Dec", "Description": "Qualified institutions placement of equity shares approved."}
+    ],
+    "Annual Reports": {
+      "Note": "Links to annual reports for various years are available, but require further processing to extract the actual report data."
+    },
+    "DRHP": {
+      "Note": "Mentioned, but no specific details provided."
+    },
+    "Credit Ratings": {
+      "Note": "Multiple rating updates from different agencies are mentioned, but specific details require further processing."
+    },
+    "Concalls": {
+      "Note": "Multiple concall transcripts, notes, and PPTs are mentioned, but specific details require further processing."
+    }
+  }
+}

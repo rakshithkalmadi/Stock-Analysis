@@ -1,0 +1,134 @@
+
+{
+  "Company Overview": {
+    "Name": "eMudhra Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Licensed certifying authority involved in issuing digital signature certificates in India under its eMudhra brand. Licensed by the Controller of Certifying Authorities (CCA), Ministry of Information Technology, and operates under the guidelines set by the Information technology Act.",
+    "Market Position": "Part of Nifty Microcap 250, BSE SmallCap, BSE Allcap, Nifty Total Market, BSE Information Technology"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 7,829 Cr.",
+    "Current Price": "₹ 945",
+    "High / Low": "₹ 1,024 / 415",
+    "Stock P/E": 96.9,
+    "Book Value": "₹ 83.3",
+    "Dividend Yield": "0.13 %",
+    "ROCE": "17.7 %",
+    "ROE": "14.4 %",
+    "Face Value": "₹ 5.00",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs further calculation from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [49, 45, 45, 52, 58, 61, 77, 80, 96, 97, 100, 92, 141],
+      "Expenses": [32, 27, 27, 32, 37, 40, 53, 56, 68, 73, 67, 66, 109],
+      "Operating Profit": [17, 18, 18, 21, 22, 21, 24, 24, 28, 25, 33, 27, 32],
+      "OPM %": ["34%", "40%", "41%", "39%", "37%", "35%", "31%", "30%", "29%", "25%", "33%", "29%", "23%"],
+      "Other Income": [0, -0, 0, 1, 1, 1, 2, 1, 0, 2, 3, 3, 1],
+      "Interest": [1, 1, 2, 1, 0, 0, 2, 0, 0, 1, 1, 0, 1],
+      "Depreciation": [3, 4, 3, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6],
+      "Profit before tax": [12, 13, 14, 16, 19, 18, 20, 20, 23, 20, 29, 24, 27],
+      "Tax %": ["16%", "19%", "21%", "16%", "12%", "16%", "22%", "17%", "19%", "2%", "28%", "23%", "18%"],
+      "Net Profit": [10, 10, 11, 14, 16, 15, 16, 16, 19, 20, 21, 18, 22],
+      "EPS in Rs": [1.52, 1.48, 1.54, 1.78, 2.13, 1.96, 2.03, 2.00, 2.35, 2.58, 2.54, 2.16, 2.65]
+    },
+    "Annual Results": {
+      "Sales": [102, 116, 132, 183, 249, 373, 431],
+      "Expenses": [69, 85, 92, 116, 161, 263, 314],
+      "Operating Profit": [32, 32, 40, 67, 87, 110, 117],
+      "OPM %": ["32%", "27%", "30%", "37%", "35%", "29%", "27%"],
+      "Other Income": [-2, 0, 1, 1, 5, 7, 10],
+      "Interest": [0, 1, 1, 5, 3, 3, 3],
+      "Depreciation": [8, 9, 9, 13, 16, 21, 22],
+      "Profit before tax": [22, 23, 31, 50, 73, 93, 101],
+      "Tax %": ["19%", "20%", "19%", "18%", "17%", "18%", "18%"],
+      "Net Profit": [17, 18, 25, 41, 61, 76, 82],
+      "EPS in Rs": [2.49, 2.37, 2.49, 5.90, 7.90, 9.06, 9.93],
+      "Dividend Payout %": ["0%", "0%", "0%", "21%", "15%", "13%"]
+    },
+    "Compounded Growth": {
+      "Sales Growth": {
+        "10 Years": null,
+        "5 Years": "30%",
+        "3 Years": "42%",
+        "TTM": "37%"
+      },
+      "Profit Growth": {
+        "10 Years": null,
+        "5 Years": "32%",
+        "3 Years": "63%",
+        "TTM": "24%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": "117%"
+      },
+      "Return on Equity": {
+        "10 Years": null,
+        "5 Years": "19%",
+        "3 Years": "19%",
+        "Last Year": "14%"
+      }
+    }
+  },
+  "Ratios": {
+    "Debtor Days": [77, 73, 41, 88, 99, 101],
+    "Inventory Days": [5, 22, 14, 26, 13, 32],
+    "Days Payable": [83, 115, 68, 177, 223, 261],
+    "Cash Conversion Cycle": [-1, -20, -13, -62, -111, -128],
+    "Working Capital Days": [70, 68, 40, 89, 135, 119],
+    "ROCE %": ["20%", "21%", "28%", "24%", "18%"]
+  },
+  "Peer Comparison": {
+    "Peers": "Loading peers table ..." 
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 31.8% CAGR over last 5 years"
+    ],
+    "Cons": [
+      "Stock is trading at 11.4 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Balance Sheet": {
+    "Equity Capital": [35, 35, 35, 35, 37, 40, 41],
+    "Reserves": [41, 57, 72, 118, 354, 616, 649],
+    "Borrowings": [29, 42, 52, 67, 25, 8, 0],
+    "Other Liabilities": [15, 25, 32, 39, 43, 86, 112],
+    "Total Liabilities": [120, 159, 192, 259, 460, 750, 802],
+    "Fixed Assets": [62, 62, 125, 117, 162, 253, 395],
+    "CWIP": [22, 40, 4, 43, 47, 51, 17],
+    "Investments": [0, 0, 14, 0, 21, 4, 47],
+    "Other Assets": [36, 56, 49, 99, 230, 443, 343],
+    "Total Assets": [120, 159, 192, 259, 460, 750, 802]
+  },
+  "Cash Flows": {
+    "Cash from Operating Activity": [17, 23, 41, 22, 34, 73],
+    "Cash from Investing Activity": [-32, -29, -47, -37, -102, -90],
+    "Cash from Financing Activity": [10, 12, 5, 16, 127, 176],
+    "Net Cash Flow": [-5, 7, -1, 1, 59, 158]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [61.03, 61.03, 61.03, 57.70, 57.70, 57.70, 57.70, 54.40, 54.40, 54.40],
+      "FIIs": [4.31, 4.24, 4.09, 4.16, 4.28, 4.30, 3.85, 4.20, 4.17, 4.40],
+      "DIIs": [10.68, 10.53, 10.87, 10.65, 9.87, 8.47, 9.12, 14.45, 14.36, 15.03],
+      "Public": [23.98, 24.22, 24.02, 27.50, 28.15, 29.55, 29.35, 26.94, 27.08, 26.17]
+    },
+    "Yearly": {
+      "Promoters": [57.70, 54.40, 54.40],
+      "FIIs": [4.16, 4.20, 4.40],
+      "DIIs": [10.65, 14.45, 15.03],
+      "Public": [27.50, 26.94, 26.17]
+    },
+    "No. of Shareholders": [75705, 69296, 65974, 66978, 62851, 66030, 70561, 73650, 78824, 80884]
+  }
+}

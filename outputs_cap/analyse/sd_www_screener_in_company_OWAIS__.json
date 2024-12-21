@@ -1,0 +1,300 @@
+
+{
+  "Company Overview": {
+    "Name": "Owais Metal and Mineral Processing Ltd",
+    "Sector": "Mining & Mineral products",
+    "Industry": "Mining / Minerals / Metals",
+    "Business Description": "OMMPL is in the business of manufacturing and processing metals and minerals such as MNO, MC Manganese, Manganese Ore, Wood Charcoal, Quartz and Quartz Slabs, and recycling of rare earth minerals. Company has developed in-house technology to recycle rare earth mineral waste, enabling extraction of critical metals like tantalum, tin, niobium, etc.",
+    "Market Position": "Information not explicitly available in provided HTML" 
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,887 Cr.",
+    "Current Price": "₹ 1,038",
+    "High / Low": "₹ 1,569 / ₹ 231",
+    "Stock P/E": "56.5",
+    "Book Value": "₹ 49.1",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "52.1 %",
+    "ROE": "44.9 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly available in provided HTML" 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Mar 2023": "0",
+        "Sep 2023": "30",
+        "Mar 2024": "50",
+        "Sep 2024": "105"
+      },
+      "Expenses": {
+        "Mar 2023": "1",
+        "Sep 2023": "21",
+        "Mar 2024": "36",
+        "Sep 2024": "70"
+      },
+      "Operating Profit": {
+        "Mar 2023": "-1",
+        "Sep 2023": "10",
+        "Mar 2024": "13",
+        "Sep 2024": "35"
+      },
+      "OPM %": {
+        "Mar 2023": "32%",
+        "Sep 2023": "27%",
+        "Mar 2024": "33%",
+        "Sep 2024": null
+      },
+      "Other Income": {
+        "Mar 2023": "0",
+        "Sep 2023": "0",
+        "Mar 2024": "0",
+        "Sep 2024": "0"
+      },
+      "Interest": {
+        "Mar 2023": "0",
+        "Sep 2023": "1",
+        "Mar 2024": "1",
+        "Sep 2024": "1"
+      },
+      "Depreciation": {
+        "Mar 2023": "1",
+        "Sep 2023": "0",
+        "Mar 2024": "1",
+        "Sep 2024": "1"
+      },
+      "Profit before tax": {
+        "Mar 2023": "-2",
+        "Sep 2023": "9",
+        "Mar 2024": "12",
+        "Sep 2024": "33"
+      },
+      "Tax %": {
+        "Mar 2023": "-1%",
+        "Sep 2023": "25%",
+        "Mar 2024": "25%",
+        "Sep 2024": "25%"
+      },
+      "Net Profit": {
+        "Mar 2023": "-2",
+        "Sep 2023": "7",
+        "Mar 2024": "9",
+        "Sep 2024": "25"
+      },
+      "EPS in Rs": {
+        "Mar 2023": "-1,600.00",
+        "Sep 2023": "5.11",
+        "Mar 2024": "4.77",
+        "Sep 2024": "13.60"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2023": "0",
+        "Mar 2024": "80",
+        "TTM": "155"
+      },
+      "Expenses": {
+        "Mar 2023": "0",
+        "Mar 2024": "57",
+        "TTM": "106"
+      },
+      "Operating Profit": {
+        "Mar 2023": "0",
+        "Mar 2024": "23",
+        "TTM": "49"
+      },
+      "OPM %": {
+        "Mar 2023": "29%",
+        "Mar 2024": "31%",
+        "TTM": null
+      },
+      "Other Income": {
+        "Mar 2023": "0",
+        "Mar 2024": "0",
+        "TTM": "1"
+      },
+      "Interest": {
+        "Mar 2023": "0",
+        "Mar 2024": "2",
+        "TTM": "2"
+      },
+      "Depreciation": {
+        "Mar 2023": "0",
+        "Mar 2024": "1",
+        "TTM": "2"
+      },
+      "Profit before tax": {
+        "Mar 2023": "-0",
+        "Mar 2024": "21",
+        "TTM": "45"
+      },
+      "Tax %": {
+        "Mar 2023": "0%",
+        "Mar 2024": "25%",
+        "TTM": null
+      },
+      "Net Profit": {
+        "Mar 2023": "-0",
+        "Mar 2024": "15",
+        "TTM": "33"
+      },
+      "EPS in Rs": {
+        "Mar 2023": "-100.00",
+        "Mar 2024": "8.51",
+        "TTM": "18.37"
+      },
+      "Dividend Payout %": {
+        "Mar 2024": "24%"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Mar 2023": {
+        "Equity Capital": "0.13",
+        "Reserves": "0",
+        "Borrowings": "3",
+        "Other Liabilities": "0",
+        "Total Liabilities": "4",
+        "Fixed Assets": "0",
+        "CWIP": "0",
+        "Investments": "0",
+        "Other Assets": "4",
+        "Total Assets": "4"
+      },
+      "Mar 2024": {
+        "Equity Capital": "18",
+        "Reserves": "50",
+        "Borrowings": "14",
+        "Other Liabilities": "9",
+        "Total Liabilities": "91",
+        "Fixed Assets": "11",
+        "CWIP": "1",
+        "Investments": "0",
+        "Other Assets": "79",
+        "Total Assets": "91"
+      },
+      "Sep 2024": {
+        "Equity Capital": "18",
+        "Reserves": "71",
+        "Borrowings": "41",
+        "Other Liabilities": "21",
+        "Total Liabilities": "151",
+        "Fixed Assets": "16",
+        "CWIP": "1",
+        "Investments": "0",
+        "Other Assets": "133",
+        "Total Assets": "151"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Mar 2023": {
+        "Cash from Operating Activity": "-0",
+        "Cash from Investing Activity": "-4",
+        "Cash from Financing Activity": "4",
+        "Net Cash Flow": "0"
+      },
+      "Mar 2024": {
+        "Cash from Operating Activity": "-28",
+        "Cash from Investing Activity": "-31",
+        "Cash from Financing Activity": "61",
+        "Net Cash Flow": "2"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "TTM": "413%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "TTM": "609%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": null
+      }
+    },
+    "Liquidity Ratios": {
+      "Information not explicitly available in provided HTML": null
+    },
+    "Profitability Ratios": {
+      "ROCE %": {
+        "Mar 2023": "52%",
+        "Mar 2024": null
+      },
+      "ROE": {
+        "Last Year": "45%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": null
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2023": "98",
+        "Mar 2024": null
+      },
+      "Inventory Days": {
+        "Mar 2023": "111",
+        "Mar 2024": null
+      },
+      "Days Payable": {
+        "Mar 2023": "13",
+        "Mar 2024": null
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2023": "196",
+        "Mar 2024": null
+      },
+      "Working Capital Days": {
+        "Mar 2023": "210",
+        "Mar 2024": null
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Coal India", "CMP": "382.00", "P/E": "6.54", "Mar Cap": "235416.22", "Div Yld": "6.68", "NP Qtr": "6274.80", "Qtr Profit Var": "-22.04", "Sales Qtr": "30672.88", "Qtr Sales Var": "-6.42", "ROCE": "63.59"},
+      {"Name": "Vedanta", "CMP": "477.25", "P/E": "18.04", "Mar Cap": "186623.27", "Div Yld": "9.11", "NP Qtr": "5603.00", "Qtr Profit Var": "522.41", "Sales Qtr": "37634.00", "Qtr Sales Var": "-3.37", "ROCE": "20.91"},
+      {"Name": "NMDC", "CMP": "213.15", "P/E": "9.96", "Mar Cap": "62465.86", "Div Yld": "3.40", "NP Qtr": "1205.30", "Qtr Profit Var": "17.47", "Sales Qtr": "4918.91", "Qtr Sales Var": "22.54", "ROCE": "30.91"},
+      {"Name": "Lloyds Metals", "CMP": "1135.00", "P/E": "40.43", "Mar Cap": "59339.12", "Div Yld": "0.09", "NP Qtr": "301.44", "Qtr Profit Var": "30.35", "Sales Qtr": "1364.43", "Qtr Sales Var": "25.03", "ROCE": "78.27"},
+      {"Name": "KIOCL", "CMP": "361.20", "P/E": null, "Mar Cap": "21951.97", "Div Yld": "0.00", "NP Qtr": "-69.21", "Qtr Profit Var": "-223.56", "Sales Qtr": "16.14", "Qtr Sales Var": "-96.26", "ROCE": "-2.18"},
+      {"Name": "G M D C", "CMP": "326.00", "P/E": "16.30", "Mar Cap": "10366.80", "Div Yld": "2.93", "NP Qtr": "127.86", "Qtr Profit Var": "71.44", "Sales Qtr": "593.01", "Qtr Sales Var": "54.94", "ROCE": "13.78"},
+      {"Name": "MOIL", "CMP": "336.50", "P/E": "19.70", "Mar Cap": "6847.28", "Div Yld": "1.80", "NP Qtr": "49.96", "Qtr Profit Var": "-18.79", "Sales Qtr": "291.89", "Qtr Sales Var": "-16.01", "ROCE": "16.11"}
+    ],
+    "Median": {
+      "CMP": "303.6",
+      "P/E": "19.8",
+      "Mar Cap": "1834.07",
+      "Div Yld": "0.17",
+      "NP Qtr": "11.75",
+      "Qtr Profit Var": "-10.97",
+      "Sales Qtr": "189.66",
+      "Qtr Sales Var": "18.9",
+      "ROCE": "18.58"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Stock is trading at 21.2 times its book value",
+    "Cons": "Company might be capitalizing the interest cost",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Corporate Actions": {
+    "Announcements": [
+      {"Date": "11 December 2024", "Title": "Appointment of Ms. Parveen Qureshi as Non-Executive Independent Director"},
+      {"Date": "11 December 2024", "Title": "Change in Auditors"},
+      {"Date": "11 December 2024", "Title": "Analysts/Institutional Investor Meet/Con. Call Updates"},
+      {"Date": "11 December 2024", "Title": "Outcome of Board Meeting"},
+      {"Date": "11 December 2024", "Title": "Change in Directors/ Key Managerial Personnel/ Auditor/ Compliance Officer/ Share Transfer Agent"}
+    ]
+  }
+}

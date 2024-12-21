@@ -1,0 +1,434 @@
+
+{
+  "Company Overview": {
+    "Name": "Bharat Bijlee Ltd",
+    "Sector": "Capital Goods - Electrical Equipment",
+    "Industry": "Electric Equipment",
+    "Business Description": "Established in 1946, Bharat Bijlee is a leading electrical engineering company in India engaged in manufacturing of transformers, electric motors, elevator systems, drives and automation. It also provides turnkey solutions for EHV switchyards, HV and MV substations, Electrical Balance of Plant, etc.",
+    "Market Position": "Leading electrical engineering company in India",
+    "Website": "bharatbijlee.com",
+    "BSE": "503960",
+    "NSE": "BBL",
+    "Part Of": ["Nifty Microcap 250", "BSE SmallCap", "BSE Allcap", "BSE Industrials", "Nifty Total Market"]
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 4,178 Cr.",
+    "Current Price": "₹ 3,696",
+    "High/Low": "₹ 5,701 / ₹ 2,038",
+    "Stock P/E": "34.5",
+    "Book Value": "₹ 1,956",
+    "Dividend Yield": "0.95 %",
+    "ROCE": "10.6 %",
+    "ROE": "8.01 %",
+    "Face Value": "₹ 5.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": "305",
+        "Dec 2021": "323",
+        "Mar 2022": "349",
+        "Jun 2022": "277",
+        "Sep 2022": "324",
+        "Dec 2022": "388",
+        "Mar 2023": "430",
+        "Jun 2023": "441",
+        "Sep 2023": "420",
+        "Dec 2023": "424",
+        "Mar 2024": "587",
+        "Jun 2024": "375",
+        "Sep 2024": "394"
+      },
+      "Expenses": {
+        "Sep 2021": "283",
+        "Dec 2021": "298",
+        "Mar 2022": "335",
+        "Jun 2022": "255",
+        "Sep 2022": "300",
+        "Dec 2022": "355",
+        "Mar 2023": "391",
+        "Jun 2023": "409",
+        "Sep 2023": "381",
+        "Dec 2023": "385",
+        "Mar 2024": "526",
+        "Jun 2024": "345",
+        "Sep 2024": "372"
+      },
+      "Net Profit": {
+        "Sep 2021": "14",
+        "Dec 2021": "16",
+        "Mar 2022": "12",
+        "Jun 2022": "16",
+        "Sep 2022": "17",
+        "Dec 2022": "23",
+        "Mar 2023": "27",
+        "Jun 2023": "25",
+        "Sep 2023": "28",
+        "Dec 2023": "30",
+        "Mar 2024": "49",
+        "Jun 2024": "24",
+        "Sep 2024": "19"
+      },
+      "EPS": {
+        "Sep 2021": "12.73",
+        "Dec 2021": "14.07",
+        "Mar 2022": "10.27",
+        "Jun 2022": "14.45",
+        "Sep 2022": "14.99",
+        "Dec 2022": "20.43",
+        "Mar 2023": "23.77",
+        "Jun 2023": "22.42",
+        "Sep 2023": "24.68",
+        "Dec 2023": "26.27",
+        "Mar 2024": "42.95",
+        "Jun 2024": "21.17",
+        "Sep 2024": "16.62"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2013": "541",
+        "Mar 2014": "485",
+        "Mar 2015": "610",
+        "Mar 2016": "638",
+        "Mar 2017": "677",
+        "Mar 2018": "774",
+        "Mar 2019": "932",
+        "Mar 2020": "929",
+        "Mar 2021": "731",
+        "Mar 2022": "1266",
+        "Mar 2023": "1418",
+        "Mar 2024": "1872",
+        "TTM": "1780"
+      },
+      "Net Profit": {
+        "Mar 2013": "-5",
+        "Mar 2014": "-11",
+        "Mar 2015": "-34",
+        "Mar 2016": "7",
+        "Mar 2017": "14",
+        "Mar 2018": "61",
+        "Mar 2019": "42",
+        "Mar 2020": "46",
+        "Mar 2021": "26",
+        "Mar 2022": "56",
+        "Mar 2023": "83",
+        "Mar 2024": "131",
+        "TTM": "121"
+      },
+      "EPS": {
+        "Mar 2013": "-4.31",
+        "Mar 2014": "-9.99",
+        "Mar 2015": "-30.13",
+        "Mar 2016": "6.36",
+        "Mar 2017": "12.76",
+        "Mar 2018": "53.96",
+        "Mar 2019": "36.75",
+        "Mar 2020": "40.37",
+        "Mar 2021": "23.05",
+        "Mar 2022": "49.19",
+        "Mar 2023": "73.65",
+        "Mar 2024": "116.32",
+        "TTM": "107.01"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "14%",
+        "5 Years": "15%",
+        "3 Years": "37%",
+        "TTM": "6%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "29%",
+        "5 Years": "27%",
+        "3 Years": "73%",
+        "TTM": "17%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "28%",
+        "5 Years": "57%",
+        "3 Years": "60%",
+        "1 Year": "82%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": {
+        "Mar 2013": "127",
+        "Mar 2014": "119",
+        "Mar 2015": "127",
+        "Mar 2016": "128",
+        "Mar 2017": "120",
+        "Mar 2018": "140",
+        "Mar 2019": "100",
+        "Mar 2020": "115",
+        "Mar 2021": "120",
+        "Mar 2022": "99",
+        "Mar 2023": "99",
+        "Mar 2024": "74"
+      },
+      "Inventory Days": {
+        "Mar 2013": "84",
+        "Mar 2014": "120",
+        "Mar 2015": "68",
+        "Mar 2016": "80",
+        "Mar 2017": "91",
+        "Mar 2018": "74",
+        "Mar 2019": "81",
+        "Mar 2020": "114",
+        "Mar 2021": "190",
+        "Mar 2022": "86",
+        "Mar 2023": "116",
+        "Mar 2024": "74"
+      },
+      "Days Payable": {
+        "Mar 2013": "123",
+        "Mar 2014": "142",
+        "Mar 2015": "115",
+        "Mar 2016": "114",
+        "Mar 2017": "115",
+        "Mar 2018": "103",
+        "Mar 2019": "84",
+        "Mar 2020": "96",
+        "Mar 2021": "133",
+        "Mar 2022": "54",
+        "Mar 2023": "71",
+        "Mar 2024": "59"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2013": "88",
+        "Mar 2014": "97",
+        "Mar 2015": "80",
+        "Mar 2016": "94",
+        "Mar 2017": "97",
+        "Mar 2018": "111",
+        "Mar 2019": "98",
+        "Mar 2020": "133",
+        "Mar 2021": "178",
+        "Mar 2022": "130",
+        "Mar 2023": "145",
+        "Mar 2024": "89"
+      },
+      "Working Capital Days": {
+        "Mar 2013": "142",
+        "Mar 2014": "179",
+        "Mar 2015": "98",
+        "Mar 2016": "107",
+        "Mar 2017": "141",
+        "Mar 2018": "188",
+        "Mar 2019": "172",
+        "Mar 2020": "197",
+        "Mar 2021": "257",
+        "Mar 2022": "122",
+        "Mar 2023": "174",
+        "Mar 2024": "57"
+      }
+    },
+    "Profitability Ratios": {
+      "ROCE %": {
+        "Mar 2013": "2%",
+        "Mar 2014": "0%",
+        "Mar 2015": "-3%",
+        "Mar 2016": "7%",
+        "Mar 2017": "6%",
+        "Mar 2018": "6%",
+        "Mar 2019": "9%",
+        "Mar 2020": "9%",
+        "Mar 2021": "5%",
+        "Mar 2022": "8%",
+        "Mar 2023": "9%",
+        "Mar 2024": "11%"
+      },
+      "ROE": {
+        "10 Years": "5%",
+        "5 Years": "6%",
+        "3 Years": "7%",
+        "Last Year": "8%"
+      }
+    },
+    "Valuation Ratios": {
+      "P/E": "34.5",
+      "Price to Book": null, 
+      "Market Cap / Sales": null
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Siemens", "CMP": "6868.90", "P/E": "90.04", "Mar Cap": "244615.61", "Div Yld": "0.15", "NP Qtr": "831.20", "Qtr Profit Var": "45.41", "Sales Qtr": "6461.10", "Qtr Sales Var": "11.25", "ROCE": "25.59"},
+      {"Name": "A B B", "CMP": "6921.25", "P/E": "86.89", "Mar Cap": "146667.08", "Div Yld": "0.34", "NP Qtr": "440.45", "Qtr Profit Var": "21.68", "Sales Qtr": "2912.16", "Qtr Sales Var": "5.16", "ROCE": "30.69"},
+      {"Name": "CG Power & Ind", "CMP": "730.05", "P/E": "124.61", "Mar Cap": "111592.02", "Div Yld": "0.18", "NP Qtr": "219.63", "Qtr Profit Var": "-1.77", "Sales Qtr": "2412.69", "Qtr Sales Var": "20.54", "ROCE": "46.63"},
+      {"Name": "Suzlon Energy", "CMP": "64.13", "P/E": "88.00", "Mar Cap": "86810.83", "Div Yld": "0.00", "NP Qtr": "200.60", "Qtr Profit Var": "45.89", "Sales Qtr": "2103.38", "Qtr Sales Var": "47.98", "ROCE": "24.93"},
+      {"Name": "Waaree Energies", "CMP": "2879.35", "P/E": "83.70", "Mar Cap": "82718.89", "Div Yld": "0.00", "NP Qtr": "375.66", "Qtr Profit Var": "14.78", "Sales Qtr": "3574.38", "Qtr Sales Var": "1.05", "ROCE": "43.63"},
+      {"Name": "B H E L", "CMP": "235.30", "P/E": "184.25", "Mar Cap": "81932.95", "Div Yld": "0.11", "NP Qtr": "106.15", "Qtr Profit Var": "268.47", "Sales Qtr": "6584.10", "Qtr Sales Var": "28.46", "ROCE": "3.37"},
+      {"Name": "Premier Energies", "CMP": "1296.40", "P/E": "253.01", "Mar Cap": "58438.39", "Div Yld": "0.00", "NP Qtr": "205.95", "Qtr Profit Var": "289.61", "Sales Qtr": "1527.22", "Qtr Sales Var": "120.16", "ROCE": "25.23"}
+    ],
+    "Median": {
+      "CMP": "74",
+      "P/E": "69.63",
+      "Mar Cap": "1616.72",
+      "Div Yld": "0.0",
+      "NP Qtr": "8.31",
+      "Qtr Profit Var": "34.14",
+      "Sales Qtr": "127.8",
+      "Qtr Sales Var": "21.98",
+      "ROCE": "19.48"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 26.8% CAGR over last 5 years",
+      "Company has been maintaining a healthy dividend payout of 29.2%",
+      "Company's working capital requirements have reduced from 118 days to 57.1 days"
+    ],
+    "Cons": [
+      "Promoter holding is low: 33.7%",
+      "Company has a low return on equity of 6.86% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": {
+        "Dec 2021": "33.45%",
+        "Mar 2022": "33.45%",
+        "Jun 2022": "33.45%",
+        "Sep 2022": "33.45%",
+        "Dec 2022": "33.86%",
+        "Mar 2023": "33.86%",
+        "Jun 2023": "33.86%",
+        "Sep 2023": "33.86%",
+        "Dec 2023": "33.72%",
+        "Mar 2024": "33.72%",
+        "Jun 2024": "33.69%",
+        "Sep 2024": "33.69%"
+      },
+      "FIIs": {
+        "Dec 2021": "0.37%",
+        "Mar 2022": "0.60%",
+        "Jun 2022": "0.63%",
+        "Sep 2022": "0.76%",
+        "Dec 2022": "0.82%",
+        "Mar 2023": "0.88%",
+        "Jun 2023": "1.68%",
+        "Sep 2023": "2.07%",
+        "Dec 2023": "2.14%",
+        "Mar 2024": "2.32%",
+        "Jun 2024": "3.60%",
+        "Sep 2024": "4.79%"
+      },
+      "DIIs": {
+        "Dec 2021": "10.85%",
+        "Mar 2022": "10.22%",
+        "Jun 2022": "9.37%",
+        "Sep 2022": "8.17%",
+        "Dec 2022": "6.81%",
+        "Mar 2023": "6.06%",
+        "Jun 2023": "5.04%",
+        "Sep 2023": "5.66%",
+        "Dec 2023": "7.82%",
+        "Mar 2024": "9.19%",
+        "Jun 2024": "12.70%",
+        "Sep 2024": "16.31%"
+      },
+      "Public": {
+        "Dec 2021": "55.33%",
+        "Mar 2022": "55.73%",
+        "Jun 2022": "56.55%",
+        "Sep 2022": "57.61%",
+        "Dec 2022": "58.50%",
+        "Mar 2023": "59.20%",
+        "Jun 2023": "59.43%",
+        "Sep 2023": "58.40%",
+        "Dec 2023": "56.33%",
+        "Mar 2024": "54.77%",
+        "Jun 2024": "50.02%",
+        "Sep 2024": "45.23%"
+      }
+    },
+    "Yearly": {
+      "Promoters": {
+        "Mar 2017": "33.85%",
+        "Mar 2018": "33.63%",
+        "Mar 2019": "33.45%",
+        "Mar 2020": "33.45%",
+        "Mar 2021": "33.45%",
+        "Mar 2022": "33.45%",
+        "Mar 2023": "33.86%",
+        "Mar 2024": "33.72%",
+        "Sep 2024": "33.69%"
+      },
+      "FIIs": {
+        "Mar 2017": "1.15%",
+        "Mar 2018": "0.47%",
+        "Mar 2019": "0.00%",
+        "Mar 2020": "0.00%",
+        "Mar 2021": "0.00%",
+        "Mar 2022": "0.60%",
+        "Mar 2023": "0.88%",
+        "Mar 2024": "2.32%",
+        "Sep 2024": "4.79%"
+      },
+      "DIIs": {
+        "Mar 2017": "15.56%",
+        "Mar 2018": "18.05%",
+        "Mar 2019": "18.70%",
+        "Mar 2020": "16.54%",
+        "Mar 2021": "15.55%",
+        "Mar 2022": "10.22%",
+        "Mar 2023": "6.06%",
+        "Mar 2024": "9.19%",
+        "Sep 2024": "16.31%"
+      },
+      "Public": {
+        "Mar 2017": "49.45%",
+        "Mar 2018": "47.54%",
+        "Mar 2019": "47.85%",
+        "Mar 2020": "50.01%",
+        "Mar 2021": "51.00%",
+        "Mar 2022": "55.73%",
+        "Mar 2023": "59.20%",
+        "Mar 2024": "54.77%",
+        "Sep 2024": "45.23%"
+      }
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "18 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication"},
+      {"Date": "12 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication"},
+      {"Date": "8 Nov", "Title": "Results-Financial Results For The Quarter And Half Year Ended September 30, 2024"},
+      {"Date": "8 Nov", "Title": "Board Meeting Outcome for Outcome Of The Board Meeting Held On Friday, November 08, 2024"},
+      {"Date": "10 Oct", "Title": "Compliances-Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018"}
+    ],
+    "Annual Reports": [
+      {"Year": "2024", "Source": "bse"},
+      {"Year": "2023", "Source": "bse"},
+      {"Year": "2022", "Source": "bse"},
+      {"Year": "2021", "Source": "bse"},
+      {"Year": "2020", "Source": "bse"},
+      {"Year": "2019", "Source": "bse"},
+      {"Year": "2018", "Source": "bse"},
+      {"Year": "2017", "Source": "bse"},
+      {"Year": "2016", "Source": "bse"},
+      {"Year": "2015", "Source": "bse"},
+      {"Year": "2014", "Source": "bse"},
+      {"Year": "2013", "Source": "bse"},
+      {"Year": "2012", "Source": "bse"},
+      {"Year": "2011", "Source": "nse"},
+      {"Year": "2011", "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "13 Jun", "Source": "icra"},
+      {"Date": "6 Jul 2023", "Source": "icra"},
+      {"Date": "20 Jun 2022", "Source": "icra"},
+      {"Date": "15 Apr 2021", "Source": "icra"},
+      {"Date": "6 Apr 2020", "Source": "icra"},
+      {"Date": "1 Apr 2019", "Source": "icra"}
+    ]
+  }
+}

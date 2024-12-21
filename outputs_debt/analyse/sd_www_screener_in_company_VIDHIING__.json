@@ -1,0 +1,197 @@
+
+{
+  "Company Overview": {
+    "Name": "Vidhi Specialty Food Ingredients Ltd",
+    "Sector": "Chemicals",
+    "Industry": "Dyes And Pigments",
+    "BusinessDescription": "Leading manufacturer of Superior Synthetic and Natural Food Grade Colours. Asia’s 2nd largest food colour manufacturer. Products have applications in Food & Beverage, Confectionary, Pharmaceuticals, Pet Foods, Cosmetics, Inkjet Inks, Personal Care, and Home Care.",
+    "MarketPosition": "3rd largest manufacturer of synthetic food-grade dyes globally and 2nd largest in Asia"
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 2,715 Cr.",
+    "CurrentPrice": "₹ 544",
+    "HighLow": "₹ 570 / 382",
+    "StockPE": 71.4,
+    "BookValue": "₹ 58.0",
+    "DividendYield": "0.37 %",
+    "ROCE": "17.3 %",
+    "ROE": "13.8 %",
+    "FaceValue": "₹ 1.00"
+  },
+  "PerformanceTrends": {
+    "QuarterlyResults": {
+      "Sales": [128, 161, 145, 121, 107, 86, 89, 80, 80, 63, 81, 83, 91],
+      "Expenses": [106, 136, 126, 105, 93, 74, 77, 67, 66, 49, 65, 69, 76],
+      "OperatingProfit": [21, 25, 19, 16, 15, 13, 12, 13, 14, 14, 16, 14, 15],
+      "OPM%": ["17%", "16%", "13%", "13%", "14%", "15%", "14%", "16%", "17%", "23%", "20%", "17%", "17%"],
+      "OtherIncome": [0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1],
+      "Interest": [1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0],
+      "Depreciation": [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2],
+      "ProfitBeforeTax": [20, 23, 18, 15, 13, 11, 11, 12, 12, 12, 14, 12, 14],
+      "Tax%": ["28%", "26%", "24%", "26%", "21%", "30%", "20%", "27%", "22%", "27%", "25%", "29%", "24%"],
+      "NetProfit": [14, 17, 14, 11, 10, 8, 9, 8, 9, 9, 11, 8, 10],
+      "EPSinRs": [2.90, 3.41, 2.77, 2.20, 2.06, 1.54, 1.77, 1.68, 1.82, 1.71, 2.13, 1.69, 2.08]
+    },
+    "AnnualResults": {
+      "Sales": [120, 143, 189, 185, 193, 213, 228, 225, 266, 537, 404, 303, 318],
+      "Expenses": [108, 127, 162, 156, 164, 181, 182, 174, 214, 452, 348, 246, 258],
+      "OperatingProfit": [12, 16, 27, 29, 29, 31, 46, 51, 53, 85, 56, 57, 60],
+      "OPM%": ["10%", "11%", "14%", "16%", "15%", "15%", "20%", "22%", "20%", "16%", "14%", "19%", "19%"],
+      "OtherIncome": [0, 0, 0, 1, 1, 0, 1, 1, 2, 1, 1, 1, 1],
+      "Interest": [5, 5, 6, 6, 4, 5, 3, 3, 2, 4, 4, 3, 2],
+      "Depreciation": [2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 6, 8],
+      "ProfitBeforeTax": [6, 9, 19, 23, 24, 24, 41, 45, 50, 79, 50, 49, 51],
+      "Tax%": ["35%", "34%", "36%", "35%", "38%", "36%", "29%", "25%", "26%", "26%", "24%", "25%", "24%"],
+      "NetProfit": [4, 6, 12, 15, 15, 16, 29, 34, 37, 59, 38, 37, 38],
+      "EPSinRs": [0.83, 1.20, 2.49, 2.95, 2.93, 3.13, 5.82, 6.82, 7.35, 11.76, 7.58, 7.33, 7.61]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth10Years": "8%",
+      "CompoundedSalesGrowth5Years": "6%",
+      "CompoundedSalesGrowth3Years": "4%",
+      "CompoundedSalesGrowthTTM": "-5%",
+      "CompoundedProfitGrowth10Years": "20%",
+      "CompoundedProfitGrowth5Years": "5%",
+      "CompoundedProfitGrowth3Years": "0%",
+      "CompoundedProfitGrowthTTM": "12%",
+      "StockPriceCAGR10Years": "40%",
+      "StockPriceCAGR5Years": "56%",
+      "StockPriceCAGR3Years": "14%",
+      "StockPriceCAGR1Year": "32%"
+    },
+    "LiquidityRatios": {
+      "DebtorDays": [112, 111, 91, 77, 116, 101, 99, 124, 130, 102, 91, 106],
+      "InventoryDays": [85, 92, 103, 81, 111, 93, 97, 102, 92, 67, 75, 108],
+      "DaysPayable": [60, 59, 77, 38, 75, 74, 50, 53, 63, 34, 28, 30],
+      "CashConversionCycle": [138, 144, 117, 120, 152, 120, 146, 173, 159, 135, 138, 184],
+      "WorkingCapitalDays": [153, 146, 114, 123, 179, 145, 154, 175, 187, 153, 156, 187]
+    },
+    "ProfitabilityRatios": {
+      "ROCE%": ["16%", "19%", "30%", "29%", "24%", "24%", "33%", "31%", "29%", "33%", "18%", "17%"],
+      "ROE": ["23%", "21%", "19%", "14%"]
+    },
+    "ValuationRatios": {
+      "PriceToBook": null, 
+      "MarketCapToSales": null,
+      "EVToEBITDA": null
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Sudarshan Chem.", "CMP": 1129.80, "PE": 57.12, "MarCap": 7821.29, "DivYld": 0.41, "NPQtr": 29.90, "QtrProfitVar": 95.30, "SalesQtr": 696.09, "QtrSalesVar": 15.88, "ROCE": 11.36},
+      {"Name": "Kiri Industries", "CMP": 658.35, "PE": 13.30, "MarCap": 3662.33, "DivYld": 0.00, "NPQtr": 80.30, "QtrProfitVar": 327.35, "SalesQtr": 272.23, "QtrSalesVar": 18.09, "ROCE": 5.96},
+      {"Name": "Vidhi Specialty", "CMP": 543.50, "PE": 71.42, "MarCap": 2714.51, "DivYld": 0.37, "NPQtr": 10.39, "QtrProfitVar": 14.30, "SalesQtr": 91.29, "QtrSalesVar": 13.90, "ROCE": 17.28},
+      {"Name": "Ultramarine Pig.", "CMP": 567.85, "PE": 29.30, "MarCap": 1658.12, "DivYld": 0.88, "NPQtr": 18.18, "QtrProfitVar": 14.85, "SalesQtr": 153.66, "QtrSalesVar": 11.87, "ROCE": 8.71},
+      {"Name": "Heubach Colorant", "CMP": 540.30, "PE": 34.83, "MarCap": 1247.11, "DivYld": 0.00, "NPQtr": 18.41, "QtrProfitVar": 42.82, "SalesQtr": 218.42, "QtrSalesVar": 9.02, "ROCE": 12.48},
+      {"Name": "Sh.Pushkar Chem.", "CMP": 323.75, "PE": 22.33, "MarCap": 1046.93, "DivYld": 0.46, "NPQtr": 13.32, "QtrProfitVar": 57.63, "SalesQtr": 175.62, "QtrSalesVar": -5.18, "ROCE": 9.06},
+      {"Name": "Bhageria Indust.", "CMP": 198.90, "PE": 30.65, "MarCap": 868.08, "DivYld": 0.50, "NPQtr": 6.73, "QtrProfitVar": 137.81, "SalesQtr": 129.37, "QtrSalesVar": 26.14, "ROCE": 5.12}
+    ],
+    "Median": {
+      "CMP": 285.5,
+      "PE": 30.65,
+      "MarCap": 344.39,
+      "DivYld": 0.17,
+      "NPQtr": 4.03,
+      "QtrProfitVar": 76.47,
+      "SalesQtr": 78.78,
+      "QtrSalesVar": 9.02,
+      "ROCE": 8.07
+    }
+  },
+  "OtherInsights": {
+    "Pros": "Company has reduced debt.",
+    "Cons": [
+      "Stock is trading at 9.36 times its book value",
+      "The company has delivered a poor sales growth of 5.85% over past five years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "ShareholdingPattern": {
+    "Quarterly": {
+      "Promoters": [64.27, 64.27, 64.27, 64.28, 64.28, 64.28, 64.28, 64.28, 64.28, 64.28, 64.28, 64.28],
+      "FIIs": [0.22, 0.37, 0.34, 0.20, 0.08, 0.09, 0.08, 0.07, 0.07, 0.08, 0.14, 0.11],
+      "DIIs": [0.00, 0.00, 0.11, 0.00, 0.00, 0.00, 0.01, 0.00, 0.00, 0.00, 0.00, 0.00],
+      "Public": [35.51, 35.36, 35.27, 35.51, 35.63, 35.63, 35.64, 35.66, 35.65, 35.64, 35.60, 35.62]
+    },
+    "Yearly": {
+      "Promoters": [64.27, 64.27, 64.27, 64.27, 64.27, 64.27, 64.28, 64.28, 64.28],
+      "FIIs": [0.10, 0.55, 0.10, 0.15, 0.26, 0.37, 0.09, 0.08, 0.11],
+      "DIIs": [0.06, 0.30, 0.07, 0.19, 0.00, 0.00, 0.00, 0.00, 0.00],
+      "Public": [35.57, 34.88, 35.55, 35.39, 35.47, 35.36, 35.63, 35.64, 35.62]
+    },
+    "NumberOfShareholders": [21652, 20626, 21128, 21972, 21341, 20508, 19929, 18432, 17814, 18808, 17114, 16894]
+  },
+  "BalanceSheet": {
+    "EquityCapital": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+    "Reserves": [27, 31, 40, 50, 61, 72, 96, 124, 157, 212, 246, 276, 285],
+    "Borrowings": [43, 44, 47, 49, 62, 44, 44, 34, 31, 90, 52, 20, 30],
+    "OtherLiabilities": [18, 21, 39, 18, 36, 35, 25, 23, 33, 44, 29, 24, 37],
+    "TotalLiabilities": [93, 100, 131, 123, 164, 155, 170, 186, 226, 352, 332, 325, 357],
+    "FixedAssets": [19, 18, 17, 31, 30, 29, 31, 31, 29, 38, 47, 125, 125],
+    "CWIP": [0, 0, 9, 0, 0, 0, 0, 2, 5, 33, 65, 0, 0],
+    "Investments": [0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13],
+    "OtherAssets": [73, 82, 105, 92, 134, 126, 139, 140, 179, 268, 207, 187, 219],
+    "TotalAssets": [93, 100, 131, 123, 164, 155, 170, 186, 226, 352, 332, 325, 357]
+  },
+  "CashFlow": {
+    "CashFromOperatingActivity": [4, 7, 17, 17, -9, 33, 22, 28, 11, -22, 96, 63],
+    "CashFromInvestingActivity": [-4, -1, -10, -7, -1, -1, -4, -17, -3, -40, -42, -19],
+    "CashFromFinancingActivity": [-1, -7, -4, -7, 5, -29, -8, -19, -8, 53, -47, -40],
+    "NetCashFlow": [-1, 0, 3, 3, -5, 3, 10, -8, 0, -9, 6, 4]
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "10 Dec", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication"},
+      {"Date": "14 Nov", "Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate"},
+      {"Date": "12 Nov", "Title": "Announcement under Regulation 30 (LODR)-Investor Presentation"},
+      {"Date": "12 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication"},
+      {"Date": "12 Nov", "Title": "Board Meeting Outcome for Outcome Of Board Meeting"}
+    ],
+    "AnnualReports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "bse"},
+      {"Year": 2010, "Source": "bse"}
+    ],
+    "CreditRatings": [
+      {"Date": "23 Oct", "Source": "crisil"},
+      {"Date": "14 Aug 2023", "Source": "crisil"},
+      {"Date": "16 May 2022", "Source": "crisil"},
+      {"Date": "29 Apr 2022", "Source": "crisil"},
+      {"Date": "26 Feb 2021", "Source": "crisil"},
+      {"Date": "25 Nov 2019", "Source": "crisil"}
+    ],
+    "Concalls": [
+      {"Date": "Nov 2024"},
+      {"Date": "Aug 2024"},
+      {"Date": "Jun 2024"},
+      {"Date": "Feb 2024"},
+      {"Date": "Nov 2023"},
+      {"Date": "Aug 2023"},
+      {"Date": "Aug 2023"},
+      {"Date": "May 2023"},
+      {"Date": "Feb 2023"},
+      {"Date": "Nov 2022"},
+      {"Date": "Aug 2022"},
+      {"Date": "May 2022"},
+      {"Date": "Feb 2022"},
+      {"Date": "Nov 2021"},
+      {"Date": "Aug 2021"},
+      {"Date": "Jun 2021"},
+      {"Date": "Mar 2021"}
+    ]
+  }
+}

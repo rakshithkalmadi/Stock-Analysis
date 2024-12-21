@@ -1,0 +1,174 @@
+
+{
+  "Company Overview": {
+    "Name": "Authum Investment & Infrastructure Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Business Description": "Engaged in fund-based activities viz, investment in shares, securities, mutual funds etc. and providing loans and advances, etc.  The Co. has invested in publicly listed and unlisted companies, private equity investments, real estate investments, and debt instruments. Also, it has been engaged in structured financing, fixed returns portfolios, secured lending, and equity investments in emerging companies.",
+    "Market Position": "Part of BSE 400 MidSmallCap Index, BSE SmallCap, BSE Allcap, BSE Financial Services, BSE 250 SmallCap Index, BSE 500"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 28,807 Cr.",
+    "Current Price": "₹ 1,696",
+    "High/Low": "₹ 1,920 / ₹ 576",
+    "Stock P/E": 7.13,
+    "Book Value": "₹ 754",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "39.3 %",
+    "ROE": "44.0 %",
+    "Face Value": "₹ 1.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": 172,
+        "Dec 2021": 186,
+        "Mar 2022": 147,
+        "Jun 2022": 89,
+        "Sep 2022": 311,
+        "Dec 2022": 93,
+        "Mar 2023": -118,
+        "Jun 2023": 61,
+        "Sep 2023": 973,
+        "Dec 2023": 492,
+        "Mar 2024": 886,
+        "Jun 2024": 1412,
+        "Sep 2024": 1091
+      },
+      "Expenses": {
+        "Sep 2021": 3,
+        "Dec 2021": 22,
+        "Mar 2022": 24,
+        "Jun 2022": 14,
+        "Sep 2022": 3,
+        "Dec 2022": 6,
+        "Mar 2023": 21,
+        "Jun 2023": 4,
+        "Sep 2023": 11,
+        "Dec 2023": -175,
+        "Mar 2024": -397,
+        "Jun 2024": 160,
+        "Sep 2024": 141
+      },
+      "Net Profit": {
+        "Sep 2021": 147,
+        "Dec 2021": 120,
+        "Mar 2022": 104,
+        "Jun 2022": 54,
+        "Sep 2022": 257,
+        "Dec 2022": 63,
+        "Mar 2023": -134,
+        "Jun 2023": 33,
+        "Sep 2023": 788,
+        "Dec 2023": 605,
+        "Mar 2024": 1498,
+        "Jun 2024": 1093,
+        "Sep 2024": 844
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+          "Mar 2013": 2,
+          "Mar 2014": 5,
+          "Mar 2015": 43,
+          "Mar 2016": 317,
+          "Mar 2017": 222,
+          "Mar 2018": 351,
+          "Mar 2019": -36,
+          "Mar 2020": -11,
+          "Mar 2021": 256,
+          "Mar 2022": 907,
+          "Mar 2023": 374,
+          "Mar 2024": 2412
+      },
+      "Net Profit": {
+          "Mar 2013": 0,
+          "Mar 2014": 0,
+          "Mar 2015": 1,
+          "Mar 2016": 1,
+          "Mar 2017": 8,
+          "Mar 2018": 6,
+          "Mar 2019": -37,
+          "Mar 2020": -15,
+          "Mar 2021": 135,
+          "Mar 2022": 669,
+          "Mar 2023": 240,
+          "Mar 2024": 2924
+      }
+    },
+    "Growth Rates": {
+      "Compounded Sales Growth": {
+        "10 Years": "84%",
+        "5 Years": null,
+        "3 Years": "111%",
+        "TTM": "285%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "200%",
+        "5 Years": "140%",
+        "3 Years": "179%",
+        "TTM": "439%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": "239%",
+        "3 Years": "112%",
+        "1 Year": "106%"
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE": {
+      "Mar 2013": "2%",
+      "Mar 2014": "2%",
+      "Mar 2015": "3%",
+      "Mar 2016": "4%",
+      "Mar 2017": "21%",
+      "Mar 2018": "13%",
+      "Mar 2019": "-51%",
+      "Mar 2020": "-4%",
+      "Mar 2021": "14%",
+      "Mar 2022": "29%",
+      "Mar 2023": "8%",
+      "Mar 2024": "39%"
+    },
+    "Debt-to-Equity": null, 
+    "Other Ratios": null // Placeholder for other ratios if available in the HTML
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": 6848.25, "P/E": 27.57, "Mar Cap": 423904.26, "Div Yld": 0.53, "NP Qtr": 4013.74, "Qtr Profit Var": 12.64, "Sales Qtr": 17090.27, "Qtr Sales Var": 27.71, "ROCE": 11.92},
+      {"Name": "Bajaj Finserv", "CMP": 1569.65, "P/E": 29.48, "Mar Cap": 250620.07, "Div Yld": 0.06, "NP Qtr": 4180.15, "Qtr Profit Var": 8.19, "Sales Qtr": 33703.74, "Qtr Sales Var": 29.52, "ROCE": 11.72},
+      {"Name": "Jio Financial", "CMP": 304.30, "P/E": 120.37, "Mar Cap": 193330.44, "Div Yld": 0.00, "NP Qtr": 689.07, "Qtr Profit Var": 3.13, "Sales Qtr": 693.50, "Qtr Sales Var": 14.05, "ROCE": 1.55},
+      {"Name": "Bajaj Holdings", "CMP": 10746.75, "P/E": 16.15, "Mar Cap": 119600.58, "Div Yld": 1.22, "NP Qtr": 1510.43, "Qtr Profit Var": -3.67, "Sales Qtr": 279.07, "Qtr Sales Var": 24.18, "ROCE": 13.07},
+      {"Name": "Shriram Finance", "CMP": 2877.25, "P/E": 13.80, "Mar Cap": 108201.51, "Div Yld": 1.56, "NP Qtr": 2153.27, "Qtr Profit Var": 17.99, "Sales Qtr": 10089.54, "Qtr Sales Var": 17.93, "ROCE": 11.27},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": 1189.55, "P/E": 25.96, "Mar Cap": 100010.48, "Div Yld": 0.17, "NP Qtr": 967.80, "Qtr Profit Var": 25.22, "Sales Qtr": 6255.12, "Qtr Sales Var": 35.32, "ROCE": 10.41},
+      {"Name": "HDFC AMC", "CMP": 4262.80, "P/E": 41.19, "Mar Cap": 91089.60, "Div Yld": 1.64, "NP Qtr": 576.88, "Qtr Profit Var": 31.84, "Sales Qtr": 887.21, "Qtr Sales Var": 37.96, "ROCE": 37.72}
+    ],
+    "Median": {
+      "CMP": 229,
+      "P/E": 25.6,
+      "Mar Cap": 552.06,
+      "Div Yld": 0.0,
+      "NP Qtr": 5.38,
+      "Qtr Profit Var": 20.11,
+      "Sales Qtr": 24.74,
+      "Qtr Sales Var": 26.2,
+      "ROCE": 10.26
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 140% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 32.0%"
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Tax rate seems low"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

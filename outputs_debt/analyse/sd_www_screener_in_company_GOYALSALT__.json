@@ -1,0 +1,247 @@
+
+{
+  "Company Overview": {
+    "Name": "Goyal Salt Ltd",
+    "Sector": "FMCG",
+    "Industry": "Food - Processing - Indian",
+    "Business Description": "Incorporated in 2010, Goyal Salt Limited is engaged in the business of refining raw salts procured from sub-soil brine in the state of Rajasthan for use as industrial salts and edible salts. Goyal Salt Limited refines and supplies a pure, refined, and quality range of triple-refined free-flow iodized salt, industrial salt, double-fortified salt, and triple-refined half-dry salt on a B2B & wholesale basis.",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 350 Cr.",
+    "Current Price": "₹ 196",
+    "High/Low": "₹ 249 / ₹ 127",
+    "Stock P/E": "21.4",
+    "Book Value": "₹ 28.8",
+    "Dividend Yield": "0.00%",
+    "ROCE": "17.8%",
+    "ROE": "15.6%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly available in provided HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2022": "64 Cr",
+        "Mar 2023": "53 Cr",
+        "Sep 2023": "47 Cr",
+        "Mar 2024": "71 Cr",
+        "Sep 2024": "68 Cr"
+      },
+      "Expenses": {
+        "Sep 2022": "60 Cr",
+        "Mar 2023": "50 Cr",
+        "Sep 2023": "43 Cr",
+        "Mar 2024": "68 Cr",
+        "Sep 2024": "62 Cr"
+      },
+      "Operating Profit": {
+        "Sep 2022": "4 Cr",
+        "Mar 2023": "3 Cr",
+        "Sep 2023": "4 Cr",
+        "Mar 2024": "3 Cr",
+        "Sep 2024": "7 Cr"
+      },
+      "Net Profit": {
+        "Sep 2022": "2 Cr",
+        "Mar 2023": "1 Cr",
+        "Sep 2023": "2 Cr",
+        "Mar 2024": "7 Cr",
+        "Sep 2024": "9 Cr"
+      },
+      "EPS": {
+        "Sep 2022": "11.98",
+        "Mar 2023": "1.06",
+        "Sep 2023": "1.85",
+        "Mar 2024": "3.93",
+        "Sep 2024": "5.21"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2020": "71 Cr",
+        "Mar 2021": "60 Cr",
+        "Mar 2022": "66 Cr",
+        "Mar 2023": "117 Cr",
+        "Mar 2024": "118 Cr"
+      },
+      "Expenses": {
+        "Mar 2020": "69 Cr",
+        "Mar 2021": "57 Cr",
+        "Mar 2022": "63 Cr",
+        "Mar 2023": "110 Cr",
+        "Mar 2024": "110 Cr"
+      },
+      "Net Profit": {
+        "Mar 2020": "0 Cr",
+        "Mar 2021": "1 Cr",
+        "Mar 2022": "1 Cr",
+        "Mar 2023": "4 Cr",
+        "Mar 2024": "9 Cr"
+      },
+      "EPS": {
+        "Mar 2020": "1.25",
+        "Mar 2021": "3.41",
+        "Mar 2022": "3.16",
+        "Mar 2023": "3.27",
+        "Mar 2024": "5.28"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "25%",
+        "TTM": "39%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "91%",
+        "TTM": "360%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "1 Year": "28%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Information not explicitly available in provided HTML.": null
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Mar 2020": "9%",
+        "Mar 2021": "9%",
+        "Mar 2022": "25%",
+        "Mar 2023": "18%"
+      },
+      "ROE": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "16%",
+        "Last Year": "16%"
+      }
+    },
+    "Valuation Ratios": {
+      "P/E": "21.4",
+      "Price to Book": "Information not explicitly available in provided HTML."
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2020": "43",
+        "Mar 2021": "84",
+        "Mar 2022": "79",
+        "Mar 2023": "48",
+        "Mar 2024": "58"
+      },
+      "Inventory Days": {
+        "Mar 2020": "33",
+        "Mar 2021": "55",
+        "Mar 2022": "49",
+        "Mar 2023": "20",
+        "Mar 2024": "21"
+      },
+      "Days Payable": {
+        "Mar 2020": "7",
+        "Mar 2021": "31",
+        "Mar 2022": "41",
+        "Mar 2023": "12",
+        "Mar 2024": "9"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2020": "69",
+        "Mar 2021": "108",
+        "Mar 2022": "87",
+        "Mar 2023": "57",
+        "Mar 2024": "70"
+      },
+      "Working Capital Days": {
+        "Mar 2020": "59",
+        "Mar 2021": "111",
+        "Mar 2022": "89",
+        "Mar 2023": "56",
+        "Mar 2024": "75"
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Varun Beverages", "CMP": "612.55", "P/E": "81.50", "Mar Cap": "207131.87", "Div Yld": "0.16", "NP Qtr": "628.82", "Qtr Profit Var": "23.66", "Sales Qtr": "4804.68", "Qtr Sales Var": "24.14", "ROCE": "28.82"},
+      {"Name": "Hatsun Agro", "CMP": "1017.60", "P/E": "74.46", "Mar Cap": "22666.86", "Div Yld": "0.59", "NP Qtr": "64.32", "Qtr Profit Var": "-17.08", "Sales Qtr": "2072.10", "Qtr Sales Var": "8.75", "ROCE": "13.19"},
+      {"Name": "Bikaji Foods", "CMP": "770.15", "P/E": "64.75", "Mar Cap": "19283.18", "Div Yld": "0.13", "NP Qtr": "72.08", "Qtr Profit Var": "17.57", "Sales Qtr": "713.25", "Qtr Sales Var": "19.31", "ROCE": "29.65"},
+      {"Name": "L T Foods", "CMP": "412.20", "P/E": "23.80", "Mar Cap": "14313.77", "Div Yld": "0.36", "NP Qtr": "150.61", "Qtr Profit Var": "-4.86", "Sales Qtr": "2107.79", "Qtr Sales Var": "6.57", "ROCE": "21.09"},
+      {"Name": "Zydus Wellness", "CMP": "1911.35", "P/E": "38.73", "Mar Cap": "12162.33", "Div Yld": "0.26", "NP Qtr": "20.90", "Qtr Profit Var": "166.10", "Sales Qtr": "492.90", "Qtr Sales Var": "12.05", "ROCE": "5.33"},
+      {"Name": "Mrs Bectors", "CMP": "1638.75", "P/E": "70.56", "Mar Cap": "10061.62", "Div Yld": "0.20", "NP Qtr": "38.94", "Qtr Profit Var": "4.45", "Sales Qtr": "496.29", "Qtr Sales Var": "19.72", "ROCE": "25.35"},
+      {"Name": "Avanti Feeds", "CMP": "622.35", "P/E": "20.27", "Mar Cap": "8479.25", "Div Yld": "1.08", "NP Qtr": "121.47", "Qtr Profit Var": "53.11", "Sales Qtr": "1355.09", "Qtr Sales Var": "5.99", "ROCE": "20.01"}
+    ],
+    "Median": {
+      "CMP": "195.24",
+      "P/E": "36.52",
+      "Mar Cap": "423.11",
+      "Div Yld": "0.0",
+      "NP Qtr": "6.17",
+      "Qtr Profit Var": "17.57",
+      "Sales Qtr": "105.92",
+      "Qtr Sales Var": "9.47",
+      "ROCE": "15.36"
+    }
+  },
+  "Other Insights": {
+    "Notes": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Earnings include an other income of Rs.12.8 Cr.",
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ],
+    "Press Releases": [
+      {"Date": "21 December 2024", "Title": "Press Release on Launch of New Product named Goyal Black Salt"},
+      {"Date": "19 December 2024", "Title": "Reply to Clarification- Financial results"},
+      {"Date": "18 December 2024", "Title": "Product launch named \"Goyal Black Salt\""},
+      {"Date": "13 December 2024", "Title": "Clarification - Financial Results"},
+      {"Date": "11 December 2024", "Title": "Goyal Salt to set up large plant in Gandhi Dham with …"}
+    ]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Oct 2023": {
+        "Promoters": "72.61%",
+        "FIIs": "4.69%",
+        "DIIs": "5.82%",
+        "Public": "16.86%"
+      },
+      "Mar 2024": {
+        "Promoters": "72.61%",
+        "FIIs": "1.02%",
+        "DIIs": "0.00%",
+        "Public": "26.36%"
+      },
+      "Sep 2024": {
+        "Promoters": "72.61%",
+        "FIIs": "0.49%",
+        "DIIs": "0.14%",
+        "Public": "26.76%"
+      }
+    },
+    "Yearly": {
+      "Mar 2024": {
+        "Promoters": "72.61%",
+        "FIIs": "1.02%",
+        "DIIs": "0.00%",
+        "Public": "26.36%"
+      },
+      "Sep 2024": {
+        "Promoters": "72.61%",
+        "FIIs": "0.49%",
+        "DIIs": "0.14%",
+        "Public": "26.76%"
+      }
+    }
+  }
+}

@@ -1,0 +1,150 @@
+
+{
+  "Company Overview": {
+    "Name": "Systematix Corporate Services Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Business Description": "Established in 1985, it provides investment management and advisory services in the financial markets and investment solutions for a broad array of investors including FIIs, DFI, Insurance companies among other Financial institutions.",
+    "Market Position": "Information not explicitly provided in the HTML." 
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,984 Cr.",
+    "Current Price": "₹ 219",
+    "High / Low": "₹ 336 / ₹ 53.0",
+    "Stock P/E": "42.0",
+    "Book Value": "₹ 13.5",
+    "Dividend Yield": "0.05 %",
+    "ROCE": "48.4 %",
+    "ROE": "42.4 %",
+    "Face Value": "₹ 1.00",
+    "Debt-to-Equity Ratio": "Not explicitly provided in the HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [23, 21, 21, 25, 12, 22, 15, 18, 20, 48, 53, 29, 37],
+      "Expenses": [16, 15, 16, 19, 21, 15, 16, 14, 17, 17, 27, 26, 29],
+      "Operating Profit": [6, 7, 4, 6, -9, 7, -1, 4, 3, 31, 26, 3, 8],
+      "OPM %": ["28%", "32%", "21%", "24%", "-74%", "33%", "-4%", "21%", "17%", "64%", "49%", "10%", "22%"],
+      "Other Income": [1, 0, 0, 5, 0, 0, 1, 3, 0, 1, 5, 1, 21],
+      "Interest": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      "Depreciation": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1],
+      "Profit before tax": [7, 6, 3, 9, -9, 7, -1, 6, 2, 31, 29, 2, 27],
+      "Tax %": ["36%", "22%", "16%", "14%", "-12%", "13%", "-38%", "20%", "28%", "22%", "20%", "27%", "18%"],
+      "Net Profit": [4, 5, 3, 8, -8, 6, -1, 4, 2, 24, 23, 2, 22],
+      "EPS in Rs": ["0.34", "0.36", "0.22", "0.62", "-0.63", "0.45", "-0.04", "0.34", "0.14", "1.84", "1.79", "0.13", "1.71"]
+    },
+    "Annual Results": {
+      "Sales": [50, 39, 37, 34, 42, 54, 56, 51, 55, 89, 73, 146, 167],
+      "Expenses": [32, 24, 21, 22, 24, 37, 41, 43, 50, 63, 69, 73, 99],
+      "Operating Profit": [18, 14, 16, 12, 18, 17, 15, 9, 5, 26, 4, 73, 68],
+      "OPM %": ["36%", "37%", "43%", "35%", "43%", "32%", "27%", "17%", "9%", "29%", "6%", "50%", "41%"],
+      "Other Income": [1, 1, 0, 1, 1, 2, 2, 2, 1, 1, 5, 0, 28],
+      "Interest": [14, 11, 13, 12, 13, 9, 13, 10, 4, 3, 3, 3, 4],
+      "Depreciation": [2, 2, 2, 1, 1, 1, 6, 6, 1, 1, 1, 2, 3],
+      "Profit before tax": [3, 3, 1, -1, 6, 9, -3, -5, 1, 23, 6, 68, 89],
+      "Tax %": ["33%", "32%", "16%", "56%", "30%", "29%", "12%", "-2%", "-23%", "25%", "12%", "21%"],
+      "Net Profit": [2, 2, 1, -1, 4, 6, -3, -4, 1, 18, 5, 53, 71],
+      "EPS in Rs": ["0.17", "0.15", "0.09", "-0.07", "0.30", "0.49", "-0.23", "-0.34", "0.10", "1.35", "0.39", "4.11", "5.47"]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13],
+      "Reserves": [37, 39, 40, 39, 43, 49, 67, 62, 64, 82, 86, 139, 162],
+      "Borrowings": [142, 93, 149, 130, 136, 155, 97, 27, 36, 30, 21, 21, 29],
+      "Other Liabilities": [53, 26, 25, 25, 34, 32, 27, 35, 58, 101, 61, 136, 112],
+      "Total Liabilities": [245, 171, 226, 207, 226, 249, 204, 138, 171, 226, 181, 308, 317],
+      "Fixed Assets": [11, 10, 8, 7, 6, 7, 12, 7, 6, 6, 6, 17, 15],
+      "CWIP": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Investments": [0, 0, 0, 16, 2, 2, 4, 3, 5, 25, 25, 41, 26],
+      "Other Assets": [235, 161, 219, 184, 218, 240, 188, 127, 159, 195, 150, 251, 275],
+      "Total Assets": [245, 171, 226, 207, 226, 249, 204, 138, 171, 226, 181, 308, 317]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [-10, 55, -35, 55, -3, -16, 49, 93, 18, 51, -15, 88],
+      "Cash from Investing Activity": [2, 0, 2, 1, 1, 1, 1, -1, -2, -15, 4, 24],
+      "Cash from Financing Activity": [1, -61, 43, -47, 8, 11, -55, -83, 6, -9, -14, -3],
+      "Net Cash Flow": [-8, -6, 10, 9, 6, -5, -4, 10, 22, 27, -25, 108]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "14%",
+      "Compounded Sales Growth (5 Years)": "21%",
+      "Compounded Sales Growth (3 Years)": "38%",
+      "Compounded Sales Growth (TTM)": "123%",
+      "Compounded Profit Growth (10 Years)": "39%",
+      "Compounded Profit Growth (5 Years)": "80%",
+      "Compounded Profit Growth (3 Years)": "243%",
+      "Compounded Profit Growth (TTM)": "515%",
+      "Stock Price CAGR (10 Years)": "59%",
+      "Stock Price CAGR (5 Years)": "122%",
+      "Stock Price CAGR (3 Years)": "77%",
+      "Stock Price CAGR (1 Year)": "313%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [435, 167, 173, 74, 97, 111, 63, 41, 68, 166, 47, 37],
+      "Inventory Days": "Not explicitly provided in the HTML.",
+      "Days Payable": "Not explicitly provided in the HTML.",
+      "Cash Conversion Cycle": [435, 167, 173, 74, 97, 111, 63, 41, 68, 166, 47, 37],
+      "Working Capital Days": [1106, 1029, 1529, 1173, 1106, 1093, 65, 18, -17, -154, -74, -183]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [9, 8, 9, 6, 10, 9, 5, 4, 4, 23, 7, 48],
+      "ROE": [11, 16, 25, 42]
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "42.0",
+      "Price to Book": "Not explicitly provided as a single value, but implied by Current Price and Book Value."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": "6848.25", "P/E": "27.57", "Mar Cap": "423904.26", "Div Yld": "0.53", "NP Qtr": "4013.74", "Qtr Profit Var": "12.64", "Sales Qtr": "17090.27", "Qtr Sales Var": "27.71", "ROCE": "11.92"},
+      {"Name": "Bajaj Finserv", "CMP": "1569.65", "P/E": "29.48", "Mar Cap": "250620.07", "Div Yld": "0.06", "NP Qtr": "4180.15", "Qtr Profit Var": "8.19", "Sales Qtr": "33703.74", "Qtr Sales Var": "29.52", "ROCE": "11.72"},
+      {"Name": "Jio Financial", "CMP": "304.30", "P/E": "120.37", "Mar Cap": "193330.44", "Div Yld": "0.00", "NP Qtr": "689.07", "Qtr Profit Var": "3.13", "Sales Qtr": "693.50", "Qtr Sales Var": "14.05", "ROCE": "1.55"},
+      {"Name": "Bajaj Holdings", "CMP": "10746.75", "P/E": "16.15", "Mar Cap": "119600.58", "Div Yld": "1.22", "NP Qtr": "1510.43", "Qtr Profit Var": "-3.67", "Sales Qtr": "279.07", "Qtr Sales Var": "24.18", "ROCE": "13.07"},
+      {"Name": "Shriram Finance", "CMP": "2877.25", "P/E": "13.80", "Mar Cap": "108201.51", "Div Yld": "1.56", "NP Qtr": "2153.27", "Qtr Profit Var": "17.99", "Sales Qtr": "10089.54", "Qtr Sales Var": "17.93", "ROCE": "11.27"},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": "1189.55", "P/E": "25.96", "Mar Cap": "100010.48", "Div Yld": "0.17", "NP Qtr": "967.80", "Qtr Profit Var": "25.22", "Sales Qtr": "6255.12", "Qtr Sales Var": "35.32", "ROCE": "10.41"},
+      {"Name": "HDFC AMC", "CMP": "4262.80", "P/E": "41.19", "Mar Cap": "91089.60", "Div Yld": "1.64", "NP Qtr": "576.88", "Qtr Profit Var": "31.84", "Sales Qtr": "887.21", "Qtr Sales Var": "37.96", "ROCE": "37.72"},
+      {"Name": "Systematix Corp.", "CMP": "218.55", "P/E": "42.03", "Mar Cap": "2984.04", "Div Yld": "0.05", "NP Qtr": "22.14", "Qtr Profit Var": "1130.00", "Sales Qtr": "36.67", "Qtr Sales Var": "82.26", "ROCE": "48.35"}
+    ],
+    "Median": {
+      "CMP": "202.59",
+      "P/E": "25.6",
+      "Mar Cap": "552.06",
+      "Div Yld": "0.0",
+      "NP Qtr": "5.38",
+      "Qtr Profit Var": "20.11",
+      "Sales Qtr": "24.74",
+      "Qtr Sales Var": "26.2",
+      "ROCE": "10.26"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 79.8% CAGR over last 5 years",
+      "Debtor days have improved from 83.3 to 36.8 days."
+    ],
+    "Cons": [
+      "Stock is trading at 16.2 times its book value",
+      "Promoter holding has decreased over last quarter: -3.67%",
+      "Earnings include an other income of Rs.28.0 Cr."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "14 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Description": "Submission of en extract of newspaper publication regarding un-audited financial results for the quarter and half year ended September 30, 2024."},
+      {"Date": "14 Nov", "Title": "Announcement under Regulation 30 (LODR)-Allotment", "Description": "Allotment of 67,35,430 equity shares to non-promoters."},
+      {"Date": "13 Nov", "Title": "Announcement under Regulation 30 (LODR)-Investor Presentation", "Description": "Systematix reports 83.33% revenue growth in H1 FY25."},
+      {"Date": "13 Nov", "Title": "Results - Financial Results For The Quarter And Half Year Ended September 30, 2024.", "Description": "Approved un-audited financial results for Q2 2024."},
+      {"Date": "13 Nov", "Title": "Board Meeting Outcome for Outcome Of The Board Meeting Held On November 13, 2024", "Description": "Approved un-audited financial results for Q2 FY2024."}
+    ],
+    "Annual Reports": ["Financial Year 2024", "Financial Year 2023", "Financial Year 2022", "Financial Year 2021", "Financial Year 2020", "Financial Year 2019", "Financial Year 2018", "Financial Year 2017", "Financial Year 2016", "Financial Year 2015", "Financial Year 2014", "Financial Year 2013", "Financial Year 2012", "Financial Year 2011", "Financial Year 2010"],
+    "Concalls": [
+      {"Date": "Nov 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Aug 2024", "Materials": ["Transcript", "Notes", "PPT"]}
+    ]
+  }
+}

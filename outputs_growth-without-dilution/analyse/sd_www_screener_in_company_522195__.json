@@ -1,0 +1,175 @@
+
+{
+  "Company Overview": {
+    "Name": "Frontier Springs Ltd",
+    "Sector": "Auto Ancillaries",
+    "Industry": "Auto Ancillaries",
+    "Business Description": "Manufacturer of hot coiled compression springs, air springs and forging for wagons, railways, carriages and locomotives. Its springs are used on the fastest train in India - Vande Bharat Express. Company's products are ISO 14001:2015, RDSO and International Rail Industry Standard (IRIS) certified, enabling direct export.",
+    "Market Position": "Not explicitly stated, but implied to be a significant player in the Indian railway component manufacturing sector due to its supply to Vande Bharat Express."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 977 Cr.",
+    "Current Price": "₹ 2,481",
+    "High/Low": "₹ 2,644 / ₹ 920",
+    "P/E Ratio": "43.4",
+    "Book Value": "₹ 267",
+    "Dividend Yield": "0.06%",
+    "ROCE": "20.5%",
+    "ROE": "15.5%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated" 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": "18.86",
+        "Dec 2021": "20.12",
+        "Mar 2022": "22.16",
+        "Jun 2022": "23.67",
+        "Sep 2022": "26.77",
+        "Dec 2022": "27.76",
+        "Mar 2023": "29.15",
+        "Jun 2023": "25.49",
+        "Sep 2023": "32.75",
+        "Dec 2023": "33.02",
+        "Mar 2024": "44.14",
+        "Jun 2024": "50.75",
+        "Sep 2024": "52.24"
+      },
+      "Net Profit": {
+        "Sep 2021": "1.23",
+        "Dec 2021": "1.66",
+        "Mar 2022": "1.90",
+        "Jun 2022": "1.96",
+        "Sep 2022": "1.60",
+        "Dec 2022": "1.51",
+        "Mar 2023": "2.17",
+        "Jun 2023": "1.86",
+        "Sep 2023": "2.85",
+        "Dec 2023": "3.22",
+        "Mar 2024": "5.05",
+        "Jun 2024": "6.98",
+        "Sep 2024": "7.29"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+          "Mar 2013": "38",
+          "Mar 2014": "37",
+          "Mar 2015": "35",
+          "Mar 2016": "39",
+          "Mar 2017": "47",
+          "Mar 2018": "59",
+          "Mar 2019": "83",
+          "Mar 2020": "100",
+          "Mar 2021": "77",
+          "Mar 2022": "84",
+          "Mar 2023": "107",
+          "Mar 2024": "135",
+          "TTM": "180"
+      },
+      "Net Profit": {
+          "Mar 2013": "2",
+          "Mar 2014": "2",
+          "Mar 2015": "0",
+          "Mar 2016": "1",
+          "Mar 2017": "2",
+          "Mar 2018": "4",
+          "Mar 2019": "8",
+          "Mar 2020": "14",
+          "Mar 2021": "8",
+          "Mar 2022": "8",
+          "Mar 2023": "7",
+          "Mar 2024": "13",
+          "TTM": "23"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": "4",
+      "Reserves": "101",
+      "Borrowings": "3",
+      "Other Liabilities": "32",
+      "Fixed Assets": "49",
+      "CWIP": "4",
+      "Investments": "22",
+      "Other Assets": "65"
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": "12",
+      "Cash from Investing Activity": "-10",
+      "Cash from Financing Activity": "-2",
+      "Net Cash Flow": "0"
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "14%",
+      "Compounded Sales Growth (5 Years)": "10%",
+      "Compounded Sales Growth (3 Years)": "21%",
+      "Compounded Sales Growth (TTM)": "56%",
+      "Compounded Profit Growth (10 Years)": "22%",
+      "Compounded Profit Growth (5 Years)": "9%",
+      "Compounded Profit Growth (3 Years)": "18%",
+      "Compounded Profit Growth (TTM)": "169%",
+      "Stock Price CAGR (10 Years)": "57%",
+      "Stock Price CAGR (5 Years)": "69%",
+      "Stock Price CAGR (3 Years)": "102%",
+      "Stock Price CAGR (1 Year)": "171%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": "60",
+      "Inventory Days": "169",
+      "Days Payable": "118",
+      "Cash Conversion Cycle": "111",
+      "Working Capital Days": "76"
+    },
+    "Profitability Ratios": {
+      "ROCE (10 Years)": "14%",
+      "ROCE (5 Years)": "16%",
+      "ROCE (3 Years)": "13%",
+      "ROCE (Last Year)": "16%",
+      "ROE (10 Years)": "14%",
+      "ROE (5 Years)": "16%",
+      "ROE (3 Years)": "13%",
+      "ROE (Last Year)": "16%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "43.4",
+      "Price to Book": "Not explicitly stated"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Samvardh. Mothe.", "CMP": "156.06", "P/E": "28.99", "Mar Cap": "109808.42", "Div Yld": "0.51", "NP Qtr": "948.81", "Qtr Profit Var": "218.76", "Sales Qtr": "27811.86", "Qtr Sales Var": "18.48", "ROCE": "13.68"},
+      {"Name": "Bosch", "CMP": "34576.95", "P/E": "50.92", "Mar Cap": "101980.01", "Div Yld": "1.08", "NP Qtr": "535.90", "Qtr Profit Var": "23.94", "Sales Qtr": "4394.30", "Qtr Sales Var": "6.40", "ROCE": "20.61"},
+      {"Name": "Uno Minda", "CMP": "1052.00", "P/E": "66.95", "Mar Cap": "60402.04", "Div Yld": "0.19", "NP Qtr": "266.16", "Qtr Profit Var": "6.33", "Sales Qtr": "4244.79", "Qtr Sales Var": "17.22", "ROCE": "19.94"},
+      {"Name": "Sona BLW Precis.", "CMP": "588.45", "P/E": "63.67", "Mar Cap": "36568.37", "Div Yld": "0.52", "NP Qtr": "143.58", "Qtr Profit Var": "18.35", "Sales Qtr": "922.19", "Qtr Sales Var": "17.11", "ROCE": "24.02"},
+      {"Name": "Exide Inds.", "CMP": "426.30", "P/E": "43.33", "Mar Cap": "36235.50", "Div Yld": "0.47", "NP Qtr": "233.40", "Qtr Profit Var": "-14.15", "Sales Qtr": "4450.00", "Qtr Sales Var": "1.80", "ROCE": "10.15"},
+      {"Name": "Endurance Tech.", "CMP": "2208.10", "P/E": "40.38", "Mar Cap": "31059.76", "Div Yld": "0.38", "NP Qtr": "202.98", "Qtr Profit Var": "31.33", "Sales Qtr": "2912.66", "Qtr Sales Var": "14.45", "ROCE": "16.60"},
+      {"Name": "Motherson Wiring", "CMP": "59.94", "P/E": "40.14", "Mar Cap": "26500.12", "Div Yld": "1.33", "NP Qtr": "152.08", "Qtr Profit Var": "-2.44", "Sales Qtr": "2325.64", "Qtr Sales Var": "10.26", "ROCE": "47.96"}
+    ],
+    "Median": {
+      "CMP": "504.52",
+      "P/E": "31.33",
+      "Mar Cap": "1299.92",
+      "Div Yld": "0.29",
+      "NP Qtr": "9.54",
+      "Qtr Profit Var": "11.39",
+      "Sales Qtr": "213.02",
+      "Qtr Sales Var": "4.68",
+      "ROCE": "15.14"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company is expected to give good quarter"
+    ],
+    "Cons": [
+      "Stock is trading at 9.30 times its book value",
+      "Company has a low return on equity of 12.7% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  }
+}

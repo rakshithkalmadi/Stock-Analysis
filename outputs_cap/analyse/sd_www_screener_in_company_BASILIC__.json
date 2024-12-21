@@ -1,0 +1,235 @@
+
+{
+  "Company Overview": {
+    "Name": "Basilic Fly Studio Ltd",
+    "Sector": "Entertainment",
+    "Industry": "Entertainment / Electronic Media Software",
+    "Business Description": "Post production activities of providing high end visual effects and 2D and 3D conversion. A visual effects (VFX) studio headquartered in Chennai with subsidiaries in Canada and UK. Specializes in using technology to deliver VFX solutions for movies, TV shows, web series, and commercials.  ~10,000 completed projects, 300+ clients, including 900 movies, 2,000 series, 8,000 commercials.",
+    "MarketPosition": "Not explicitly stated in provided HTML" 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 863 Cr.",
+    "CurrentPrice": "₹ 371",
+    "High/Low": "₹ 658 / ₹ 281",
+    "PEratio": 31.3,
+    "BookValue": "₹ 56.6",
+    "DividendYield": "0.00%",
+    "ROCE": "64.0%",
+    "ROE": "47.8%",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Not explicitly stated, but implied high debtors"
+  },
+  "PerformanceTrends": {
+    "QuarterlyResults": {
+      "Sep 2023": {
+        "Sales": "50 Cr",
+        "Expenses": "26 Cr",
+        "OperatingProfit": "24 Cr",
+        "OPM%": "48%",
+        "NetProfit": "19 Cr",
+        "EPS": "8.15 Rs"
+      },
+      "Mar 2024": {
+        "Sales": "51 Cr",
+        "Expenses": "26 Cr",
+        "OperatingProfit": "25 Cr",
+        "OPM%": "49%",
+        "NetProfit": "17 Cr",
+        "EPS": "7.43 Rs"
+      },
+      "Sep 2024": {
+        "Sales": "34 Cr",
+        "Expenses": "21 Cr",
+        "OperatingProfit": "13 Cr",
+        "OPM%": "39%",
+        "NetProfit": "10 Cr",
+        "EPS": "4.44 Rs"
+      }
+    },
+    "AnnualResults": {
+      "Mar 2021": {
+        "Sales": "17 Cr",
+        "Expenses": "16 Cr",
+        "OperatingProfit": "1 Cr",
+        "OPM%": "7%",
+        "NetProfit": "0 Cr",
+        "EPS": "3.40 Rs"
+      },
+      "Mar 2022": {
+        "Sales": "24 Cr",
+        "Expenses": "22 Cr",
+        "OperatingProfit": "1 Cr",
+        "OPM%": "6%",
+        "NetProfit": "1 Cr",
+        "EPS": "7.90 Rs"
+      },
+      "Mar 2023": {
+        "Sales": "70 Cr",
+        "Expenses": "34 Cr",
+        "OperatingProfit": "36 Cr",
+        "OPM%": "52%",
+        "NetProfit": "26 Cr",
+        "EPS": "15.55 Rs"
+      },
+      "Mar 2024": {
+        "Sales": "100 Cr",
+        "Expenses": "52 Cr",
+        "OperatingProfit": "49 Cr",
+        "OPM%": "49%",
+        "NetProfit": "36 Cr",
+        "EPS": "15.58 Rs"
+      },
+      "TTM": {
+        "Sales": "85 Cr",
+        "Expenses": "46 Cr",
+        "OperatingProfit": "38 Cr",
+        "OPM%": "45%",
+        "NetProfit": "28 Cr",
+        "EPS": "11.87 Rs"
+      }
+    },
+    "ProfitAndLossTrends": {
+      "CompoundedSalesGrowth": {
+        "3Years": "80%",
+        "TTM": "43%"
+      },
+      "CompoundedProfitGrowth": {
+        "3Years": "374%",
+        "TTM": "37%"
+      }
+    },
+    "BalanceSheetHighlights": {
+      "Mar 2021": {
+        "EquityCapital": "1 Cr",
+        "Reserves": "2 Cr",
+        "Borrowings": "0 Cr",
+        "OtherLiabilities": "6 Cr",
+        "TotalLiabilities": "9 Cr",
+        "FixedAssets": "1 Cr",
+        "Investments": "0 Cr",
+        "OtherAssets": "9 Cr",
+        "TotalAssets": "9 Cr"
+      },
+      "Mar 2024": {
+        "EquityCapital": "23 Cr",
+        "Reserves": "98 Cr",
+        "Borrowings": "2 Cr",
+        "OtherLiabilities": "22 Cr",
+        "TotalLiabilities": "146 Cr",
+        "FixedAssets": "2 Cr",
+        "Investments": "6 Cr",
+        "OtherAssets": "138 Cr",
+        "TotalAssets": "146 Cr"
+      },
+      "Sep 2024": {
+        "EquityCapital": "23 Cr",
+        "Reserves": "108 Cr",
+        "Borrowings": "34 Cr",
+        "OtherLiabilities": "17 Cr",
+        "TotalLiabilities": "183 Cr",
+        "FixedAssets": "1 Cr",
+        "Investments": "47 Cr",
+        "OtherAssets": "134 Cr",
+        "TotalAssets": "183 Cr"
+      }
+    },
+    "CashFlowSummaries": {
+      "Mar 2021": {
+        "CashFromOperatingActivity": "-2 Cr",
+        "CashFromInvestingActivity": "0 Cr",
+        "CashFromFinancingActivity": "0 Cr",
+        "NetCashFlow": "-3 Cr"
+      },
+      "Mar 2024": {
+        "CashFromOperatingActivity": "-21 Cr",
+        "CashFromInvestingActivity": "-36 Cr",
+        "CashFromFinancingActivity": "53 Cr",
+        "NetCashFlow": "-5 Cr"
+      }
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth_3Years": "80%",
+      "CompoundedSalesGrowth_TTM": "43%",
+      "CompoundedProfitGrowth_3Years": "374%",
+      "CompoundedProfitGrowth_TTM": "37%",
+      "StockPriceCAGR_1Year": "23%"
+    },
+    "LiquidityRatios": "Not explicitly stated",
+    "ProfitabilityRatios": {
+      "ROCE_Mar2024": "64%",
+      "ROE_LastYear": "48%",
+      "ROE_3Years": "66%"
+    },
+    "ValuationRatios": {
+      "PEratio": 31.3,
+      "PriceToBook": "Not explicitly stated"
+    },
+    "DebtorDays": {
+      "Mar 2024": 229
+    },
+    "InventoryDays": {
+      "Mar 2024": "Not explicitly stated"
+    },
+    "DaysPayable": {
+      "Mar 2024": "Not explicitly stated"
+    },
+    "CashConversionCycle": {
+      "Mar 2024": 229
+    },
+    "WorkingCapitalDays": {
+      "Mar 2024": 266
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Sun TV Network", "CMP": 696.85, "P/E": 14.95, "MarCap": 27461.79, "DivYld": 2.40, "NPQtr": 409.32, "QtrProfitVar": -11.93, "SalesQtr": 934.54, "QtrSalesVar": -10.86, "ROCE": 26.20},
+      {"Name": "PVR Inox", "CMP": 1382.10, "P/E": null, "MarCap": 13572.22, "DivYld": 0.00, "NPQtr": -12.10, "QtrProfitVar": -107.10, "SalesQtr": 1622.10, "QtrSalesVar": -18.89, "ROCE": 4.69},
+      {"Name": "Zee Entertainmen", "CMP": 125.13, "P/E": 28.09, "MarCap": 12018.98, "DivYld": 0.80, "NPQtr": 209.40, "QtrProfitVar": 13.77, "SalesQtr": 2000.70, "QtrSalesVar": -17.93, "ROCE": 6.26},
+      {"Name": "Tips Music", "CMP": 811.30, "P/E": 68.17, "MarCap": 10370.98, "DivYld": 0.74, "NPQtr": 48.16, "QtrProfitVar": 21.46, "SalesQtr": 80.61, "QtrSalesVar": 32.43, "ROCE": 103.80},
+      {"Name": "Saregama India", "CMP": 496.60, "P/E": 51.03, "MarCap": 9584.85, "DivYld": 0.81, "NPQtr": 44.95, "QtrProfitVar": -6.44, "SalesQtr": 241.83, "QtrSalesVar": 40.31, "ROCE": 19.60},
+      {"Name": "Sri Adhik. Bros.", "CMP": 1888.75, "P/E": null, "MarCap": 4792.34, "DivYld": 0.00, "NPQtr": -0.09, "QtrProfitVar": 98.34, "SalesQtr": 1.27, "QtrSalesVar": null, "ROCE": null},
+      {"Name": "Prime Focus", "CMP": 132.88, "P/E": null, "MarCap": 3986.23, "DivYld": 0.00, "NPQtr": 50.41, "QtrProfitVar": 115.13, "SalesQtr": 897.04, "QtrSalesVar": -12.59, "ROCE": -0.72},
+      {"Name": "Basilic Fly Stud", "CMP": 371.35, "P/E": 31.28, "MarCap": 863.02, "DivYld": 0.00, "NPQtr": 10.32, "QtrProfitVar": 33.85, "SalesQtr": -31.71, "QtrSalesVar": null, "ROCE": 64.05}
+    ],
+    "Median": {
+      "CMP": 126.81,
+      "P/E": 36.44,
+      "MarCap": 446.24,
+      "DivYld": 0.0,
+      "NPQtr": 0.53,
+      "QtrProfitVar": -50.62,
+      "SalesQtr": 48.28,
+      "QtrSalesVar": -12.59,
+      "ROCE": 6.26
+    }
+  },
+  "OtherInsights": {
+    "Pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 66.0%",
+    "Cons": "Though the company is reporting repeated profits, it is not paying out dividend. Company has high debtors of 229 days. Working capital days have increased from 95.7 days to 266 days.",
+    "Disclaimer": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPatternNotes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "26 November 2024", "Title": "Outcome of Meeting"},
+      {"Date": "21 November 2024", "Title": "Schedule of meet"},
+      {"Date": "21 November 2024", "Title": "Transcript"},
+      {"Date": "18 November 2024", "Title": "Copy of Newspaper Publication"},
+      {"Date": "15 November 2024", "Title": "Financial results for the period ended September 30, 2024."}
+    ],
+    "AnnualReports": [
+      {"Year": 2024, "Source": "nse"},
+      {"Year": 2023, "Source": "web"},
+      {"Year": 2022, "Source": "web"}
+    ],
+    "Concalls": [
+      {"Month": "Nov", "Year": 2024, "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Month": "May", "Year": 2024, "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Month": "Nov", "Year": 2023, "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Month": "Nov", "Year": 2023, "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Month": "Nov", "Year": 2023, "Materials": ["Transcript", "Notes", "PPT"]}
+    ]
+  }
+}

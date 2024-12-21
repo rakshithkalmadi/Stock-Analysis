@@ -1,0 +1,115 @@
+
+{
+  "Company Overview": {
+    "Name": "IFB Industries Ltd",
+    "Sector": "Consumer Durables",
+    "Industry": "Domestic Appliances",
+    "Business Description": "IFB Industries Limited, originally known as Indian Fine Blanks Limited, started operations in 1974.  It manufactures parts and accessories for motor vehicles and home appliances.  The company has a Home Appliances Division (82% of revenue) and an Engineering Division (17% revenue contribution).  It's also involved in modular kitchens, currently at a nascent stage.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Consumer Discretionary, Nifty Microcap 250, Nifty Total Market"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 7,224 Cr.",
+    "Current Price": "₹ 1,783",
+    "High/Low": "₹ 2,360 / ₹ 906",
+    "Stock P/E": 65.8,
+    "Book Value": "₹ 197",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "12.8 %",
+    "ROE": "9.95 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided in the HTML
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [966, 933, 884, 1045, 1097, 977, 985, 1055, 1068, 1133, 1055, 1237, 1177],
+      "Expenses": [897, 907, 896, 1011, 1028, 948, 957, 1022, 999, 1070, 1012, 1158, 1110],
+      "Operating Profit": [69, 26, -11, 34, 70, 29, 28, 33, 69, 63, 43, 79, 66],
+      "OPM %": [7, 3, -1, 3, 6, 3, 3, 3, 6, 6, 4, 6, 6],
+      "Net Profit": [24, -4, -29, 2, 24, -1, -8, 3, 29, 24, 14, 39, 33],
+      "EPS in Rs": [5.83, -0.99, -7.04, 0.49, 5.97, -0.34, -1.86, 0.65, 7.08, 5.85, 3.42, 9.59, 8.22]
+    },
+    "Annual Results": {
+      "Sales": [916, 1021, 1262, 1501, 1741, 2152, 2538, 2551, 2731, 3339, 4104, 4312, 4602],
+      "Expenses": [864, 975, 1174, 1431, 1636, 1991, 2412, 2431, 2533, 3295, 3943, 4091, 4350],
+      "Operating Profit": [52, 46, 87, 70, 104, 161, 126, 121, 199, 44, 161, 221, 252],
+      "Net Profit": [31, 22, 50, 31, 55, 83, 74, 28, 62, -51, 17, 69, 110],
+      "EPS in Rs": [7.76, 5.33, 12.27, 7.74, 13.61, 20.55, 18.25, 6.91, 15.36, -12.64, 4.25, 17.00, 27.08]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41, 41],
+      "Reserves": [274, 296, 346, 377, 430, 509, 579, 606, 646, 596, 615, 685, 757],
+      "Borrowings": [10, 48, 34, 16, 28, 22, 14, 344, 285, 357, 348, 162, 164],
+      "Total Liabilities": [538, 641, 771, 791, 881, 1082, 1204, 1614, 1857, 1999, 2072, 2163, 2310],
+      "Total Assets": [538, 641, 771, 791, 881, 1082, 1204, 1614, 1857, 1999, 2072, 2163, 2310]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [33, 21, 82, 49, 93, 118, 50, 165, 298, 45, 107, 349],
+      "Cash from Investing Activity": [-93, -36, -90, -21, -104, -91, -31, -362, -186, -26, -7, -140],
+      "Cash from Financing Activity": [52, 37, -15, -21, 9, -10, -10, 228, -119, -50, -93, -183],
+      "Net Cash Flow": [-9, 21, -23, 7, -2, 17, 8, 31, -6, -31, 7, 27]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "16%",
+      "Compounded Sales Growth (5 Years)": "11%",
+      "Compounded Sales Growth (3 Years)": "16%",
+      "Compounded Sales Growth (TTM)": "13%",
+      "Compounded Profit Growth (10 Years)": "13%",
+      "Compounded Profit Growth (5 Years)": "3%",
+      "Compounded Profit Growth (3 Years)": "3%",
+      "Compounded Profit Growth (TTM)": "390%",
+      "Stock Price CAGR (10 Years)": "14%",
+      "Stock Price CAGR (5 Years)": "21%",
+      "Stock Price CAGR (3 Years)": "16%",
+      "Stock Price CAGR (1 Year)": "96%"
+    },
+    "Liquidity Ratios": null, //Not explicitly provided in the HTML
+    "Profitability Ratios": {
+      "Return on Equity (10 Years)": "7%",
+      "Return on Equity (5 Years)": "4%",
+      "Return on Equity (3 Years)": "2%",
+      "Return on Equity (Last Year)": "10%",
+      "ROCE %": [15, 9, 13, 7, 15, 22, 14, 5, 13, -4, 7, 13]
+    },
+    "Valuation Ratios": null, //Partially provided (P/E), but others need calculation from data
+    "Other Ratios": {
+      "Debtor Days": [19, 26, 26, 28, 29, 29, 30, 26, 33, 32, 35, 37],
+      "Inventory Days": [90, 97, 115, 91, 85, 94, 97, 94, 110, 104, 83, 77],
+      "Days Payable": [81, 88, 116, 96, 95, 111, 102, 111, 153, 145, 119, 138],
+      "Cash Conversion Cycle": [27, 34, 24, 23, 19, 12, 25, 10, -10, -9, -1, -25],
+      "Working Capital Days": [15, 17, 14, 15, 11, 16, 20, 15, 1, 1, 7, -6]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Whirlpool India", "CMP": 1939.95, "P/E": 78.32, "Mar Cap": 24612.50, "Div Yld": 0.26, "NP Qtr": 53.53, "Qtr Profit Var": 42.21, "Sales Qtr": 1712.99, "Qtr Sales Var": 12.58, "ROCE": 9.07},
+      {"Name": "TTK Prestige", "CMP": 830.65, "P/E": 54.31, "Mar Cap": 11514.19, "Div Yld": 0.72, "NP Qtr": 52.25, "Qtr Profit Var": -11.50, "Sales Qtr": 750.06, "Qtr Sales Var": 2.82, "ROCE": 14.55},
+      {"Name": "Eureka Forbes", "CMP": 572.20, "P/E": 84.90, "Mar Cap": 11065.84, "Div Yld": 0.00, "NP Qtr": 46.67, "Qtr Profit Var": 74.72, "Sales Qtr": 672.87, "Qtr Sales Var": 13.60, "ROCE": 3.46},
+      {"Name": "Symphony", "CMP": 1326.25, "P/E": 39.25, "Mar Cap": 9145.42, "Div Yld": 0.98, "NP Qtr": 56.00, "Qtr Profit Var": 60.00, "Sales Qtr": 315.00, "Qtr Sales Var": 14.55, "ROCE": 18.84},
+      {"Name": "Bajaj Electrical", "CMP": 774.20, "P/E": 82.92, "Mar Cap": 8929.21, "Div Yld": 0.39, "NP Qtr": 12.90, "Qtr Profit Var": -59.28, "Sales Qtr": 1118.33, "Qtr Sales Var": 0.50, "ROCE": 12.73},
+      {"Name": "Orient Electric", "CMP": 242.20, "P/E": 83.47, "Mar Cap": 5167.72, "Div Yld": 0.62, "NP Qtr": 10.44, "Qtr Profit Var": 180.65, "Sales Qtr": 660.15, "Qtr Sales Var": 16.45, "ROCE": 14.24}
+    ],
+    "Median": {
+      "CMP": 790.9,
+      "P/E": 80.62,
+      "Mar Cap": 5167.72,
+      "Div Yld": 0.26,
+      "NP Qtr": 16.72,
+      "Qtr Profit Var": 8.61,
+      "Sales Qtr": 418.31,
+      "Qtr Sales Var": 11.37,
+      "ROCE": 12.73
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has reduced debt.",
+    "Cons": [
+      "Stock is trading at 9.04 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Company has a low return on equity of 1.74% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  }
+}

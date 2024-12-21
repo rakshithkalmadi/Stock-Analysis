@@ -1,0 +1,393 @@
+
+{
+  "Company Overview": {
+    "Name": "Aeron Composites Ltd",
+    "Sector": "Plastic products",
+    "Industry": "Plastics Products",
+    "Business Description": "Aeron Composite Limited manufactures and supplies glass fiber-reinforced polymer (FRP) products, including FRP pultruded products, FRP molded gratings, and FRP rods, tailored for various industrial applications. Fiber Reinforced Polymers (FRP's) are 70% lighter than steel, offering an exceptional strength-to-weight ratio. Compared to traditional materials like metal, concrete, and wood, FRP provides high strength while being significantly lighter.",
+    "Market Position": "Information not explicitly provided, but peer comparison data is available."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 308 Cr.",
+    "Current Price": "₹ 181",
+    "High / Low": "₹ 191 / ₹ 118",
+    "Stock P/E": "30.5",
+    "Book Value": "₹ 55.4",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "36.5 %",
+    "ROE": "33.2 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly provided." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sep 2023": {
+        "Sales": "82 Cr",
+        "Expenses": "74 Cr",
+        "Operating Profit": "8 Cr",
+        "OPM %": "10%",
+        "Other Income": "1 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "1 Cr",
+        "Profit before tax": "8 Cr",
+        "Tax %": "34%",
+        "Net Profit": "5 Cr",
+        "EPS in Rs": "31.98"
+      },
+      "Sep 2024": {
+        "Sales": "108 Cr",
+        "Expenses": "98 Cr",
+        "Operating Profit": "10 Cr",
+        "OPM %": "9%",
+        "Other Income": "2 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "2 Cr",
+        "Profit before tax": "10 Cr",
+        "Tax %": "31%",
+        "Net Profit": "7 Cr",
+        "EPS in Rs": "3.91"
+      }
+    },
+    "Annual Results": {
+      "Mar 2018": {
+        "Sales": "45 Cr",
+        "Expenses": "42 Cr",
+        "Operating Profit": "3 Cr",
+        "OPM %": "7%",
+        "Other Income": "0 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "1 Cr",
+        "Profit before tax": "2 Cr",
+        "Tax %": "30%",
+        "Net Profit": "1 Cr",
+        "EPS in Rs": "9.31",
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2020": {
+        "Sales": "77 Cr",
+        "Expenses": "72 Cr",
+        "Operating Profit": "6 Cr",
+        "OPM %": "7%",
+        "Other Income": "1 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "1 Cr",
+        "Profit before tax": "4 Cr",
+        "Tax %": "29%",
+        "Net Profit": "3 Cr",
+        "EPS in Rs": "22.23",
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2021": {
+        "Sales": "79 Cr",
+        "Expenses": "73 Cr",
+        "Operating Profit": "6 Cr",
+        "OPM %": "8%",
+        "Other Income": "0 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "2 Cr",
+        "Profit before tax": "4 Cr",
+        "Tax %": "30%",
+        "Net Profit": "3 Cr",
+        "EPS in Rs": "19.62",
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2022": {
+        "Sales": "108 Cr",
+        "Expenses": "102 Cr",
+        "Operating Profit": "6 Cr",
+        "OPM %": "6%",
+        "Other Income": "2 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "2 Cr",
+        "Profit before tax": "5 Cr",
+        "Tax %": "28%",
+        "Net Profit": "4 Cr",
+        "EPS in Rs": "27.85",
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2023": {
+        "Sales": "179 Cr",
+        "Expenses": "169 Cr",
+        "Operating Profit": "10 Cr",
+        "OPM %": "6%",
+        "Other Income": "3 Cr",
+        "Interest": "2 Cr",
+        "Depreciation": "2 Cr",
+        "Profit before tax": "10 Cr",
+        "Tax %": "31%",
+        "Net Profit": "7 Cr",
+        "EPS in Rs": "42.20",
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2024": {
+        "Sales": "200 Cr",
+        "Expenses": "184 Cr",
+        "Operating Profit": "16 Cr",
+        "OPM %": "8%",
+        "Other Income": "2 Cr",
+        "Interest": "1 Cr",
+        "Depreciation": "2 Cr",
+        "Profit before tax": "15 Cr",
+        "Tax %": "30%",
+        "Net Profit": "10 Cr",
+        "EPS in Rs": "64.54",
+        "Dividend Payout %": "0%"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Mar 2018": {
+        "Equity Capital": "1 Cr",
+        "Reserves": "3 Cr",
+        "Borrowings": "7 Cr",
+        "Other Liabilities": "9 Cr",
+        "Total Liabilities": "21 Cr",
+        "Fixed Assets": "3 Cr",
+        "CWIP": "0 Cr",
+        "Investments": "0 Cr",
+        "Other Assets": "18 Cr",
+        "Total Assets": "21 Cr"
+      },
+      "Mar 2020": {
+        "Equity Capital": "1 Cr",
+        "Reserves": "8 Cr",
+        "Borrowings": "13 Cr",
+        "Other Liabilities": "15 Cr",
+        "Total Liabilities": "38 Cr",
+        "Fixed Assets": "9 Cr",
+        "CWIP": "0 Cr",
+        "Investments": "0 Cr",
+        "Other Assets": "29 Cr",
+        "Total Assets": "38 Cr"
+      },
+      "Mar 2021": {
+        "Equity Capital": "1 Cr",
+        "Reserves": "11 Cr",
+        "Borrowings": "10 Cr",
+        "Other Liabilities": "21 Cr",
+        "Total Liabilities": "44 Cr",
+        "Fixed Assets": "8 Cr",
+        "CWIP": "0 Cr",
+        "Investments": "0 Cr",
+        "Other Assets": "36 Cr",
+        "Total Assets": "44 Cr"
+      },
+      "Mar 2022": {
+        "Equity Capital": "1 Cr",
+        "Reserves": "14 Cr",
+        "Borrowings": "13 Cr",
+        "Other Liabilities": "33 Cr",
+        "Total Liabilities": "61 Cr",
+        "Fixed Assets": "8 Cr",
+        "CWIP": "0 Cr",
+        "Investments": "0 Cr",
+        "Other Assets": "53 Cr",
+        "Total Assets": "61 Cr"
+      },
+      "Mar 2023": {
+        "Equity Capital": "2 Cr",
+        "Reserves": "24 Cr",
+        "Borrowings": "14 Cr",
+        "Other Liabilities": "30 Cr",
+        "Total Liabilities": "69 Cr",
+        "Fixed Assets": "9 Cr",
+        "CWIP": "0 Cr",
+        "Investments": "0 Cr",
+        "Other Assets": "60 Cr",
+        "Total Assets": "69 Cr"
+      },
+      "Mar 2024": {
+        "Equity Capital": "2 Cr",
+        "Reserves": "34 Cr",
+        "Borrowings": "12 Cr",
+        "Other Liabilities": "54 Cr",
+        "Total Liabilities": "101 Cr",
+        "Fixed Assets": "18 Cr",
+        "CWIP": "4 Cr",
+        "Investments": "0 Cr",
+        "Other Assets": "80 Cr",
+        "Total Assets": "101 Cr"
+      },
+      "Sep 2024": {
+        "Equity Capital": "17 Cr",
+        "Reserves": "77 Cr",
+        "Borrowings": "34 Cr",
+        "Other Liabilities": "58 Cr",
+        "Total Liabilities": "186 Cr",
+        "Fixed Assets": "19 Cr",
+        "CWIP": "9 Cr",
+        "Investments": "0 Cr",
+        "Other Assets": "158 Cr",
+        "Total Assets": "186 Cr"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Mar 2018": {
+        "Cash from Operating Activity": "0 Cr",
+        "Cash from Investing Activity": "0 Cr",
+        "Cash from Financing Activity": "0 Cr",
+        "Net Cash Flow": "0 Cr"
+      },
+      "Mar 2020": {
+        "Cash from Operating Activity": "6 Cr",
+        "Cash from Investing Activity": "-5 Cr",
+        "Cash from Financing Activity": "3 Cr",
+        "Net Cash Flow": "3 Cr"
+      },
+      "Mar 2021": {
+        "Cash from Operating Activity": "4 Cr",
+        "Cash from Investing Activity": "-2 Cr",
+        "Cash from Financing Activity": "-4 Cr",
+        "Net Cash Flow": "-2 Cr"
+      },
+      "Mar 2022": {
+        "Cash from Operating Activity": "0 Cr",
+        "Cash from Investing Activity": "-2 Cr",
+        "Cash from Financing Activity": "1 Cr",
+        "Net Cash Flow": "-1 Cr"
+      },
+      "Mar 2023": {
+        "Cash from Operating Activity": "2 Cr",
+        "Cash from Investing Activity": "-4 Cr",
+        "Cash from Financing Activity": "3 Cr",
+        "Net Cash Flow": "1 Cr"
+      },
+      "Mar 2024": {
+        "Cash from Operating Activity": "21 Cr",
+        "Cash from Investing Activity": "-14 Cr",
+        "Cash from Financing Activity": "-4 Cr",
+        "Net Cash Flow": "3 Cr"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "36%",
+        "TTM": "11%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "58%",
+        "TTM": "53%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "1 Year": "%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Working Capital Days": {
+        "Mar 2018": "66",
+        "Mar 2020": "43",
+        "Mar 2021": "56",
+        "Mar 2022": "61",
+        "Mar 2023": "54",
+        "Mar 2024": "39"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2018": "73",
+        "Mar 2020": "49",
+        "Mar 2021": "39",
+        "Mar 2022": "41",
+        "Mar 2023": "55",
+        "Mar 2024": "27"
+      }
+    },
+    "Profitability Ratios": {
+      "ROCE %": {
+        "Mar 2018": "21%",
+        "Mar 2020": "24%",
+        "Mar 2021": "33%",
+        "Mar 2022": "36%",
+        "Mar 2023": "36.5%",
+        "Mar 2024": "36.5%"
+      },
+      "ROE": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "31%",
+        "Last Year": "33%"
+      }
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "30.5",
+      "Price to Book": "Information not explicitly provided.",
+      "Market Cap / Sales": "Information not explicitly provided."
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2018": "73",
+        "Mar 2020": "62",
+        "Mar 2021": "88",
+        "Mar 2022": "70",
+        "Mar 2023": "63",
+        "Mar 2024": "76"
+      },
+      "Inventory Days": {
+        "Mar 2018": "76",
+        "Mar 2020": "61",
+        "Mar 2021": "84",
+        "Mar 2022": "106",
+        "Mar 2023": "56",
+        "Mar 2024": "76"
+      },
+      "Days Payable": {
+        "Mar 2018": "76",
+        "Mar 2020": "74",
+        "Mar 2021": "133",
+        "Mar 2022": "135",
+        "Mar 2023": "64",
+        "Mar 2024": "125"
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Supreme Inds.", "CMP": "4839.80", "P/E": "56.35", "Mar Cap": "61478.46", "Div Yld": "0.62", "NP Qtr": "206.60", "Qtr Profit Var": "-15.05", "Sales Qtr": "2272.95", "Qtr Sales Var": "-1.55", "ROCE": "28.56"},
+      {"Name": "Astral", "CMP": "1734.60", "P/E": "89.13", "Mar Cap": "46597.38", "Div Yld": "0.22", "NP Qtr": "108.70", "Qtr Profit Var": "-17.15", "Sales Qtr": "1370.40", "Qtr Sales Var": "0.54", "ROCE": "23.16"},
+      {"Name": "Finolex Inds.", "CMP": "238.50", "P/E": "30.76", "Mar Cap": "14798.37", "Div Yld": "1.05", "NP Qtr": "51.44", "Qtr Profit Var": "-45.15", "Sales Qtr": "828.43", "Qtr Sales Var": "-6.20", "ROCE": "10.42"},
+      {"Name": "Time Technoplast", "CMP": "467.20", "P/E": "29.32", "Mar Cap": "10602.13", "Div Yld": "0.43", "NP Qtr": "99.79", "Qtr Profit Var": "39.72", "Sales Qtr": "1370.52", "Qtr Sales Var": "14.76", "ROCE": "15.62"},
+      {"Name": "Responsive Ind", "CMP": "252.15", "P/E": "35.71", "Mar Cap": "6722.53", "Div Yld": "0.04", "NP Qtr": "49.28", "Qtr Profit Var": "21.17", "Sales Qtr": "349.52", "Qtr Sales Var": "30.25", "ROCE": "15.16"},
+      {"Name": "Shaily Engineer.", "CMP": "1447.95", "P/E": "90.91", "Mar Cap": "6653.72", "Div Yld": "0.07", "NP Qtr": "21.92", "Qtr Profit Var": "102.40", "Sales Qtr": "192.00", "Qtr Sales Var": "21.85", "ROCE": "14.12"},
+      {"Name": "Jai Corp", "CMP": "317.25", "P/E": "85.03", "Mar Cap": "5661.31", "Div Yld": "0.16", "NP Qtr": "17.11", "Qtr Profit Var": "47.76", "Sales Qtr": "135.37", "Qtr Sales Var": "14.84", "ROCE": "3.85"},
+      {"Name": "Aeron Composites", "CMP": "181.05", "P/E": "30.48", "Mar Cap": "308.15", "Div Yld": "0.00", "NP Qtr": "6.65", "Qtr Profit Var": "107.85", "Sales Qtr": "31.43", "Qtr Sales Var": "36.46", "ROCE": "36.5"}
+    ],
+    "Median": {
+      "CMP": "189.98",
+      "P/E": "35.27",
+      "Mar Cap": "493.37",
+      "Div Yld": "0.07",
+      "NP Qtr": "3.62",
+      "Qtr Profit Var": "17.8",
+      "Sales Qtr": "70.5",
+      "Qtr Sales Var": "6.7",
+      "ROCE": "15.35"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 31.2%",
+      "Company's working capital requirements have reduced from 51.5 days to 39.0 days"
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Company might be capitalizing the interest cost"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern": {
+      "Sep 2024": {
+        "Promoters": "73.63%",
+        "FIIs": "4.90%",
+        "DIIs": "3.49%",
+        "Public": "17.98%",
+        "No. of Shareholders": "1,648"
+      }
+    },
+    "Notes on Shareholding Data": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

@@ -1,0 +1,193 @@
+
+{
+  "Company Overview": {
+    "Name": "Arrow Greentech Ltd",
+    "Sector": "Plastic products",
+    "Industry": "Plastics Products",
+    "Business Description": "Incorporated in 1982, Arrow Greentech Ltd is in the business of biodegradable (green) products, high-tech products and having Patents income for such products/technology. AGL is a largest manufacturer of Water Soluble Films in India. It does development, production & marketing of a wide range of Water Soluble Films including Mouth Dissolving Strips. It also provides security products and intellectual property services.",
+    "Market Position": "Largest manufacturer of Water Soluble Films in India"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,241 Cr.",
+    "Current Price": "₹ 822",
+    "High/Low": "₹ 1,099 / ₹ 301",
+    "P/E Ratio": 23.1,
+    "Book Value": "₹ 109",
+    "Dividend Yield": "0.24 %",
+    "ROCE": "35.3 %",
+    "ROE": "26.1 %",
+    "Face Value": "₹ 10.0",
+    "BSE Code": "516064",
+    "NSE Code": "ARROWGREEN"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [7, 7, 4, 12, 18, 31, 48, 44, 29, 25, 51, 66, 65],
+      "Expenses": [8, 10, 9, 16, 17, 23, 30, 29, 20, 18, 35, 38, 39],
+      "Operating Profit": [-1, -3, -5, -4, 0, 8, 19, 14, 9, 7, 16, 28, 26],
+      "OPM %": [-8, -45, -110, -33, 2, 27, 39, 33, 31, 29, 31, 42, 41],
+      "Other Income": [0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+      "Profit before tax": [-2, -4, -6, -5, -1, 6, 18, 13, 8, 6, 14, 27, 26],
+      "Tax %": [12, -5, -26, -8, -144, 41, 28, 30, 33, 15, 29, 26, 28],
+      "Net Profit": [-2, -4, -4, -5, 0, 4, 13, 9, 5, 5, 10, 20, 19],
+      "EPS in Rs": [-1.22, -2.90, -3.05, -3.22, 0.27, 2.43, 8.46, 6.19, 3.38, 3.25, 6.71, 13.36, 12.37]
+    },
+    "Annual Results": {
+      "Sales": [15, 35, 49, 51, 53, 35, 34, 22, 52, 34, 109, 149, 206],
+      "Expenses": [12, 16, 19, 14, 16, 29, 49, 29, 44, 41, 85, 102, 129],
+      "Operating Profit": [2, 19, 29, 37, 36, 5, -14, -7, 9, -7, 24, 47, 77],
+      "OPM %": [17, 54, 60, 73, 69, 16, -42, -34, 17, -21, 22, 31, 37],
+      "Other Income": [1, 1, 1, 5, 5, 2, 1, 1, 2, 2, 2, 3, 3],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0],
+      "Depreciation": [0, 0, 1, 1, 2, 4, 4, 4, 5, 5, 7, 8, 8],
+      "Profit before tax": [3, 20, 30, 41, 39, 3, -17, -10, 6, -11, 18, 41, 73],
+      "Tax %": [8, 19, 22, 24, 12, 95, -1, -2, -22, -16, 32, 28, 28],
+      "Net Profit": [3, 16, 22, 31, 35, 0, -17, -10, 7, -9, 12, 29, 54],
+      "EPS in Rs": [1.82, 11.22, 15.84, 21.67, 24.19, 0.19, -11.83, -7.07, 4.55, -6.62, 8.14, 19.56, 35.69]
+    },
+    "Sales Growth": {
+      "10 Years": "15%",
+      "5 Years": "34%",
+      "3 Years": "42%",
+      "TTM": "36%"
+    },
+    "Profit Growth": {
+      "10 Years": "6%",
+      "5 Years": "30%",
+      "3 Years": "70%",
+      "TTM": "74%"
+    },
+    "Stock Price CAGR": {
+      "10 Years": "6%",
+      "5 Years": "77%",
+      "3 Years": "90%",
+      "1 Year": "97%"
+    },
+    "Return on Equity": {
+      "10 Years": "12%",
+      "5 Years": "7%",
+      "3 Years": "12%",
+      "Last Year": "26%"
+    }
+  },
+  "Ratios": {
+    "ROCE %": [14, 80, 76, 69, 46, 3, -19, -12, 7, -12, 21, 35],
+    "Debtor Days": [50, 5, 4, 40, 66, 84, 81, 56, 49, 40, 88, 79],
+    "Inventory Days": [856, 495, 78, 229, 204, 84, 99, 51, 127, 101, 138],
+    "Days Payable": [615, 649, 153, 267, 111, 49, 80, 27, 60, 68, 31],
+    "Cash Conversion Cycle": [292, -149, -71, 40, 28, 178, 116, 75, 73, 106, 121, 187],
+    "Working Capital Days": [98, -39, -68, -35, 57, 119, 116, 59, 103, 127, 110, 118]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Supreme Inds.", "CMP": 4839.80, "P/E": 56.35, "Mar Cap": 61478.46, "Div Yld": 0.62, "NP Qtr": 206.60, "Qtr Profit Var": -15.05, "Sales Qtr": 2272.95, "Qtr Sales Var": -1.55, "ROCE": 28.56},
+      {"Name": "Astral", "CMP": 1734.60, "P/E": 89.13, "Mar Cap": 46597.38, "Div Yld": 0.22, "NP Qtr": 108.70, "Qtr Profit Var": -17.15, "Sales Qtr": 1370.40, "Qtr Sales Var": 0.54, "ROCE": 23.16},
+      {"Name": "Finolex Inds.", "CMP": 238.50, "P/E": 30.76, "Mar Cap": 14798.37, "Div Yld": 1.05, "NP Qtr": 51.44, "Qtr Profit Var": -45.15, "Sales Qtr": 828.43, "Qtr Sales Var": -6.20, "ROCE": 10.42},
+      {"Name": "Time Technoplast", "CMP": 467.20, "P/E": 29.32, "Mar Cap": 10602.13, "Div Yld": 0.43, "NP Qtr": 99.79, "Qtr Profit Var": 39.72, "Sales Qtr": 1370.52, "Qtr Sales Var": 14.76, "ROCE": 15.62},
+      {"Name": "Responsive Ind", "CMP": 252.15, "P/E": 35.71, "Mar Cap": 6722.53, "Div Yld": 0.04, "NP Qtr": 49.28, "Qtr Profit Var": 21.17, "Sales Qtr": 349.52, "Qtr Sales Var": 30.25, "ROCE": 15.16},
+      {"Name": "Shaily Engineer.", "CMP": 1447.95, "P/E": 90.91, "Mar Cap": 6653.72, "Div Yld": 0.07, "NP Qtr": 21.92, "Qtr Profit Var": 102.40, "Sales Qtr": 192.00, "Qtr Sales Var": 21.85, "ROCE": 14.12},
+      {"Name": "Jai Corp", "CMP": 317.25, "P/E": 85.03, "Mar Cap": 5661.31, "Div Yld": 0.16, "NP Qtr": 17.11, "Qtr Profit Var": 47.76, "Sales Qtr": 135.37, "Qtr Sales Var": 14.84, "ROCE": 3.85},
+      {"Name": "Arrow Greentech", "CMP": 822.30, "P/E": 23.12, "Mar Cap": 1240.68, "Div Yld": 0.24, "NP Qtr": 18.61, "Qtr Profit Var": 267.79, "Sales Qtr": 64.84, "Qtr Sales Var": 122.66, "ROCE": 35.32}
+    ],
+    "Median": {
+      "CMP": 189.98,
+      "P/E": 35.27,
+      "Mar Cap": 493.37,
+      "Div Yld": 0.07,
+      "NP Qtr": 3.62,
+      "Qtr Profit Var": 17.8,
+      "Sales Qtr": 70.5,
+      "Qtr Sales Var": 6.7,
+      "ROCE": 15.35
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 30.0% CAGR over last 5 years"
+    ],
+    "Cons": [
+      "Stock is trading at 7.56 times its book value",
+      "Promoter holding has decreased over last quarter: -1.85%",
+      "Company has a low return on equity of 11.5% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Note": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [70.35, 70.35, 70.35, 70.35, 68.60, 68.60, 68.60, 68.60, 68.60, 68.60, 68.60, 66.75],
+      "FIIs": [0.06, 0.00, 0.00, 0.01, 0.00, 0.13, 0.00, 0.02, 0.00, 1.28, 0.21, 0.09],
+      "Public": [29.59, 29.65, 29.65, 29.64, 31.40, 31.28, 31.41, 31.38, 31.42, 30.13, 31.19, 33.16]
+    },
+    "Yearly": {
+      "Promoters": [69.68, 65.42, 65.42, 70.35, 70.28, 70.35, 68.60, 68.60, 66.75],
+      "FIIs": [0.80, 1.30, 0.83, 0.10, 0.21, 0.00, 0.13, 1.28, 0.09],
+      "DIIs": [0.35, 8.16, 1.95, 0.14, 0.00, 0.00, 0.00, 0.00, 0.00],
+      "Public": [29.18, 25.12, 31.80, 29.41, 29.52, 29.65, 31.28, 30.13, 33.16]
+    }
+  },
+  "Balance Sheet": {
+    "data": [
+      {"date": "Mar 2013", "Equity Capital": 12, "Reserves": 5, "Borrowings": 3, "Other Liabilities": 5, "Total Liabilities": 25, "Fixed Assets": 3, "CWIP": 1, "Investments": 0, "Other Assets": 22, "Total Assets": 25},
+      {"date": "Mar 2014", "Equity Capital": 12, "Reserves": 18, "Borrowings": 0, "Other Liabilities": 11, "Total Liabilities": 41, "Fixed Assets": 8, "CWIP": 1, "Investments": 7, "Other Assets": 25, "Total Assets": 41},
+      {"date": "Mar 2015", "Equity Capital": 12, "Reserves": 35, "Borrowings": 0, "Other Liabilities": 13, "Total Liabilities": 60, "Fixed Assets": 11, "CWIP": 1, "Investments": 15, "Other Assets": 33, "Total Assets": 60},
+      {"date": "Mar 2016", "Equity Capital": 12, "Reserves": 58, "Borrowings": 0, "Other Liabilities": 16, "Total Liabilities": 86, "Fixed Assets": 16, "CWIP": 1, "Investments": 15, "Other Assets": 53, "Total Assets": 86},
+      {"date": "Mar 2017", "Equity Capital": 12, "Reserves": 86, "Borrowings": 0, "Other Liabilities": 8, "Total Liabilities": 106, "Fixed Assets": 26, "CWIP": 1, "Investments": 18, "Other Assets": 60, "Total Assets": 106},
+      {"date": "Mar 2018", "Equity Capital": 12, "Reserves": 86, "Borrowings": 0, "Other Liabilities": 8, "Total Liabilities": 106, "Fixed Assets": 26, "CWIP": 1, "Investments": 29, "Other Assets": 49, "Total Assets": 106},
+      {"date": "Mar 2019", "Equity Capital": 12, "Reserves": 66, "Borrowings": 0, "Other Liabilities": 9, "Total Liabilities": 87, "Fixed Assets": 23, "CWIP": 2, "Investments": 17, "Other Assets": 45, "Total Assets": 87},
+      {"date": "Mar 2020", "Equity Capital": 14, "Reserves": 62, "Borrowings": 5, "Other Liabilities": 10, "Total Liabilities": 92, "Fixed Assets": 28, "CWIP": 10, "Investments": 14, "Other Assets": 40, "Total Assets": 92},
+      {"date": "Mar 2021", "Equity Capital": 14, "Reserves": 70, "Borrowings": 5, "Other Liabilities": 9, "Total Liabilities": 99, "Fixed Assets": 26, "CWIP": 12, "Investments": 9, "Other Assets": 53, "Total Assets": 99},
+      {"date": "Mar 2022", "Equity Capital": 14, "Reserves": 61, "Borrowings": 5, "Other Liabilities": 9, "Total Liabilities": 89, "Fixed Assets": 28, "CWIP": 13, "Investments": 1, "Other Assets": 46, "Total Assets": 89},
+      {"date": "Mar 2023", "Equity Capital": 15, "Reserves": 83, "Borrowings": 3, "Other Liabilities": 20, "Total Liabilities": 121, "Fixed Assets": 37, "CWIP": 1, "Investments": 0, "Other Assets": 83, "Total Assets": 121},
+      {"date": "Mar 2024", "Equity Capital": 15, "Reserves": 112, "Borrowings": 1, "Other Liabilities": 17, "Total Liabilities": 145, "Fixed Assets": 37, "CWIP": 3, "Investments": 0, "Other Assets": 104, "Total Assets": 145},
+      {"date": "Sep 2024", "Equity Capital": 15, "Reserves": 149, "Borrowings": 1, "Other Liabilities": 20, "Total Liabilities": 185, "Fixed Assets": 38, "CWIP": 3, "Investments": 40, "Other Assets": 105, "Total Assets": 185}
+    ]
+  },
+  "Cash Flow": {
+    "data": [
+      {"date": "Mar 2013", "Cash from Operating Activity": 7, "Cash from Investing Activity": 0, "Cash from Financing Activity": -7, "Net Cash Flow": 0},
+      {"date": "Mar 2014", "Cash from Operating Activity": 23, "Cash from Investing Activity": -12, "Cash from Financing Activity": -2, "Net Cash Flow": 9},
+      {"date": "Mar 2015", "Cash from Operating Activity": 26, "Cash from Investing Activity": -11, "Cash from Financing Activity": -4, "Net Cash Flow": 11},
+      {"date": "Mar 2016", "Cash from Operating Activity": 27, "Cash from Investing Activity": -6, "Cash from Financing Activity": -7, "Net Cash Flow": 14},
+      {"date": "Mar 2017", "Cash from Operating Activity": 17, "Cash from Investing Activity": -12, "Cash from Financing Activity": -2, "Net Cash Flow": 2},
+      {"date": "Mar 2018", "Cash from Operating Activity": 5, "Cash from Investing Activity": -13, "Cash from Financing Activity": -6, "Net Cash Flow": -14},
+      {"date": "Mar 2019", "Cash from Operating Activity": -16, "Cash from Investing Activity": 8, "Cash from Financing Activity": -3, "Net Cash Flow": -11},
+      {"date": "Mar 2020", "Cash from Operating Activity": 3, "Cash from Investing Activity": -24, "Cash from Financing Activity": 12, "Net Cash Flow": -8},
+      {"date": "Mar 2021", "Cash from Operating Activity": 1, "Cash from Investing Activity": 2, "Cash from Financing Activity": -2, "Net Cash Flow": 2},
+      {"date": "Mar 2022", "Cash from Operating Activity": 2, "Cash from Investing Activity": -2, "Cash from Financing Activity": -2, "Net Cash Flow": -1},
+      {"date": "Mar 2023", "Cash from Operating Activity": 3, "Cash from Investing Activity": -14, "Cash from Financing Activity": 8, "Net Cash Flow": -3},
+      {"date": "Mar 2024", "Cash from Operating Activity": 18, "Cash from Investing Activity": -14, "Cash from Financing Activity": -4, "Net Cash Flow": 1}
+    ]
+  },
+  "Documents": {
+    "Announcements": [
+      {"date": "10 Dec", "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation"},
+      {"date": "9 Dec", "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation - Schedule of Analyst / Institutional Investor Meet on December 13, 2024."},
+      {"date": "9 Dec", "title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation"},
+      {"date": "6 Dec", "title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate"},
+      {"date": "25 Nov", "title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011 - Disclosures under SEBI regulations for share acquisition."}
+    ],
+    "Annual Reports": [
+      {"year": 2024, "source": "bse"},
+      {"year": 2023, "source": "bse"},
+      {"year": 2022, "source": "bse"},
+      {"year": 2021, "source": "bse"},
+      {"year": 2020, "source": "bse"},
+      {"year": 2019, "source": "bse"},
+      {"year": 2018, "source": "bse"},
+      {"year": 2017, "source": "bse"},
+      {"year": 2016, "source": "bse"},
+      {"year": 2015, "source": "bse"},
+      {"year": 2014, "source": "bse"},
+      {"year": 2013, "source": "bse"},
+      {"year": 2012, "source": "bse"},
+      {"year": 2011, "source": "bse"},
+      {"year": 2010, "source": "bse"}
+    ]
+  }
+}

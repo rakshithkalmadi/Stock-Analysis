@@ -1,0 +1,252 @@
+
+{
+  "Company Overview": {
+    "Name": "Waaree Energies Ltd",
+    "Sector": "Capital Goods - Electrical Equipment",
+    "Industry": "Electric Equipment",
+    "Business Description": "Indian manufacturer of solar PV modules with an aggregate installed capacity of 12 GW. India’s largest manufacturer and exporter of solar modules.",
+    "Market Position": "21% share of the domestic market for solar modules and 44% share in India's solar module exports as of FY24."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 82,719 Cr.",
+    "Current Price": "₹ 2,879",
+    "High / Low": "₹ 3,743 / ₹ 2,295",
+    "Stock P/E": "83.7",
+    "Book Value": "₹ ", 
+    "Dividend Yield": "0.00 %",
+    "ROCE": "43.6 %",
+    "ROE": "33.4 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs further extraction logic from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [3328, 3537, 3409, 3574],
+      "Expenses": [2861, 3020, 2856, 3050],
+      "Operating Profit": [468, 517, 552, 525],
+      "OPM %": ["14%", "15%", "16%", "15%"],
+      "Other Income": [87, 21, 88, 89],
+      "Interest": [40, 33, 34, 31],
+      "Depreciation": [57, 71, 76, 84],
+      "Profit before tax": [457, 435, 531, 499],
+      "Tax %": ["26%", "26%", "24%", "25%"],
+      "Net Profit": [338, 320, 401, 376],
+      "EPS in Rs": [17.05, 15.98, 19.99, 13.73]
+    },
+    "Annual Results": {
+      "Sales": [1996, 1953, 2854, 6751, 11398],
+      "Expenses": [1903, 1868, 2748, 5915, 9823],
+      "Operating Profit": [93, 85, 106, 836, 1575],
+      "OPM %": ["5%", "4%", "4%", "12%", "14%"],
+      "Other Income": [25, 45, 97, 88, 576],
+      "Interest": [34, 31, 41, 82, 140],
+      "Depreciation": [27, 29, 43, 164, 277],
+      "Profit before tax": [57, 70, 118, 677, 1734],
+      "Tax %": ["31%", "31%", "33%", "26%", "27%"],
+      "Net Profit": [39, 48, 80, 500, 1274],
+      "EPS in Rs": [2.12, 2.50, 3.84, 24.49, 62.76],
+      "Dividend Payout %": ["0%", "0%", "0%", "0%", "0%"]
+    },
+    "Balance Sheet Highlights": {
+      "Mar 2020": {
+        "Equity Capital": 197,
+        "Reserves": 101,
+        "Borrowings": 157,
+        "Other Liabilities": 483,
+        "Total Liabilities": 938,
+        "Fixed Assets": 152,
+        "CWIP": 40,
+        "Investments": 85,
+        "Other Assets": 661,
+        "Total Assets": 938
+      },
+      "Mar 2021": {
+        "Equity Capital": 197,
+        "Reserves": 148,
+        "Borrowings": 340,
+        "Other Liabilities": 596,
+        "Total Liabilities": 1281,
+        "Fixed Assets": 285,
+        "CWIP": 3,
+        "Investments": 115,
+        "Other Assets": 878,
+        "Total Assets": 1281
+      },
+      "Mar 2022": {
+        "Equity Capital": 197,
+        "Reserves": 231,
+        "Borrowings": 363,
+        "Other Liabilities": 1362,
+        "Total Liabilities": 2154,
+        "Fixed Assets": 625,
+        "CWIP": 124,
+        "Investments": 143,
+        "Other Assets": 1262,
+        "Total Assets": 2154
+      },
+      "Mar 2023": {
+        "Equity Capital": 243,
+        "Reserves": 1595,
+        "Borrowings": 320,
+        "Other Liabilities": 5247,
+        "Total Liabilities": 7406,
+        "Fixed Assets": 1105,
+        "CWIP": 537,
+        "Investments": 31,
+        "Other Assets": 5732,
+        "Total Assets": 7406
+      },
+      "Mar 2024": {
+        "Equity Capital": 263,
+        "Reserves": 3825,
+        "Borrowings": 553,
+        "Other Liabilities": 6635,
+        "Total Liabilities": 11277,
+        "Fixed Assets": 1450,
+        "CWIP": 1341,
+        "Investments": 71,
+        "Other Assets": 8414,
+        "Total Assets": 11277
+      },
+      "Sep 2024": {
+        "Equity Capital": 263,
+        "Reserves": 4583,
+        "Borrowings": 985,
+        "Other Liabilities": 8204,
+        "Total Liabilities": 14035,
+        "Fixed Assets": 1637,
+        "CWIP": 2510,
+        "Investments": 114,
+        "Other Assets": 9774,
+        "Total Assets": 14035
+      }
+    },
+    "Cash Flow Summaries": {
+      "Mar 2020": {
+        "Cash from Operating Activity": 83,
+        "Cash from Investing Activity": -22,
+        "Cash from Financing Activity": -50,
+        "Net Cash Flow": 12
+      },
+      "Mar 2021": {
+        "Cash from Operating Activity": 67,
+        "Cash from Investing Activity": -250,
+        "Cash from Financing Activity": 161,
+        "Net Cash Flow": -21
+      },
+      "Mar 2022": {
+        "Cash from Operating Activity": 698,
+        "Cash from Investing Activity": -673,
+        "Cash from Financing Activity": 101,
+        "Net Cash Flow": 126
+      },
+      "Mar 2023": {
+        "Cash from Operating Activity": 1560,
+        "Cash from Investing Activity": -2088,
+        "Cash from Financing Activity": 642,
+        "Net Cash Flow": 114
+      },
+      "Mar 2024": {
+        "Cash from Operating Activity": 2305,
+        "Cash from Investing Activity": -3346,
+        "Cash from Financing Activity": 909,
+        "Net Cash Flow": -132
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "80%",
+        "TTM": "69%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "180%",
+        "TTM": "100%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": null
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [26, 22, 12, 17, 31],
+      "Inventory Days": [54, 83, 85, 192, 108],
+      "Days Payable": [67, 99, 83, 143, 84],
+      "Cash Conversion Cycle": [13, 6, 14, 66, 55],
+      "Working Capital Days": [14, 13, -67, -58, -33]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["16%", "21%", "52%", "44%"],
+      "ROE": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "35%",
+        "Last Year": "33%"
+      }
+    },
+    "Valuation Ratios": {
+      "EV / EBITDA": null, //Not explicitly provided
+      "Price to Book": null, //Not explicitly provided
+      "Market Cap / Sales": null //Not explicitly provided
+
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Siemens", "CMP": 6868.90, "P/E": 90.04, "Mar Cap": 244615.61, "Div Yld": 0.15, "NP Qtr": 831.20, "Qtr Profit Var": 45.41, "Sales Qtr": 6461.10, "Qtr Sales Var": 11.25, "ROCE": 25.59},
+      {"Name": "A B B", "CMP": 6921.25, "P/E": 86.89, "Mar Cap": 146667.08, "Div Yld": 0.34, "NP Qtr": 440.45, "Qtr Profit Var": 21.68, "Sales Qtr": 2912.16, "Qtr Sales Var": 5.16, "ROCE": 30.69},
+      {"Name": "CG Power & Ind", "CMP": 730.05, "P/E": 124.61, "Mar Cap": 111592.02, "Div Yld": 0.18, "NP Qtr": 219.63, "Qtr Profit Var": -1.77, "Sales Qtr": 2412.69, "Qtr Sales Var": 20.54, "ROCE": 46.63},
+      {"Name": "Suzlon Energy", "CMP": 64.13, "P/E": 88.00, "Mar Cap": 86810.83, "Div Yld": 0.00, "NP Qtr": 200.60, "Qtr Profit Var": 45.89, "Sales Qtr": 2103.38, "Qtr Sales Var": 47.98, "ROCE": 24.93},
+      {"Name": "Waaree Energies", "CMP": 2879.35, "P/E": 83.70, "Mar Cap": 82718.89, "Div Yld": 0.00, "NP Qtr": 375.66, "Qtr Profit Var": 14.78, "Sales Qtr": 3574.38, "Qtr Sales Var": 1.05, "ROCE": 43.63},
+      {"Name": "B H E L", "CMP": 235.30, "P/E": 184.25, "Mar Cap": 81932.95, "Div Yld": 0.11, "NP Qtr": 106.15, "Qtr Profit Var": 268.47, "Sales Qtr": 6584.10, "Qtr Sales Var": 28.46, "ROCE": 3.37},
+      {"Name": "Premier Energies", "CMP": 1296.40, "P/E": 253.01, "Mar Cap": 58438.39, "Div Yld": 0.00, "NP Qtr": 205.95, "Qtr Profit Var": 289.61, "Sales Qtr": 1527.22, "Qtr Sales Var": 120.16, "ROCE": 25.23}
+    ],
+    "Median": {
+      "CMP": 525.73,
+      "P/E": 69.63,
+      "Mar Cap": 1616.72,
+      "Div Yld": 0.0,
+      "NP Qtr": 8.31,
+      "Qtr Profit Var": 34.14,
+      "Sales Qtr": 127.8,
+      "Qtr Sales Var": 21.98,
+      "ROCE": 19.48
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 34.7%",
+    "Cons": "Earnings include an other income of Rs.576 Cr.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "News and Events": {
+    "Announcements": [
+      {"date": "20 Dec", "title": "Waaree Solar starts trial production of 1.6 GW Solar Module."},
+      {"date": "16 Dec", "title": "Received orders for 398 MW solar module supply."},
+      {"date": "15 Dec", "title": "Waaree Power acquires 55% stake in Ewaa Renewable."},
+      {"date": "11 Dec", "title": "Received Letter of Award for 170 MW Solar power plant."},
+      {"date": "9 Dec", "title": "Received order for supply of 1 GW solar modules."}
+    ],
+    "Annual Reports": "No data available.",
+    "Credit Ratings": [
+      {"date": "3 Apr", "source": "care"},
+      {"date": "17 Feb 2023", "source": "crisil"},
+      {"date": "13 Feb 2023", "source": "crisil"},
+      {"date": "7 Feb 2023", "source": "care"},
+      {"date": "23 Jun 2022", "source": "care"},
+      {"date": "22 Apr 2022", "source": "crisil"}
+    ],
+    "Concalls": [
+      {"date": "Nov 2024", "type": "Transcript"},
+      {"date": "Nov 2024", "type": "Transcript"},
+      {"date": "Oct 2024", "type": "Transcript"}
+    ]
+  }
+}

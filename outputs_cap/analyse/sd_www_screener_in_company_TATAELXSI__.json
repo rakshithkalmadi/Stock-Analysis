@@ -1,0 +1,283 @@
+
+{
+  "Company Overview": {
+    "Name": "Tata Elxsi Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Tata Elxsi is amongst the world’s leading providers of design and technology services across industries including Automotive, Media, Communications and Healthcare. Tata Elxsi provides integrated services from research and strategy, to electronics and mechanical design, software development, validation and deployment, and is supported by a network of design studios, global development centers and offices worldwide.",
+    "Market Position": "Amongst the world’s leading providers of design and technology services"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 43,110 Cr.",
+    "Current Price": "₹ 6,922",
+    "High / Low": "₹ 9,083 / ₹ 6,285",
+    "Stock P/E": 52.8,
+    "Book Value": "₹ 399",
+    "Dividend Yield": "1.01 %",
+    "ROCE": "42.7 %",
+    "ROE": "34.5 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly available in provided HTML
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": 595,
+        "Dec 2021": 635,
+        "Mar 2022": 682,
+        "Jun 2022": 726,
+        "Sep 2022": 763,
+        "Dec 2022": 818,
+        "Mar 2023": 838,
+        "Jun 2023": 850,
+        "Sep 2023": 882,
+        "Dec 2023": 914,
+        "Mar 2024": 906,
+        "Jun 2024": 926,
+        "Sep 2024": 955
+      },
+      "Net Profit": {
+        "Sep 2021": 125,
+        "Dec 2021": 151,
+        "Mar 2022": 160,
+        "Jun 2022": 185,
+        "Sep 2022": 174,
+        "Dec 2022": 195,
+        "Mar 2023": 202,
+        "Jun 2023": 189,
+        "Sep 2023": 200,
+        "Dec 2023": 206,
+        "Mar 2024": 197,
+        "Jun 2024": 184,
+        "Sep 2024": 229
+      },
+      "EPS": {
+        "Sep 2021": 20.12,
+        "Dec 2021": 24.24,
+        "Mar 2022": 25.69,
+        "Jun 2022": 29.66,
+        "Sep 2022": 27.98,
+        "Dec 2022": 31.26,
+        "Mar 2023": 32.36,
+        "Jun 2023": 30.32,
+        "Sep 2023": 32.12,
+        "Dec 2023": 33.15,
+        "Mar 2024": 31.62,
+        "Jun 2024": 29.56,
+        "Sep 2024": 36.84
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2013": 605,
+        "Mar 2014": 772,
+        "Mar 2015": 849,
+        "Mar 2016": 1075,
+        "Mar 2017": 1237,
+        "Mar 2018": 1386,
+        "Mar 2019": 1597,
+        "Mar 2020": 1610,
+        "Mar 2021": 1826,
+        "Mar 2022": 2471,
+        "Mar 2023": 3145,
+        "Mar 2024": 3552,
+        "TTM": 3702
+      },
+      "Net Profit": {
+        "Mar 2013": 21,
+        "Mar 2014": 75,
+        "Mar 2015": 103,
+        "Mar 2016": 155,
+        "Mar 2017": 175,
+        "Mar 2018": 240,
+        "Mar 2019": 290,
+        "Mar 2020": 256,
+        "Mar 2021": 368,
+        "Mar 2022": 550,
+        "Mar 2023": 755,
+        "Mar 2024": 792,
+        "TTM": 817
+      },
+      "EPS": {
+        "Mar 2013": 3.37,
+        "Mar 2014": 12.06,
+        "Mar 2015": 16.52,
+        "Mar 2016": 24.85,
+        "Mar 2017": 28.05,
+        "Mar 2018": 38.54,
+        "Mar 2019": 46.56,
+        "Mar 2020": 41.12,
+        "Mar 2021": 59.11,
+        "Mar 2022": 88.26,
+        "Mar 2023": 121.26,
+        "Mar 2024": 127.21,
+        "TTM": 131.17
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "16%",
+      "Compounded Sales Growth (5 Years)": "17%",
+      "Compounded Sales Growth (3 Years)": "25%",
+      "Compounded Sales Growth (TTM)": "9%",
+      "Compounded Profit Growth (10 Years)": "27%",
+      "Compounded Profit Growth (5 Years)": "22%",
+      "Compounded Profit Growth (3 Years)": "29%",
+      "Compounded Profit Growth (TTM)": "4%",
+      "Stock Price CAGR (10 Years)": "37%",
+      "Stock Price CAGR (5 Years)": "52%",
+      "Stock Price CAGR (3 Years)": "8%",
+      "Stock Price CAGR (1 Year)": "-22%"
+    },
+    "Liquidity Ratios": null, //Not explicitly available in provided HTML
+    "Profitability Ratios": {
+      "ROCE (10 Years)": "35%",
+      "ROCE (5 Years)": "35%",
+      "ROCE (3 Years)": "37%",
+      "ROCE (Last Year)": "34%",
+      "ROE (10 Years)": "35%",
+      "ROE (5 Years)": "35%",
+      "ROE (3 Years)": "37%",
+      "ROE (Last Year)": "34%"
+    },
+    "Valuation Ratios": {
+      "Price to Book": null //Not explicitly stated as a single value, but implied in "Stock is trading at 17.3 times its book value"
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2013": 81,
+        "Mar 2014": 74,
+        "Mar 2015": 66,
+        "Mar 2016": 73,
+        "Mar 2017": 72,
+        "Mar 2018": 81,
+        "Mar 2019": 81,
+        "Mar 2020": 89,
+        "Mar 2021": 98,
+        "Mar 2022": 99,
+        "Mar 2023": 113,
+        "Mar 2024": 100
+      },
+      "Inventory Days": {
+        "Mar 2013": 0,
+        "Mar 2014": 0,
+        "Mar 2015": 6,
+        "Mar 2016": 8,
+        "Mar 2017": 2,
+        "Mar 2018": 1,
+        "Mar 2019": 2,
+        "Mar 2020": 0,
+        "Mar 2021": 0,
+        "Mar 2022": 0,
+        "Mar 2023": 0,
+        "Mar 2024": 0
+      },
+      "Days Payable": {
+        "Mar 2013": 205,
+        "Mar 2014": 212,
+        "Mar 2015": 244,
+        "Mar 2016": 202,
+        "Mar 2017": 162,
+        "Mar 2018": 0,
+        "Mar 2019": 0,
+        "Mar 2020": 0,
+        "Mar 2021": 0,
+        "Mar 2022": 0,
+        "Mar 2023": 0,
+        "Mar 2024": 0
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2013": 81,
+        "Mar 2014": 74,
+        "Mar 2015": 66,
+        "Mar 2016": 73,
+        "Mar 2017": 72,
+        "Mar 2018": 81,
+        "Mar 2019": -117,
+        "Mar 2020": -116,
+        "Mar 2021": 98,
+        "Mar 2022": -143,
+        "Mar 2023": -88,
+        "Mar 2024": -60
+      },
+      "Working Capital Days": {
+        "Mar 2013": 40,
+        "Mar 2014": 22,
+        "Mar 2015": 10,
+        "Mar 2016": 26,
+        "Mar 2017": 54,
+        "Mar 2018": 59,
+        "Mar 2019": 69,
+        "Mar 2020": 75,
+        "Mar 2021": 56,
+        "Mar 2022": 50,
+        "Mar 2023": 78,
+        "Mar 2024": 80
+      },
+      "ROCE %": {
+        "Mar 2013": 22,
+        "Mar 2014": 48,
+        "Mar 2015": 60,
+        "Mar 2016": 71,
+        "Mar 2017": 56,
+        "Mar 2018": 57,
+        "Mar 2019": 51,
+        "Mar 2020": 35,
+        "Mar 2021": 40,
+        "Mar 2022": 48,
+        "Mar 2023": 48,
+        "Mar 2024": 43
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "P/E": 42.61, "Mar Cap": 106322.89, "Div Yld": 1.96, "NP Qtr": 577.70, "Qtr Profit Var": 38.39, "Sales Qtr": 1673.90, "Qtr Sales Var": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "P/E": 554.42, "Mar Cap": 96075.89, "Div Yld": 0.00, "NP Qtr": 50.98, "Qtr Profit Var": 350.35, "Sales Qtr": 1167.23, "Qtr Sales Var": 43.81, "ROCE": 1.75},
+      {"Name": "Coforge", "CMP": 9370.45, "P/E": 79.48, "Mar Cap": 62650.25, "Div Yld": 0.81, "NP Qtr": 233.60, "Qtr Profit Var": 11.71, "Sales Qtr": 3062.30, "Qtr Sales Var": 34.54, "ROCE": 28.60},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "P/E": 52.77, "Mar Cap": 43110.04, "Div Yld": 1.01, "NP Qtr": 229.43, "Qtr Profit Var": 14.70, "Sales Qtr": 955.09, "Qtr Sales Var": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "P/E": 54.80, "Mar Cap": 39785.12, "Div Yld": 0.46, "NP Qtr": 203.75, "Qtr Profit Var": 45.30, "Sales Qtr": 1471.41, "Qtr Sales Var": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "P/E": 56.02, "Mar Cap": 36238.37, "Div Yld": 0.94, "NP Qtr": 157.41, "Qtr Profit Var": -1.85, "Sales Qtr": 1296.45, "Qtr Sales Var": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "P/E": 87.35, "Mar Cap": 32355.27, "Div Yld": 0.00, "NP Qtr": 208.58, "Qtr Profit Var": 1282.88, "Sales Qtr": 103.35, "Qtr Sales Var": 30.01, "ROCE": 0}
+    ]
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 22.4% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 37.4%",
+      "Company has been maintaining a healthy dividend payout of 51.0%"
+    ],
+    "Cons": [
+      "Stock is trading at 17.3 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Notes on Shareholding Pattern": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Indices": [
+    "Nifty 500",
+    "Multicap 50:25:25",
+    "Nifty MidSmallcap 400",
+    "Nifty Tata Group 25% Cap",
+    "BSE 400 MidSmallCap Index",
+    "BSE MidCap",
+    "Nifty Midcap 100",
+    "Nifty 200",
+    "BSE Allcap",
+    "Nifty LargeMidcap 250",
+    "BSE 250 LargeMidCap Index",
+    "Nifty Midcap 150",
+    "Nifty Midcap150 Quality 50",
+    "BSE Low Volatility Index",
+    "BSE MidCap Select Index",
+    "Nifty India Digital Index",
+    "Nifty Total Market",
+    "BSE 500",
+    "BSE Information Technology",
+    "BSE 150 MidCap Index",
+    "BSE 200",
+    "BSE Dollex 200",
+    "BSE Teck"
+  ]
+}

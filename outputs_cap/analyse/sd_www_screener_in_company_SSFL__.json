@@ -1,0 +1,390 @@
+
+{
+  "Company Overview": {
+    "Name": "Srivari Spices & Foods Ltd",
+    "Sector": "FMCG",
+    "Industry": "Food - Processing - Indian",
+    "Business Description": "Incorporated in 2019, Srivari Spices & Foods Ltd is in the business of selling food and food related products. SSFL is a FMCG company which delivers quality spices, masalas and sharbati and regular Atta (wheat flour) in Telangana and Andhra Pradesh.",
+    "MarketPosition": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 208 Cr.",
+    "CurrentPrice": "₹ 243",
+    "High/Low": "₹ 385 / ₹ 162",
+    "StockPE": 22.3,
+    "BookValue": "₹ 33.7",
+    "DividendYield": "0.00%",
+    "ROCE": "36.6%",
+    "ROE": "42.4%",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Information not explicitly available in provided HTML." 
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sep 2022": {
+        "Sales": 12,
+        "Expenses": 11,
+        "OperatingProfit": 1,
+        "OPM%": "10%",
+        "OtherIncome": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 1,
+        "Tax%": "28%",
+        "NetProfit": 1,
+        "EPSinRs": 1.12
+      },
+      "Sep 2023": {
+        "Sales": 31,
+        "Expenses": 26,
+        "OperatingProfit": 5,
+        "OPM%": "17%",
+        "OtherIncome": 0,
+        "Interest": 1,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 4,
+        "Tax%": "32%",
+        "NetProfit": 3,
+        "EPSinRs": 3.03
+      },
+      "Mar 2024": {
+        "Sales": 47,
+        "Expenses": 40,
+        "OperatingProfit": 7,
+        "OPM%": "16%",
+        "OtherIncome": 0,
+        "Interest": 1,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 6,
+        "Tax%": "29%",
+        "NetProfit": 4,
+        "EPSinRs": 5.15
+      },
+      "Sep 2024": {
+        "Sales": 53,
+        "Expenses": 44,
+        "OperatingProfit": 9,
+        "OPM%": "17%",
+        "OtherIncome": 0,
+        "Interest": 1,
+        "Depreciation": 1,
+        "ProfitBeforeTax": 7,
+        "Tax%": "28%",
+        "NetProfit": 5,
+        "EPSinRs": 5.73
+      }
+    },
+    "AnnualResults": {
+      "Mar 2020": {
+        "Sales": 0,
+        "Expenses": 0,
+        "OperatingProfit": -0,
+        "OPM%": "-11%",
+        "OtherIncome": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "ProfitBeforeTax": -0,
+        "Tax%": "0%",
+        "NetProfit": -0,
+        "EPSinRs": -0.35
+      },
+      "Mar 2021": {
+        "Sales": 11,
+        "Expenses": 11,
+        "OperatingProfit": 1,
+        "OPM%": "7%",
+        "OtherIncome": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 0,
+        "Tax%": "28%",
+        "NetProfit": 0,
+        "EPSinRs": 0.73
+      },
+      "Mar 2022": {
+        "Sales": 18,
+        "Expenses": 16,
+        "OperatingProfit": 2,
+        "OPM%": "9%",
+        "OtherIncome": 0,
+        "Interest": 0,
+        "Depreciation": 1,
+        "ProfitBeforeTax": 1,
+        "Tax%": "28%",
+        "NetProfit": 1,
+        "EPSinRs": 1.52
+      },
+      "Mar 2023": {
+        "Sales": 36,
+        "Expenses": 30,
+        "OperatingProfit": 6,
+        "OPM%": "16%",
+        "OtherIncome": 0,
+        "Interest": 1,
+        "Depreciation": 1,
+        "ProfitBeforeTax": 4,
+        "Tax%": "27%",
+        "NetProfit": 3,
+        "EPSinRs": 5.15
+      },
+      "Mar 2024": {
+        "Sales": 78,
+        "Expenses": 65,
+        "OperatingProfit": 13,
+        "OPM%": "16%",
+        "OtherIncome": 0,
+        "Interest": 2,
+        "Depreciation": 1,
+        "ProfitBeforeTax": 10,
+        "Tax%": "30%",
+        "NetProfit": 7,
+        "EPSinRs": 8.17
+      },
+      "TTM": {
+        "Sales": 100,
+        "Expenses": 84,
+        "OperatingProfit": 16,
+        "OPM%": "16%",
+        "OtherIncome": 0,
+        "Interest": 2,
+        "Depreciation": 1,
+        "ProfitBeforeTax": 13,
+        "Tax%": "30%",
+        "NetProfit": 9,
+        "EPSinRs": 10.88
+      }
+    },
+    "BalanceSheetHighlights": {
+      "Mar 2020": {
+        "EquityCapital": 2,
+        "Reserves": -0,
+        "Borrowings": 0,
+        "OtherLiabilities": 0,
+        "TotalLiabilities": 2,
+        "FixedAssets": 2,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 1,
+        "TotalAssets": 2
+      },
+      "Mar 2021": {
+        "EquityCapital": 4,
+        "Reserves": 0,
+        "Borrowings": 0,
+        "OtherLiabilities": 2,
+        "TotalLiabilities": 6,
+        "FixedAssets": 3,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 3,
+        "TotalAssets": 6
+      },
+      "Mar 2022": {
+        "EquityCapital": 4,
+        "Reserves": 1,
+        "Borrowings": 3,
+        "OtherLiabilities": 3,
+        "TotalLiabilities": 11,
+        "FixedAssets": 4,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 6,
+        "TotalAssets": 11
+      },
+      "Mar 2023": {
+        "EquityCapital": 5,
+        "Reserves": 4,
+        "Borrowings": 13,
+        "OtherLiabilities": 4,
+        "TotalLiabilities": 26,
+        "FixedAssets": 5,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 21,
+        "TotalAssets": 26
+      },
+      "Mar 2024": {
+        "EquityCapital": 7,
+        "Reserves": 17,
+        "Borrowings": 19,
+        "OtherLiabilities": 12,
+        "TotalLiabilities": 55,
+        "FixedAssets": 6,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 49,
+        "TotalAssets": 55
+      },
+      "Sep 2024": {
+        "EquityCapital": 7,
+        "Reserves": 22,
+        "Borrowings": 20,
+        "OtherLiabilities": 5,
+        "TotalLiabilities": 54,
+        "FixedAssets": 7,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 47,
+        "TotalAssets": 54
+      }
+    },
+    "CashFlowSummaries": {
+      "Mar 2020": {
+        "CashFromOperatingActivity": -0,
+        "CashFromInvestingActivity": -2,
+        "CashFromFinancingActivity": 2,
+        "NetCashFlow": 0
+      },
+      "Mar 2021": {
+        "CashFromOperatingActivity": -1,
+        "CashFromInvestingActivity": -2,
+        "CashFromFinancingActivity": 3,
+        "NetCashFlow": -0
+      },
+      "Mar 2022": {
+        "CashFromOperatingActivity": -9,
+        "CashFromInvestingActivity": -1,
+        "CashFromFinancingActivity": 10,
+        "NetCashFlow": -0
+      },
+      "Mar 2023": {
+        "CashFromOperatingActivity": -11,
+        "CashFromInvestingActivity": -2,
+        "CashFromFinancingActivity": 12,
+        "NetCashFlow": -1
+      },
+      "Mar 2024": {
+        "CashFromOperatingActivity": -11,
+        "CashFromInvestingActivity": -2,
+        "CashFromFinancingActivity": 12,
+        "NetCashFlow": -1
+      }
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": "%",
+        "5Years": "%",
+        "3Years": "90%",
+        "TTM": "118%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": "%",
+        "5Years": "%",
+        "3Years": "172%",
+        "TTM": "128%"
+      },
+      "StockPriceCAGR": {
+        "10Years": "%",
+        "5Years": "%",
+        "3Years": "%",
+        "1Year": "43%"
+      }
+    },
+    "LiquidityRatios": "Information not explicitly available in provided HTML.",
+    "ProfitabilityRatios": {
+      "ROCE%": {
+        "Mar 2020": "15%",
+        "Mar 2021": "19%",
+        "Mar 2022": "34%",
+        "Mar 2023": "37%",
+        "Mar 2024": "37%"
+      },
+      "ROE": {
+        "10Years": "%",
+        "5Years": "%",
+        "3Years": "38%",
+        "LastYear": "42%"
+      }
+    },
+    "ValuationRatios": {
+      "PriceToBook": "Information not explicitly available, but mentioned as 7.21 times book value in Pros/Cons section.",
+      "MarketCap/Sales": "Information not explicitly available in a structured format."
+    },
+    "OtherRatios": {
+      "DebtorDays": {
+        "Mar 2020": 0,
+        "Mar 2021": 54,
+        "Mar 2022": 86,
+        "Mar 2023": 117,
+        "Mar 2024": 86
+      },
+      "InventoryDays": {
+        "Mar 2020": 146,
+        "Mar 2021": 41,
+        "Mar 2022": 49,
+        "Mar 2023": 121,
+        "Mar 2024": 186
+      },
+      "DaysPayable": {
+        "Mar 2020": 1022,
+        "Mar 2021": 78,
+        "Mar 2022": 57,
+        "Mar 2023": 36,
+        "Mar 2024": 51
+      },
+      "CashConversionCycle": {
+        "Mar 2020": -876,
+        "Mar 2021": 17,
+        "Mar 2022": 78,
+        "Mar 2023": 202,
+        "Mar 2024": 221
+      },
+      "WorkingCapitalDays": {
+        "Mar 2020": -154,
+        "Mar 2021": 24,
+        "Mar 2022": 66,
+        "Mar 2023": 172,
+        "Mar 2024": 174
+      }
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Varun Beverages", "CMP": 612.55, "PE": 81.50, "MarCap": 207131.87, "DivYld": 0.16, "NPQtr": 628.82, "QtrProfitVar": 23.66, "SalesQtr": 4804.68, "QtrSalesVar": 24.14, "ROCE": 28.82},
+      {"Name": "Hatsun Agro", "CMP": 1017.60, "PE": 74.46, "MarCap": 22666.86, "DivYld": 0.59, "NPQtr": 64.32, "QtrProfitVar": -17.08, "SalesQtr": 2072.10, "QtrSalesVar": 8.75, "ROCE": 13.19},
+      {"Name": "Bikaji Foods", "CMP": 770.15, "PE": 64.75, "MarCap": 19283.18, "DivYld": 0.13, "NPQtr": 72.08, "QtrProfitVar": 17.57, "SalesQtr": 713.25, "QtrSalesVar": 19.31, "ROCE": 29.65},
+      {"Name": "L T Foods", "CMP": 412.20, "PE": 23.80, "MarCap": 14313.77, "DivYld": 0.36, "NPQtr": 150.61, "QtrProfitVar": -4.86, "SalesQtr": 2107.79, "QtrSalesVar": 6.57, "ROCE": 21.09},
+      {"Name": "Zydus Wellness", "CMP": 1911.35, "PE": 38.73, "MarCap": 12162.33, "DivYld": 0.26, "NPQtr": 20.90, "QtrProfitVar": 166.10, "SalesQtr": 492.90, "QtrSalesVar": 12.05, "ROCE": 5.33},
+      {"Name": "Mrs Bectors", "CMP": 1638.75, "PE": 70.56, "MarCap": 10061.62, "DivYld": 0.20, "NPQtr": 38.94, "QtrProfitVar": 4.45, "SalesQtr": 496.29, "QtrSalesVar": 19.72, "ROCE": 25.35},
+      {"Name": "Avanti Feeds", "CMP": 622.35, "PE": 20.27, "MarCap": 8479.25, "DivYld": 1.08, "NPQtr": 121.47, "QtrProfitVar": 53.11, "SalesQtr": 1355.09, "QtrSalesVar": 5.99, "ROCE": 20.01}
+    ],
+    "Median": {
+      "CMP": 195.24,
+      "PE": 36.52,
+      "MarCap": 423.11,
+      "DivYld": 0.0,
+      "NPQtr": 6.17,
+      "QtrProfitVar": 17.57,
+      "SalesQtr": 105.92,
+      "QtrSalesVar": 9.47,
+      "ROCE": 15.36
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 38.4%"
+    ],
+    "Cons": [
+      "Stock is trading at 7.21 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Promoter holding has decreased over last quarter: -11.7%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPatternNotes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": [
+    {"Title": "Reply to Clarification- Financial results", "Date": "18 December 2024"},
+    {"Title": "Clarification - Financial Results", "Date": "7 December 2024"},
+    {"Title": "Product launch", "Date": "23 November 2024"},
+    {"Title": "Product launch", "Date": "23 November 2024"},
+    {"Title": "General Updates", "Date": "11 November 2024"},
+    {"Title": "Annual reports Financial Year 2024", "Source": "nse"},
+    {"Title": "Annual reports Financial Year 2023", "Source": "nse"}
+  ],
+  "Concalls": [
+    {"Month": "Jul", "Year": 2024, "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+    {"Month": "Jan", "Year": 2024, "Transcript": true, "Notes": true, "PPT": true}
+  ]
+}

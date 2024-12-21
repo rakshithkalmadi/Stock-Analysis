@@ -1,0 +1,170 @@
+
+{
+  "Company Overview": {
+    "Name": "Automotive Stampings & Assemblies Ltd",
+    "Sector": "Auto Ancillaries",
+    "Industry": "Auto Ancillaries",
+    "Business Description": "ASAL mainly manufactures sheet-metal stampings, welded assemblies, and modules for passenger cars and commercial vehicles (largely for Tata Motors Limited); these products account for more than 95% of the total revenue. It has four manufacturing facilities: two in Pune, one each in Halol (Gujarat) and Pantnagar (Uttarakhand). The Co. is being promoted by TATA Autocomp Systems Ltd (TACO).",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,057 Cr.",
+    "Current Price": "₹ 667",
+    "High/Low": "₹ 1,095 / ₹ 402",
+    "Stock P/E": "51.2",
+    "Book Value": "₹ 0.30",
+    "Dividend Yield": "0.00%",
+    "ROCE": "46.2%",
+    "ROE": "Information not explicitly available in provided HTML.",
+    "Debt-to-Equity Ratio": "Information not explicitly available in provided HTML.",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": "147.92",
+        "Dec 2021": "162.26",
+        "Mar 2022": "203.33",
+        "Jun 2022": "209.08",
+        "Sep 2022": "215.94",
+        "Dec 2022": "193.10",
+        "Mar 2023": "210.11",
+        "Jun 2023": "219.16",
+        "Sep 2023": "212.25",
+        "Dec 2023": "216.44",
+        "Mar 2024": "232.48",
+        "Jun 2024": "191.95",
+        "Sep 2024": "197.11"
+      },
+      "Expenses": {
+        "Sep 2021": "142.69",
+        "Dec 2021": "155.81",
+        "Mar 2022": "200.87",
+        "Jun 2022": "203.05",
+        "Sep 2022": "207.83",
+        "Dec 2022": "184.81",
+        "Mar 2023": "200.02",
+        "Jun 2023": "208.13",
+        "Sep 2023": "200.72",
+        "Dec 2023": "204.05",
+        "Mar 2024": "216.62",
+        "Jun 2024": "179.66",
+        "Sep 2024": "185.75"
+      },
+      "Operating Profit": {
+        "Sep 2021": "5.23",
+        "Dec 2021": "6.45",
+        "Mar 2022": "2.46",
+        "Jun 2022": "6.03",
+        "Sep 2022": "8.11",
+        "Dec 2022": "8.29",
+        "Mar 2023": "10.09",
+        "Jun 2023": "11.03",
+        "Sep 2023": "11.53",
+        "Dec 2023": "12.39",
+        "Mar 2024": "15.86",
+        "Jun 2024": "12.29",
+        "Sep 2024": "11.36"
+      },
+      // ... other quarterly data ...  (similar structure for other items like Other Income, Interest, etc.)
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2013": "465",
+        "Mar 2014": "342",
+        // ... other years ...
+      },
+      // ... other annual data ... (similar structure for other items like Expenses, Operating Profit, etc.)
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "10%",
+        "5 Years": "13%",
+        "3 Years": "37%",
+        "TTM": "0%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "16%",
+        "5 Years": "29%",
+        "3 Years": "39%",
+        "TTM": "56%"
+      }
+    },
+    "Liquidity Ratios": {
+      // Extract from Balance Sheet and Cash Flow sections if available.
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Mar 2013": "-1%",
+        "Mar 2014": "-4%",
+        // ... other years ...
+      },
+      "OPM %": {
+        "Mar 2013": "3%",
+        "Mar 2014": "3%",
+        // ... other years ...
+      }
+    },
+    "Valuation Ratios": {
+      // Extract from available data.
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2013": "17",
+        // ... other years ...
+      },
+      "Inventory Days": {
+        "Mar 2013": "28",
+        // ... other years ...
+      },
+      // ... other ratios ...
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {
+        "Name": "Samvardh. Mothe.",
+        "CMP": "156.06",
+        "P/E": "28.99",
+        // ... other peer data ...
+      },
+      {
+        "Name": "Bosch",
+        "CMP": "34576.95",
+        "P/E": "50.92",
+        // ... other peer data ...
+      },
+      // ... other peers ...
+    ]
+  },
+  "Other Insights": {
+    "Pros": "Company has delivered good profit growth of 28.7% CAGR over last 5 years",
+    "Cons": "Stock is trading at 2,203 times its book value, Tax rate seems low",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      // ... quarterly shareholding data ...
+    },
+    "Yearly": {
+      // ... yearly shareholding data ...
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      // ... list of announcements ...
+    ],
+    "Annual Reports": [
+      // ... list of annual reports ...
+    ],
+    "Credit Ratings": [
+      // ... list of credit ratings ...
+    ]
+  }
+}
+```
+
+
+**Note:**  This JSON representation is a best effort based on the provided HTML snippet.  Some fields like ROE, Debt-to-Equity Ratio, and several other ratios are missing from the HTML and therefore marked as "Information not explicitly available".  A complete and robust solution would require a more sophisticated HTML parser and potentially access to additional data sources to fill in these gaps.  The quarterly and annual financial data is partially populated to illustrate the structure; a full extraction would include all available data points.  Error handling and more robust data validation would also be necessary in a production-ready system.

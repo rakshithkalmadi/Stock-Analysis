@@ -1,0 +1,186 @@
+
+{
+  "Company Overview": {
+    "Name": "Shriram Pistons & Rings Ltd",
+    "Sector": "Auto Ancillaries",
+    "Industry": "Auto Ancillaries",
+    "Business Description": "Shriram Pistons & Rings Ltd is primarily engaged in the manufacturing of pistons, piston pins, piston rings and engine valves for various automotive companies in the domestic and export markets. SPRL is a leading manufacturer of Pistons, Piston Pins, Piston Rings, and Engine Valves in India, and belongs to the Shriram Group. Its products are marketed to renowned OEMs and in aftermarket under the brands SPR and USHA, catering to domestic and international markets.",
+    "Market Position": "Leading manufacturer of Pistons, Piston Pins, Piston Rings, and Engine Valves in India."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 9,051 Cr.",
+    "Current Price": "₹ 2,055",
+    "High/Low": "₹ 2,399 / ₹ 1,296",
+    "Stock P/E": 19.5,
+    "Book Value": "₹ 487",
+    "Dividend Yield": "0.49%",
+    "ROCE": "27.9%",
+    "ROE": "25.2%",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [533, 511, 587, 620, 652, 636, 701, 716, 752, 766, 856, 837, 876],
+      "Expenses": [446, 438, 503, 526, 537, 519, 566, 570, 594, 604, 679, 672, 699],
+      "Operating Profit": [86, 73, 85, 94, 115, 117, 135, 146, 158, 161, 177, 165, 178],
+      "OPM %": ["16%", "14%", "14%", "15%", "18%", "18%", "19%", "20%", "21%", "21%", "21%", "20%", "20%"],
+      "Other Income": [5, 7, 10, 7, 12, 12, 16, 19, 23, 19, 24, 26, 30],
+      "Interest": [3, 3, 2, 3, 5, 5, 6, 6, 7, 8, 9, 9, 9],
+      "Depreciation": [26, 26, 25, 24, 24, 23, 24, 23, 22, 29, 34, 30, 31],
+      "Profit before tax": [62, 51, 68, 73, 98, 100, 121, 136, 151, 143, 158, 154, 168],
+      "Tax %": ["25%", "26%", "26%", "26%", "25%", "25%", "25%", "26%", "25%", "25%", "26%", "24%", "25%"],
+      "Net Profit": [47, 38, 50, 55, 73, 75, 91, 101, 113, 108, 116, 117, 126],
+      "EPS in Rs": [10.44, 8.53, 11.45, 12.42, 16.59, 17.01, 20.67, 23.17, 25.80, 24.37, 27.15, 26.21, 28.32]
+    },
+    "Annual Results": {
+      "Sales": [1052, 1170, 1244, 1393, 1463, 1729, 1955, 1607, 1597, 2065, 2609, 3089, 3335],
+      "Expenses": [873, 940, 1054, 1161, 1207, 1436, 1660, 1425, 1381, 1760, 2149, 2447, 2653],
+      "Operating Profit": [180, 229, 190, 232, 255, 293, 295, 182, 216, 304, 460, 642, 682],
+      "OPM %": ["17%", "20%", "15%", "17%", "17%", "17%", "15%", "11%", "14%", "15%", "18%", "21%", "20%"],
+      "Other Income": [10, 10, 17, 18, 26, 24, 22, 20, 19, 29, 47, 85, 100],
+      "Interest": [32, 38, 32, 26, 20, 16, 14, 12, 13, 11, 19, 30, 36],
+      "Depreciation": [88, 101, 96, 93, 90, 90, 94, 103, 103, 102, 95, 108, 123],
+      "Profit before tax": [70, 101, 79, 131, 171, 211, 209, 86, 120, 220, 393, 589, 623],
+      "Tax %": ["30%", "31%", "28%", "30%", "31%", "34%", "34%", "15%", "26%", "26%", "25%", "26%", "26%"],
+      "Net Profit": [49, 70, 57, 92, 118, 139, 138, 73, 89, 164, 294, 439, 467],
+      "EPS in Rs": [10.95, 15.58, 12.82, 20.50, 26.42, 31.07, 30.97, 16.34, 19.85, 37.18, 66.70, 100.47, 106.05]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "10%",
+        "5 Years": "10%",
+        "3 Years": "25%",
+        "TTM": "19%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "20%",
+        "5 Years": "26%",
+        "3 Years": "70%",
+        "TTM": "22%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null, 
+        "5 Years": "42%",
+        "3 Years": "69%",
+        "1 Year": "61%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [54, 56, 63, 58, 59, 68, 66, 54, 74, 63, 55, 56],
+      "Inventory Days": [185, 197, 196, 175, 213, 190, 184, 182, 175, 155, 113, 114],
+      "Days Payable": [132, 149, 129, 157, 185, 178, 144, 144, 184, 142, 97, 104],
+      "Cash Conversion Cycle": [108, 104, 130, 75, 87, 80, 107, 92, 65, 75, 71, 66],
+      "Working Capital Days": [63, 40, 50, 41, 47, 50, 64, 55, 62, 61, 49, 51]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["12%", "15%", "12%", "16%", "19%", "21%", "20%", "8%", "11%", "17%", "24%", "28%"],
+      "Return on Equity": {
+        "10 Years": "15%",
+        "5 Years": "16%",
+        "3 Years": "21%",
+        "Last Year": "25%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": null 
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Samvardh. Mothe.", "CMP": 156.06, "P/E": 28.99, "Mar Cap": 109808.42, "Div Yld": 0.51, "NP Qtr": 948.81, "Qtr Profit Var": 218.76, "Sales Qtr": 27811.86, "Qtr Sales Var": 18.48, "ROCE": 13.68},
+      {"Name": "Bosch", "CMP": 34576.95, "P/E": 50.92, "Mar Cap": 101980.01, "Div Yld": 1.08, "NP Qtr": 535.90, "Qtr Profit Var": 23.94, "Sales Qtr": 4394.30, "Qtr Sales Var": 6.40, "ROCE": 20.61},
+      {"Name": "Uno Minda", "CMP": 1052.00, "P/E": 66.95, "Mar Cap": 60402.04, "Div Yld": 0.19, "NP Qtr": 266.16, "Qtr Profit Var": 6.33, "Sales Qtr": 4244.79, "Qtr Sales Var": 17.22, "ROCE": 19.94},
+      {"Name": "Sona BLW Precis.", "CMP": 588.45, "P/E": 63.67, "Mar Cap": 36568.37, "Div Yld": 0.52, "NP Qtr": 143.58, "Qtr Profit Var": 18.35, "Sales Qtr": 922.19, "Qtr Sales Var": 17.11, "ROCE": 24.02},
+      {"Name": "Exide Inds.", "CMP": 426.30, "P/E": 43.33, "Mar Cap": 36235.50, "Div Yld": 0.47, "NP Qtr": 233.40, "Qtr Profit Var": -14.15, "Sales Qtr": 4450.00, "Qtr Sales Var": 1.80, "ROCE": 10.15},
+      {"Name": "Endurance Tech.", "CMP": 2208.10, "P/E": 40.38, "Mar Cap": 31059.76, "Div Yld": 0.38, "NP Qtr": 202.98, "Qtr Profit Var": 31.33, "Sales Qtr": 2912.66, "Qtr Sales Var": 14.45, "ROCE": 16.60},
+      {"Name": "Motherson Wiring", "CMP": 59.94, "P/E": 40.14, "Mar Cap": 26500.12, "Div Yld": 1.33, "NP Qtr": 152.08, "Qtr Profit Var": -2.44, "Sales Qtr": 2325.64, "Qtr Sales Var": 10.26, "ROCE": 47.96}
+    ],
+    "Median": {
+      "CMP": 504.52,
+      "P/E": 31.33,
+      "Mar Cap": 1299.92,
+      "Div Yld": 0.29,
+      "NP Qtr": 9.54,
+      "Qtr Profit Var": 11.39,
+      "Sales Qtr": 213.02,
+      "Qtr Sales Var": 4.68,
+      "ROCE": 15.14
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has delivered good profit growth of 25.7% CAGR over last 5 years",
+    "Cons": "Promoter holding has decreased over last quarter: -3.00%",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [46.75, 46.75, 46.75, 46.75, 46.75, 46.75, 46.75, 46.75, 46.75, 46.75, 46.75, 43.75],
+      "FIIs": [0, 0, 0, 0, 0, 0, 0.03, 0.08, 1.07, 1.35, 1.99, 4.27],
+      "DIIs": [10.28, 10.28, 10.28, 10.17, 10.11, 10.05, 9.59, 9.29, 13.07, 12.55, 11.80, 12.74],
+      "Public": [42.97, 42.97, 42.97, 43.08, 43.14, 43.20, 43.63, 43.88, 39.11, 39.35, 39.46, 39.24]
+    },
+    "Yearly": {
+      "Promoters": [47.78, 47.61, 47.35, 47.35, 47.31, 46.75, 46.75, 46.75, 43.75],
+      "FIIs": [0, 0, 0, 0, 0, 0, 0, 1.35, 4.27],
+      "DIIs": [10.36, 10.36, 10.36, 10.36, 10.36, 10.28, 10.05, 12.55, 12.74],
+      "Public": [41.86, 42.04, 42.28, 42.28, 42.33, 42.97, 43.20, 39.35, 39.24]
+    }
+  },
+  "Cash Flows": {
+    "Cash from Operating Activity": [153, 180, 129, 255, 183, 175, 157, 297, 190, 219, 395, 487],
+    "Cash from Investing Activity": [-197, -65, -45, -67, -55, -65, -157, -214, -10, -56, -476, -422],
+    "Cash from Financing Activity": [68, -101, -111, -113, -89, -88, -61, -111, -28, -91, 93, -42],
+    "Net Cash Flow": [24, 14, -27, 75, 39, 21, -62, -28, 152, 72, 12, 23]
+  },
+  "Balance Sheet": {
+    "Equity Capital": [22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 22, 44, 44],
+    "Reserves": [478, 538, 585, 673, 772, 891, 1004, 1048, 1126, 1233, 1505, 1882, 2101],
+    "Borrowings": [431, 381, 310, 289, 226, 179, 97, 135, 146, 157, 333, 487, 506],
+    "Other Liabilities": [248, 253, 272, 308, 334, 398, 445, 352, 409, 438, 551, 723, 740],
+    "Total Liabilities": [1179, 1194, 1189, 1292, 1354, 1491, 1568, 1558, 1704, 1850, 2412, 3136, 3391],
+    "Fixed Assets": [725, 713, 667, 597, 577, 555, 613, 741, 703, 689, 772, 934, 954],
+    "CWIP": [24, 9, 4, 6, 9, 11, 17, 19, 8, 6, 5, 31, 20],
+    "Investments": [0, 0, 0, 18, 8, 20, 6, 61, 34, 32, 72, 115, 151],
+    "Other Assets": [430, 472, 518, 672, 760, 904, 934, 737, 959, 1124, 1563, 2056, 2266],
+    "Total Assets": [1179, 1194, 1189, 1292, 1354, 1491, 1568, 1558, 1704, 1850, 2412, 3136, 3391]
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "18 December 2024", "Title": "Shriram Pistons & Rings Limited has informed about Link of Recording"},
+      {"Date": "13 December 2024", "Title": "Shriram Pistons & Rings Limited has informed about Schedule of meet"},
+      {"Date": "11 December 2024", "Title": "Shriram Pistons & Rings Limited has informed regarding Acquisition"},
+      {"Date": "10 December 2024", "Title": "Shriram Pistons & Rings Limited has informed about SPR Engenious Limited ( SEL ) wholly owned subsidiary of Shriram Pistons & Rings Limited ( SPRL …"},
+      {"Date": "10 December 2024", "Title": "Shriram Pistons & Rings Limited has informed about SPR Engenious Limited ( SEL ) wholly owned subsidiary of Shriram Pistons & Rings Limited ( SPRL …"}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "nse"},
+      {"Year": 2023, "Source": "nse"},
+      {"Year": 2022, "Source": "nse"},
+      {"Year": 2021, "Source": "nse"},
+      {"Year": 2020, "Source": "nse"},
+      {"Year": 2019, "Source": "nse"},
+      {"Year": 2018, "Source": "nse"},
+      {"Year": 2017, "Source": "nse"},
+      {"Year": 2016, "Source": "nse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "19 Mar", "Source": "fitch"},
+      {"Date": "20 Sep 2023", "Source": "fitch"},
+      {"Date": "21 Sep 2022", "Source": "fitch"},
+      {"Date": "13 Jul 2022", "Source": "fitch"},
+      {"Date": "16 Jul 2021", "Source": "fitch"},
+      {"Date": "21 Jul 2020", "Source": "fitch"}
+    ],
+    "Concalls": [
+      {"Month": "Nov 2024", "Transcript": null, "Notes": null, "PPT": null},
+      {"Month": "Oct 2024", "Transcript": null, "Notes": null, "PPT": null},
+      {"Month": "Aug 2024", "Transcript": null, "Notes": null, "PPT": null},
+      {"Month": "May 2024", "Transcript": null, "Notes": null, "PPT": null},
+      {"Month": "Apr 2024", "Transcript": null, "Notes": null, "PPT": null},
+      {"Month": "Apr 2024", "Transcript": null, "Notes": null, "PPT": null}
+    ]
+  }
+}

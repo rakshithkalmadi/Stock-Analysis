@@ -1,0 +1,167 @@
+
+{
+  "Company Overview": {
+    "Name": "Bajaj Consumer Care Ltd",
+    "Sector": "FMCG",
+    "Industry": "Personal Care - Indian",
+    "Business Description": "Bajaj Consumer Care is engaged in the business of cosmetics, toiletries and other personal care products. The Company has presence in both domestic and international markets.",
+    "Market Position": "Part of Nifty Microcap 250, BSE SmallCap, BSE Allcap, Nifty Total Market, BSE Fast Moving Consumer Goods"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,892 Cr.",
+    "Current Price": "₹ 203",
+    "High/Low": "₹ 289 / ₹ 200",
+    "Stock P/E": 20.5,
+    "Book Value": "₹ 48.5",
+    "Dividend Yield": "1.48 %",
+    "ROCE": "22.8 %",
+    "ROE": "18.8 %",
+    "Face Value": "₹ 1.00"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data needs to be extracted from tables in the HTML.  This example shows the structure, but the actual data is missing."
+    },
+    "Quarterly Results": {
+      "Sales": [216, 229, 218, 249, 232, 230, 249, 270, 235, 239, 240, 246, 234],
+      "Expenses": [168, 190, 184, 213, 202, 197, 208, 222, 198, 203, 205, 209, 201],
+      "Operating Profit": [48, 39, 35, 36, 31, 32, 42, 48, 37, 36, 35, 37, 33],
+      "OPM %": ["22%", "17%", "16%", "15%", "13%", "14%", "17%", "18%", "16%", "15%", "14%", "15%", "14%"],
+      "Other Income": [10, 10, 11, 7, 10, 10, 10, 11, 11, 11, 12, 11, 9],
+      "Interest": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 2, 3],
+      "Profit before tax": [56, 47, 44, 41, 38, 40, 49, 56, 45, 44, 44, 45, 39],
+      "Tax %": ["18%", "18%", "18%", "17%", "17%", "18%", "18%", "17%", "18%", "18%", "18%", "18%", "18%"],
+      "Net Profit": [47, 38, 36, 34, 32, 33, 40, 46, 37, 36, 36, 37, 32],
+      "EPS in Rs": [3.15, 2.60, 2.43, 2.30, 2.15, 2.25, 2.80, 3.24, 2.61, 2.55, 2.49, 2.60, 2.23]
+    },
+    "Annual Results": {
+      "Note": "Data needs to be extracted from tables in the HTML. This example shows the structure, but the actual data is missing."
+    },
+    "Balance Sheet Highlights": {
+      "Note": "Data needs to be extracted from tables in the HTML. This example shows the structure, but the actual data is missing."
+    },
+    "Cash Flow Summaries": {
+      "Note": "Data needs to be extracted from tables in the HTML. This example shows the structure, but the actual data is missing."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "4%",
+      "Compounded Sales Growth (5 Years)": "1%",
+      "Compounded Sales Growth (3 Years)": "2%",
+      "Compounded Sales Growth (TTM)": "-3%",
+      "Compounded Profit Growth (10 Years)": "-1%",
+      "Compounded Profit Growth (5 Years)": "-8%",
+      "Compounded Profit Growth (3 Years)": "-12%",
+      "Compounded Profit Growth (TTM)": "-10%",
+      "Stock Price CAGR (10 Years)": "-5%",
+      "Stock Price CAGR (5 Years)": "-3%",
+      "Stock Price CAGR (3 Years)": "1%",
+      "Stock Price CAGR (1 Year)": "-6%"
+    },
+    "Liquidity Ratios": {
+      "Note": "Data needs to be extracted from tables in the HTML. This example shows the structure, but the actual data is missing."
+    },
+    "Profitability Ratios": {
+      "Return on Equity (10 Years)": "32%",
+      "Return on Equity (5 Years)": "24%",
+      "Return on Equity (3 Years)": "19%",
+      "Return on Equity (Last Year)": "19%",
+      "ROCE %": [44, 43, 52, 60, 57, 53, 58, 39, 38, 26, 21, 23]
+    },
+    "Valuation Ratios": {
+      "Note": "Data needs to be extracted from tables in the HTML. This example shows the structure, but the actual data is missing."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Godrej Consumer", "CMP": 1069.60, "P/E": 60.51, "Mar Cap": 109420.92, "Div Yld": 1.40, "NP Qtr": 491.31, "Qtr Profit Var": 12.18, "Sales Qtr": 3666.33, "Qtr Sales Var": 1.79, "ROCE": 19.02},
+      {"Name": "Dabur India", "CMP": 502.55, "P/E": 50.62, "Mar Cap": 89067.69, "Div Yld": 1.09, "NP Qtr": 417.52, "Qtr Profit Var": -17.66, "Sales Qtr": 3028.59, "Qtr Sales Var": -5.47, "ROCE": 22.28},
+      {"Name": "Emami", "CMP": 590.85, "P/E": 33.40, "Mar Cap": 25790.60, "Div Yld": 1.35, "NP Qtr": 210.99, "Qtr Profit Var": 18.20, "Sales Qtr": 890.59, "Qtr Sales Var": 2.97, "ROCE": 31.72},
+      {"Name": "Jyothy Labs", "CMP": 375.90, "P/E": 36.74, "Mar Cap": 13803.37, "Div Yld": 0.93, "NP Qtr": 105.02, "Qtr Profit Var": 0.97, "Sales Qtr": 733.76, "Qtr Sales Var": 0.19, "ROCE": 26.99},
+      {"Name": "Bajaj Consumer", "CMP": 202.51, "P/E": 20.52, "Mar Cap": 2891.72, "Div Yld": 1.48, "NP Qtr": 31.85, "Qtr Profit Var": -14.57, "Sales Qtr": 233.98, "Qtr Sales Var": -0.37, "ROCE": 22.79},
+      {"Name": "Yash Optics", "CMP": 85.00, "P/E": 22.68, "Mar Cap": 210.51, "Div Yld": 0.00, "NP Qtr": 4.55, "Qtr Profit Var": 19.50, "Sales Qtr": 4.39, "Qtr Sales Var": 32.52, "ROCE": 19.68},
+      {"Name": "JHS Sven.Lab.", "CMP": 21.48, "P/E": 183.88, "Mar Cap": 0.00, "Div Yld": -10.32, "NP Qtr": -1313.70, "Qtr Profit Var": 19.68, "Sales Qtr": 3.96, "Qtr Sales Var": -1.69, "ROCE": 19.68}
+    ],
+    "Median": {
+      "CMP": 375.9,
+      "P/E": 35.07,
+      "Mar Cap": 13803.37,
+      "Div Yld": 1.09,
+      "NP Qtr": 105.02,
+      "Qtr Profit Var": -6.8,
+      "Sales Qtr": 733.76,
+      "Qtr Sales Var": 1.79,
+      "ROCE": 22.79
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has been maintaining a healthy dividend payout of 49.4%",
+      "Promoter holding has increased by 1.65% over last quarter."
+    ],
+    "Cons": [
+      "The company has delivered a poor sales growth of 1.39% over past five years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [38.04, 38.04, 38.04, 38.04, 38.04, 39.16, 39.35, 39.35, 39.35, 39.30, 39.30, 40.95],
+      "FIIs": [18.83, 17.55, 14.82, 12.08, 11.31, 11.71, 12.75, 14.76, 14.41, 14.10, 14.15, 10.85],
+      "DIIs": [14.67, 12.62, 12.92, 17.46, 18.62, 19.47, 16.97, 17.42, 17.17, 17.47, 17.50, 20.71],
+      "Public": [28.46, 31.79, 34.22, 32.43, 32.03, 29.66, 30.95, 28.47, 29.06, 29.12, 29.05, 27.49]
+    },
+    "Yearly": {
+      "Promoters": [66.86, 66.86, 60.02, 38.04, 38.04, 38.04, 39.16, 39.30, 40.95],
+      "FIIs": [22.87, 25.12, 24.17, 28.09, 22.55, 17.55, 11.71, 14.10, 10.85],
+      "DIIs": [5.43, 4.63, 8.85, 21.52, 17.74, 12.62, 19.47, 17.47, 20.71],
+      "Public": [4.84, 3.39, 6.96, 12.35, 21.67, 31.79, 29.66, 29.12, 27.49]
+    },
+    "No. of Shareholders": [157324, 171929, 182277, 181148, 176418, 163359, 155457, 139194, 140511, 137158, 144641, 136161]
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "19 Nov", "Title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript", "Description": "Transcript of earning all held on November 12, 2024."},
+      {"Date": "12 Nov", "Title": "Audio Recording Of Earnings Conference Call Held On Tuesday, November 12, 2024", "Description": "Audio recording of Q2 earnings conference call available."},
+      {"Date": "12 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Description": "Newspaper publication for publication of unaudited consolidated financial results for the quarter and half year ended September 30, 2024"},
+      {"Date": "12 Nov", "Title": "Group Investor Meet", "Description": "Company will not participate in investor conference."},
+      {"Date": "11 Nov", "Title": "Investor Presentation For The Quarter Ended September 30 2024", "Description": "Investor presentation for Q2 FY25 performance."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "nse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "nse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "29 Aug", "Agency": "crisil"},
+      {"Date": "12 Sep 2023", "Agency": "crisil"},
+      {"Date": "19 Sep 2022", "Agency": "crisil"},
+      {"Date": "30 Oct 2021", "Agency": "crisil"},
+      {"Date": "28 Oct 2020", "Agency": "crisil"},
+      {"Date": "26 Nov 2019", "Agency": "crisil"}
+    ],
+    "Concalls": {
+      "Note": "A large number of concall details are present in the HTML.  This is a simplified representation."
+    }
+  }
+}
+```
+
+**Note:**  This JSON object provides a structured representation of the extracted data.  Many data points within the "Performance Trends", "Ratios", and "Peer Comparison" sections require further parsing of tables from the provided HTML.  The structure is provided to show how the data would be organized; the actual numerical values need to be extracted using appropriate HTML parsing techniques.  Libraries like Beautiful Soup in Python could be used for this task.

@@ -1,0 +1,171 @@
+
+{
+  "Company Overview": {
+    "Name": "Honasa Consumer Ltd",
+    "Sector": "Trading",
+    "Industry": "Trading",
+    "Business Description": "Incorporated in 2016, Honasa Consumer Limited (HCL) provides beauty and personal care products through its digital platform.",
+    "Market Position": "India's largest digital-first beauty and personal care (BPC) company by revenue in FY24. Mamaearth ranks as the third-largest skincare brand in India as of CY23 (according to Euromonitor)."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 8,436 Cr.",
+    "Current Price": "₹ 260",
+    "High/Low": "₹ 547 / ₹ 222",
+    "Stock P/E": 112,
+    "Book Value": "₹ 35.5",
+    "Dividend Yield": "0.00%",
+    "ROCE": "17.1%",
+    "ROE": null, 
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [387, 355, 360, 426, 460, 451, 427, 498, 417],
+      "Expenses": [356, 336, 357, 395, 415, 417, 398, 460, 447],
+      "Operating Profit": [30, 19, 4, 31, 46, 34, 29, 38, -30],
+      "OPM %": [8, 5, 1, 7, 10, 8, 7, 8, -7],
+      "Other Income": [5, 5, -146, 11, 8, 11, 18, 18, 19],
+      "Interest": [2, 1, 1, 1, 1, 2, 3, 3, 3],
+      "Depreciation": [4, 4, 5, 5, 5, 6, 8, 7, 8],
+      "Profit before tax": [30, 19, -148, 37, 48, 37, 37, 47, -21],
+      "Tax %": [26, 21, 2, 25, 21, 22, 27, 25, -29],
+      "Net Profit": [22, 15, -151, 28, 38, 29, 27, 35, -15],
+      "EPS in Rs": [1.62, 1.11, -11.11, 2.03, 2.77, 0.90, 0.82, 1.07, -0.46]
+    },
+    "Annual Results": {
+      "Sales": [17, 110, 460, 932, 1395, 1764, 1794],
+      "Expenses": [21, 541, 1794, 916, 1350, 1634, 1722],
+      "Operating Profit": [-4, -432, -1334, 16, 45, 130, 72],
+      "OPM %": [-26, -393, -290, 2, 3, 7, 4],
+      "Other Income": [1, 4, 12, 21, -132, 58, 67],
+      "Interest": [0, 0, 1, 3, 5, 7, 10],
+      "Depreciation": [0, 1, 2, 6, 15, 23, 29],
+      "Profit before tax": [-4, -428, -1325, 28, -107, 158, 99],
+      "Tax %": [0, 0, 1, 29, 12, 24, null],
+      "Net Profit": [-4, -428, -1332, 20, -121, 121, 75],
+      "EPS in Rs": [-3431.37, -419637.25, -1306098.04, 19291.26, -8.84, 3.73, 2.33]
+    },
+    "Compounded Growth": {
+      "Sales Growth": {
+        "10 Years": null,
+        "5 Years": "154%",
+        "3 Years": "57%",
+        "TTM": "12%"
+      },
+      "Profit Growth": {
+        "10 Years": null,
+        "5 Years": "97%",
+        "3 Years": "28%",
+        "TTM": "-3%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": "-39%"
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE %": [-461, -725, 7, 7, 17, null],
+    "Debtor Days": [57, 35, 27, 25, 30, 30],
+    "Inventory Days": [86, 136, 115, 83, 95, 84],
+    "Days Payable": [231, 217, 221, 210, 152, 184],
+    "Cash Conversion Cycle": [-88, -46, -79, -102, -27, -70],
+    "Working Capital Days": [5, 14, 0, -11, 15, -6]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Adani Enterp.", "CMP": 2344.95, "P/E": 47.95, "Mar Cap": 270649.61, "Div Yld": 0.06, "NP Qtr": 1989.19, "Qtr Profit Var": 577.60, "Sales Qtr": 22608.07, "Qtr Sales Var": 15.66, "ROCE": 9.87},
+      {"Name": "Vishal Mega Mart", "CMP": 101.19, "P/E": 100.64, "Mar Cap": 45623.73, "Div Yld": 0.00, "NP Qtr": 254.14, "Qtr Profit Var": 5032.51, "Sales Qtr": 19.27, "Qtr Sales Var": 11.36, "ROCE": null},
+      {"Name": "Aegis Logistics", "CMP": 825.80, "P/E": 49.64, "Mar Cap": 28985.58, "Div Yld": 0.79, "NP Qtr": 152.02, "Qtr Profit Var": -0.80, "Sales Qtr": 1750.42, "Qtr Sales Var": 41.75, "ROCE": 14.74},
+      {"Name": "Cello World", "CMP": 775.65, "P/E": 50.71, "Mar Cap": 17132.95, "Div Yld": 0.19, "NP Qtr": 86.78, "Qtr Profit Var": 2.06, "Sales Qtr": 490.06, "Qtr Sales Var": 0.22, "ROCE": 36.28},
+      {"Name": "Redington", "CMP": 205.68, "P/E": 13.81, "Mar Cap": 16079.54, "Div Yld": 3.01, "NP Qtr": 282.88, "Qtr Profit Var": -6.78, "Sales Qtr": 24895.56, "Qtr Sales Var": 12.04, "ROCE": 19.46},
+      {"Name": "MMTC", "CMP": 74.30, "P/E": 52.62, "Mar Cap": 11145.00, "Div Yld": 0.00, "NP Qtr": 48.05, "Qtr Profit Var": -58.86, "Sales Qtr": 1.56, "Qtr Sales Var": 100.74, "ROCE": 9.23},
+      {"Name": "Honasa Consumer", "CMP": 259.70, "P/E": 111.75, "Mar Cap": 8435.68, "Div Yld": 0.00, "NP Qtr": -14.92, "Qtr Profit Var": -139.53, "Sales Qtr": 417.48, "Qtr Sales Var": -9.28, "ROCE": 17.10}
+    ],
+    "Median": {
+      "CMP": 166,
+      "P/E": 126.3,
+      "Mar Cap": 37.07,
+      "Div Yld": 0.0,
+      "NP Qtr": 2.61,
+      "Qtr Profit Var": 59.15,
+      "Sales Qtr": 44.64,
+      "Qtr Sales Var": 28.95,
+      "ROCE": 9.64
+    }
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Dec 2023": {
+        "Promoters": "35.34%",
+        "FIIs": "10.12%",
+        "DIIs": "17.58%",
+        "Public": "36.96%"
+      },
+      "Mar 2024": {
+        "Promoters": "35.07%",
+        "FIIs": "12.22%",
+        "DIIs": "15.91%",
+        "Public": "36.80%"
+      },
+      "Jun 2024": {
+        "Promoters": "35.07%",
+        "FIIs": "13.95%",
+        "DIIs": "17.36%",
+        "Public": "33.62%"
+      },
+      "Sep 2024": {
+        "Promoters": "34.98%",
+        "FIIs": "19.31%",
+        "DIIs": "17.49%",
+        "Public": "28.23%"
+      }
+    },
+    "Yearly": {
+      "Mar 2024": {
+        "Promoters": "35.07%",
+        "FIIs": "12.22%",
+        "DIIs": "15.91%",
+        "Public": "36.80%"
+      },
+      "Sep 2024": {
+        "Promoters": "34.98%",
+        "FIIs": "19.31%",
+        "DIIs": "17.49%",
+        "Public": "28.23%"
+      }
+    },
+    "Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company has delivered good profit growth of 96.7% CAGR over last 5 years"
+    ],
+    "Cons": [
+      "Stock is trading at 7.32 times its book value",
+      "Promoter holding is low: 35.0%",
+      "Earnings include an other income of Rs.67.0 Cr."
+    ],
+    "Notes": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Indices": [
+    "Nifty 500",
+    "Multicap 50:25:25",
+    "BSE SmallCap",
+    "BSE Allcap",
+    "BSE 400 MidSmallCap Index",
+    "Nifty Smallcap 250",
+    "Nifty MidSmallcap 400",
+    "BSE 250 SmallCap Index",
+    "Nifty Total Market",
+    "BSE 500",
+    "BSE Fast Moving Consumer Goods"
+  ],
+  "Website": "honasa.in",
+  "BSE": "544014",
+  "NSE": "HONASA"
+}

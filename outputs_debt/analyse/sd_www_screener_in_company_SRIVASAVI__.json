@@ -1,0 +1,226 @@
+
+{
+  "Company Overview": {
+    "Name": "Srivasavi Adhesive Tapes Ltd",
+    "Sector": "Packaging",
+    "Industry": "Packaging",
+    "Business Description": "Incorporated in 2002, Srivasavi Adhesive Tapes Ltd manufactures Adhesive Tapes. Company is an ISO 9001:2015 certified company by TUV Nord and engaged in manufacturing/coating, converting and Die cuts of industrial Specialty self-adhesive tapes. It does customized die cutting of Films, Foams and allied products catering to various industries.",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 149 Cr.",
+    "Current Price": "₹ 105",
+    "High / Low": "₹ 168 / ₹ 93.5",
+    "Stock P/E": "22.2",
+    "Book Value": "₹ 26.9",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "21.6 %",
+    "ROE": "16.4 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly available in provided HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Mar 2022": "30.69",
+        "Sep 2022": "30.57",
+        "Mar 2023": "28.61",
+        "Sep 2023": "40.07",
+        "Mar 2024": "37.26",
+        "Sep 2024": "40.15"
+      },
+      "Net Profit": {
+        "Mar 2022": "2.26",
+        "Sep 2022": "1.81",
+        "Mar 2023": "1.81",
+        "Sep 2023": "2.75",
+        "Mar 2024": "2.39",
+        "Sep 2024": "4.31"
+      },
+      "EPS": {
+          "Mar 2022": "18.12",
+          "Sep 2022": "1.74",
+          "Mar 2023": "1.28",
+          "Sep 2023": "1.94",
+          "Mar 2024": "1.69",
+          "Sep 2024": "3.04"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2014": "13.81",
+        "Mar 2015": "17.06",
+        "Mar 2020": "46.00",
+        "Mar 2021": "55.21",
+        "Mar 2022": "63.44",
+        "Mar 2023": "59.18",
+        "Mar 2024": "77.33",
+        "TTM": "77.41"
+      },
+      "Net Profit": {
+        "Mar 2014": "0.20",
+        "Mar 2015": "0.24",
+        "Mar 2020": "1.21",
+        "Mar 2021": "1.93",
+        "Mar 2022": "3.62",
+        "Mar 2023": "3.62",
+        "Mar 2024": "5.15",
+        "TTM": "6.70"
+      },
+      "EPS": {
+          "Mar 2014": "2.11",
+          "Mar 2015": "2.53",
+          "Mar 2020": "9.70",
+          "Mar 2021": "15.47",
+          "Mar 2022": "29.02",
+          "Mar 2023": "2.55",
+          "Mar 2024": "3.63",
+          "TTM": "4.73"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "19%",
+        "5 Years": null,
+        "3 Years": "12%",
+        "TTM": "13%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "38%",
+        "5 Years": null,
+        "3 Years": "38%",
+        "TTM": "47%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": "-27%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Current Ratio": "Information not explicitly available in provided HTML."
+    },
+    "Profitability Ratios": {
+      "OPM": {
+        "Mar 2022": "13.03%",
+        "Sep 2022": "8.73%",
+        "Mar 2023": "10.45%",
+        "Sep 2023": "10.43%",
+        "Mar 2024": "9.61%",
+        "Sep 2024": "12.65%"
+      },
+      "ROE": {
+        "Last Year": "16%",
+        "3 Years": "21%"
+      },
+      "ROCE": {
+        "Last Year": "21.57%",
+        "3 Years": "21%"
+      }
+    },
+    "Valuation Ratios": {
+      "P/E": "22.2",
+      "Price to Book": "Information not explicitly available but can be calculated from available data."
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2014": "90.13",
+        "Mar 2015": "86.44",
+        "Mar 2020": "74.27",
+        "Mar 2021": "69.02",
+        "Mar 2022": "57.99",
+        "Mar 2023": "76.91",
+        "Mar 2024": "77.93"
+      },
+      "Inventory Days": {
+        "Mar 2014": "53.48",
+        "Mar 2015": "47.53",
+        "Mar 2020": "45.65",
+        "Mar 2021": "28.52",
+        "Mar 2022": "63.08",
+        "Mar 2023": "84.54",
+        "Mar 2024": "87.75"
+      },
+      "Days Payable": {
+        "Mar 2014": "50.04",
+        "Mar 2015": "58.04",
+        "Mar 2020": "78.74",
+        "Mar 2021": "80.75",
+        "Mar 2022": "67.21",
+        "Mar 2023": "76.94",
+        "Mar 2024": "71.85"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2014": "93.57",
+        "Mar 2015": "75.93",
+        "Mar 2020": "41.18",
+        "Mar 2021": "16.79",
+        "Mar 2022": "53.87",
+        "Mar 2023": "84.51",
+        "Mar 2024": "93.82"
+      },
+      "Working Capital Days": {
+        "Mar 2014": "92.51",
+        "Mar 2015": "75.52",
+        "Mar 2020": "43.88",
+        "Mar 2021": "22.21",
+        "Mar 2022": "48.33",
+        "Mar 2023": "77.65",
+        "Mar 2024": "91.38"
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Garware Hi Tech", "CMP": "5001.15", "P/E": "37.93", "Mar Cap": "11618.87", "Div Yld": "0.20", "NP Qtr": "104.26", "Qtr Profit Var": "127.10", "Sales Qtr": "620.58", "Qtr Sales Var": "56.27", "ROCE": "13.96"},
+      {"Name": "Inox India", "CMP": "1092.40", "P/E": "50.90", "Mar Cap": "9915.00", "Div Yld": "0.00", "NP Qtr": "49.49", "Qtr Profit Var": "7.01", "Sales Qtr": "306.56", "Qtr Sales Var": "18.98", "ROCE": "43.06"},
+      {"Name": "EPL Ltd", "CMP": "265.25", "P/E": "29.22", "Mar Cap": "8453.10", "Div Yld": "1.68", "NP Qtr": "88.30", "Qtr Profit Var": "72.28", "Sales Qtr": "1086.20", "Qtr Sales Var": "8.45", "ROCE": "15.09"},
+      {"Name": "AGI Greenpac", "CMP": "1239.95", "P/E": "30.04", "Mar Cap": "8022.15", "Div Yld": "0.48", "NP Qtr": "72.08", "Qtr Profit Var": "28.39", "Sales Qtr": "599.18", "Qtr Sales Var": "-2.55", "ROCE": "17.73"},
+      {"Name": "Polyplex Corpn", "CMP": "1298.90", "P/E": "26.42", "Mar Cap": "4077.57", "Div Yld": "0.69", "NP Qtr": "164.11", "Qtr Profit Var": "214.39", "Sales Qtr": "1738.86", "Qtr Sales Var": "10.61", "ROCE": "1.81"},
+      {"Name": "Uflex", "CMP": "532.65", "P/E": "25.12", "Mar Cap": "3846.34", "Div Yld": "0.19", "NP Qtr": "-64.58", "Qtr Profit Var": "-108.72", "Sales Qtr": "3833.38", "Qtr Sales Var": "13.77", "ROCE": "6.50"},
+      {"Name": "XPRO India", "CMP": "1542.70", "P/E": "70.56", "Mar Cap": "3428.71", "Div Yld": "0.13", "NP Qtr": "9.94", "Qtr Profit Var": "4.85", "Sales Qtr": "133.98", "Qtr Sales Var": "21.83", "ROCE": "15.41"}
+    ],
+    "Median": {
+      "CMP": "164.82",
+      "P/E": "28.2",
+      "Mar Cap": "303.43",
+      "Div Yld": "0.05",
+      "NP Qtr": "4.13",
+      "Qtr Profit Var": "15.93",
+      "Sales Qtr": "98.98",
+      "Qtr Sales Var": "13.6",
+      "ROCE": "12.16"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company is almost debt free.",
+    "Cons": "Though the company is reporting repeated profits, it is not paying out dividend",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Promoters": "73.21%",
+    "Public": "26.79%",
+    "No. of Shareholders": {
+      "Mar 2023": "500",
+      "Sep 2023": "642",
+      "Mar 2024": "1,143",
+      "Sep 2024": "1,376"
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "12 December 2024", "Title": "Investor Presentation of Business performance of Company along H1 FY25 Highlights"},
+      {"Date": "13 November 2024", "Title": "Srivasavi Adhesive Tapes Limited has submitted to the Exchange, the financial results for the period ended September 30, 2024."},
+      {"Date": "13 November 2024", "Title": "Srivasavi Adhesive Tapes Limited has informed regarding Board meeting held on November 13, 2024."},
+      {"Date": "5 November 2024", "Title": "SRIVASAVI ADHESIVE TAPES LIMITED has informed about Board Meeting to be held on 13-Nov-2024 to consider and approve the Half Yearly Unaudited Financial results of …"},
+      {"Date": "17 October 2024", "Title": "Srivasavi Adhesive Tapes Limited has informed about Awarding of order(s)/contract(s)"}
+    ],
+    "Annual Reports": [
+      {"Year": "2024", "Source": "nse"},
+      {"Year": "2023", "Source": "nse"}
+    ]
+  }
+}

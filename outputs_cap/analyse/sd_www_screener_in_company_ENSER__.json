@@ -1,0 +1,104 @@
+
+{
+  "Company Overview": {
+    "Name": "Enser Communications Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Incorporated in 2008, Enser Communications Limited offers Business Process Management (BPM) services to companies in the insurance, e-commerce, education, and travel sectors. The company operates in the communications sector, focusing on call centers, outsourcing, database management, web services, software and hardware selling and maintenance, and knowledge-based projects.",
+    "Market Position": "Information not explicitly provided, but peer comparison data is available."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 259 Cr.",
+    "Current Price": "₹ 297",
+    "High / Low": "₹ 327 / ₹ 62.0",
+    "Stock P/E": "32.2",
+    "Book Value": "₹ 35.0",
+    "Dividend Yield": "0.00%",
+    "ROCE": "37.5%",
+    "ROE": "34.7%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly provided." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Mar 2023": "14.62",
+        "Sep 2023": "18.09",
+        "Mar 2024": "27.99",
+        "Sep 2024": "39.02"
+      },
+      "Net Profit": {
+        "Mar 2023": "0.93",
+        "Sep 2023": "2.14",
+        "Mar 2024": "3.20",
+        "Sep 2024": "4.85"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2021": "9.24",
+        "Mar 2022": "16.60",
+        "Mar 2023": "25.41",
+        "Mar 2024": "46.08"
+      },
+      "Net Profit": {
+        "Mar 2021": "-0.12",
+        "Mar 2022": "0.78",
+        "Mar 2023": "1.35",
+        "Mar 2024": "5.27"
+      }
+    },
+    "Profit & Loss Trends": {
+      "Compounded Sales Growth (3 Years)": "71%",
+      "Compounded Sales Growth (TTM)": "105%",
+      "Compounded Profit Growth (3 Years)": "258%",
+      "Compounded Profit Growth (TTM)": "162%"
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital (Mar 2024)": "8.72",
+      "Reserves (Mar 2024)": "17.15",
+      "Borrowings (Mar 2024)": "6.76",
+      "Other Liabilities (Mar 2024)": "5.01",
+      "Total Assets (Mar 2024)": "37.64"
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity (Mar 2024)": "1.40",
+      "Cash from Investing Activity (Mar 2024)": "-12.39",
+      "Cash from Financing Activity (Mar 2024)": "15.55",
+      "Net Cash Flow (Mar 2024)": "4.56"
+    }
+  },
+  "Ratios": {
+    "Debtor Days (Mar 2024)": "93.63",
+    "ROCE % (Mar 2024)": "37.51%",
+    "Return on Equity (3 Years)": "36%",
+    "Return on Equity (Last Year)": "35%"
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": "12247.55", "P/E": "42.61", "Mar Cap": "106322.89", "Div Yld": "1.96", "NP Qtr": "577.70", "Qtr Profit Var": "38.39", "Sales Qtr": "1673.90", "Qtr Sales Var": "15.88", "ROCE": "39.54"},
+      {"Name": "PB Fintech.", "CMP": "2092.15", "P/E": "554.42", "Mar Cap": "96075.89", "Div Yld": "0.00", "NP Qtr": "50.98", "Qtr Profit Var": "350.35", "Sales Qtr": "1167.23", "Qtr Sales Var": "43.81", "ROCE": "1.75"},
+      {"Name": "Coforge", "CMP": "9370.45", "P/E": "79.48", "Mar Cap": "62650.25", "Div Yld": "0.81", "NP Qtr": "233.60", "Qtr Profit Var": "11.71", "Sales Qtr": "3062.30", "Qtr Sales Var": "34.54", "ROCE": "28.60"},
+      {"Name": "Tata Elxsi", "CMP": "6921.60", "P/E": "52.77", "Mar Cap": "43110.04", "Div Yld": "1.01", "NP Qtr": "229.43", "Qtr Profit Var": "14.70", "Sales Qtr": "955.09", "Qtr Sales Var": "8.32", "ROCE": "42.74"},
+      {"Name": "KPIT Technologi.", "CMP": "1451.25", "P/E": "54.80", "Mar Cap": "39785.12", "Div Yld": "0.46", "NP Qtr": "203.75", "Qtr Profit Var": "45.30", "Sales Qtr": "1471.41", "Qtr Sales Var": "22.70", "ROCE": "38.36"},
+      {"Name": "Tata Technolog.", "CMP": "893.30", "P/E": "56.02", "Mar Cap": "36238.37", "Div Yld": "0.94", "NP Qtr": "157.41", "Qtr Profit Var": "-1.85", "Sales Qtr": "1296.45", "Qtr Sales Var": "2.15", "ROCE": "28.29"},
+      {"Name": "Inventurus Knowl", "CMP": "1885.80", "P/E": "87.35", "Mar Cap": "32355.27", "Div Yld": "0.00", "NP Qtr": "208.58", "Qtr Profit Var": "1282.88", "Sales Qtr": "103.35", "Qtr Sales Var": "30.01", "ROCE": null}
+    ],
+    "Median": {
+      "CMP": "283.15",
+      "P/E": "43.44",
+      "Mar Cap": "1028.49",
+      "Div Yld": "0.0",
+      "NP Qtr": "4.85",
+      "Qtr Profit Var": "13.68",
+      "Sales Qtr": "52.64",
+      "Qtr Sales Var": "13.45",
+      "ROCE": "17.45"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 35.9%",
+    "Cons": "Stock is trading at 8.48 times its book value. Though the company is reporting repeated profits, it is not paying out dividend. Debtor days have increased from 57.4 to 93.6 days.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  }
+}

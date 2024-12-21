@@ -1,0 +1,98 @@
+
+{
+  "Company Overview": {
+    "Name": "Bajaj Hindusthan Sugar Ltd",
+    "Sector": "Sugar",
+    "Industry": "Sugar",
+    "Business Description": "Manufacture of sugar, alcohol, ethanol, and power generation.  Has 14 sugar factories with an aggregate sugarcane crushing capacity of 136,000 tonnes crushed per day (TCD).  Six distilleries with capacity to produce 800 kilo litre per day (KLPD) of industrial alcohol and owns 14 co-generation plants having power generating capacity of 449 MW.",
+    "Market Position": "Leading manufacturer of ethanol (as stated on the webpage)."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 3,971 Cr.",
+    "Current Price": "₹ 31.1",
+    "High/Low": "₹ 46.1 / ₹ 24.8",
+    "Stock P/E": null, 
+    "Book Value": "₹ 33.9",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "0.80 %",
+    "ROE": "-1.90 %",
+    "Face Value": "₹ 1.00",
+    "Debt-to-Equity Ratio": null 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [1344, 1257, 1622, 1530, 1323, 1431, 2054, 1360, 1133, 1741, 1870, 1386, 1160],
+      "Expenses": [1343, 1310, 1467, 1497, 1406, 1343, 1829, 1338, 1189, 1630, 1701, 1358, 1159],
+      "Operating Profit": [1, -53, 154, 33, -83, 88, 225, 22, -55, 111, 170, 28, 1],
+      "Net Profit": [-113, -165, 60, -45, -162, -58, 131, -75, -123, 20, 91, -67, -76],
+      "EPS": [-0.88, -1.29, 0.47, -0.35, -1.27, -0.46, 1.02, -0.58, -0.96, 0.16, 0.71, -0.52, -0.59]
+    },
+    "Annual Results": {
+      "Sales": [4344, 6645, 4535, 4690, 4399, 5847, 6806, 6669, 6666, 5576, 6338, 6104, 6156],
+      "Expenses": [3885, 6742, 4704, 3906, 3548, 5575, 6510, 6216, 6503, 5403, 6075, 5855, 5847],
+      "Operating Profit": [459, -97, -168, 785, 851, 272, 297, 454, 163, 172, 263, 249, 309],
+      "Net Profit": [-321, -1626, -1192, -212, -92, -500, -137, -50, -291, -268, -135, -87, -32],
+      "EPS": [-5.01, -25.41, -14.72, -1.90, -0.81, -4.41, -1.20, -0.44, -2.57, -2.09, -1.05, -0.68, -0.24]
+    }
+  },
+  "Ratios": {
+    "ROCE": [2, -5, -4, 7, 7, 2, 2, 3, 0, 0, 1, 1],
+    "Debtor Days": [16, 12, 13, 22, 12, 11, 11, 9, 12, 14, 8, 9],
+    "Inventory Days": [61, 170, 192, 206, 366, 212, 175, 182, 169, 228, 184, 204],
+    "Days Payable": [26, 179, 246, 235, 339, 251, 264, 299, 297, 340, 321, 272],
+    "Cash Conversion Cycle": [51, 3, -41, -7, 39, -29, -78, -107, -116, -98, -129, -59],
+    "Working Capital Days": [63, 17, 79, 62, 37, 32, -3, -11, -5, -81, -134, -156]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "EID Parry", "CMP": 959.15, "P/E": 23.16, "Mar Cap": 17033.22, "Div Yld": 0.42, "NP Qtr": 591.66, "Qtr Profit Var": -32.42, "Sales Qtr": 9330.35, "Qtr Sales Var": 2.99, "ROCE": 20.29},
+      {"Name": "Balrampur Chini", "CMP": 538.80, "P/E": 25.18, "Mar Cap": 10878.50, "Div Yld": 0.56, "NP Qtr": 67.18, "Qtr Profit Var": -59.59, "Sales Qtr": 1297.95, "Qtr Sales Var": -15.69, "ROCE": 13.46},
+      {"Name": "Triven.Engg.Ind.", "CMP": 453.90, "P/E": 32.03, "Mar Cap": 9935.78, "Div Yld": 0.77, "NP Qtr": -22.42, "Qtr Profit Var": -165.96, "Sales Qtr": 1490.95, "Qtr Sales Var": 5.83, "ROCE": 14.77},
+      {"Name": "Sh.Renuka Sugar", "CMP": 39.78, "P/E": null, "Mar Cap": 8467.13, "Div Yld": 0.00, "NP Qtr": -23.10, "Qtr Profit Var": 89.12, "Sales Qtr": 2566.20, "Qtr Sales Var": 0.43, "ROCE": 10.15},
+      {"Name": "Bannari Amm.Sug.", "CMP": 3690.35, "P/E": 35.43, "Mar Cap": 4627.59, "Div Yld": 0.34, "NP Qtr": 34.27, "Qtr Profit Var": -29.79, "Sales Qtr": 473.73, "Qtr Sales Var": -21.06, "ROCE": 11.82},
+      {"Name": "Dalmia Bharat", "CMP": 379.00, "P/E": 11.07, "Mar Cap": 3067.60, "Div Yld": 1.32, "NP Qtr": 66.18, "Qtr Profit Var": 20.55, "Sales Qtr": 926.39, "Qtr Sales Var": 26.58, "ROCE": 9.84}
+    ],
+    "Median": {
+      "CMP": 114.02,
+      "P/E": 19.25,
+      "Mar Cap": 787.49,
+      "Div Yld": 0.32,
+      "NP Qtr": -10.93,
+      "Qtr Profit Var": -34.98,
+      "Sales Qtr": 283.5,
+      "Qtr Sales Var": -10.96,
+      "ROCE": 10.35
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Stock is trading at 0.92 times its book value"
+    ],
+    "Cons": [
+      "Company has low interest coverage ratio.",
+      "The company has delivered a poor sales growth of -2.15% over past five years.",
+      "Promoter holding is low: 25.0%",
+      "Company has a low return on equity of -4.75% over last 3 years.",
+      "Contingent liabilities of Rs.1,478 Cr.",
+      "Promoters have pledged 100% of their holding."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [24.95, 24.95, 24.95, 24.96, 24.96, 24.96, 24.96, 24.96, 24.96, 24.96, 24.96, 24.96],
+      "FIIs": [0.94, 1.20, 1.38, 1.59, 1.60, 1.69, 1.60, 1.64, 1.80, 2.57, 2.63, 4.32],
+      "DIIs": [26.49, 21.54, 19.05, 15.64, 15.27, 15.27, 15.26, 12.41, 9.45, 8.60, 8.43, 8.14],
+      "Public": [47.48, 52.17, 54.48, 57.67, 58.03, 57.94, 58.05, 60.87, 63.67, 63.73, 63.84, 62.46],
+      "Others": [0.14, 0.14, 0.14, 0.14, 0.14, 0.14, 0.14, 0.14, 0.14, 0.14, 0.14, 0.14]
+    },
+    "Yearly": {
+      "Promoters": [26.41, 26.02, 15.43, 15.43, 15.43, 15.43, 24.95, 24.96, 24.96, 24.96],
+      "FIIs": [0.00, 3.86, 4.31, 3.82, 2.25, 0.14, 1.20, 1.69, 2.57, 4.32],
+      "DIIs": [51.23, 39.65, 45.26, 44.10, 43.93, 39.90, 21.54, 15.27, 8.60, 8.14],
+      "Public": [22.21, 30.32, 34.83, 36.49, 38.23, 44.36, 52.17, 57.94, 63.73, 62.46],
+      "Others": [0.16, 0.16, 0.16, 0.16, 0.16, 0.16, 0.14, 0.14, 0.14, 0.14]
+    }
+  }
+}

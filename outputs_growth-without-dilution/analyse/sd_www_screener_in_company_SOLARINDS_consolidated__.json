@@ -1,0 +1,137 @@
+
+{
+  "Company Overview": {
+    "Name": "Solar Industries India Ltd",
+    "Sector": "Aerospace & Defence",
+    "Industry": "Chemicals",
+    "Business Description": "One of the largest domestic manufacturers of bulk and cartridge explosives, detonators, detonating cords and components used in mining, infrastructure, and construction.  Also manufactures high-energy explosives, delivery systems, ammunition filling and pyros fuses for the defence sector.  Manufactures initiation systems including Electronic Detonator, Non-Electric Detonator, Electric Detonator, Plain Detonator, Cord Relay, Cast Boosters, Detonating Cords, and Aluminium Elemented Detonator.",
+    "Market Position": "One of the world’s leading Explosives Manufacturers, commanding around 24% market share in the explosives industry. Its manufacturing unit in Nagpur is the world's largest single-location cartridge plant."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 88,568 Cr.",
+    "Current Price": "₹ 9,788",
+    "High/Low": "₹ 13,300 / ₹ 6,275",
+    "P/E Ratio": 87.6,
+    "Book Value": "₹ 419",
+    "Dividend Yield": "0.09 %",
+    "ROCE": "32.5 %",
+    "ROE": "30.9 %",
+    "Face Value": "₹ 2.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [788, 1018, 1317, 1616, 1567, 1812, 1929, 1682, 1347, 1429, 1611, 1685, 1716], 
+      "Expenses": [656, 840, 1054, 1333, 1268, 1462, 1571, 1359, 1012, 1074, 1257, 1235, 1271],
+      "Operating Profit": [132, 178, 263, 283, 299, 350, 357, 323, 335, 355, 354, 449, 445],
+      "OPM %": ["17%", "17%", "20%", "18%", "19%", "19%", "19%", "19%", "25%", "25%", "22%", "27%", "26%"],
+      "Other Income": [11, 7, 1, 9, 4, 7, 11, 8, 8, 11, 20, 26, 36],
+      "Interest": [12, 13, 15, 14, 19, 25, 31, 25, 25, 28, 32, 27, 30],
+      "Depreciation": [27, 27, 30, 31, 30, 32, 35, 34, 34, 39, 37, 40, 44],
+      "Profit before tax": [104, 144, 219, 247, 254, 299, 302, 272, 285, 299, 305, 408, 407],
+      "Tax %": ["28%", "27%", "20%", "26%", "26%", "27%", "27%", "26%", "27%", "26%", "21%", "26%", "25%"],
+      "Net Profit": [75, 105, 175, 183, 189, 219, 221, 202, 209, 222, 243, 301, 304],
+      "EPS in Rs": [8.15, 11.28, 18.55, 18.81, 19.49, 22.61, 22.78, 21.82, 22.12, 22.47, 25.98, 31.66, 31.59]
+    },
+    "Annual Results": {
+      "Sales": [1053, 1073, 1276, 1449, 1580, 1916, 2462, 2237, 2516, 3948, 6918, 6070, 6440],
+      "Expenses": [870, 868, 1022, 1144, 1256, 1505, 1960, 1803, 2001, 3199, 5582, 4588, 4838],
+      "Operating Profit": [183, 205, 254, 304, 324, 412, 502, 434, 515, 748, 1336, 1482, 1603],
+      "OPM %": ["17%", "19%", "20%", "21%", "20%", "21%", "20%", "19%", "20%", "19%", "19%", "24%", "25%"],
+      "Other Income": [4, 1, -2, 13, 13, 12, 9, 41, 21, 19, -16, -68, 93],
+      "Interest": [18, 20, 18, 20, 27, 33, 50, 55, 45, 50, 90, 109, 117],
+      "Depreciation": [17, 22, 31, 33, 39, 51, 59, 85, 94, 109, 128, 143, 159],
+      "Profit before tax": [152, 164, 203, 264, 271, 340, 402, 336, 397, 607, 1102, 1161, 1420],
+      "Tax %": ["17%", "21%", "23%", "33%", "28%", "31%", "31%", "17%", "27%", "25%", "26%", "25%", "25%"],
+      "Net Profit": [126, 130, 156, 178, 195, 234, 277, 279, 288, 455, 811, 875, 1069],
+      "EPS in Rs": [12.85, 13.09, 16.29, 18.08, 20.61, 24.37, 28.91, 29.55, 30.54, 48.77, 83.68, 92.38, 111.70]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "19%",
+      "Compounded Sales Growth (5 Years)": "20%",
+      "Compounded Sales Growth (3 Years)": "34%",
+      "Compounded Sales Growth (TTM)": "-5%",
+      "Compounded Profit Growth (10 Years)": "22%",
+      "Compounded Profit Growth (5 Years)": "28%",
+      "Compounded Profit Growth (3 Years)": "49%",
+      "Compounded Profit Growth (TTM)": "25%",
+      "Stock Price CAGR (10 Years)": "33%",
+      "Stock Price CAGR (5 Years)": "56%",
+      "Stock Price CAGR (3 Years)": "59%",
+      "Stock Price CAGR (1 Year)": "48%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [54, 63, 55, 68, 74, 69, 59, 60, 66, 50, 44, 51],
+      "Inventory Days": [81, 94, 83, 67, 73, 80, 74, 99, 119, 113, 92, 97],
+      "Days Payable": [14, 24, 31, 45, 36, 49, 43, 46, 78, 73, 41, 63],
+      "Cash Conversion Cycle": [121, 134, 106, 90, 111, 100, 90, 113, 108, 90, 95, 84],
+      "Working Capital Days": [107, 114, 100, 86, 87, 76, 64, 80, 61, 81, 68, 71]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["21%", "18%", "19%", "23%", "22%", "24%", "26%", "19%", "19%", "25%", "36%", "32%"],
+      "ROE": ["26%", "28%", "31%", "31%"]
+    },
+    "Valuation Ratios": {
+      "Price to Book": null, 
+      "Market Cap / Sales": null
+    }
+  },
+  "Peer Comparison": {
+    "Competitors": null, 
+    "Benchmarks": ["Nifty 500", "Multicap 50:25:25", "Nifty MidSmallcap 400", "Nifty India Manufacturing", "BSE 400 MidSmallCap Index", "BSE MidCap", "Nifty Midcap 100", "Nifty 200", "Nifty Alpha 50", "BSE Allcap", "Nifty LargeMidcap 250", "BSE Commodities", "BSE 250 LargeMidCap Index", "Nifty Midcap 150", "Nifty Midcap150 Quality 50", "BSE Momentum Index", "Nifty Total Market", "Nifty Midcap150 Momentum 50", "BSE 500", "BSE 150 MidCap Index", "BSE 200", "BSE Dollex 200", "Nifty 500"]
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 28.2% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 30.8%"
+    ],
+    "Cons": [
+      "Stock is trading at 23.3 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern": {
+      "Promoters": "73.15%",
+      "FIIs": [6.37, 6.28, 6.63, 6.64, 6.72, 6.63, 5.79, 5.89, 5.90, 6.10, 7.56, 7.53],
+      "DIIs": [15.43, 15.16, 14.73, 14.60, 14.45, 14.32, 15.01, 15.24, 15.05, 14.52, 12.74, 12.68],
+      "Public": [5.05, 5.41, 5.50, 5.61, 5.67, 5.91, 6.04, 5.71, 5.88, 6.22, 6.54, 6.64],
+      "No. of Shareholders": [33496, 28759, 31872, 39404, 49247, 51943, 51199, 50103, 57926, 64377, 72853, 78402]
+    },
+    "Notes on Shareholding": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"date": "12 Dec", "title": "Issuance of Commercial Paper amounting to Rs. 75 crores."},
+      {"date": "11 Dec", "title": "Confirmation of payment for Commercial Paper redemption."},
+      {"date": "2 Dec", "title": "Received export order worth INR 2039 Crores for Defence Products."},
+      {"date": "29 Nov", "title": "Issuance of Commercial Paper amounting to Rs. 50 crores."},
+      {"date": "28 Nov", "title": "ICRA reaffirms rating for Solar Industries' commercial paper."}
+    ],
+    "Annual Reports": [
+      {"year": 2024, "source": "bse"},
+      {"year": 2023, "source": "bse"},
+      {"year": 2022, "source": "bse"},
+      {"year": 2021, "source": "bse"},
+      {"year": 2020, "source": "bse"},
+      {"year": 2019, "source": "bse"},
+      {"year": 2018, "source": "bse"},
+      {"year": 2017, "source": "bse"},
+      {"year": 2016, "source": "bse"},
+      {"year": 2015, "source": "bse"},
+      {"year": 2014, "source": "bse"},
+      {"year": 2013, "source": "bse"},
+      {"year": 2012, "source": "bse"},
+      {"year": 2011, "source": "bse"},
+      {"year": 2010, "source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"date": "28 Nov", "source": "icra"},
+      {"date": "3 Sep", "source": "crisil"},
+      {"date": "5 Mar", "source": "crisil"},
+      {"date": "26 Dec 2023", "source": "icra"},
+      {"date": "21 Dec 2023", "source": "crisil"},
+      {"date": "28 Nov 2023", "source": "icra"}
+    ],
+    "Concalls": [] //  List of concalls is too extensive to include fully.  Structure would need to be defined more precisely.
+  }
+}

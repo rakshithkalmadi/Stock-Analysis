@@ -1,0 +1,193 @@
+
+{
+  "Company Overview": {
+    "Name": "Khazanchi Jewellers Ltd",
+    "Sector": "Trading",
+    "Industry": "Trading",
+    "Business Description": "Incorporated in 1996, Khazanchi Jewellers Ltd is in the business of buying and selling of Gold ornaments, Gold bullion and Silver bullion. KJL specializes in a wide array of jewelry products and offers a range that includes gold, diamonds, and precious stones, and exquisite fancy jewelry. It also offers bullion items like coins and bars. It deals in wholesale and retail market. Currently, the company has ~25+ Products Category, ~5 Lakh+ Design Library, ~1,200 sq. ft. Retail Showroom.",
+    "Market Position": "Not explicitly stated in the provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,554 Cr.",
+    "Current Price": "₹ 628",
+    "High / Low": "₹ 670 / ₹ 263",
+    "Stock P/E": "49.1",
+    "Book Value": "₹ 84.0",
+    "Dividend Yield": "0.08 %",
+    "ROCE": "22.8 %",
+    "ROE": "24.4 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but can be inferred from Balance Sheet data."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2022": "233 Cr",
+        "Mar 2023": "247 Cr",
+        "Sep 2023": "406 Cr",
+        "Mar 2024": "415 Cr",
+        "Sep 2024": "756 Cr"
+      },
+      "Net Profit": {
+        "Sep 2022": "2 Cr",
+        "Mar 2023": "6 Cr",
+        "Sep 2023": "16 Cr",
+        "Mar 2024": "12 Cr",
+        "Sep 2024": "20 Cr"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2020": "361 Cr",
+        "Mar 2021": "382 Cr",
+        "Mar 2022": "257 Cr",
+        "Mar 2023": "481 Cr",
+        "Mar 2024": "821 Cr",
+        "TTM": "1,171 Cr"
+      },
+      "Net Profit": {
+        "Mar 2020": "2 Cr",
+        "Mar 2021": "3 Cr",
+        "Mar 2022": "3 Cr",
+        "Mar 2023": "8 Cr",
+        "Mar 2024": "27 Cr",
+        "TTM": "32 Cr"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": {
+        "Mar 2020": "10 Cr",
+        "Mar 2021": "10 Cr",
+        "Mar 2022": "10 Cr",
+        "Mar 2023": "10 Cr",
+        "Mar 2024": "25 Cr",
+        "Sep 2024": "25 Cr"
+      },
+      "Total Liabilities": {
+        "Mar 2020": "104 Cr",
+        "Mar 2021": "113 Cr",
+        "Mar 2022": "124 Cr",
+        "Mar 2023": "145 Cr",
+        "Mar 2024": "254 Cr",
+        "Sep 2024": "276 Cr"
+      },
+      "Total Assets": {
+        "Mar 2020": "104 Cr",
+        "Mar 2021": "113 Cr",
+        "Mar 2022": "124 Cr",
+        "Mar 2023": "145 Cr",
+        "Mar 2024": "254 Cr",
+        "Sep 2024": "276 Cr"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": {
+        "Mar 2020": "6 Cr",
+        "Mar 2021": "5 Cr",
+        "Mar 2022": "-1 Cr",
+        "Mar 2023": "6 Cr",
+        "Mar 2024": "-83 Cr"
+      },
+      "Net Cash Flow": {
+        "Mar 2020": "-2 Cr",
+        "Mar 2021": "1 Cr",
+        "Mar 2022": "0 Cr",
+        "Mar 2023": "-1 Cr",
+        "Mar 2024": "1 Cr"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "3 Years": "29%",
+        "TTM": "79%"
+      },
+      "Compounded Profit Growth": {
+        "3 Years": "118%",
+        "TTM": "48%"
+      },
+      "Stock Price CAGR": {
+        "1 Year": "130%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Current Ratio": "Not explicitly stated.",
+      "Quick Ratio": "Not explicitly stated."
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Mar 2020": "8%",
+        "Mar 2021": "8%",
+        "Mar 2022": "14%",
+        "Mar 2023": "23%",
+        "Mar 2024": "Not explicitly stated"
+      },
+      "ROE": {
+        "Last Year": "24%"
+      },
+      "OPM %": {
+        "Sep 2022": "2%",
+        "Mar 2023": "4%",
+        "Sep 2023": "5%",
+        "Mar 2024": "5%",
+        "Sep 2024": "4%"
+      }
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "49.1",
+      "Price to Book": "Not explicitly stated, but can be calculated from Current Price and Book Value."
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2020": "1",
+        "Mar 2021": "1",
+        "Mar 2022": "5",
+        "Mar 2023": "2",
+        "Mar 2024": "10"
+      },
+      "Inventory Days": {
+        "Mar 2020": "90",
+        "Mar 2021": "101",
+        "Mar 2022": "158",
+        "Mar 2023": "101",
+        "Mar 2024": "95"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2020": "88",
+        "Mar 2021": "89",
+        "Mar 2022": "146",
+        "Mar 2023": "85",
+        "Mar 2024": "104"
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Adani Enterp.", "CMP": "2344.95", "P/E": "47.95", "Mar Cap": "270649.61", "Div Yld": "0.06", "NP Qtr": "1989.19", "Qtr Profit Var": "577.60", "Sales Qtr": "22608.07", "Qtr Sales Var": "15.66", "ROCE": "9.87"},
+      {"Name": "Vishal Mega Mart", "CMP": "101.19", "P/E": "100.64", "Mar Cap": "45623.73", "Div Yld": "0.00", "NP Qtr": "254.14", "Qtr Profit Var": "5032.51", "Sales Qtr": "19.27", "Qtr Sales Var": "11.36", "ROCE": "11.36"},
+      {"Name": "Aegis Logistics", "CMP": "825.80", "P/E": "49.64", "Mar Cap": "28985.58", "Div Yld": "0.79", "NP Qtr": "152.02", "Qtr Profit Var": "-0.80", "Sales Qtr": "1750.42", "Qtr Sales Var": "41.75", "ROCE": "14.74"},
+      {"Name": "Cello World", "CMP": "775.65", "P/E": "50.71", "Mar Cap": "17132.95", "Div Yld": "0.19", "NP Qtr": "86.78", "Qtr Profit Var": "2.06", "Sales Qtr": "490.06", "Qtr Sales Var": "0.22", "ROCE": "36.28"},
+      {"Name": "Redington", "CMP": "205.68", "P/E": "13.81", "Mar Cap": "16079.54", "Div Yld": "3.01", "NP Qtr": "282.88", "Qtr Profit Var": "-6.78", "Sales Qtr": "24895.56", "Qtr Sales Var": "12.04", "ROCE": "19.46"},
+      {"Name": "MMTC", "CMP": "74.30", "P/E": "52.62", "Mar Cap": "11145.00", "Div Yld": "0.00", "NP Qtr": "48.05", "Qtr Profit Var": "-58.86", "Sales Qtr": "1.56", "Qtr Sales Var": "100.74", "ROCE": "9.23"},
+      {"Name": "Honasa Consumer", "CMP": "259.70", "P/E": "111.75", "Mar Cap": "8435.68", "Div Yld": "0.00", "NP Qtr": "-14.92", "Qtr Profit Var": "-139.53", "Sales Qtr": "417.48", "Qtr Sales Var": "-9.28", "ROCE": "17.10"}
+    ],
+    "Median": {
+      "CMP": "126.3",
+      "P/E": "37.07",
+      "Mar Cap": "337.87",
+      "Div Yld": "0.0",
+      "NP Qtr": "2.61",
+      "Qtr Profit Var": "59.15",
+      "Sales Qtr": "44.64",
+      "Qtr Sales Var": "28.95",
+      "ROCE": "9.64"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has reduced debt.",
+    "Cons": "Stock is trading at 7.48 times its book value. Company might be capitalizing the interest cost.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Notes on Shareholding Pattern": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

@@ -1,0 +1,135 @@
+
+{
+  "Company Overview": {
+    "Name": "Ksolves India Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Ksolves India Ltd, incorporated in 2014, is engaged in software development, enterprise solutions, consulting & providing IT solutions to companies across sectors such as Real Estate, E-commerce, Finance, Telecom and Healthcare etc. Ksolves curate & develop the best possible software solutions. It is servicing clients across several counties with 410+ in-house technology experts. Ksolves is a 360-degree software solution provider, known in the industry for its expertise in Big Data (Apache Kafka, Apache NiFi, Apache Spark, Apache Cassandra), Data Science (Artificial Intelligence & Machine Learning), Salesforce, DevOps, Java & Microservices, OpenShift, Penetration Testing etc.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Information Technology"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,198 Cr.",
+    "Current Price": "₹ 1,011",
+    "High / Low": "₹ 1,468 / 940",
+    "Stock P/E": 32.7,
+    "Book Value": "₹ 27.4",
+    "Dividend Yield": "1.93 %",
+    "ROCE": "199 %",
+    "ROE": "147 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [10.19, 11.97, 13.59, 16.11, 18.26, 20.28, 22.46, 23.66, 25.90, 28.15, 30.36, 31.46, 34.77],
+      "Expenses": [6.03, 7.06, 7.79, 8.76, 10.15, 11.99, 13.43, 13.52, 14.67, 16.22, 17.27, 19.45, 21.54],
+      "Operating Profit": [4.16, 4.91, 5.80, 7.35, 8.11, 8.29, 9.03, 10.14, 11.23, 11.93, 13.09, 12.01, 13.23],
+      "OPM %": ["40.82%", "41.02%", "42.68%", "45.62%", "44.41%", "40.88%", "40.20%", "42.86%", "43.36%", "42.38%", "43.12%", "38.18%", "38.05%"],
+      "Other Income": [0.08, 0.40, 0.05, 0.11, 0.06, 0.03, 0.42, 0.07, 0.08, 0.12, 0.07, 0.10, 0.11],
+      "Interest": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.09],
+      "Depreciation": [0.09, 0.10, 0.04, 0.10, 0.08, 0.10, 0.12, 0.13, 0.17, 0.26, 0.28, 0.29, 0.64],
+      "Profit before tax": [4.15, 5.21, 5.81, 7.36, 8.09, 8.22, 9.33, 10.08, 11.14, 11.79, 12.88, 11.82, 12.61],
+      "Tax %": ["25.30%", "23.42%", "24.96%", "24.18%", "26.08%", "25.30%", "23.04%", "25.20%", "25.85%", "25.02%", "25.70%", "24.20%", "26.88%"],
+      "Net Profit": [3.09, 3.99, 4.35, 5.58, 5.97, 6.13, 7.18, 7.55, 8.26, 8.84, 9.58, 8.96, 9.22],
+      "EPS in Rs": [2.61, 3.37, 3.67, 4.71, 5.04, 5.17, 6.06, 6.37, 6.97, 7.46, 8.08, 7.56, 7.78]
+    },
+    "Annual Results": {
+      "Sales": [0, 2, 2, 3, 5, 8, 24, 45, 77, 108, 125],
+      "Expenses": [0, 2, 2, 3, 5, 7, 13, 26, 44, 61, 74],
+      "Operating Profit": [0, 0, 0, 0, 0, 1, 11, 20, 33, 47, 50],
+      "OPM %": ["12%", "4%", "4%", "6%", "13%", "45%", "43%", "43%", "43%", "40%"],
+      "Other Income": [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+      "Depreciation": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1],
+      "Profit before tax": [0, 0, 0, 0, 0, 1, 11, 20, 33, 46, 49],
+      "Tax %": ["32%", "40%", "40%", "27%", "24%", "25%", "24%", "25%", "25%"],
+      "Net Profit": [0, 0, 0, 0, 0, 1, 8, 15, 25, 34, 37],
+      "EPS in Rs": [6.64, 13.02, 20.98, 28.87, 30.88]
+    },
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": "82%",
+        "3 Years": "65%",
+        "TTM": "35%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": "192%",
+        "3 Years": "63%",
+        "TTM": "26%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "43%",
+        "1 Year": "-18%"
+      }
+    },
+    "Return on Equity": {
+      "10 Years": null,
+      "5 Years": "130%",
+      "3 Years": "131%",
+      "Last Year": "147%"
+    }
+  },
+  "Ratios": {
+    "Debtor Days": [0, 0, 0, 0, 0, 53, 72, 71, 54],
+    "Inventory Days": [],
+    "Days Payable": [],
+    "Cash Conversion Cycle": [0, 0, 0, 0, 0, 53, 72, 71, 54],
+    "Working Capital Days": [0, 2, -13, -14, -17, 57, 69, 62, 49],
+    "ROCE %": ["253%", "33%", "53%", "114%", "170%", "161%", "143%", "171%", "199%"]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "P/E": 42.61, "Mar Cap": 106322.89, "Div Yld": 1.96, "NP Qtr": 577.70, "Qtr Profit Var": 38.39, "Sales Qtr": 1673.90, "Qtr Sales Var": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "P/E": 554.42, "Mar Cap": 96075.89, "Div Yld": 0.00, "NP Qtr": 50.98, "Qtr Profit Var": 350.35, "Sales Qtr": 1167.23, "Qtr Sales Var": 43.81, "ROCE": 1.75},
+      {"Name": "Coforge", "CMP": 9370.45, "P/E": 79.48, "Mar Cap": 62650.25, "Div Yld": 0.81, "NP Qtr": 233.60, "Qtr Profit Var": 11.71, "Sales Qtr": 3062.30, "Qtr Sales Var": 34.54, "ROCE": 28.60},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "P/E": 52.77, "Mar Cap": 43110.04, "Div Yld": 1.01, "NP Qtr": 229.43, "Qtr Profit Var": 14.70, "Sales Qtr": 955.09, "Qtr Sales Var": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "P/E": 54.80, "Mar Cap": 39785.12, "Div Yld": 0.46, "NP Qtr": 203.75, "Qtr Profit Var": 45.30, "Sales Qtr": 1471.41, "Qtr Sales Var": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "P/E": 56.02, "Mar Cap": 36238.37, "Div Yld": 0.94, "NP Qtr": 157.41, "Qtr Profit Var": -1.85, "Sales Qtr": 1296.45, "Qtr Sales Var": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "P/E": 87.35, "Mar Cap": 32355.27, "Div Yld": 0.00, "NP Qtr": 208.58, "Qtr Profit Var": 1282.88, "Sales Qtr": 103.35, "Qtr Sales Var": 30.01, "ROCE": null},
+      {"Name": "Ksolves India", "CMP": 1010.70, "P/E": 32.74, "Mar Cap": 1198.29, "Div Yld": 1.93, "NP Qtr": 9.22, "Qtr Profit Var": 11.62, "Sales Qtr": 34.77, "Qtr Sales Var": 34.25, "ROCE": 199.44}
+    ],
+    "Median": {
+      "CMP": 283.15,
+      "P/E": 43.44,
+      "Mar Cap": 1028.49,
+      "Div Yld": 0.0,
+      "NP Qtr": 4.85,
+      "Qtr Profit Var": 13.68,
+      "Sales Qtr": 52.64,
+      "Qtr Sales Var": 13.45,
+      "ROCE": 17.45
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 192% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 131%",
+      "Company has been maintaining a healthy dividend payout of 54.7%"
+    ],
+    "Cons": [
+      "Stock is trading at 36.8 times its book value",
+      "Promoter holding has decreased over last 3 years: -3.46%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [62.45, 62.45, 62.45, 58.94, 58.94, 58.94, 58.94, 58.94, 58.94, 58.94, 58.94, 58.94],
+      "FIIs": [0.00, 0.00, 0.00, 0.00, 0.16, 0.16, 1.75, 1.88, 1.75, 1.87, 1.55, 0.87],
+      "DIIs": [0.00, 0.01, 0.07, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.08, 0.08, 0.08],
+      "Public": [37.55, 37.53, 37.48, 41.06, 40.89, 40.91, 39.31, 39.17, 39.31, 39.11, 39.44, 40.10]
+    },
+    "Yearly": {
+      "Promoters": [68.01, 62.45, 58.94, 58.94, 58.94],
+      "FIIs": [0.00, 0.00, 0.16, 1.87, 0.87],
+      "DIIs": [0.00, 0.01, 0.00, 0.08, 0.08],
+      "Public": [31.98, 37.53, 40.91, 39.11, 40.10]
+    }
+  }
+}

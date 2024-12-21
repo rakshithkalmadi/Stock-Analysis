@@ -1,0 +1,239 @@
+
+{
+  "Company Overview": {
+    "Name": "Maxposure Ltd",
+    "Sector": "Entertainment",
+    "Industry": "Entertainment / Electronic Media Software",
+    "Business Description": "Provides media and entertainment services like Inflight Entertainment, Content Marketing, Advertisement and Technology. MPL is in the business of media and entertainment with special focus on the aviation market. It offers 360-degree services across multiple distribution platforms.",
+    "MarketPosition": null 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 193 Cr.",
+    "CurrentPrice": "₹ 85.0",
+    "High/Low": "₹ 145 / ₹ 65.6",
+    "PEratio": 21.6,
+    "BookValue": "₹ 26.8",
+    "DividendYield": "0.00 %",
+    "ROCE": "23.2 %",
+    "ROE": "16.3 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": null
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": {
+        "Mar 2023": "19.98",
+        "Sep 2023": "20.16",
+        "Mar 2024": "22.65",
+        "Sep 2024": "28.06"
+      },
+      "Expenses": {
+        "Mar 2023": "13.12",
+        "Sep 2023": "14.09",
+        "Mar 2024": "18.48",
+        "Sep 2024": "21.98"
+      },
+      "OperatingProfit": {
+        "Mar 2023": "6.86",
+        "Sep 2023": "6.07",
+        "Mar 2024": "4.17",
+        "Sep 2024": "6.08"
+      },
+      "OPM%": {
+        "Mar 2023": "34.33%",
+        "Sep 2023": "30.11%",
+        "Mar 2024": "18.41%",
+        "Sep 2024": "21.67%"
+      },
+      "NetProfit": {
+        "Mar 2023": "4.97",
+        "Sep 2023": "3.56",
+        "Mar 2024": "4.16",
+        "Sep 2024": "4.81"
+      },
+      "EPS": {
+          "Mar 2023": "1.83",
+          "Sep 2023": "2.12"
+      }
+    },
+    "AnnualResults": {
+      "Sales": {
+        "Mar 2021": "20.16",
+        "Mar 2022": "32.68",
+        "Mar 2023": "31.79",
+        "Mar 2024": "42.81",
+        "TTM": "50.71"
+      },
+      "Expenses": {
+        "Mar 2021": "20.83",
+        "Mar 2022": "31.95",
+        "Mar 2023": "25.76",
+        "Mar 2024": "32.56",
+        "TTM": "40.46"
+      },
+      "OperatingProfit": {
+        "Mar 2021": "-0.67",
+        "Mar 2022": "0.73",
+        "Mar 2023": "6.03",
+        "Mar 2024": "10.25",
+        "TTM": "10.25"
+      },
+      "NetProfit": {
+        "Mar 2021": "0.36",
+        "Mar 2022": "0.35",
+        "Mar 2023": "3.97",
+        "Mar 2024": "7.71",
+        "TTM": "8.97"
+      },
+      "EPS": {
+        "Mar 2021": "3.39",
+        "Mar 2022": "3.95"
+      }
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": {
+        "Mar 2021": "3.32",
+        "Mar 2022": "3.32",
+        "Mar 2023": "3.32",
+        "Mar 2024": "22.74",
+        "Sep 2024": "22.74"
+      },
+      "Reserves": {
+        "Mar 2021": "22.99",
+        "Mar 2022": "23.34",
+        "Mar 2023": "26.81",
+        "Mar 2024": "33.49",
+        "Sep 2024": "38.30"
+      },
+      "Borrowings": {
+        "Mar 2021": "4.18",
+        "Mar 2022": "2.94",
+        "Mar 2023": "2.61",
+        "Mar 2024": "1.49",
+        "Sep 2024": "1.32"
+      }
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": {
+        "Mar 2021": "-1.91",
+        "Mar 2022": "1.02",
+        "Mar 2023": "14.17",
+        "Mar 2024": "0.34"
+      },
+      "CashFromInvestingActivity": {
+        "Mar 2021": "-0.03",
+        "Mar 2022": "0.82",
+        "Mar 2023": "-14.20",
+        "Mar 2024": "-5.61"
+      },
+      "CashFromFinancingActivity": {
+        "Mar 2021": "-0.79",
+        "Mar 2022": "-1.79",
+        "Mar 2023": "-0.59",
+        "Mar 2024": "21.91"
+      }
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "3Years": "29%",
+        "TTM": "26%"
+      },
+      "CompoundedProfitGrowth": {
+        "3Years": "170%",
+        "TTM": "17%"
+      }
+    },
+    "LiquidityRatios": null,
+    "ProfitabilityRatios": {
+      "ROCE": {
+        "Mar 2021": "2.50%",
+        "Mar 2022": "22.84%",
+        "Mar 2023": "23.24%"
+      },
+      "ROE": {
+        "3Years": "12%",
+        "LastYear": "16%"
+      }
+    },
+    "ValuationRatios": null,
+    "OtherRatios": {
+      "DebtorDays": {
+        "Mar 2021": "119.31",
+        "Mar 2022": "119.51",
+        "Mar 2023": "132.15",
+        "Mar 2024": "136.67"
+      },
+      "InventoryDays": null,
+      "DaysPayable": null,
+      "CashConversionCycle": {
+        "Mar 2021": "119.31",
+        "Mar 2022": "119.51",
+        "Mar 2023": "132.15",
+        "Mar 2024": "136.67"
+      },
+      "WorkingCapitalDays": {
+        "Mar 2021": "210.02",
+        "Mar 2022": "111.91",
+        "Mar 2023": "-34.90",
+        "Mar 2024": "52.26"
+      }
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Sun TV Network", "CMP": "696.85", "PE": "14.95", "MarCap": "27461.79", "DivYld": "2.40", "NPQtr": "409.32", "QtrProfitVar": "-11.93", "SalesQtr": "934.54", "QtrSalesVar": "-10.86", "ROCE": "26.20"},
+      {"Name": "PVR Inox", "CMP": "1382.10", "PE": null, "MarCap": "13572.22", "DivYld": "0.00", "NPQtr": "-12.10", "QtrProfitVar": "-107.10", "SalesQtr": "1622.10", "QtrSalesVar": "-18.89", "ROCE": "4.69"},
+      {"Name": "Zee Entertainmen", "CMP": "125.13", "PE": "28.09", "MarCap": "12018.98", "DivYld": "0.80", "NPQtr": "209.40", "QtrProfitVar": "13.77", "SalesQtr": "2000.70", "QtrSalesVar": "-17.93", "ROCE": "6.26"},
+      {"Name": "Tips Music", "CMP": "811.30", "PE": "68.17", "MarCap": "10370.98", "DivYld": "0.74", "NPQtr": "48.16", "QtrProfitVar": "21.46", "SalesQtr": "80.61", "QtrSalesVar": "32.43", "ROCE": "103.80"},
+      {"Name": "Saregama India", "CMP": "496.60", "PE": "51.03", "MarCap": "9584.85", "DivYld": "0.81", "NPQtr": "44.95", "QtrProfitVar": "-6.44", "SalesQtr": "241.83", "QtrSalesVar": "40.31", "ROCE": "19.60"},
+      {"Name": "Sri Adhik. Bros.", "CMP": "1888.75", "PE": null, "MarCap": "4792.34", "DivYld": "0.00", "NPQtr": "-0.09", "QtrProfitVar": "98.34", "SalesQtr": "1.27", "QtrSalesVar": null, "ROCE": null},
+      {"Name": "Prime Focus", "CMP": "132.88", "PE": null, "MarCap": "3986.23", "DivYld": "0.00", "NPQtr": "50.41", "QtrProfitVar": "115.13", "SalesQtr": "897.04", "QtrSalesVar": "-12.59", "ROCE": "-0.72"},
+      {"Name": "Maxposure", "CMP": "85.00", "PE": "21.57", "MarCap": "193.30", "DivYld": "0.00", "NPQtr": "4.81", "QtrProfitVar": "28.06", "SalesQtr": "39.19", "QtrSalesVar": "23.24", "ROCE": "23.2"}
+    ],
+    "Median": {
+      "CMP": "126.81",
+      "PE": "36.44",
+      "MarCap": "446.24",
+      "DivYld": "0.0",
+      "NPQtr": "0.53",
+      "QtrProfitVar": "-50.62",
+      "SalesQtr": "48.28",
+      "QtrSalesVar": "-12.59",
+      "ROCE": "6.26"
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free."
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Company has a low return on equity of 11.6% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPattern": {
+      "Mar 2024": {
+        "Promoters": "61.56%",
+        "FIIs": "3.61%",
+        "DIIs": "6.67%",
+        "Public": "28.17%",
+        "NoofShareholders": "580"
+      }
+    },
+    "Notes": [
+      "* The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ],
+    "Announcements": [
+      "22 November 2024 - Maxposure s through its America s partner, Aviation Support Group (ASG), showcases its latest products (AeroHub & kyView) in in-flight entertainment technology at Aerospace Tech …",
+      "19 November 2024 - Maxposure Limited has informed about unveiling its latest products in in-flight entertainment technology at FTE APEX EXPO 2024, Singapore",
+      "14 November 2024 - Maxposure Limited has informed about Utilization of IPO proceeds as on 30.09.2024.",
+      "14 November 2024 - Maxposure Limited has informed regarding Board meeting held on November 14, 2024.pursuant to Regulation 30 and 33 of SEBI (Listing Obligation & Disclosure Requirements), Regulations …",
+      "14 November 2024 - Maxposure Limited has submitted to the Exchange, the financial results for the period ended September 30, 2024."
+    ]
+  }
+}

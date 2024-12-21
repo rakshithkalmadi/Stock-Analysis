@@ -1,0 +1,223 @@
+
+{
+  "Company Overview": {
+    "Name": "Macfos Ltd",
+    "Sector": "E-Commerce/App based Aggregator",
+    "Industry": "Trading",
+    "Business Description": "Incorporated in 2017, Macfos Ltd provides e-commerce marketing of a broad range of electronic components.  Developing, manufacturing, reselling and dealing in Industrial Electronic, Engineering and R & D products; 3D printing Services, Prototyping Services & Assembly (Mechanical and Electronics); Assembly of Batteries.",
+    "Market Position": "Not explicitly stated in the provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,381 Cr.",
+    "Current Price": "₹ 1,466",
+    "High / Low": "₹ 1,528 / 385",
+    "Stock P/E": "79.8",
+    "Book Value": "₹ 66.6",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "55.2 %",
+    "ROE": "49.6 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but can be inferred from Balance Sheet data."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Jun 2023": "25.94",
+        "Sep 2023": "27.04",
+        "Dec 2023": "31.25",
+        "Mar 2024": "40.90",
+        "Jun 2024": "56.82",
+        "Sep 2024": "89.87"
+      },
+      "Net Profit": {
+        "Jun 2023": "1.82",
+        "Sep 2023": "2.05",
+        "Dec 2023": "2.50",
+        "Mar 2024": "4.51",
+        "Jun 2024": "4.01",
+        "Sep 2024": "6.28"
+      },
+      "EPS": {
+        "Jun 2023": "2.06",
+        "Sep 2023": "2.32",
+        "Dec 2023": "2.83",
+        "Mar 2024": "5.10",
+        "Jun 2024": "4.26",
+        "Sep 2024": "6.67"
+      }
+
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2020": "16",
+        "Mar 2021": "27",
+        "Mar 2022": "56",
+        "Mar 2023": "80",
+        "Mar 2024": "125",
+        "TTM": "219"
+      },
+      "Net Profit": {
+        "Mar 2020": "0",
+        "Mar 2021": "2",
+        "Mar 2022": "6",
+        "Mar 2023": "7",
+        "Mar 2024": "11",
+        "TTM": "17"
+      },
+      "EPS": {
+        "Mar 2020": "330.00",
+        "Mar 2021": "1,564.36",
+        "Mar 2022": "5,841.58",
+        "Mar 2023": "8.39",
+        "Mar 2024": "12.31",
+        "TTM": "18.86"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Mar 2020": {
+        "Equity Capital": "0.01",
+        "Reserves": "1",
+        "Borrowings": "4",
+        "Other Liabilities": "1",
+        "Total Liabilities": "6",
+        "Fixed Assets": "1",
+        "Other Assets": "5",
+        "Total Assets": "6"
+      },
+      "Mar 2024": {
+        "Equity Capital": "9",
+        "Reserves": "19",
+        "Borrowings": "8",
+        "Other Liabilities": "15",
+        "Total Liabilities": "50",
+        "Fixed Assets": "6",
+        "Other Assets": "44",
+        "Total Assets": "50"
+      },
+      "Sep 2024": {
+        "Equity Capital": "9",
+        "Reserves": "53",
+        "Borrowings": "38",
+        "Other Liabilities": "34",
+        "Total Liabilities": "134",
+        "Fixed Assets": "6",
+        "Other Assets": "128",
+        "Total Assets": "134"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Mar 2020": {
+        "Cash from Operating Activity": "0",
+        "Cash from Investing Activity": "-1",
+        "Cash from Financing Activity": "1",
+        "Net Cash Flow": "0"
+      },
+      "Mar 2024": {
+        "Cash from Operating Activity": "5",
+        "Cash from Investing Activity": "-6",
+        "Cash from Financing Activity": "0",
+        "Net Cash Flow": "-1"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "3 Years": "66%",
+        "TTM": "56%"
+      },
+      "Compounded Profit Growth": {
+        "3 Years": "90%",
+        "TTM": "47%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": {
+        "Mar 2024": "10"
+      },
+      "Inventory Days": {
+        "Mar 2024": "95"
+      },
+      "Days Payable": {
+        "Mar 2024": "30"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2024": "75"
+      },
+      "Working Capital Days": {
+        "Mar 2024": "68"
+      }
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Mar 2024": "55%"
+      },
+      "ROE": {
+        "Last Year": "50%",
+        "3 Years": "59%"
+      },
+      "OPM": {
+        "Jun 2023": "9.71%",
+        "Sep 2023": "10.91%",
+        "Dec 2023": "12.13%",
+        "Mar 2024": "15.43%",
+        "Jun 2024": "9.36%",
+        "Sep 2024": "9.91%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Not explicitly stated, but can be calculated from Current Price and Book Value."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "FSN E-Commerce", "CMP": "167.33", "P/E": "1117.75", "Mar Cap": "47839.71", "Div Yld": "0.00", "NP Qtr": "12.97", "Qtr Profit Var": "71.62", "Sales Qtr": "1874.74", "Qtr Sales Var": "24.40", "ROCE": "6.87"},
+      {"Name": "MSTC", "CMP": "672.15", "P/E": "26.06", "Mar Cap": "4731.94", "Div Yld": "2.31", "NP Qtr": "56.39", "Qtr Profit Var": "-6.85", "Sales Qtr": "71.92", "Qtr Sales Var": "-11.35", "ROCE": "34.65"},
+      {"Name": "Creative Newtech", "CMP": "903.90", "P/E": "23.53", "Mar Cap": "1275.74", "Div Yld": "0.06", "NP Qtr": "13.22", "Qtr Profit Var": "26.39", "Sales Qtr": "411.42", "Qtr Sales Var": "-4.28", "ROCE": "26.48"},
+      {"Name": "Vasa Denticity", "CMP": "742.55", "P/E": "67.61", "Mar Cap": "1189.28", "Div Yld": "0.00", "NP Qtr": "8.79", "Qtr Profit Var": "135.66", "Sales Qtr": "111.84", "Qtr Sales Var": "47.59", "ROCE": "44.98"},
+      {"Name": "MOS Utility", "CMP": "286.55", "P/E": "75.06", "Mar Cap": "714.53", "Div Yld": "0.00", "NP Qtr": "4.87", "Qtr Profit Var": "91.90", "Sales Qtr": "9.77", "Qtr Sales Var": "14.52", "ROCE": "7"},
+      {"Name": "Nureca", "CMP": "282.40", "P/E": "282.40", "Mar Cap": "0.00", "Div Yld": "0.00", "NP Qtr": "-0.48", "Qtr Profit Var": "-116.61", "Sales Qtr": "31.19", "Qtr Sales Var": "-0.51", "ROCE": "-4.02"}
+    ],
+    "Median": {
+      "CMP": "286.55",
+      "P/E": "51.48",
+      "Mar Cap": "714.53",
+      "Div Yld": "0.0",
+      "NP Qtr": "6.13",
+      "Qtr Profit Var": "71.62",
+      "Sales Qtr": "89.87",
+      "Qtr Sales Var": "9.77",
+      "ROCE": "26.48"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 59.2%",
+    "Cons": "Stock is trading at 22.0 times its book value. Though the company is reporting repeated profits, it is not paying out dividend. Company might be capitalizing the interest cost.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "15 Nov", "Title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript"},
+      {"Date": "14 Nov", "Title": "Audio Recording Of Investors & Analysts Conference Call"},
+      {"Date": "12 Nov", "Title": "Announcement under Regulation 30 (LODR)-Investor Presentation"},
+      {"Date": "11 Nov", "Title": "Submission Of Unaudited Financial Results For The Quarter And Half Year Ended 30Th September, 2024 As Per Regulation 33 Of SEBI (LODR) Regulations, 2015"},
+      {"Date": "11 Nov", "Title": "Board Meeting Outcome for Outcome Of The Meeting Of Board Of Macfos Limited (\"The Company\") Held On November 11, 2024."}
+    ],
+    "Annual Reports": [
+      {"Year": "2024", "Source": "bse"},
+      {"Year": "2023", "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "26 Jul", "Source": "crisil"}
+    ],
+    "Concalls": [
+      {"Month": "Nov", "Year": "2024"},
+      {"Month": "Jul", "Year": "2024"},
+      {"Month": "May", "Year": "2024"},
+      {"Month": "Nov", "Year": "2023"},
+      {"Month": "Jun", "Year": "2023"},
+      {"Month": "Mar", "Year": "2023"}
+    ]
+  }
+}

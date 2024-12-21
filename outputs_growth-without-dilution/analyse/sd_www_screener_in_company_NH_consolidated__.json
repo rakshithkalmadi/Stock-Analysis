@@ -1,0 +1,211 @@
+
+{
+  "Company Overview": {
+    "Name": "Narayana Hrudayalaya Ltd",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare",
+    "Business Description": "Narayana Hrudayalaya Ltd is engaged in providing economical healthcare services. It has a network of multispecialty and super specialty hospitals spread across multiple locations.",
+    "Market Position": "Part of BSE 250 SmallCap Index, Nifty MidSmallcap 400, Nifty Smallcap 250, BSE 400 MidSmallCap Index, BSE SmallCap, Nifty Smallcap 100, BSE Allcap, Nifty Smallcap 50, Nifty 500 Multicap 50:25:25, Nifty Total Market, Nifty MidSmall Healthcare, Nifty500 Multicap Infrastructure 50:30:20, BSE 500, BSE Healthcare, Nifty 500",
+    "Hospital Portfolio": {
+      "India": "19 owned/operated hospitals, 2 heart centers, 18 clinics, and dialysis centers",
+      "Cayman Islands": "1 hospital",
+      "Total": "40 healthcare facilities with 5,789 operational beds (including Cayman)"
+    }
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 26,324 Cr.",
+    "Current Price": "₹ 1,288",
+    "High / Low": "₹ 1,445 / ₹ 1,080",
+    "Stock P/E": "33.8",
+    "Book Value": "₹ 157",
+    "Dividend Yield": "0.31 %",
+    "ROCE": "26.5 %",
+    "ROE": "31.4 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data available in Quarterly and Annual Profit & Loss statements"
+    },
+    "Quarterly Results": {
+      "Consolidated Figures (Rs. Crores)": {
+        "Sep 2021": { "Sales": 940, "Expenses": 774, "Operating Profit": 167, "OPM %": "18%", "Other Income": 12, "Interest": 17, "Depreciation": 46, "Profit before tax": 116, "Tax %": "14%", "Net Profit": 99, "EPS in Rs": 4.86 },
+        "Dec 2021": { "Sales": 960, "Expenses": 787, "Operating Profit": 173, "OPM %": "18%", "Other Income": 7, "Interest": 16, "Depreciation": 46, "Profit before tax": 117, "Tax %": "17%", "Net Profit": 98, "EPS in Rs": 4.77 },
+        "Mar 2022": { "Sales": 941, "Expenses": 768, "Operating Profit": 172, "OPM %": "18%", "Other Income": 10, "Interest": 16, "Depreciation": 47, "Profit before tax": 119, "Tax %": "42%", "Net Profit": 69, "EPS in Rs": 3.37 },
+        "Jun 2022": { "Sales": 1033, "Expenses": 842, "Operating Profit": 192, "OPM %": "19%", "Other Income": 8, "Interest": 15, "Depreciation": 47, "Profit before tax": 137, "Tax %": "19%", "Net Profit": 111, "EPS in Rs": 5.41 },
+        "Sep 2022": { "Sales": 1142, "Expenses": 898, "Operating Profit": 244, "OPM %": "21%", "Other Income": 31, "Interest": 15, "Depreciation": 49, "Profit before tax": 211, "Tax %": "20%", "Net Profit": 169, "EPS in Rs": 8.26 },
+        "Dec 2022": { "Sales": 1128, "Expenses": 874, "Operating Profit": 254, "OPM %": "23%", "Other Income": 12, "Interest": 19, "Depreciation": 57, "Profit before tax": 190, "Tax %": "19%", "Net Profit": 154, "EPS in Rs": 7.52 },
+        "Mar 2023": { "Sales": 1222, "Expenses": 946, "Operating Profit": 276, "OPM %": "23%", "Other Income": 15, "Interest": 21, "Depreciation": 56, "Profit before tax": 214, "Tax %": "19%", "Net Profit": 173, "EPS in Rs": 8.47 },
+        "Jun 2023": { "Sales": 1233, "Expenses": 963, "Operating Profit": 271, "OPM %": "22%", "Other Income": 15, "Interest": 21, "Depreciation": 59, "Profit before tax": 206, "Tax %": "11%", "Net Profit": 184, "EPS in Rs": 9.00 },
+        "Sep 2023": { "Sales": 1305, "Expenses": 997, "Operating Profit": 308, "OPM %": "24%", "Other Income": 18, "Interest": 23, "Depreciation": 55, "Profit before tax": 248, "Tax %": "9%", "Net Profit": 227, "EPS in Rs": 11.09 }
+      }
+    },
+    "Annual Results": {
+      "Consolidated Figures (Rs. Crores)": {
+        "Mar 2013": { "Sales": 839, "Expenses": 769, "Operating Profit": 70, "OPM %": "8%", "Other Income": 28, "Interest": 19, "Depreciation": 46, "Profit before tax": 34, "Tax %": "29%", "Net Profit": 24, "EPS in Rs": 762.14 },
+        "Mar 2014": { "Sales": 1095, "Expenses": 989, "Operating Profit": 106, "OPM %": "10%", "Other Income": 39, "Interest": 31, "Depreciation": 57, "Profit before tax": 57, "Tax %": "38%", "Net Profit": 29, "EPS in Rs": 974.49 },
+        "Mar 2015": { "Sales": 1364, "Expenses": 1236, "Operating Profit": 128, "OPM %": "9%", "Other Income": 6, "Interest": 45, "Depreciation": 68, "Profit before tax": 21, "Tax %": "71%", "Net Profit": -19, "EPS in Rs": -0.84 },
+        "Mar 2016": { "Sales": 1614, "Expenses": 1434, "Operating Profit": 180, "OPM %": "11%", "Other Income": -19, "Interest": 33, "Depreciation": 76, "Profit before tax": 51, "Tax %": "59%", "Net Profit": 21, "EPS in Rs": 1.04 },
+        "Mar 2017": { "Sales": 1878, "Expenses": 1642, "Operating Profit": 236, "OPM %": "13%", "Other Income": 7, "Interest": 28, "Depreciation": 80, "Profit before tax": 135, "Tax %": "39%", "Net Profit": 83, "EPS in Rs": 4.06 },
+        "Mar 2018": { "Sales": 2281, "Expenses": 2064, "Operating Profit": 217, "OPM %": "10%", "Other Income": 18, "Interest": 55, "Depreciation": 100, "Profit before tax": 80, "Tax %": "36%", "Net Profit": 51, "EPS in Rs": 2.51 },
+        "Mar 2019": { "Sales": 2861, "Expenses": 2566, "Operating Profit": 295, "OPM %": "10%", "Other Income": 16, "Interest": 81, "Depreciation": 137, "Profit before tax": 93, "Tax %": "37%", "Net Profit": 59, "EPS in Rs": 2.90 },
+        "Mar 2020": { "Sales": 3128, "Expenses": 2694, "Operating Profit": 434, "OPM %": "14%", "Other Income": 7, "Interest": 94, "Depreciation": 186, "Profit before tax": 161, "Tax %": "26%", "Net Profit": 119, "EPS in Rs": 5.82 },
+        "Mar 2021": { "Sales": 2583, "Expenses": 2394, "Operating Profit": 189, "OPM %": "7%", "Other Income": 21, "Interest": 82, "Depreciation": 184, "Profit before tax": -56, "Tax %": "-75%", "Net Profit": -14, "EPS in Rs": -0.70 },
+        "Mar 2022": { "Sales": 3701, "Expenses": 3038, "Operating Profit": 664, "OPM %": "18%", "Other Income": 26, "Interest": 76, "Depreciation": 183, "Profit before tax": 430, "Tax %": "20%", "Net Profit": 342, "EPS in Rs": 16.73 },
+        "Mar 2023": { "Sales": 4525, "Expenses": 3538, "Operating Profit": 987, "OPM %": "22%", "Other Income": 59, "Interest": 84, "Depreciation": 210, "Profit before tax": 752, "Tax %": "19%", "Net Profit": 607, "EPS in Rs": 29.67 }
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Note": "Data available in Annual Balance Sheet"
+    },
+    "Cash Flow Summaries": {
+      "Note": "Data available in Annual Cash Flow statements"
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "16%",
+        "5 Years": "12%",
+        "3 Years": "25%",
+        "TTM": "7%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "51%",
+        "5 Years": "68%",
+        "3 Years": "365%",
+        "TTM": "6%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": "33%",
+        "3 Years": "32%",
+        "1 Year": "10%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Note": "Not explicitly provided, but can be calculated from Balance Sheet data"
+    },
+    "Profitability Ratios": {
+      "Return on Equity": {
+        "10 Years": "17%",
+        "5 Years": "24%",
+        "3 Years": "31%",
+        "Last Year": "31%"
+      },
+      "ROCE %": {
+        "Mar 2013": "5%",
+        "Mar 2014": "8%",
+        "Mar 2015": "7%",
+        "Mar 2016": "9%",
+        "Mar 2017": "14%",
+        "Mar 2018": "9%",
+        "Mar 2019": "9%",
+        "Mar 2020": "14%",
+        "Mar 2021": "2%",
+        "Mar 2022": "25%",
+        "Mar 2023": "32%",
+        "Mar 2024": "27%"
+      },
+      "OPM %": {
+        "Note": "Available in Quarterly and Annual Profit & Loss statements"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": {
+        "Note": "Can be calculated from Current Price and Book Value"
+      },
+      "Market Cap / Sales": {
+        "Note": "Can be calculated from Market Cap and Sales data"
+      },
+      "EV / EBITDA": {
+        "Note": "Data not explicitly provided"
+      }
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Note": "Available in Annual Ratios"
+      },
+      "Inventory Days": {
+        "Note": "Available in Annual Ratios"
+      },
+      "Days Payable": {
+        "Note": "Available in Annual Ratios"
+      },
+      "Cash Conversion Cycle": {
+        "Note": "Available in Annual Ratios"
+      },
+      "Working Capital Days": {
+        "Note": "Available in Annual Ratios"
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Max Healthcare", "CMP": 1165.20, "P/E": 106.97, "Mar Cap": 113272.83, "Div Yld": 0.13, "NP Qtr": 281.81, "Qtr Profit Var": 1.85, "Sales Qtr": 1707.46, "Qtr Sales Var": 25.26, "ROCE": 16.00},
+      {"Name": "Apollo Hospitals", "CMP": 7251.70, "P/E": 88.13, "Mar Cap": 104268.32, "Div Yld": 0.22, "NP Qtr": 395.70, "Qtr Profit Var": 63.46, "Sales Qtr": 5589.30, "Qtr Sales Var": 15.32, "ROCE": 15.11},
+      {"Name": "Fortis Health.", "CMP": 677.85, "P/E": 74.39, "Mar Cap": 51174.84, "Div Yld": 0.15, "NP Qtr": 193.08, "Qtr Profit Var": 26.85, "Sales Qtr": 1988.39, "Qtr Sales Var": 12.34, "ROCE": 10.34},
+      {"Name": "Global Health", "CMP": 1098.60, "P/E": 60.47, "Mar Cap": 29507.01, "Div Yld": 0.00, "NP Qtr": 130.81, "Qtr Profit Var": 4.51, "Sales Qtr": 956.56, "Qtr Sales Var": 13.34, "ROCE": 19.32},
+      {"Name": "Poly Medicure", "CMP": 2595.75, "P/E": 89.20, "Mar Cap": 26301.62, "Div Yld": 0.12, "NP Qtr": 87.45, "Qtr Profit Var": 40.62, "Sales Qtr": 420.02, "Qtr Sales Var": 24.53, "ROCE": 23.62},
+      {"Name": "Dr Lal Pathlabs", "CMP": 2946.25, "P/E": 61.35, "Mar Cap": 24625.42, "Div Yld": 0.81, "NP Qtr": 130.80, "Qtr Profit Var": 18.21, "Sales Qtr": 660.20, "Qtr Sales Var": 9.80, "ROCE": 25.17}
+    ],
+    "Median": {
+      "CMP": 572.25,
+      "P/E": 60.91,
+      "Mar Cap": 4461.75,
+      "Div Yld": 0.13,
+      "NP Qtr": 21.97,
+      "Qtr Profit Var": 25.87,
+      "Sales Qtr": 182.95,
+      "Qtr Sales Var": 14.06,
+      "ROCE": 18.72
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 67.8% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 30.9%"
+    ],
+    "Cons": [
+      "Stock is trading at 8.21 times its book value",
+      "Tax rate seems low"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": {
+      "Recent": [
+        {"Date": "12 Dec", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication"},
+        {"Date": "11 Dec", "Title": "Shareholder Meeting / Postal Ballot-Notice of Postal Ballot"},
+        {"Date": "7 Dec", "Title": "Announcement under Regulation 30 (LODR)-Acquisition"},
+        {"Date": "29 Nov", "Title": "Announcement under Regulation 30 (LODR)-Scheme of Arrangement"},
+        {"Date": "29 Nov", "Title": "Announcement Under Regulation 30 Of SEBI Listing Regulation 2015 - Clarification On News Item Appearing In Mainstream Media"}
+      ],
+      "Important": []
+    },
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"}
+    ],
+    "DRHP": [],
+    "Credit Ratings": [
+      {"Date": "2 Feb", "Source": "icra"},
+      {"Date": "6 Mar 2023", "Source": "icra"},
+      {"Date": "25 Apr 2022", "Source": "icra"},
+      {"Date": "15 Apr 2021", "Source": "icra"},
+      {"Date": "14 Sep 2020", "Source": "icra"},
+      {"Date": "3 Jul 2020", "Source": "icra"}
+    ],
+    "Concalls": {
+      "Note": "Numerous concall transcripts and presentations are listed, but detailed content is not provided in the HTML."
+    }
+  }
+}

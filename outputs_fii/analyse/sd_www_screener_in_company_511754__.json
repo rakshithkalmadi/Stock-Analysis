@@ -1,0 +1,166 @@
+
+{
+  "Company Overview": {
+    "Name": "Shalibhadra Finance Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Business Description": "NBFC focusing on rural and semi-urban areas in Gujarat, Maharashtra & Madhya Pradesh. Offers a wide range of small ticket asset financing and customized retail products such as financing New & Used 2 wheelers, Auto rickshaws, cars & consumer durables.",
+    "Market Position": "Asset under management of about Rs. 130 crores and an active customer base of 1+ Lac"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 550 Cr.",
+    "Current Price": "₹ 713",
+    "High/Low": "₹ 845 / ₹ 407",
+    "Stock P/E": "41.3",
+    "Book Value": "₹ 171",
+    "Dividend Yield": "0.17%",
+    "ROCE": "15.8%",
+    "ROE": "13.7%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs further parsing or calculation from Balance Sheet data.
+
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [5.24, 5.57, 6.39, 6.17, 6.55, 7.13, 7.85, 7.34, 7.71, 8.18, 9.52, 8.96, 8.23],
+      "Expenses": [1.72, 1.83, 1.88, 2.11, 2.01, 2.18, 2.91, 2.34, 2.25, 2.35, 3.16, 2.74, 2.10],
+      "Operating Profit": [3.52, 3.74, 4.51, 4.06, 4.54, 4.95, 4.94, 5.00, 5.46, 5.83, 6.36, 6.22, 6.13],
+      "OPM %": ["67.18%", "67.15%", "70.58%", "65.80%", "69.31%", "69.42%", "62.93%", "68.12%", "70.82%", "71.27%", "66.81%", "69.42%", "74.48%"],
+      "Other Income": [0.02, 0.00, 0.00, 0.00, 0.01, 0.00, 0.00, 0.03, 0.00, 0.00, 0.00, 0.00, 0.00],
+      "Interest": [1.62, 1.66, 1.79, 1.74, 1.74, 1.94, 1.74, 1.65, 1.43, 1.52, 1.90, 1.68, 1.53],
+      "Depreciation": [0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02],
+      "Profit before tax": [1.91, 2.07, 2.71, 2.31, 2.80, 3.00, 3.19, 3.36, 4.01, 4.29, 4.44, 4.52, 4.58],
+      "Tax %": ["26.18%", "26.09%", "25.83%", "25.97%", "25.71%", "25.33%", "26.33%", "25.89%", "24.94%", "26.34%", "25.45%", "24.78%", "24.67%"],
+      "Net Profit": [1.41, 1.53, 2.01, 1.71, 2.08, 2.24, 2.35, 2.49, 3.01, 3.16, 3.31, 3.40, 3.45],
+      "EPS in Rs": [2.82, 3.06, 4.02, 3.42, 4.16, 3.97, 3.75, 3.97, 4.30, 4.51, 4.73, 4.86, 4.83]
+    },
+    "Annual Results": {
+      "Sales": [10, 11, 12, 13, 16, 19, 22, 24, 21, 22, 28, 33, 35],
+      "Expenses": [3, 3, 3, 4, 5, 5, 5, 7, 8, 7, 9, 10, 10],
+      "Operating Profit": [8, 8, 9, 9, 11, 15, 17, 17, 13, 15, 19, 23, 25],
+      "OPM %": ["75%", "72%", "72%", "71%", "71%", "76%", "77%", "73%", "64%", "68%", "68%", "70%", "70%"],
+      "Other Income": [-0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Interest": [3, 3, 3, 4, 5, 7, 8, 9, 9, 7, 7, 7, 7],
+      "Depreciation": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Profit before tax": [4, 5, 6, 5, 6, 8, 9, 8, 5, 8, 11, 16, 18],
+      "Tax %": ["37%", "37%", "35%", "37%", "34%", "28%", "28%", "28%", "30%", "26%", "26%", "26%", null],
+      "Net Profit": [3, 3, 4, 3, 4, 6, 6, 6, 4, 6, 8, 12, 13],
+      "EPS in Rs": [5.66, 6.02, 7.58, 6.92, 8.59, 11.33, 12.79, 11.61, 7.02, 12.03, 13.36, 17.10, 18.93]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "12%",
+        "5 Years": "8%",
+        "3 Years": "16%",
+        "TTM": "16%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "15%",
+        "5 Years": "13%",
+        "3 Years": "51%",
+        "TTM": "32%"
+      }
+    },
+    "Liquidity Ratios": null, //Not explicitly provided, needs calculation
+    "Profitability Ratios": {
+      "ROCE %": [24, 22, 23, 20, 19, 19, 17, 15, 12, 14, 15, 16],
+      "ROE": {
+        "10 Years": "14%",
+        "5 Years": "12%",
+        "3 Years": "13%",
+        "Last Year": "14%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": null //Needs calculation
+    },
+    "Other Ratios": {
+      "Debtor Days": [0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 2, 2],
+      "Inventory Days": null,
+      "Days Payable": null,
+      "Cash Conversion Cycle": [0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 2, 2],
+      "Working Capital Days": [715, 763, 786, 870, 948, 1043, -99, -30, -34, -33, -5, 17]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": 6848.25, "P/E": 27.57, "Mar Cap": 423904.26, "Div Yld": 0.53, "NP Qtr": 4013.74, "Qtr Profit Var": 12.64, "Sales Qtr": 17090.27, "Qtr Sales Var": 27.71, "ROCE": 11.92},
+      {"Name": "Bajaj Finserv", "CMP": 1569.65, "P/E": 29.48, "Mar Cap": 250620.07, "Div Yld": 0.06, "NP Qtr": 4180.15, "Qtr Profit Var": 8.19, "Sales Qtr": 33703.74, "Qtr Sales Var": 29.52, "ROCE": 11.72},
+      {"Name": "Jio Financial", "CMP": 304.30, "P/E": 120.37, "Mar Cap": 193330.44, "Div Yld": 0.00, "NP Qtr": 689.07, "Qtr Profit Var": 3.13, "Sales Qtr": 693.50, "Qtr Sales Var": 14.05, "ROCE": 1.55},
+      {"Name": "Bajaj Holdings", "CMP": 10746.75, "P/E": 16.15, "Mar Cap": 119600.58, "Div Yld": 1.22, "NP Qtr": 1510.43, "Qtr Profit Var": -3.67, "Sales Qtr": 279.07, "Qtr Sales Var": 24.18, "ROCE": 13.07},
+      {"Name": "Shriram Finance", "CMP": 2877.25, "P/E": 13.80, "Mar Cap": 108201.51, "Div Yld": 1.56, "NP Qtr": 2153.27, "Qtr Profit Var": 17.99, "Sales Qtr": 10089.54, "Qtr Sales Var": 17.93, "ROCE": 11.27},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": 1189.55, "P/E": 25.96, "Mar Cap": 100010.48, "Div Yld": 0.17, "NP Qtr": 967.80, "Qtr Profit Var": 25.22, "Sales Qtr": 6255.12, "Qtr Sales Var": 35.32, "ROCE": 10.41},
+      {"Name": "HDFC AMC", "CMP": 4262.80, "P/E": 41.19, "Mar Cap": 91089.60, "Div Yld": 1.64, "NP Qtr": 576.88, "Qtr Profit Var": 31.84, "Sales Qtr": 887.21, "Qtr Sales Var": 37.96, "ROCE": 37.72}
+    ],
+    "Median": {
+      "CMP": 202.59,
+      "P/E": 25.6,
+      "Mar Cap": 552.06,
+      "Div Yld": 0.0,
+      "NP Qtr": 5.38,
+      "Qtr Profit Var": 20.11,
+      "Sales Qtr": 24.74,
+      "Qtr Sales Var": 26.2,
+      "ROCE": 10.26
+    }
+  },
+  "Other Insights": {
+    "Notes": [
+      "Stock is trading at 4.17 times its book value",
+      "Company has a low return on equity of 12.8% over last 3 years.",
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [51.39, 51.39, 51.39, 50.41, 55.35, 55.35, 55.35, 60.01, 60.01, 60.01, 60.01, 54.83],
+      "FIIs": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 1.16, 1.05],
+      "Public": [48.61, 48.61, 48.61, 49.58, 44.64, 44.64, 44.66, 40.00, 40.01, 40.01, 38.83, 44.12]
+    },
+    "Yearly": {
+      "Promoters": [51.39, 51.39, 51.39, 51.39, 51.39, 51.39, 55.35, 60.01, 54.83],
+      "FIIs": [0.00, 1.18, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 1.05],
+      "Public": [48.61, 47.43, 48.61, 48.61, 48.61, 48.61, 44.64, 40.01, 44.12]
+    },
+    "No. of Shareholders": [1655, 1752, 1976, 1900, 1892, 1931, 1797, 1775, 1843, 1833, 2070, 2097]
+  },
+  "Balance Sheet": {
+    "data": [
+      {"year": "Mar 2013", "Equity Capital": 5, "Reserves": 8, "Borrowings": 19, "Other Liabilities": 5, "Total Liabilities": 37, "Fixed Assets": 1, "CWIP": 0, "Investments": 0, "Other Assets": 36, "Total Assets": 37},
+      {"year": "Mar 2014", "Equity Capital": 5, "Reserves": 10, "Borrowings": 21, "Other Liabilities": 5, "Total Liabilities": 41, "Fixed Assets": 1, "CWIP": 0, "Investments": 0, "Other Assets": 41, "Total Assets": 41},
+      {"year": "Mar 2015", "Equity Capital": 5, "Reserves": 14, "Borrowings": 25, "Other Liabilities": 6, "Total Liabilities": 50, "Fixed Assets": 1, "CWIP": 0, "Investments": 0, "Other Assets": 49, "Total Assets": 50},
+      {"year": "Mar 2016", "Equity Capital": 5, "Reserves": 16, "Borrowings": 29, "Other Liabilities": 4, "Total Liabilities": 55, "Fixed Assets": 1, "CWIP": 0, "Investments": 0, "Other Assets": 53, "Total Assets": 55},
+      {"year": "Mar 2017", "Equity Capital": 5, "Reserves": 20, "Borrowings": 43, "Other Liabilities": 4, "Total Liabilities": 73, "Fixed Assets": 2, "CWIP": 0, "Investments": 1, "Other Assets": 70, "Total Assets": 73},
+      {"year": "Mar 2018", "Equity Capital": 5, "Reserves": 26, "Borrowings": 60, "Other Liabilities": 6, "Total Liabilities": 96, "Fixed Assets": 2, "CWIP": 0, "Investments": 1, "Other Assets": 93, "Total Assets": 96},
+      {"year": "Mar 2019", "Equity Capital": 5, "Reserves": 32, "Borrowings": 71, "Other Liabilities": 7, "Total Liabilities": 115, "Fixed Assets": 2, "CWIP": 0, "Investments": 1, "Other Assets": 112, "Total Assets": 115},
+      {"year": "Mar 2020", "Equity Capital": 5, "Reserves": 37, "Borrowings": 76, "Other Liabilities": 5, "Total Liabilities": 123, "Fixed Assets": 2, "CWIP": 0, "Investments": 2, "Other Assets": 119, "Total Assets": 123},
+      {"year": "Mar 2021", "Equity Capital": 5, "Reserves": 40, "Borrowings": 62, "Other Liabilities": 4, "Total Liabilities": 112, "Fixed Assets": 2, "CWIP": 0, "Investments": 0, "Other Assets": 110, "Total Assets": 112},
+      {"year": "Mar 2022", "Equity Capital": 5, "Reserves": 53, "Borrowings": 57, "Other Liabilities": 3, "Total Liabilities": 117, "Fixed Assets": 2, "CWIP": 0, "Investments": 0, "Other Assets": 115, "Total Assets": 117},
+      {"year": "Mar 2023", "Equity Capital": 6, "Reserves": 72, "Borrowings": 55, "Other Liabilities": 3, "Total Liabilities": 136, "Fixed Assets": 3, "CWIP": 0, "Investments": 0, "Other Assets": 134, "Total Assets": 136},
+      {"year": "Mar 2024", "Equity Capital": 7, "Reserves": 90, "Borrowings": 58, "Other Liabilities": 3, "Total Liabilities": 158, "Fixed Assets": 3, "CWIP": 0, "Investments": 0, "Other Assets": 156, "Total Assets": 158},
+      {"year": "Sep 2024", "Equity Capital": 7, "Reserves": 115, "Borrowings": 46, "Other Liabilities": 5, "Total Liabilities": 173, "Fixed Assets": 3, "CWIP": 0, "Investments": 2, "Other Assets": 168, "Total Assets": 173}
+    ]
+  },
+  "Cash Flows": {
+    "data": [
+      {"year": "Mar 2013", "Cash from Operating Activity": -1, "Cash from Investing Activity": 0, "Cash from Financing Activity": 1, "Net Cash Flow": 0},
+      {"year": "Mar 2014", "Cash from Operating Activity": -2, "Cash from Investing Activity": 0, "Cash from Financing Activity": 2, "Net Cash Flow": 0},
+      {"year": "Mar 2015", "Cash from Operating Activity": -4, "Cash from Investing Activity": 0, "Cash from Financing Activity": 5, "Net Cash Flow": 0},
+      {"year": "Mar 2016", "Cash from Operating Activity": -3, "Cash from Investing Activity": 0, "Cash from Financing Activity": 3, "Net Cash Flow": 0},
+      {"year": "Mar 2017", "Cash from Operating Activity": -12, "Cash from Investing Activity": -2, "Cash from Financing Activity": 14, "Net Cash Flow": 1},
+      {"year": "Mar 2018", "Cash from Operating Activity": -15, "Cash from Investing Activity": 0, "Cash from Financing Activity": 17, "Net Cash Flow": 2},
+      {"year": "Mar 2019", "Cash from Operating Activity": -12, "Cash from Investing Activity": -1, "Cash from Financing Activity": 12, "Net Cash Flow": -1},
+      {"year": "Mar 2020", "Cash from Operating Activity": 0, "Cash from Investing Activity": -2, "Cash from Financing Activity": 4, "Net Cash Flow": 3},
+      {"year": "Mar 2021", "Cash from Operating Activity": 7, "Cash from Investing Activity": 2, "Cash from Financing Activity": -14, "Net Cash Flow": -4},
+      {"year": "Mar 2022", "Cash from Operating Activity": 2, "Cash from Investing Activity": -1, "Cash from Financing Activity": 1, "Net Cash Flow": 2},
+      {"year": "Mar 2023", "Cash from Operating Activity": -5, "Cash from Investing Activity": -2, "Cash from Financing Activity": 11, "Net Cash Flow": 4},
+      {"year": "Mar 2024", "Cash from Operating Activity": 3, "Cash from Investing Activity": -2, "Cash from Financing Activity": 9, "Net Cash Flow": 10}
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+
+{
+  "Company Overview": {
+    "Name": "Gretex Corporate Services Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Business Description": "SEBI Registered Category I Merchant Banker offering financial and consultancy services in Capital Markets, Corporate Finance, Corporate Restructuring, Debt Syndication, and Compliance Advisory. Listed 9 companies on BSE SME Platform in FY23.",
+    "MarketPosition": "Not explicitly stated, but peer comparison data is provided."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 573 Cr.",
+    "CurrentPrice": "₹ 481",
+    "High/Low": "₹ 617 / ₹ 302",
+    "StockPE": 13.3,
+    "BookValue": "₹ 171",
+    "DividendYield": "0.12%",
+    "ROCE": "50.2%",
+    "ROE": "37.4%",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Not explicitly stated, but described as 'almost debt free'"
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": [7, 5, 44, 54, 40, 94],
+      "Expenses": [1, 2, 4, 21, 35, 30, 77],
+      "OperatingProfit": [5, 2, 23, 19, 9, 17],
+      "OPM%": ["71%", "29%", "53%", "35%", "24%", "18%"],
+      "OtherIncome": [17, 1, 2, 0, 0, 3],
+      "Interest": [0, 0, 0, 0, 0, 0],
+      "Depreciation": [0, 0, 0, 0, 0, 1],
+      "ProfitBeforeTax": [21, 2, 25, 18, 9, 19],
+      "Tax%": ["6%", "16%", "24%", "25%", "25%", "22%"],
+      "NetProfit": [20, 2, 19, 12, 7, 15],
+      "EPSinRs": [18.63, 1.79, 16.26, 7.80, 4.36, 8.33]
+    },
+    "AnnualResults": {
+      "Sales": [2, 3, 1, 3, 4, 14, 113, 231],
+      "Expenses": [3, 2, 2, 2, 3, 5, 65, 163],
+      "OperatingProfit": [1, -1, 1, 2, 9, 48, 68],
+      "OPM%": ["22%", "-78%", "35%", "38%", "62%", "43%", "29%"],
+      "OtherIncome": [0, 0, 0, 0, 0, 16, 2, 5],
+      "Interest": [0, 0, 0, 0, 0, 0, 1, 0],
+      "Depreciation": [0, 0, 0, 0, 0, 0, 2, 2],
+      "ProfitBeforeTax": [0, -1, 1, 2, 24, 47, 71],
+      "Tax%": ["20%", "1%", "4%", "3%", "9%", "22%"],
+      "NetProfit": [0, -2, 1, 4, 22, 37, 52],
+      "EPSinRs": [0.40, -2.54, 0.69, 3.05, 18.63, 23.58, 36.75]
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": [0.65, 0.65, 0.65, 0.90, 1, 10, 12, 12],
+      "Reserves": [4, 5, 3, 5, 12, 28, 97, 191],
+      "Borrowings": [2, 3, 4, 2, 2, 0, 4, 7],
+      "OtherLiabilities": [1, 1, 1, 1, 4, 10, 63, 81],
+      "TotalLiabilities": [8, 9, 8, 10, 20, 48, 177, 291],
+      "FixedAssets": [4, 3, 3, 3, 9, 10, 41, 43],
+      "CWIP": [0, 0, 0, 0, 0, 0, 0, 0],
+      "Investments": [3, 4, 4, 5, 8, 33, 50, 132],
+      "OtherAssets": [1, 2, 1, 2, 2, 5, 86, 116],
+      "TotalAssets": [8, 9, 8, 10, 20, 48, 177, 291]
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": [-0, 0, -0, 1, 2, 10, -19],
+      "CashFromInvestingActivity": [1, -0, -0, -1, -4, -8, -37],
+      "CashFromFinancingActivity": [-0, 0, 1, 0, 3, -2, 67],
+      "NetCashFlow": [0, 0, 0, 0, 0, 1, 12]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": null,
+        "5Years": "105%",
+        "3Years": "230%",
+        "TTM": "705%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": null,
+        "5Years": "156%",
+        "3Years": "254%",
+        "TTM": "28%"
+      },
+      "StockPriceCAGR": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "182%",
+        "1Year": "58%"
+      }
+    },
+    "LiquidityRatios": {
+      "WorkingCapitalDays": [-30, 45, -62, 79, 50, -90, 150]
+    },
+    "ProfitabilityRatios": {
+      "ROCE%": [7, -11, 13, 14, 79, 50],
+      "ROE": {
+        "10Years": null,
+        "5Years": "43%",
+        "3Years": "48%",
+        "LastYear": "37%"
+      }
+    },
+    "ValuationRatios": {
+      "PE": 13.3,
+      "PriceToBook": null
+    },
+    "OtherRatios": {
+      "DebtorDays": [16, 25, 49, 144, 41, 15, 7],
+      "InventoryDays": 363,
+      "DaysPayable": 0,
+      "CashConversionCycle": [16, 25, 49, 144, 41, 15, 369]
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": 6848.25, "PE": 27.57, "MarCap": 423904.26, "DivYld": 0.53, "NPQtr": 4013.74, "QtrProfitVar": 12.64, "SalesQtr": 17090.27, "QtrSalesVar": 27.71, "ROCE": 11.92},
+      {"Name": "Bajaj Finserv", "CMP": 1569.65, "PE": 29.48, "MarCap": 250620.07, "DivYld": 0.06, "NPQtr": 4180.15, "QtrProfitVar": 8.19, "SalesQtr": 33703.74, "QtrSalesVar": 29.52, "ROCE": 11.72},
+      {"Name": "Jio Financial", "CMP": 304.30, "PE": 120.37, "MarCap": 193330.44, "DivYld": 0.00, "NPQtr": 689.07, "QtrProfitVar": 3.13, "SalesQtr": 693.50, "QtrSalesVar": 14.05, "ROCE": 1.55},
+      {"Name": "Bajaj Holdings", "CMP": 10746.75, "PE": 16.15, "MarCap": 119600.58, "DivYld": 1.22, "NPQtr": 1510.43, "QtrProfitVar": -3.67, "SalesQtr": 279.07, "QtrSalesVar": 24.18, "ROCE": 13.07},
+      {"Name": "Shriram Finance", "CMP": 2877.25, "PE": 13.80, "MarCap": 108201.51, "DivYld": 1.56, "NPQtr": 2153.27, "QtrProfitVar": 17.99, "SalesQtr": 10089.54, "QtrSalesVar": 17.93, "ROCE": 11.27},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": 1189.55, "PE": 25.96, "MarCap": 100010.48, "DivYld": 0.17, "NPQtr": 967.80, "QtrProfitVar": 25.22, "SalesQtr": 6255.12, "QtrSalesVar": 35.32, "ROCE": 10.41},
+      {"Name": "HDFC AMC", "CMP": 4262.80, "PE": 41.19, "MarCap": 91089.60, "DivYld": 1.64, "NPQtr": 576.88, "QtrProfitVar": 31.84, "SalesQtr": 887.21, "QtrSalesVar": 37.96, "ROCE": 37.72}
+    ],
+    "Median": {
+      "CMP": 202.59,
+      "PE": 25.6,
+      "MarCap": 552.06,
+      "DivYld": 0.0,
+      "NPQtr": 5.38,
+      "QtrProfitVar": 20.11,
+      "SalesQtr": 24.74,
+      "QtrSalesVar": 26.2,
+      "ROCE": 10.26
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 156% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 48.0%",
+      "Promoter holding has increased by 2.22% over last quarter."
+    ],
+    "Cons": [
+      "Promoter holding has decreased over last 3 years: -7.24%",
+      "Working capital days have increased from 36.7 days to 150 days"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "ShareholdingPattern": {
+    "Quarterly": {
+      "Sep2021": {"Promoters": "73.48%", "Public": "26.52%", "NoofShareholders": 123},
+      "Mar2022": {"Promoters": "73.48%", "Public": "26.52%", "NoofShareholders": 84},
+      "Sep2022": {"Promoters": "73.48%", "Public": "26.52%", "NoofShareholders": 82},
+      "Oct2022": {"Promoters": "73.48%", "Public": "26.51%", "NoofShareholders": 105},
+      "Mar2023": {"Promoters": "69.61%", "Public": "30.39%", "NoofShareholders": 96},
+      "Sep2023": {"Promoters": "66.24%", "Public": "33.76%", "NoofShareholders": 924},
+      "Mar2024": {"Promoters": "66.24%", "Public": "33.76%", "NoofShareholders": 1101},
+      "Sep2024": {"Promoters": "66.24%", "Public": "33.76%", "NoofShareholders": 1008}
+    },
+    "Yearly": {
+      "Mar2022": {"Promoters": "73.48%", "Public": "26.52%", "NoofShareholders": 84},
+      "Mar2023": {"Promoters": "69.61%", "Public": "30.39%", "NoofShareholders": 96},
+      "Mar2024": {"Promoters": "66.24%", "Public": "33.76%", "NoofShareholders": 1101},
+      "Sep2024": {"Promoters": "66.24%", "Public": "33.76%", "NoofShareholders": 1008}
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "9 Dec", "Title": "Intimation Under Regulation 30 Of SEBI (LODR) Regulations, 2015- Rejection Letter Received From SEBI ('SEBI').", "Description": "SEBI rejected settlement application for administrative warning."},
+      {"Date": "23 Nov", "Title": "Announcement Under Regulation 30 Of SEBI LODR Regulations, 2015", "Description": "Closure of application for Alternative Investment Fund."},
+      {"Date": "21 Nov", "Title": "Intimation Of Revised Record Date", "Description": "Revised record date for interim dividend announced."},
+      {"Date": "8 Nov", "Title": "Intimation Of Revised Record Date", "Description": "Revised record date for interim dividend payment."},
+      {"Date": "8 Nov", "Title": "Related Party Disclosure Under Regulation 23(9) Of SEBI (LODR) Regulations, 2015", "Description": "Disclosure on Related Party Transactions not applicable."}
+    ],
+    "AnnualReports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"}
+    ],
+    "Concalls": [
+      {"Date": "Aug 2023", "Type": "Transcript", "Notes": null, "PPT": null}
+    ]
+  }
+}

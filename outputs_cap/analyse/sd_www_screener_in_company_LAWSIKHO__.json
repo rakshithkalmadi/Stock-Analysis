@@ -1,0 +1,170 @@
+
+{
+  "Company Overview": {
+    "Name": "Addictive Learning Technology Ltd",
+    "Sector": "Education",
+    "Industry": "Miscellaneous",
+    "Business Description": "Addictive Learning Technology Ltd is an edtech platform focused on upskilling and career services, primarily for senior and mid-career professionals, with some offerings for young professionals. Through its brands LawSikho, Skill Arbitrage, and Dataisgood, it provides a broad range of courses including Law, Finance, Accounting, Corporate Governance, Compliance, HR, Business Consulting, AI, Content Writing, Video Editing, and Data Science.  It also offers programs for college students and recent graduates. Its courses open up remote career opportunities in the international market, with popular subjects like US IP Law, Tax Law, Accounting, Corporate Compliance, Contract Drafting, and Business Law. It provides international bar exam preparation for Canada, the UK, and California, USA.",
+    "Market Position": "Information not explicitly provided in the HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 596 Cr.",
+    "Current Price": "₹ 374",
+    "High/Low": "₹ 448 / ₹ 188",
+    "P/E Ratio": "68.9",
+    "Book Value": "₹ 46.2",
+    "Dividend Yield": "0.00%",
+    "ROCE": "40.1%",
+    "ROE": "18.8%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly provided, but implied to be low based on 'Company is almost debt free' note."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Mar 2023": "16.43",
+        "Sep 2023": "30.97",
+        "Mar 2024": "32.98",
+        "Sep 2024": "40.88"
+      },
+      "Expenses": {
+        "Mar 2023": "18.75",
+        "Sep 2023": "25.29",
+        "Mar 2024": "26.11",
+        "Sep 2024": "31.45"
+      },
+      "Net Profit": {
+        "Mar 2023": "-1.66",
+        "Sep 2023": "3.74",
+        "Mar 2024": "2.79",
+        "Sep 2024": "5.86"
+      },
+      "EPS": {
+        "Mar 2023": "-1,660.00",
+        "Sep 2023": "7.48",
+        "Mar 2024": "1.75",
+        "Sep 2024": "3.68"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2020": "2.50",
+        "Mar 2021": "6.78",
+        "Mar 2022": "18.57",
+        "Mar 2023": "33.53",
+        "Mar 2024": "63.93",
+        "TTM": "73.86"
+      },
+      "Net Profit": {
+        "Mar 2020": "-0.01",
+        "Mar 2021": "-0.01",
+        "Mar 2022": "-0.49",
+        "Mar 2023": "2.47",
+        "Mar 2024": "6.53",
+        "TTM": "8.65"
+      },
+      "EPS": {
+        "Mar 2020": "-10.00",
+        "Mar 2021": "-10.00",
+        "Mar 2022": "-490.00",
+        "Mar 2023": "2,470.00",
+        "Mar 2024": "4.10",
+        "TTM": "5.43"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": {
+        "Mar 2024": "15.91",
+        "Sep 2024": "15.91"
+      },
+      "Reserves": {
+        "Mar 2024": "51.75",
+        "Sep 2024": "57.61"
+      },
+      "Borrowings": {
+        "Mar 2024": "0.00",
+        "Sep 2024": "0.00"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": {
+        "Mar 2024": "18.21"
+      },
+      "Cash from Investing Activity": {
+        "Mar 2024": "-29.32"
+      },
+      "Cash from Financing Activity": {
+        "Mar 2024": "58.91"
+      },
+      "Net Cash Flow": {
+        "Mar 2024": "47.80"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (3 Years)": "111%",
+      "Compounded Sales Growth (TTM)": "56%",
+      "Compounded Profit Growth (3 Years)": "768%",
+      "Compounded Profit Growth (TTM)": "316%"
+    },
+    "Liquidity Ratios": "Information not explicitly provided.",
+    "Profitability Ratios": {
+      "ROCE (Mar 2024)": "40.13%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "68.9",
+      "Price to Book": "Information not explicitly provided but can be calculated from available data."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Vantage Knowledg", "CMP": "232.15", "P/E": "1289.00", "Mar Cap": "2642.45", "Div Yld": "0.00", "NP Qtr": "0.86", "Qtr Profit Var": "207.14", "Sales Qtr": "1.17", "Qtr Sales Var": "67.14", "ROCE": "20.51"},
+      {"Name": "Shanti Educat.", "CMP": "162.75", "P/E": "534.75", "Mar Cap": "2620.28", "Div Yld": "0.00", "NP Qtr": "2.70", "Qtr Profit Var": "92.86", "Sales Qtr": "6.29", "Qtr Sales Var": "116.15", "ROCE": "7.43"},
+      {"Name": "Veranda Learning", "CMP": "242.73", "P/E": "1732.67", "Mar Cap": "0.00", "Div Yld": "0.00", "NP Qtr": "-30.37", "Qtr Profit Var": "-1866.67", "Sales Qtr": "138.62", "Qtr Sales Var": "40.92", "ROCE": "-0.33"},
+      {"Name": "Lucent Industrie", "CMP": "564.15", "P/E": "846.23", "Mar Cap": "0.00", "Div Yld": "0.00", "NP Qtr": "-0.13", "Qtr Profit Var": "-1200.00", "Sales Qtr": "0.00", "Qtr Sales Var": "-0.64"},
+      {"Name": "Career Point", "CMP": "394.80", "P/E": "11.57", "Mar Cap": "718.26", "Div Yld": "0.76", "NP Qtr": "12.94", "Qtr Profit Var": "12.15", "Sales Qtr": "26.41", "Qtr Sales Var": "29.21", "ROCE": "13.36"},
+      {"Name": "CL Educate", "CMP": "118.74", "P/E": "60.55", "Mar Cap": "642.36", "Div Yld": "0.00", "NP Qtr": "3.38", "Qtr Profit Var": "-38.32", "Sales Qtr": "98.68", "Qtr Sales Var": "10.83", "ROCE": "7.62"}
+    ],
+    "Median": {
+      "CMP": "197.43",
+      "P/E": "59.09",
+      "Mar Cap": "520.08",
+      "Div Yld": "0.0",
+      "NP Qtr": "1.31",
+      "Qtr Profit Var": "-14.27",
+      "Sales Qtr": "14.29",
+      "Qtr Sales Var": "30.61",
+      "ROCE": "10.38"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free."
+    ],
+    "Cons": [
+      "Stock is trading at 8.10 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "21 December 2024", "Type": "Analysts/Institutional Investor Meet/Con. Call Updates", "Description": "Learning Technology Limited has informed about Transcript of Earnings Conference Call for the Unaudited financial results for the half-year ended September 30, 2024."},
+      {"Date": "18 December 2024", "Type": "Analysts/Institutional Investor Meet/Con. Call Updates", "Description": "Learning Technology Limited has informed about Link of Recording of Earnings Conference Call for the half-year ended September 30, 2024."},
+      {"Date": "13 December 2024", "Type": "Updates", "Description": "Learning Technology Limited has informed regarding 'success of LawSikho learners in Chhattisgarh Judicial Services Interview 2024.'."},
+      {"Date": "11 December 2024", "Type": "Analysts/Institutional Investor Meet/Con. Call Updates", "Description": "Learning Technology Limited has informed about Schedule of meet of Earnings Conference Call on Monday, December 16, 2024, at 04:00 P.M."},
+      {"Date": "5 December 2024", "Type": "Updates", "Description": "Learning Technology Limited has informed regarding '' the success of LawSikho learners at IBPS SO Law Officer 2024 Prelims Examination.'.'."}
+    ],
+    "Annual Reports": {
+      "Financial Year 2024": "from nse"
+    },
+    "Concalls": {
+      "Sep 2024": {"Transcript": true, "Notes": true, "PPT": true},
+      "May 2024": {"Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      "Mar 2024": {"Transcript": true, "Notes": true, "PPT": true}
+    }
+  }
+}

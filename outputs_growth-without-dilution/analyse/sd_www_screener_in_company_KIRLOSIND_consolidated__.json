@@ -1,0 +1,189 @@
+
+{
+  "Company Overview": {
+    "Name": "Kirloskar Industries Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Business Description": "Kirloskar Ind is engaged in the business of Iron castings, Investments (Securities and Properties), Wind power generation and real estate. The Company owns lands, buildings, apartments and offices in Pune, New Delhi and Jaipur. The Co. has given most of these lands, buildings and offices on a lease and license basis to the group and other companies.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Industrials"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 4,725 Cr.",
+    "Current Price": "₹ 4,539",
+    "High/Low": "₹ 6,699 / ₹ 3,341",
+    "Stock P/E": 24.1,
+    "Book Value": "₹ 6,643",
+    "Dividend Yield": "0.29 %",
+    "ROCE": "10.7 %",
+    "ROE": "5.40 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [985, 936, 1037, 1496, 1786, 1606, 1574, 1508, 1578, 1554, 1729, 1559, 1688],
+      "Expenses": [777, 801, 932, 1324, 1562, 1364, 1352, 1300, 1315, 1325, 1488, 1380, 1476],
+      "Operating Profit": [208, 135, 105, 172, 224, 242, 222, 209, 263, 228, 240, 179, 212],
+      "OPM %": ["21%", "14%", "10%", "12%", "13%", "15%", "14%", "14%", "17%", "15%", "14%", "11%", "13%"],
+      "Other Income": [7, 7, 16, 17, 25, 10, 17, 10, -25, 14, -19, 12, 19],
+      "Interest": [5, 6, 14, 21, 25, 25, 26, 30, 30, 30, 32, 34, 37],
+      "Depreciation": [22, 23, 28, 41, 42, 44, 49, 47, 58, 64, 73, 61, 64],
+      "Profit before tax": [187, 113, 79, 127, 182, 183, 164, 142, 150, 148, 116, 96, 130],
+      "Tax %": ["28%", "25%", "156%", "19%", "28%", "28%", "43%", "34%", "39%", "29%", "39%", "31%", "29%"],
+      "Net Profit": [135, 85, -44, 103, 131, 133, 93, 94, 91, 105, 71, 66, 92],
+      "EPS in Rs": [77.99, 45.78, 0.12, 49.42, 70.41, 64.18, 44.39, 41.13, 46.00, 43.42, 61.67, 28.72, 47.75]
+    },
+    "Annual Results": {
+      "Sales": [1239, 1368, 1119, 1137, 1826, 2222, 1916, 2080, 3810, 6490, 6396, 6529],
+      "Expenses": [1127, 1222, 970, 968, 1674, 1962, 1650, 1598, 3125, 5603, 5430, 5670],
+      "Operating Profit": [112, 147, 148, 170, 152, 260, 265, 482, 685, 886, 965, 859],
+      "OPM %": ["9%", "11%", "13%", "15%", "8%", "12%", "14%", "23%", "18%", "14%", "15%", "13%"],
+      "Other Income": [51, 52, 56, 50, 2, 2, 14, 2, 10, 43, -45, 26],
+      "Interest": [23, 30, 24, 14, 13, 18, 19, 27, 31, 97, 122, 134],
+      "Depreciation": [37, 51, 45, 47, 51, 57, 60, 79, 95, 175, 242, 262],
+      "Profit before tax": [103, 117, 136, 159, 91, 188, 200, 378, 568, 658, 556, 490],
+      "Tax %": ["25%", "27%", "26%", "25%", "25%", "30%", "25%", "18%", "44%", "30%", "35%"],
+      "Net Profit": [78, 86, 100, 119, 68, 132, 151, 311, 316, 460, 361, 333],
+      "EPS in Rs": [60.08, 63.50, 74.46, 77.66, 51.10, 86.60, 98.77, 168.71, 197.95, 220.11, 201.86, 181.56]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "18%",
+        "5 Years": "24%",
+        "3 Years": "45%",
+        "TTM": "4%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "15%",
+        "5 Years": "21%",
+        "3 Years": "11%",
+        "TTM": "-4%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "23%",
+        "5 Years": "50%",
+        "3 Years": "45%",
+        "1 Year": "36%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [56, 47, 46, 63, 59, 62, 56, 63, 78, 46, 52],
+      "Inventory Days": [74, 52, 57, 76, 64, 66, 77, 94, 138, 111, 113],
+      "Days Payable": [114, 91, 84, 102, 105, 116, 122, 122, 149, 101, 100],
+      "Cash Conversion Cycle": [17, 8, 19, 37, 17, 12, 11, 35, 66, 55, 65],
+      "Working Capital Days": [13, -6, 26, 45, 17, 40, 38, 34, 72, 47, 52]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["13%", "14%", "14%", "6%", "10%", "12%", "19%", "15%", "13%", "11%"],
+      "Return on Equity": {
+        "10 Years": "7%",
+        "5 Years": "8%",
+        "3 Years": "7%",
+        "Last Year": "5%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": null //Not explicitly available, needs further parsing or inference.
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": 6848.25, "P/E": 27.57, "Mar Cap": 423904.26, "Div Yld": 0.53, "NP Qtr": 4013.74, "Qtr Profit Var": 12.64, "Sales Qtr": 17090.27, "Qtr Sales Var": 27.71, "ROCE": 11.92},
+      {"Name": "Bajaj Finserv", "CMP": 1569.65, "P/E": 29.48, "Mar Cap": 250620.07, "Div Yld": 0.06, "NP Qtr": 4180.15, "Qtr Profit Var": 8.19, "Sales Qtr": 33703.74, "Qtr Sales Var": 29.52, "ROCE": 11.72},
+      {"Name": "Jio Financial", "CMP": 304.30, "P/E": 120.37, "Mar Cap": 193330.44, "Div Yld": 0.00, "NP Qtr": 689.07, "Qtr Profit Var": 3.13, "Sales Qtr": 693.50, "Qtr Sales Var": 14.05, "ROCE": 1.55},
+      {"Name": "Bajaj Holdings", "CMP": 10746.75, "P/E": 16.15, "Mar Cap": 119600.58, "Div Yld": 1.22, "NP Qtr": 1510.43, "Qtr Profit Var": -3.67, "Sales Qtr": 279.07, "Qtr Sales Var": 24.18, "ROCE": 13.07},
+      {"Name": "Shriram Finance", "CMP": 2877.25, "P/E": 13.80, "Mar Cap": 108201.51, "Div Yld": 1.56, "NP Qtr": 2153.27, "Qtr Profit Var": 17.99, "Sales Qtr": 10089.54, "Qtr Sales Var": 17.93, "ROCE": 11.27},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": 1189.55, "P/E": 25.96, "Mar Cap": 100010.48, "Div Yld": 0.17, "NP Qtr": 967.80, "Qtr Profit Var": 25.22, "Sales Qtr": 6255.12, "Qtr Sales Var": 35.32, "ROCE": 10.41},
+      {"Name": "HDFC AMC", "CMP": 4262.80, "P/E": 41.19, "Mar Cap": 91089.60, "Div Yld": 1.64, "NP Qtr": 576.88, "Qtr Profit Var": 31.84, "Sales Qtr": 887.21, "Qtr Sales Var": 37.96, "ROCE": 37.72}
+    ],
+    "Median": {
+      "CMP": 229,
+      "P/E": 25.6,
+      "Mar Cap": 552.06,
+      "Div Yld": 0.0,
+      "NP Qtr": 5.38,
+      "Qtr Profit Var": 20.11,
+      "Sales Qtr": 24.74,
+      "Qtr Sales Var": 26.2,
+      "ROCE": 10.26
+    }
+  },
+  "Other Insights": {
+    "Pros": "Stock is trading at 0.68 times its book value",
+    "Cons": "Company has a low return on equity of 7.04% over last 3 years. Dividend payout has been low at 5.50% of profits over last 3 years",
+    "Disclaimer": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [72.61, 72.58, 72.43, 72.38, 72.37, 71.81, 71.80, 71.77, 71.77, 71.52, 71.44, 71.31],
+      "FIIs": [0.42, 0.40, 0.39, 0.62, 0.58, 0.64, 0.57, 0.69, 0.73, 0.63, 0.71, 0.70],
+      "DIIs": [4.12, 4.12, 4.11, 3.85, 3.46, 2.14, 1.94, 1.89, 1.89, 1.88, 1.94, 1.95],
+      "Public": [22.85, 22.91, 23.08, 23.15, 23.61, 25.39, 25.67, 25.64, 25.61, 25.97, 25.90, 26.03]
+    },
+    "Yearly": {
+      "Promoters": [72.80, 72.80, 73.11, 73.11, 73.11, 72.58, 71.81, 71.52, 71.31],
+      "FIIs": [9.72, 9.88, 9.90, 9.90, 9.90, 0.40, 0.64, 0.63, 0.70],
+      "DIIs": [4.56, 4.56, 4.56, 4.53, 4.25, 4.12, 2.14, 1.88, 1.95],
+      "Public": [12.92, 12.76, 12.43, 12.46, 12.74, 22.91, 25.39, 25.97, 26.03]
+    }
+  },
+  "Balance Sheet": {
+    "data": [
+      {"date": "Mar 2014", "Equity Capital": 10, "Reserves": 713, "Borrowings": 190, "Other Liabilities": 592, "Total Liabilities": 1504, "Fixed Assets": 553, "CWIP": 23, "Investments": 423, "Other Assets": 505, "Total Assets": 1504},
+      {"date": "Mar 2015", "Equity Capital": 10, "Reserves": 750, "Borrowings": 133, "Other Liabilities": 589, "Total Liabilities": 1482, "Fixed Assets": 548, "CWIP": 31, "Investments": 422, "Other Assets": 480, "Total Assets": 1482},
+      {"date": "Mar 2016", "Equity Capital": 10, "Reserves": 799, "Borrowings": 108, "Other Liabilities": 515, "Total Liabilities": 1432, "Fixed Assets": 556, "CWIP": 8, "Investments": 511, "Other Assets": 357, "Total Assets": 1432},
+      {"date": "Mar 2017", "Equity Capital": 10, "Reserves": 875, "Borrowings": 97, "Other Liabilities": 597, "Total Liabilities": 1578, "Fixed Assets": 587, "CWIP": 19, "Investments": 505, "Other Assets": 467, "Total Assets": 1578},
+      {"date": "Mar 2018", "Equity Capital": 10, "Reserves": 1779, "Borrowings": 88, "Other Liabilities": 829, "Total Liabilities": 2706, "Fixed Assets": 599, "CWIP": 76, "Investments": 1423, "Other Assets": 608, "Total Assets": 2706},
+      {"date": "Mar 2019", "Equity Capital": 10, "Reserves": 1356, "Borrowings": 138, "Other Liabilities": 938, "Total Liabilities": 2441, "Fixed Assets": 650, "CWIP": 62, "Investments": 933, "Other Assets": 796, "Total Assets": 2441},
+      {"date": "Mar 2020", "Equity Capital": 10, "Reserves": 1023, "Borrowings": 323, "Other Liabilities": 954, "Total Liabilities": 2310, "Fixed Assets": 897, "CWIP": 144, "Investments": 541, "Other Assets": 728, "Total Assets": 2310},
+      {"date": "Mar 2021", "Equity Capital": 10, "Reserves": 1736, "Borrowings": 305, "Other Liabilities": 1145, "Total Liabilities": 3196, "Fixed Assets": 1057, "CWIP": 243, "Investments": 1068, "Other Assets": 828, "Total Assets": 3196},
+      {"date": "Mar 2022", "Equity Capital": 10, "Reserves": 2319, "Borrowings": 1216, "Other Liabilities": 3241, "Total Liabilities": 6786, "Fixed Assets": 2780, "CWIP": 418, "Investments": 1190, "Other Assets": 2398, "Total Assets": 6786},
+      {"date": "Mar 2023", "Equity Capital": 10, "Reserves": 3243, "Borrowings": 979, "Other Liabilities": 3301, "Total Liabilities": 7534, "Fixed Assets": 3107, "CWIP": 423, "Investments": 1575, "Other Assets": 2429, "Total Assets": 7534},
+      {"date": "Mar 2024", "Equity Capital": 10, "Reserves": 4982, "Borrowings": 1241, "Other Liabilities": 3529, "Total Liabilities": 9761, "Fixed Assets": 3259, "CWIP": 768, "Investments": 3392, "Other Assets": 2342, "Total Assets": 9761},
+      {"date": "Sep 2024", "Equity Capital": 10, "Reserves": 6906, "Borrowings": 1360, "Other Liabilities": 4287, "Total Liabilities": 12563, "Fixed Assets": 3363, "CWIP": 780, "Investments": 5537, "Other Assets": 2883, "Total Assets": 12563}
+    ]
+  },
+  "Cash Flows": {
+    "data": [
+      {"date": "Mar 2014", "Cash from Operating Activity": 83, "Cash from Investing Activity": -69, "Cash from Financing Activity": -9, "Net Cash Flow": 6},
+      {"date": "Mar 2015", "Cash from Operating Activity": 156, "Cash from Investing Activity": -56, "Cash from Financing Activity": -101, "Net Cash Flow": -1},
+      {"date": "Mar 2016", "Cash from Operating Activity": 104, "Cash from Investing Activity": 6, "Cash from Financing Activity": -113, "Net Cash Flow": -4},
+      {"date": "Mar 2017", "Cash from Operating Activity": 88, "Cash from Investing Activity": -51, "Cash from Financing Activity": -28, "Net Cash Flow": 9},
+      {"date": "Mar 2018", "Cash from Operating Activity": 107, "Cash from Investing Activity": -31, "Cash from Financing Activity": -87, "Net Cash Flow": -11},
+      {"date": "Mar 2019", "Cash from Operating Activity": 112, "Cash from Investing Activity": -108, "Cash from Financing Activity": -4, "Net Cash Flow": 0},
+      {"date": "Mar 2020", "Cash from Operating Activity": 185, "Cash from Investing Activity": -258, "Cash from Financing Activity": 108, "Net Cash Flow": 35},
+      {"date": "Mar 2021", "Cash from Operating Activity": 256, "Cash from Investing Activity": -194, "Cash from Financing Activity": -56, "Net Cash Flow": 6},
+      {"date": "Mar 2022", "Cash from Operating Activity": 317, "Cash from Investing Activity": -211, "Cash from Financing Activity": -56, "Net Cash Flow": 50},
+      {"date": "Mar 2023", "Cash from Operating Activity": 760, "Cash from Investing Activity": -369, "Cash from Financing Activity": -397, "Net Cash Flow": -5},
+      {"date": "Mar 2024", "Cash from Operating Activity": 575, "Cash from Investing Activity": -600, "Cash from Financing Activity": -4, "Net Cash Flow": -29}
+    ]
+  },
+  "Documents": {
+    "Announcements": [
+      {"date": "2d", "title": "Update on material subsidiary Kirloskar Ferrous Industries."},
+      {"date": "17 Dec", "title": "Kirloskar Ferrous Industries updates on mining lease approval."},
+      {"date": "30 Nov", "title": "Announcement under Regulation 30 (LODR)-Newspaper Publication"},
+      {"date": "29 Nov", "title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate"},
+      {"date": "27 Nov", "title": "Change in registered office of Kirloskar Industries Limited."}
+    ],
+    "Annual Reports": [
+      {"year": 2024, "source": "bse"},
+      {"year": 2023, "source": "bse"},
+      {"year": 2022, "source": "bse"},
+      {"year": 2021, "source": "bse"},
+      {"year": 2020, "source": "bse"},
+      {"year": 2019, "source": "bse"},
+      {"year": 2018, "source": "bse"},
+      {"year": 2017, "source": "bse"},
+      {"year": 2016, "source": "bse"},
+      {"year": 2015, "source": "bse"},
+      {"year": 2014, "source": "bse"},
+      {"year": 2013, "source": "nse"},
+      {"year": 2013, "source": "bse"},
+      {"year": 2012, "source": "bse"},
+      {"year": 2011, "source": "bse"}
+    ]
+  }
+}

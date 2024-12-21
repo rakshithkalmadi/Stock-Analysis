@@ -1,0 +1,208 @@
+
+{
+  "Company Overview": {
+    "Name": "JNK India Ltd",
+    "Sector": "Capital Goods-Non Electrical Equipment",
+    "Industry": "Engineering",
+    "BusinessDescription": "Incorporated in 2010, JNK India Ltd is in the business of Technology based EPC Contracts and Solutions in Renewable Energy. JNKIL is in the business of Heating Equipment. It has capabilities in thermal designing, engineering, manufacturing, supplying, installing, and commissioning process-fired heaters, reformers, and cracking furnaces. Company is diversifying into Waste Gas Handling (Flares and Incinerators) and Renewable Energy Systems (Hydrogen Production / Distribution Systems and Solar PV EPC. It also provides designing and on-site installation and aftersale/ maintenance services.",
+    "MarketPosition": "Part of BSE SmallCap, BSE IPO, BSE Allcap, BSE Industrials"
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 3,663 Cr.",
+    "CurrentPrice": "₹ 658",
+    "HighLow": "₹ 897 / ₹ 550",
+    "StockPE": 60.4,
+    "BookValue": "₹ 89.6",
+    "DividendYield": "0.05 %",
+    "ROCE": "46.3 %",
+    "ROE": "39.4 %",
+    "FaceValue": "₹ 2.00",
+    "DebtToEquityRatio": null //Not explicitly provided, needs further calculation from Balance Sheet data.
+  },
+  "PerformanceTrends": {
+    "QuarterlyResults": {
+      "Sales": [107.40, 36.72, 96.91, 119.77, 226.85, 87.99, 103.83],
+      "Expenses": [89.39, 29.17, 74.79, 81.22, 195.59, 78.61, 91.94],
+      "OperatingProfit": [18.01, 7.55, 22.12, 38.55, 31.26, 9.38, 11.89],
+      "OPM%": ["16.77%", "20.56%", "22.83%", "32.19%", "13.78%", "10.66%", "11.45%"],
+      "OtherIncome": [1.44, 1.37, -0.21, 2.54, 1.31, 2.76, 3.55],
+      "Interest": [2.25, 1.94, 1.68, 3.78, 2.58, 3.62, 2.12],
+      "Depreciation": [2.98, 1.07, 1.43, 1.55, 1.57, 1.26, 1.49],
+      "ProfitBeforeTax": [14.22, 5.91, 18.80, 35.76, 28.42, 7.26, 11.83],
+      "Tax%": ["25.11%", "33.67%", "35.21%", "16.41%", "41.41%", "12.12%", "34.49%"],
+      "NetProfit": [10.66, 3.92, 12.18, 29.90, 16.65, 6.38, 7.75],
+      "EPSinRs": [11.10, 0.81, 2.52, 6.18, 3.44, 1.15, 1.39]
+    },
+    "AnnualResults": {
+      "Sales": [138, 296, 407, 480, 538],
+      "Expenses": [112, 243, 338, 381, 447],
+      "OperatingProfit": [25, 54, 69, 99, 91],
+      "OPM%": ["18%", "18%", "17%", "21%", "17%"],
+      "OtherIncome": [1, 1, 4, 5, 10],
+      "Interest": [1, 4, 4, 10, 12],
+      "Depreciation": [2, 3, 7, 6, 6],
+      "ProfitBeforeTax": [23, 48, 63, 89, 83],
+      "Tax%": ["28%", "25%", "26%", "30%", "%"],
+      "NetProfit": [16, 36, 47, 63, 61],
+      "EPSinRs": [274.67, 37.48, 48.51, 12.95, 12.16],
+      "DividendPayout%":["-0%","-0%","-0%","2%"]
+    },
+    "CompoundedGrowth": {
+      "SalesGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "52%",
+        "TTM": "18%"
+      },
+      "ProfitGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "56%",
+        "TTM": "35%"
+      },
+      "StockPriceCAGR": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "1Year": null
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE": ["76%", "53%", "46%", null],
+    "DebtorDays":[143, 135, 102, 162],
+    "InventoryDays":[74, 245, 213, 133],
+    "DaysPayable":[358, 178, 103, 183],
+    "CashConversionCycle":[-140, 203, 212, 113],
+    "WorkingCapitalDays":[54, 28, 93, 139]
+  },
+  "PeerComparison": [
+    {"Name": "Jyoti CNC Auto.", "CMP": 1331.85, "PE": 110.35, "MarCap": 30289.35, "DivYld": 0.00, "NPQtr": 75.88, "QtrProfitVar": 352.74, "SalesQtr": 430.67, "QtrSalesVar": 42.47, "ROCE": 21.22},
+    {"Name": "Jupiter Wagons", "CMP": 540.80, "PE": 62.81, "MarCap": 22956.85, "DivYld": 0.18, "NPQtr": 88.62, "QtrProfitVar": 8.63, "SalesQtr": 973.63, "QtrSalesVar": 10.73, "ROCE": 31.67},
+    {"Name": "Action Const.Eq.", "CMP": 1491.40, "PE": 48.57, "MarCap": 17760.07, "DivYld": 0.13, "NPQtr": 94.82, "QtrProfitVar": 28.25, "SalesQtr": 756.69, "QtrSalesVar": 12.40, "ROCE": 42.30},
+    {"Name": "Titagarh Rail", "CMP": 1310.55, "PE": 58.02, "MarCap": 17649.67, "DivYld": 0.06, "NPQtr": 80.69, "QtrProfitVar": 15.01, "SalesQtr": 1056.95, "QtrSalesVar": 12.99, "ROCE": 24.97},
+    {"Name": "Praj Industries", "CMP": 810.15, "PE": 53.53, "MarCap": 14891.62, "DivYld": 0.74, "NPQtr": 53.83, "QtrProfitVar": -13.69, "SalesQtr": 816.19, "QtrSalesVar": -7.50, "ROCE": 29.29},
+    {"Name": "Elecon Engg.Co", "CMP": 601.75, "PE": 38.02, "MarCap": 13503.27, "DivYld": 0.25, "NPQtr": 87.72, "QtrProfitVar": -0.96, "SalesQtr": 508.14, "QtrSalesVar": 4.79, "ROCE": 31.32},
+    {"Name": "Lloyds Engineeri", "CMP": 77.15, "PE": 92.08, "MarCap": 8966.64, "DivYld": 0.26, "NPQtr": 27.95, "QtrProfitVar": 48.75, "SalesQtr": 212.15, "QtrSalesVar": 74.21, "ROCE": 28.33},
+    {"Name": "JNK", "CMP": 658.50, "PE": 60.36, "MarCap": 3662.64, "DivYld": 0.05, "NPQtr": 7.75, "QtrProfitVar": -36.37, "SalesQtr": 103.83, "QtrSalesVar": 7.14, "ROCE": 46.26}
+  ],
+  "OtherInsights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 46.7%"
+    ],
+    "Cons": [
+      "Stock is trading at 7.35 times its book value",
+      "Company has high debtors of 162 days.",
+      "Working capital days have increased from 86.7 days to 139 days"
+    ],
+    "Disclaimer": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "ShareholdingPattern":{
+      "Quarterly":{
+        "Promoters":"67.97%",
+        "FIIs":"3.50%",
+        "DIIs":"18.53%",
+        "Public":"9.98%",
+        "NoofShareholders":57170
+      },
+      "Yearly":{
+        "Promoters":"67.97%",
+        "FIIs":"3.41%",
+        "DIIs":"18.67%",
+        "Public":"9.95%",
+        "NoofShareholders":55490
+      },
+      "Disclaimer":"* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+    }
+
+  },
+  "BalanceSheet": {
+    "Mar2021": {
+      "EquityCapital": 0.60,
+      "Reserves": 36,
+      "Borrowings": 12,
+      "OtherLiabilities": 77,
+      "TotalLiabilities": 125,
+      "FixedAssets": 3,
+      "CWIP": 0,
+      "Investments": 0,
+      "OtherAssets": 122,
+      "TotalAssets": 125
+    },
+    "Mar2022": {
+      "EquityCapital": 10,
+      "Reserves": 63,
+      "Borrowings": 15,
+      "OtherLiabilities": 181,
+      "TotalLiabilities": 268,
+      "FixedAssets": 20,
+      "CWIP": 0,
+      "Investments": 11,
+      "OtherAssets": 237,
+      "TotalAssets": 268
+    },
+    "Mar2023": {
+      "EquityCapital": 10,
+      "Reserves": 113,
+      "Borrowings": 44,
+      "OtherLiabilities": 171,
+      "TotalLiabilities": 338,
+      "FixedAssets": 21,
+      "CWIP": 0,
+      "Investments": 0,
+      "OtherAssets": 317,
+      "TotalAssets": 338
+    },
+    "Mar2024": {
+      "EquityCapital": 10,
+      "Reserves": 186,
+      "Borrowings": 66,
+      "OtherLiabilities": 267,
+      "TotalLiabilities": 528,
+      "FixedAssets": 23,
+      "CWIP": 3,
+      "Investments": 0,
+      "OtherAssets": 501,
+      "TotalAssets": 528
+    },
+    "Sep2024": {
+      "EquityCapital": 11,
+      "Reserves": 488,
+      "Borrowings": 34,
+      "OtherLiabilities": 254,
+      "TotalLiabilities": 786,
+      "FixedAssets": 25,
+      "CWIP": 5,
+      "Investments": 0,
+      "OtherAssets": 757,
+      "TotalAssets": 786
+    }
+  },
+  "CashFlow": {
+    "Mar2021": {
+      "CashFromOperatingActivity": 20,
+      "CashFromInvestingActivity": -17,
+      "CashFromFinancingActivity": 0,
+      "NetCashFlow": 3
+    },
+    "Mar2022": {
+      "CashFromOperatingActivity": 34,
+      "CashFromInvestingActivity": -25,
+      "CashFromFinancingActivity": 6,
+      "NetCashFlow": 15
+    },
+    "Mar2023": {
+      "CashFromOperatingActivity": -9,
+      "CashFromInvestingActivity": -25,
+      "CashFromFinancingActivity": 27,
+      "NetCashFlow": -7
+    },
+    "Mar2024": {
+      "CashFromOperatingActivity": -10,
+      "CashFromInvestingActivity": -14,
+      "CashFromFinancingActivity": 15,
+      "NetCashFlow": -10
+    }
+  }
+}

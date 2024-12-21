@@ -1,0 +1,188 @@
+
+{
+  "Company Overview": {
+    "Name": "Hindustan Oil Exploration Company Ltd",
+    "Sector": "Crude Oil & Natural Gas",
+    "Industry": "Oil Drilling / Allied Services",
+    "Business Description": "Hindustan Oil Exploration Company Limited was incorporated in 1983. It is engaged in the exploration, development and production of crude oil and natural gas in India, both onshore and offshore. The company is India's first private E&P company and its assets are geographically spread across Tamil Nadu, Maharashtra, Gujarat, Assam and Arunachal Pradesh (both offshore and onshore).",
+    "Market Position": "India's first private E&P company.  Has a presence in 4 out of 7 producing basins in India.  Asset portfolio includes 10 Oil & Gas blocks of discovered resources and 1 Exploratory block."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,548 Cr.",
+    "Current Price": "₹ 193",
+    "High / Low": "₹ 294 / ₹ 157",
+    "Stock P/E": 17.9,
+    "Book Value": "₹ 92.8",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "18.4 %",
+    "ROE": "18.3 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [39, 44, 42, 89, 125, 170, 175, 168, 113, 179, 290, 136, 95],
+      "Expenses": [22, 21, 21, 39, 80, 90, 40, 77, 45, 108, 215, 74, 63],
+      "Operating Profit": [17, 23, 21, 51, 45, 80, 135, 90, 68, 71, 75, 62, 32],
+      "OPM %": ["44%", "52%", "50%", "57%", "36%", "47%", "77%", "54%", "60%", "39%", "26%", "46%", "33%"],
+      "Other Income": [6, 3, -33, 2, 1, -10, 4, 7, 3, 10, 37, 11, 5],
+      "Interest": [2, 2, 4, 7, 12, 12, 7, 9, 8, 7, 6, 6, 5],
+      "Depreciation": [6, 5, 11, 14, 16, 22, 23, 20, 18, 21, 20, 18, 18],
+      "Profit before tax": [16, 19, -27, 33, 19, 36, 110, 68, 44, 51, 85, 48, 13],
+      "Tax %": ["-5%", "-1%", "2%", "1%", "4%", "-4%", "3%", "2%", "2%", "9%", "17%", "14%", "19%"],
+      "Net Profit": [17, 19, -27, 32, 18, 37, 107, 66, 43, 47, 71, 42, 11],
+      "EPS in Rs": [1.28, 1.45, -2.06, 2.45, 1.34, 2.82, 8.06, 5.00, 3.27, 3.52, 5.34, 3.17, 0.82]
+    },
+    "Annual Results": {
+      "Sales": [128, 78, 59, 48, 26, 49, 265, 202, 114, 156, 558, 749, 700],
+      "Expenses": [61, 103, 68, 45, 24, 18, 77, 77, 59, 77, 245, 440, 460],
+      "Operating Profit": [67, -25, -9, 3, 1, 31, 188, 125, 55, 78, 312, 309, 239],
+      "OPM %": ["52%", "-32%", "-16%", "6%", "5%", "63%", "71%", "62%", "48%", "50%", "56%", "41%", "34%"],
+      "Other Income": [-564, 6, -1156, 20, 48, 16, 15, 48, 27, -23, -3, 52, 62],
+      "Interest": [11, 14, 15, 5, 0, 1, 2, 6, 6, 9, 38, 32, 25],
+      "Depreciation": [88, 103, 39, 12, 10, 8, 44, 29, 23, 26, 74, 80, 78],
+      "Profit before tax": [-595, -136, -1219, 6, 40, 38, 157, 137, 52, 20, 197, 248, 198],
+      "Tax %": ["-7%", "-9%", "0%", "11%", "10%", "0%", "0%", "0%", "-3%", "-2%", "2%", "9%"],
+      "Net Profit": [-553, -124, -1220, 5, 36, 38, 157, 138, 53, 20, 194, 226, 170],
+      "EPS in Rs": [-42.35, -9.48, -93.46, 0.38, 2.76, 2.88, 12.01, 10.40, 4.04, 1.51, 14.67, 17.12, 12.85]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "25%",
+        "5 Years": "23%",
+        "3 Years": "87%",
+        "TTM": "12%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "13%",
+        "5 Years": "5%",
+        "3 Years": "79%",
+        "TTM": "-46%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "19%",
+        "5 Years": "18%",
+        "3 Years": "3%",
+        "1 Year": "6%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [51, 40, 34, 31, 74, 124, 56, 66, 100, 38, 77, 153],
+      "Inventory Days": [1927, 1259, 1238, 769],
+      "Days Payable": [742, 605, 714, 291],
+      "Cash Conversion Cycle": [1237, 694, 558, 508, 74, 124, 56, 66, 100, 38, 77, 153],
+      "Working Capital Days": [-299, -1216, 463, 395, -384, 137, 49, -241, 82, -254, 0, 78]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [-1, -8, -5, 2, 3, 9, 33, 18, 5, 6, 20, 18],
+      "Return on Equity": {
+        "10 Years": "13%",
+        "5 Years": "15%",
+        "3 Years": "17%",
+        "Last Year": "18%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": null, 
+      "Market Cap / Sales": null,
+      "EV / EBITDA": null
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "O N G C", "CMP": 237.10, "P/E": 7.16, "Mar Cap": 298278.42, "Div Yld": 5.17, "NP Qtr": 9878.44, "Qtr Profit Var": -27.59, "Sales Qtr": 158329.10, "Qtr Sales Var": 7.26, "ROCE": 18.43},
+      {"Name": "Oil India", "CMP": 421.80, "P/E": 8.18, "Mar Cap": 68610.32, "Div Yld": 2.49, "NP Qtr": 2069.16, "Qtr Profit Var": 37.27, "Sales Qtr": 7247.03, "Qtr Sales Var": -3.33, "ROCE": 17.67},
+      {"Name": "Deep Industries", "CMP": 580.70, "P/E": 26.88, "Mar Cap": 3716.48, "Div Yld": 0.42, "NP Qtr": 41.55, "Qtr Profit Var": 30.82, "Sales Qtr": 130.62, "Qtr Sales Var": 28.92, "ROCE": 10.26},
+      {"Name": "Hind.Oil Explor.", "CMP": 192.66, "P/E": 17.86, "Mar Cap": 2547.80, "Div Yld": 0.00, "NP Qtr": 10.81, "Qtr Profit Var": -74.97, "Sales Qtr": 94.81, "Qtr Sales Var": -15.97, "ROCE": 18.41},
+      {"Name": "Asian Energy", "CMP": 381.30, "P/E": 42.59, "Mar Cap": 1707.25, "Div Yld": 0.00, "NP Qtr": 9.30, "Qtr Profit Var": 776.42, "Sales Qtr": 97.72, "Qtr Sales Var": 114.86, "ROCE": 12.51},
+      {"Name": "Selan Expl. Tech", "CMP": 841.30, "P/E": 22.11, "Mar Cap": 1278.78, "Div Yld": 0.00, "NP Qtr": 21.36, "Qtr Profit Var": 126.75, "Sales Qtr": 68.92, "Qtr Sales Var": 75.86, "ROCE": 12.29},
+      {"Name": "Aban Offshore", "CMP": 64.83, "P/E": 378.38, "Mar Cap": 0.00, "Div Yld": 0.00, "NP Qtr": -115.31, "Qtr Profit Var": 63.71, "Sales Qtr": 115.20, "Qtr Sales Var": 81.88, "ROCE": null}
+    ],
+    "Median": {
+      "CMP": 309.2,
+      "P/E": 19.98,
+      "Mar Cap": 2127.53,
+      "Div Yld": 0.0,
+      "NP Qtr": 16.09,
+      "Qtr Profit Var": 50.49,
+      "Sales Qtr": 106.46,
+      "ROCE": 18.09
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has reduced debt.",
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Company has high debtors of 153 days.",
+      "Working capital days have increased from -58.4 days to 78.1 days"
+    ],
+    "Disclaimer": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Balance Sheet": {
+    "Equity Capital": [131, 131, 131, 131, 131, 131, 131, 132, 132, 132, 132, 132, 132],
+    "Reserves": [532, 405, 150, 175, 211, 253, 410, 547, 601, 621, 815, 1042, 1095],
+    "Borrowings": [886, 947, 0, 0, 0, 0, 12, 45, 254, 357, 364, 174, 145],
+    "Other Liabilities": [210, 179, 154, 186, 183, 160, 182, 311, 198, 417, 539, 603, 543],
+    "Total Liabilities": [1758, 1662, 435, 491, 525, 544, 734, 1036, 1185, 1527, 1850, 1951, 1916],
+    "Fixed Assets": [9, 9, 8, 8, 10, 18, 28, 26, 23, 214, 447, 406, 1222],
+    "CWIP": [339, 337, 118, 130, 6, 6, 26, 327, 535, 782, 32, 38, 49],
+    "Investments": [30, 31, 28, 74, 160, 51, 137, 118, 65, 19, 133, 0, 10],
+    "Other Assets": [1379, 1285, 281, 279, 349, 470, 543, 565, 563, 513, 1239, 1507, 634],
+    "Total Assets": [1758, 1662, 435, 491, 525, 544, 734, 1036, 1185, 1527, 1850, 1951, 1916]
+  },
+  "Cash Flows": {
+    "Cash from Operating Activity": [76, 20, 12, 94, 98, -7, 167, 287, -77, 111, 219, 123],
+    "Cash from Investing Activity": [-320, -40, 2, -1, -32, -60, -148, -297, -208, -280, -77, -39],
+    "Cash from Financing Activity": [242, -53, -24, 0, 0, 0, 0, 34, 206, 106, -27, -215],
+    "Net Cash Flow": [-2, -73, -10, 93, 67, -67, 20, 24, -79, -63, 115, -132]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "FIIs": [0.96, 0.93, 0.77, 0.78, 0.62, 0.62, 0.74, 0.97, 1.25, 1.31, 1.80, 1.64],
+      "DIIs": [4.08, 3.61, 3.13, 2.87, 2.73, 2.81, 1.45, 4.00, 0.61, 0.66, 0.52, 0.28],
+      "Government": [0.00, 0.01, 0.01, 0.02, 0.02, 0.02, 0.02, 0.00, 0.00, 0.00, 0.00, 0.00],
+      "Public": [94.96, 95.44, 96.08, 96.33, 96.64, 96.54, 97.77, 95.03, 98.14, 98.01, 97.67, 98.07]
+    },
+    "Yearly": {
+      "FIIs": [4.16, 4.72, 7.67, 7.60, 0.59, 0.93, 0.62, 1.31, 1.64],
+      "DIIs": [1.57, 2.69, 2.78, 3.33, 3.43, 3.61, 2.81, 0.66, 0.28],
+      "Government": [0.00, 0.00, 0.00, 0.00, 0.00, 0.01, 0.02, 0.00, 0.00],
+      "Public": [94.26, 92.59, 89.54, 89.07, 95.97, 95.44, 96.54, 98.01, 98.07]
+    },
+    "No. of Shareholders": [69155, 71971, 74048, 78532, 78378, 77190, 72657, 84120, 87978, 98329, 95202, 94186]
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "1d", "Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate", "Description": "Intimation of lost share certificates received by the company."},
+      {"Date": "2d", "Title": "Clarification To Exchange On The Disclosure Made By The Company On 18.12.2024 Pursuant To Regulation 30 Of SEBI (LODR) Regulations, 2015", "Description": "Clarification on changes in Directorate and appointment of new director."},
+      {"Date": "18 Dec", "Title": "Announcement under Regulation 30 (LODR)-Change in Directorate", "Description": "Retirement of Ms. Sharmila Amin and appointment of Mrs. Bhavani Balasubramanian."},
+      {"Date": "16 Dec", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation", "Description": "Schedule of Analyst/Investor Meeting on December 19, 2024."},
+      {"Date": "13 Dec", "Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate", "Description": "Intimation of lost share certificates received by the company."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "nse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "bse"}
+    ],
+    "Right Issue": null,
+    "Credit Ratings": [
+      {"Date": "21 Aug 2017", "Source": "icra"},
+      {"Date": "9 Aug 2016", "Source": "icra"}
+    ],
+    "Concalls": [] //Extensive list of concalls omitted for brevity.  The structure could be easily populated from the provided HTML.
+  }
+}

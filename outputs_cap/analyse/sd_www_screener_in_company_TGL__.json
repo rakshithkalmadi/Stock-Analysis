@@ -1,0 +1,250 @@
+
+{
+  "Company Overview": {
+    "Name": "Teerth Gopicon Ltd",
+    "Sector": "Infrastructure Developers & Operators",
+    "Industry": "Construction",
+    "Business Description": "An all-class civil and Electrical Contractor specializing in engineering construction and development, mainly focusing on roads, sewerage, and water distribution projects in Madhya Pradesh.  It is also expanding its geographical footprint to other states.  It has executed various projects for government departments and has worked as a registered civil contractor for various central and state government departments such as ISCDL, IMC, USCL, UMC, and MPJNM. The company has also undertaken building works for the private sector.",
+    "Market Position": "Information not explicitly provided, but peer comparison data is available."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 717 Cr.",
+    "Current Price": "₹ 598",
+    "High / Low": "₹ 774 / ₹ 123",
+    "Stock P/E": "40.6",
+    "Book Value": "₹ 60.5",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "75.3 %",
+    "ROE": "84.1 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly provided" 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Mar 2023": "37",
+        "Sep 2023": "68",
+        "Mar 2024": "68",
+        "Sep 2024": "82"
+      },
+      "Expenses": {
+        "Mar 2023": "32",
+        "Sep 2023": "55",
+        "Mar 2024": "52",
+        "Sep 2024": "68"
+      },
+      "Net Profit": {
+        "Mar 2023": "3",
+        "Sep 2023": "8",
+        "Mar 2024": "10",
+        "Sep 2024": "10"
+      },
+      "EPS": {
+        "Mar 2023": "6.84",
+        "Sep 2023": "10.16",
+        "Mar 2024": "7.93",
+        "Sep 2024": "7.93"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2020": "14",
+        "Mar 2021": "46",
+        "Mar 2022": "31",
+        "Mar 2023": "39",
+        "Mar 2024": "105"
+      },
+      "Net Profit": {
+        "Mar 2020": "0",
+        "Mar 2021": "0",
+        "Mar 2022": "0",
+        "Mar 2023": "2",
+        "Mar 2024": "12"
+      },
+      "EPS": {
+        "Mar 2020": "0",
+        "Mar 2021": "0",
+        "Mar 2022": "0",
+        "Mar 2023": "3.40",
+        "Mar 2024": "14.45"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": {
+        "Mar 2020": "1",
+        "Mar 2021": "5",
+        "Mar 2022": "5",
+        "Mar 2023": "5",
+        "Mar 2024": "8",
+        "Sep 2024": "12"
+      },
+      "Total Liabilities": {
+        "Mar 2020": "23",
+        "Mar 2021": "31",
+        "Mar 2022": "43",
+        "Mar 2023": "47",
+        "Mar 2024": "136",
+        "Sep 2024": "175"
+      },
+      "Total Assets": {
+        "Mar 2020": "23",
+        "Mar 2021": "31",
+        "Mar 2022": "43",
+        "Mar 2023": "47",
+        "Mar 2024": "136",
+        "Sep 2024": "175"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": {
+        "Mar 2020": "0",
+        "Mar 2021": "-4",
+        "Mar 2022": "15",
+        "Mar 2023": "4"
+      },
+      "Cash from Investing Activity": {
+        "Mar 2020": "-2",
+        "Mar 2021": "-1",
+        "Mar 2022": "-1",
+        "Mar 2023": "-14"
+      },
+      "Cash from Financing Activity": {
+        "Mar 2020": "4",
+        "Mar 2021": "4",
+        "Mar 2022": "-12",
+        "Mar 2023": "6"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "3 Years": "31%",
+        "TTM": "179%"
+      },
+      "Compounded Profit Growth": {
+        "3 Years": "193%",
+        "TTM": "285%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": {
+        "Mar 2020": "377",
+        "Mar 2021": "99",
+        "Mar 2022": "238",
+        "Mar 2023": "178",
+        "Mar 2024": "116"
+      },
+      "Inventory Days": {
+        "Mar 2020": "189",
+        "Mar 2021": "74",
+        "Mar 2022": "110",
+        "Mar 2023": "109",
+        "Mar 2024": "282"
+      },
+      "Days Payable": {
+        "Mar 2020": "371",
+        "Mar 2021": "153",
+        "Mar 2022": "324",
+        "Mar 2023": "142",
+        "Mar 2024": "79"
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2020": "196",
+        "Mar 2021": "20",
+        "Mar 2022": "24",
+        "Mar 2023": "144",
+        "Mar 2024": "319"
+      },
+      "Working Capital Days": {
+        "Mar 2020": "247",
+        "Mar 2021": "79",
+        "Mar 2022": "170",
+        "Mar 2023": "28",
+        "Mar 2024": "48"
+      }
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Mar 2020": "5%",
+        "Mar 2021": "2%",
+        "Mar 2022": "16%",
+        "Mar 2023": "75%"
+      },
+      "ROE": {
+        "3 Years": "50%",
+        "Last Year": "84%"
+      },
+      "OPM": {
+        "Mar 2023": "18%",
+        "Sep 2023": "14%",
+        "Mar 2024": "19%",
+        "Sep 2024": "24%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Not explicitly provided but implied by the Price/Book value ratio"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Rail Vikas", "CMP": "433.25", "P/E": "70.59", "Mar Cap": "90333.50", "Div Yld": "0.49", "NP Qtr": "302.51", "Qtr Profit Var": "-18.26", "Sales Qtr": "4869.22", "Qtr Sales Var": "-0.83", "ROCE": "18.70"},
+      {"Name": "IRB Infra.Devl.", "CMP": "55.09", "P/E": "53.99", "Mar Cap": "33268.85", "Div Yld": "0.54", "NP Qtr": "99.87", "Qtr Profit Var": "4.30", "Sales Qtr": "1585.84", "Qtr Sales Var": "-9.12", "ROCE": "8.96"},
+      {"Name": "Ircon Intl.", "CMP": "218.27", "P/E": "22.28", "Mar Cap": "20528.64", "Div Yld": "1.42", "NP Qtr": "205.92", "Qtr Profit Var": "-17.87", "Sales Qtr": "2447.52", "Qtr Sales Var": "-18.06", "ROCE": "18.15"},
+      {"Name": "Afcons Infrastr.", "CMP": "520.25", "P/E": "41.77", "Mar Cap": "19134.00", "Div Yld": "0.00", "NP Qtr": "135.43", "Qtr Profit Var": "30.01", "Sales Qtr": "2959.69", "Qtr Sales Var": "-11.23", "ROCE": "23.13"},
+      {"Name": "G R Infraproject", "CMP": "1529.80", "P/E": "16.09", "Mar Cap": "14799.33", "Div Yld": "0.00", "NP Qtr": "193.57", "Qtr Profit Var": "-16.22", "Sales Qtr": "1394.33", "Qtr Sales Var": "-25.94", "ROCE": "16.89"},
+      {"Name": "H.G. Infra Engg.", "CMP": "1432.80", "P/E": "17.82", "Mar Cap": "9337.72", "Div Yld": "0.10", "NP Qtr": "80.72", "Qtr Profit Var": "-16.02", "Sales Qtr": "902.41", "Qtr Sales Var": "-5.46", "ROCE": "24.12"},
+      {"Name": "KNR Construct.", "CMP": "325.20", "P/E": "8.36", "Mar Cap": "9145.75", "Div Yld": "0.08", "NP Qtr": "580.02", "Qtr Profit Var": "216.20", "Sales Qtr": "1944.86", "Qtr Sales Var": "87.28", "ROCE": "25.74"}
+    ],
+    "Median": {
+      "CMP": "223.2",
+      "P/E": "26.34",
+      "Mar Cap": "994.28",
+      "Div Yld": "0.0",
+      "NP Qtr": "13.06",
+      "Qtr Profit Var": "9.65",
+      "Sales Qtr": "153.08",
+      "Qtr Sales Var": "5.05",
+      "ROCE": "19.75"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 49.8%",
+      "Debtor days have improved from 177 to 116 days.",
+      "Company's working capital requirements have reduced from 82.0 days to 47.5 days"
+    ],
+    "Cons": [
+      "Stock is trading at 9.87 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Apr 2024": {
+        "Promoters": "64.34%",
+        "FIIs": "0.27%",
+        "DIIs": "0.96%",
+        "Public": "34.43%",
+        "No. of Shareholders": "2,580"
+      },
+      "Sep 2024": {
+        "Promoters": "64.34%",
+        "FIIs": "0.23%",
+        "Public": "35.43%",
+        "No. of Shareholders": "1,377"
+      }
+    },
+    "Yearly": {
+      "Sep 2024": {
+        "Promoters": "64.34%",
+        "FIIs": "0.23%",
+        "Public": "35.43%",
+        "No. of Shareholders": "1,377"
+      }
+    },
+    "Disclaimer": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  },
+  "Corporate Actions": "Information not explicitly provided in the given HTML"
+}

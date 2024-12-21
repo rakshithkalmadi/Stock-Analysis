@@ -1,0 +1,300 @@
+
+{
+  "Company Overview": {
+    "Name": "Thinking Hats Entertainment Solutions Ltd",
+    "Sector": "Entertainment",
+    "Industry": "Entertainment / Electronic Media Software",
+    "Business Description": "Incorporated in February 2013, Thinking Hats Entertainment Solutions Ltd. specializes in concept development, event design, and production for live events, corporate functions, MICE, social and virtual events, as well as OTT content production.  Thinking Hats Entertainment Solutions Ltd operates in the event management and media production space. The company began as a specialist in live events and corporate services but has since expanded into OTT (Over-The-Top) content production and experiential marketing.",
+    "Market Position": "Information not explicitly provided in the HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 51.4 Cr.",
+    "Current Price": "₹ 41.2",
+    "High / Low": "₹ 61.0 / ₹ 33.3",
+    "Stock P/E": "16.6",
+    "Book Value": "₹ (Not specified)",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "37.2 %",
+    "ROE": "36.9 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly provided, but can be inferred from Balance Sheet data."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sep 2023": {
+        "Sales": "6.22",
+        "Expenses": "5.51",
+        "Operating Profit": "0.71",
+        "OPM %": "11.41%",
+        "Other Income": "0.03",
+        "Interest": "0.20",
+        "Depreciation": "0.08",
+        "Profit before tax": "0.46",
+        "Tax %": "26.09%",
+        "Net Profit": "0.33",
+        "EPS in Rs": "4.33"
+      },
+      "Sep 2024": {
+        "Sales": "8.65",
+        "Expenses": "6.90",
+        "Operating Profit": "1.75",
+        "OPM %": "20.23%",
+        "Other Income": "0.11",
+        "Interest": "0.26",
+        "Depreciation": "0.07",
+        "Profit before tax": "1.53",
+        "Tax %": "27.45%",
+        "Net Profit": "1.10",
+        "EPS in Rs": "0.88"
+      }
+    },
+    "Annual Results": {
+      "Mar 2022": {
+        "Sales": "11.60",
+        "Expenses": "11.91",
+        "Operating Profit": "-0.31",
+        "OPM %": "-2.67%",
+        "Other Income": "0.85",
+        "Interest": "0.00",
+        "Depreciation": "0.06",
+        "Profit before tax": "0.48",
+        "Tax %": "20.83%",
+        "Net Profit": "0.37",
+        "EPS in Rs": "4.85"
+      },
+      "Mar 2023": {
+        "Sales": "22.15",
+        "Expenses": "19.22",
+        "Operating Profit": "2.93",
+        "OPM %": "13.23%",
+        "Other Income": "0.13",
+        "Interest": "0.21",
+        "Depreciation": "0.10",
+        "Profit before tax": "2.75",
+        "Tax %": "26.91%",
+        "Net Profit": "2.01",
+        "EPS in Rs": "26.36"
+      },
+      "Mar 2024": {
+        "Sales": "26.63",
+        "Expenses": "21.63",
+        "Operating Profit": "5.00",
+        "OPM %": "18.78%",
+        "Other Income": "0.07",
+        "Interest": "0.60",
+        "Depreciation": "0.17",
+        "Profit before tax": "4.30",
+        "Tax %": "28.14%",
+        "Net Profit": "3.09",
+        "EPS in Rs": "35.28"
+      }
+    },
+    "Profit and Loss Trends": {
+      "Compounded Sales Growth": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "TTM": "20%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "TTM": "54%"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Mar 2022": {
+        "Equity Capital": "0.76",
+        "Reserves": "2.96",
+        "Borrowings": "0.30",
+        "Other Liabilities": "2.39",
+        "Total Liabilities": "6.41",
+        "Fixed Assets": "0.52",
+        "CWIP": "0.00",
+        "Investments": "1.62",
+        "Other Assets": "4.27",
+        "Total Assets": "6.41"
+      },
+      "Mar 2023": {
+        "Equity Capital": "0.76",
+        "Reserves": "4.97",
+        "Borrowings": "4.14",
+        "Other Liabilities": "4.70",
+        "Total Liabilities": "14.57",
+        "Fixed Assets": "1.66",
+        "CWIP": "0.00",
+        "Investments": "6.01",
+        "Other Assets": "6.90",
+        "Total Assets": "14.57"
+      },
+      "Mar 2024": {
+        "Equity Capital": "0.88",
+        "Reserves": "10.12",
+        "Borrowings": "5.44",
+        "Other Liabilities": "7.59",
+        "Total Liabilities": "24.03",
+        "Fixed Assets": "1.58",
+        "CWIP": "0.00",
+        "Investments": "10.02",
+        "Other Assets": "12.43",
+        "Total Assets": "24.03"
+      },
+      "Sep 2024": {
+        "Equity Capital": "12.49",
+        "Reserves": "15.45",
+        "Borrowings": "2.94",
+        "Other Liabilities": "7.12",
+        "Total Liabilities": "38.00",
+        "Fixed Assets": "4.90",
+        "CWIP": "0.09",
+        "Investments": "7.65",
+        "Other Assets": "25.36",
+        "Total Assets": "38.00"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Mar 2022": {
+        "Cash from Operating Activity": "0.98",
+        "Cash from Investing Activity": "-1.51",
+        "Cash from Financing Activity": "0.27",
+        "Net Cash Flow": "-0.26"
+      },
+      "Mar 2023": {
+        "Cash from Operating Activity": "2.34",
+        "Cash from Investing Activity": "-5.62",
+        "Cash from Financing Activity": "3.07",
+        "Net Cash Flow": "-0.21"
+      },
+      "Mar 2024": {
+        "Cash from Operating Activity": "1.45",
+        "Cash from Investing Activity": "-4.08",
+        "Cash from Financing Activity": "2.95",
+        "Net Cash Flow": "0.32"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "TTM": "20%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "TTM": "54%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "1 Year": "%"
+      },
+      "Return on Equity": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "%",
+        "Last Year": "37%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Current Ratio": "Information not explicitly provided.",
+      "Quick Ratio": "Information not explicitly provided."
+    },
+    "Profitability Ratios": {
+      "Gross Profit Margin": "Information not explicitly provided.",
+      "Operating Profit Margin": "Information available in quarterly and annual results.",
+      "Net Profit Margin": "Information available in quarterly and annual results.",
+      "ROCE": "37.2%",
+      "ROE": "36.9%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "16.6",
+      "Price to Book": "Information not explicitly provided."
+    },
+    "Other Ratios": {
+      "Debtor Days": {
+        "Mar 2022": "97.86",
+        "Mar 2023": "99.86",
+        "Mar 2024": "135.56"
+      },
+      "Inventory Days": {
+        "Mar 2022": "0.00",
+        "Mar 2023": "0.00",
+        "Mar 2024": "0.00"
+      },
+      "Days Payable": "Information not explicitly provided.",
+      "Cash Conversion Cycle": {
+        "Mar 2022": "97.86",
+        "Mar 2023": "99.86",
+        "Mar 2024": "135.56"
+      },
+      "Working Capital Days": {
+        "Mar 2022": "39.02",
+        "Mar 2023": "28.67",
+        "Mar 2024": "56.61"
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Sun TV Network", "CMP": "696.85", "P/E": "14.95", "Mar Cap": "27461.79", "Div Yld": "2.40", "NP Qtr": "409.32", "Qtr Profit Var": "-11.93", "Sales Qtr": "934.54", "Qtr Sales Var": "-10.86", "ROCE": "26.20"},
+      {"Name": "PVR Inox", "CMP": "1382.10", "P/E": null, "Mar Cap": "13572.22", "Div Yld": "0.00", "NP Qtr": "-12.10", "Qtr Profit Var": "-107.10", "Sales Qtr": "1622.10", "Qtr Sales Var": "-18.89", "ROCE": "4.69"},
+      {"Name": "Zee Entertainmen", "CMP": "125.13", "P/E": "28.09", "Mar Cap": "12018.98", "Div Yld": "0.80", "NP Qtr": "209.40", "Qtr Profit Var": "13.77", "Sales Qtr": "2000.70", "Qtr Sales Var": "-17.93", "ROCE": "6.26"},
+      {"Name": "Tips Music", "CMP": "811.30", "P/E": "68.17", "Mar Cap": "10370.98", "Div Yld": "0.74", "NP Qtr": "48.16", "Qtr Profit Var": "21.46", "Sales Qtr": "80.61", "Qtr Sales Var": "32.43", "ROCE": "103.80"},
+      {"Name": "Saregama India", "CMP": "496.60", "P/E": "51.03", "Mar Cap": "9584.85", "Div Yld": "0.81", "NP Qtr": "44.95", "Qtr Profit Var": "-6.44", "Sales Qtr": "241.83", "Qtr Sales Var": "40.31", "ROCE": "19.60"},
+      {"Name": "Sri Adhik. Bros.", "CMP": "1888.75", "P/E": null, "Mar Cap": "4792.34", "Div Yld": "0.00", "NP Qtr": "-0.09", "Qtr Profit Var": "98.34", "Sales Qtr": "1.27", "Qtr Sales Var": null, "ROCE": null},
+      {"Name": "Prime Focus", "CMP": "132.88", "P/E": null, "Mar Cap": "3986.23", "Div Yld": "0.00", "NP Qtr": "50.41", "Qtr Profit Var": "115.13", "Sales Qtr": "897.04", "Qtr Sales Var": "-12.59", "ROCE": "-0.72"}
+    ],
+    "Median": {
+      "CMP": "126.81",
+      "P/E": "36.44",
+      "Mar Cap": "446.24",
+      "Div Yld": "0.0",
+      "NP Qtr": "0.53",
+      "Qtr Profit Var": "-50.62",
+      "Sales Qtr": "48.28",
+      "Qtr Sales Var": "-12.59",
+      "ROCE": "6.26"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has reduced debt.",
+    "Cons": "Debtor days have increased from 111 to 136 days.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern": {
+      "Promoters": "56.79%",
+      "FIIs": "0.89%",
+      "DIIs": "0.86%",
+      "Public": "41.46%",
+      "No. of Shareholders": "1,008"
+    },
+    "Notes on Shareholding Data": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": [
+    {
+      "Title": "Reply to Clarification- Financial results",
+      "Date": "19 December 2024"
+    },
+    {
+      "Title": "Clarification - Financial Results",
+      "Date": "13 December 2024"
+    },
+    {
+      "Title": "Press Release",
+      "Date": "3 December 2024"
+    },
+    {
+      "Title": "Press Release",
+      "Date": "14 November 2024"
+    },
+    {
+      "Title": "Financial Result Updates",
+      "Date": "13 November 2024"
+    }
+  ]
+}

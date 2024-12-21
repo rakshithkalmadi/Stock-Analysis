@@ -1,0 +1,141 @@
+
+{
+  "Company Overview": {
+    "Name": "Marathon Nextgen Realty Ltd",
+    "Sector": "Realty",
+    "Industry": "Construction",
+    "Business Description": "Marathon Nextgen Realty Ltd was incorporated in 1978. It is primarily engaged in the business of construction, development and sale of commercial and residential real estate projects. The co. is entering into new areas like SEZs, townships, infrastructure development, entertainment and leisure, education, hospitality and the capital markets.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Consumer Discretionary"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 3,148 Cr.",
+    "Current Price": "₹ 615",
+    "High/Low": "₹ 737 / 338",
+    "Stock P/E": 18.0,
+    "Book Value": "₹ 212",
+    "Dividend Yield": "0.16 %",
+    "ROCE": "15.8 %",
+    "ROE": "18.7 %",
+    "Face Value": "₹ 5.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [37, 68, 165, 98, 170, 278, 170, 210, 129, 210, 155, 162, 146],
+      "Expenses": [30, 56, 121, 62, 134, 152, 129, 149, 81, 134, 108, 109, 104],
+      "Operating Profit": [8, 12, 44, 36, 36, 126, 41, 61, 48, 76, 47, 53, 42],
+      "OPM %": ["20%", "18%", "27%", "37%", "21%", "45%", "24%", "29%", "37%", "36%", "30%", "33%", "29%"],
+      "Other Income": [9, 10, 10, 10, 12, 12, 9, 10, 10, 10, 11, 11, 20],
+      "Interest": [15, 18, 26, 30, 31, 34, 27, 25, 23, 29, 14, 19, 13],
+      "Depreciation": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+      "Profit before tax": [1, 3, 27, 15, 16, 103, 22, 45, 35, 57, 44, 44, 49],
+      "Tax %": ["99%", "40%", "28%", "29%", "28%", "27%", "30%", "25%", "22%", "27%", "28%", "26%", "19%"],
+      "Net Profit": [4, 8, 23, 12, 16, 80, 16, 43, 34, 51, 40, 38, 49],
+      "EPS in Rs": [0.78, 1.58, 5.07, 2.46, 3.17, 17.00, 3.50, 9.11, 7.29, 9.80, 7.78, 7.22, 9.46]
+    },
+    "Annual Results": {
+      "Sales": [197, 193, 69, 82, 241, 206, 306, 717, 705, 674],
+      "Expenses": [137, 136, 26, 30, 177, 142, 232, 471, 472, 455],
+      "Operating Profit": [60, 57, 43, 52, 64, 64, 74, 246, 233, 219],
+      "OPM %": ["31%", "29%", "62%", "63%", "27%", "31%", "24%", "34%", "33%", "32%"],
+      "Other Income": [45, 50, 1, 1, 8, 18, 38, 36, 41, 52],
+      "Interest": [0, 0, 5, 21, 41, 44, 75, 123, 91, 74],
+      "Depreciation": [0, 0, 1, 2, 6, 5, 3, 3, 3, 3],
+      "Profit before tax": [105, 106, 39, 30, 26, 32, 35, 156, 180, 193],
+      "Tax %": ["21%", "21%", "27%", "20%", "21%", "28%", "33%", "28%", "26%"],
+      "Net Profit": [83, 84, 39, 32, 25, 16, 39, 124, 169, 178],
+      "EPS in Rs": [14.65, 14.79, 8.42, 6.84, 5.23, 3.30, 8.37, 26.12, 32.53, 34.26]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": "54%",
+        "3 Years": "51%",
+        "TTM": "-14%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": "40%",
+        "3 Years": "122%",
+        "TTM": "2%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "27%",
+        "5 Years": "53%",
+        "3 Years": "74%",
+        "1 Year": "47%"
+      }
+    },
+    "Profitability Ratios": {
+      "ROE": {
+        "10 Years": null,
+        "5 Years": "11%",
+        "3 Years": "15%",
+        "Last Year": "19%"
+      },
+      "ROCE": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "Last Year": null
+      }
+    },
+    "Liquidity Ratios": null,
+    "Valuation Ratios": {
+      "P/E": 18.0,
+      "Price to Book": null
+    },
+    "Other Ratios": {
+      "Debtor Days": [128, 497, 0, 24, 33, 89, 45, 22, 49],
+      "Inventory Days": [383, 65, 12215, 14683, 5749],
+      "Days Payable": [4, 5, 3492, 1510, 460],
+      "Cash Conversion Cycle": [507, 556, 0, 24, 8756, 13262, 45, 22, 5338],
+      "Working Capital Days": [385, 558, 557, 1347, 304, 987, 675, 259, 338]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "DLF", "CMP": 830.70, "P/E": 57.10, "Mar Cap": 205624.14, "Div Yld": 0.60, "NP Qtr": 1381.22, "Qtr Profit Var": 122.08, "Sales Qtr": 1975.02, "Qtr Sales Var": 46.55, "ROCE": 5.74},
+      {"Name": "Macrotech Devel.", "CMP": 1400.70, "P/E": 64.99, "Mar Cap": 139626.64, "Div Yld": 0.16, "NP Qtr": 423.10, "Qtr Profit Var": 109.46, "Sales Qtr": 2625.70, "Qtr Sales Var": 50.07, "ROCE": 11.06},
+      {"Name": "Godrej Propert.", "CMP": 2855.95, "P/E": 62.06, "Mar Cap": 86016.50, "Div Yld": 0.00, "NP Qtr": 333.79, "Qtr Profit Var": 399.69, "Sales Qtr": 1093.23, "Qtr Sales Var": 218.73, "ROCE": 5.74},
+      {"Name": "Oberoi Realty", "CMP": 2247.80, "P/E": 35.20, "Mar Cap": 81730.51, "Div Yld": 0.36, "NP Qtr": 589.44, "Qtr Profit Var": 29.05, "Sales Qtr": 1319.89, "Qtr Sales Var": 8.42, "ROCE": 15.24},
+      {"Name": "Prestige Estates", "CMP": 1794.50, "P/E": 113.48, "Mar Cap": 77294.54, "Div Yld": 0.10, "NP Qtr": 234.60, "Qtr Profit Var": -77.41, "Sales Qtr": 2304.40, "Qtr Sales Var": 3.04, "ROCE": 14.86},
+      {"Name": "Phoenix Mills", "CMP": 1591.05, "P/E": 53.81, "Mar Cap": 56880.07, "Div Yld": 0.16, "NP Qtr": 292.16, "Qtr Profit Var": -13.66, "Sales Qtr": 917.97, "Qtr Sales Var": 4.91, "ROCE": 12.44},
+      {"Name": "Brigade Enterpr.", "CMP": 1236.70, "P/E": 66.03, "Mar Cap": 30206.67, "Div Yld": 0.16, "NP Qtr": 115.08, "Qtr Profit Var": 2.29, "Sales Qtr": 1072.16, "Qtr Sales Var": -21.54, "ROCE": 12.66},
+      {"Name": "Marathon Nextgen", "CMP": 614.70, "P/E": 17.95, "Mar Cap": 3147.76, "Div Yld": 0.16, "NP Qtr": 49.46, "Qtr Profit Var": 41.33, "Sales Qtr": 145.99, "Qtr Sales Var": 13.14, "ROCE": 15.80}
+    ],
+    "Median": {
+      "CMP": 92,
+      "P/E": 35.42,
+      "Mar Cap": 904.55,
+      "Div Yld": 0.0,
+      "NP Qtr": 3.68,
+      "Qtr Profit Var": 24.69,
+      "Sales Qtr": 34.27,
+      "Qtr Sales Var": 16.22,
+      "ROCE": 7.92
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has delivered good profit growth of 39.5% CAGR over last 5 years",
+    "Cons": "Stock is trading at 2.90 times its book value\nDebtor days have increased from 38.7 to 48.9 days.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [74.97, 74.97, 74.65, 74.65, 74.44, 74.44, 74.40, 73.45, 73.68, 73.68, 73.63, 73.63],
+      "FIIs": [0.01, 0.03, 0.03, 0.07, 0.01, 0.15, 0.24, 2.34, 1.56, 0.56, 0.41, 3.15],
+      "DIIs": [0.01, 0.01, 0.12, 0.08, 0.01, 0.03, 0.01, 0.01, 0.07, 0.01, 0.80, 1.61],
+      "Government": [0.00, 0.00, 0.00, 2.14, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00],
+      "Public": [25.01, 24.99, 25.20, 23.06, 25.53, 25.38, 25.35, 24.20, 24.68, 25.75, 25.18, 21.62]
+    },
+    "Yearly": {
+      "Promoters": [75.00, 74.97, 74.97, 74.97, 74.97, 74.97, 74.44, 73.68, 73.63],
+      "FIIs": [0.00, 0.01, 0.00, 0.00, 0.00, 0.03, 0.15, 0.56, 3.15],
+      "DIIs": [0.01, 0.05, 0.01, 0.01, 0.01, 0.01, 0.03, 0.01, 1.61],
+      "Public": [24.99, 24.97, 25.02, 25.02, 25.02, 24.99, 25.38, 25.75, 21.62]
+    },
+    "Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

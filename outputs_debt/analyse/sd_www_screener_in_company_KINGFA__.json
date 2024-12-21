@@ -1,0 +1,173 @@
+
+{
+  "Company Overview": {
+    "Name": "Kingfa Science & Technology (India) Ltd",
+    "Sector": "Plastic products",
+    "Industry": "Plastics Products",
+    "Business Description": "Manufacturing and supply of high-quality modified plastic compounds for automotive and consumer products and personal protective equipments like masks and gloves.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Industrials" 
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 4,141 Cr.",
+    "Current Price": "₹ 3,419",
+    "High / Low": "₹ 3,734 / 1,400",
+    "Stock P/E": 30.9,
+    "Book Value": "₹ 539",
+    "Dividend Yield": "0.29 %",
+    "ROCE": "30.1 %",
+    "ROE": "23.2 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [265, 256, 304, 346, 351, 340, 366, 339, 351, 394, 404, 416, 418],
+      "Expenses": [251, 242, 287, 338, 317, 310, 311, 289, 306, 356, 354, 359, 362],
+      "Operating Profit": [14, 14, 17, 8, 34, 31, 55, 50, 45, 38, 51, 57, 56],
+      "OPM %": [5, 5, 6, 2, 10, 9, 15, 15, 13, 10, 13, 14, 13],
+      "Other Income": [0, 0, -6, 0, 1, 1, 1, 2, 0, 1, 2, 2, 1],
+      "Interest": [1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 2, 1, 1],
+      "Depreciation": [3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 5],
+      "Profit before tax": [10, 10, 5, 3, 30, 27, 49, 47, 40, 32, 45, 52, 50],
+      "Tax %": [25, 26, 27, 27, 26, 25, 26, 25, 25, 25, 26, 25, 26],
+      "Net Profit": [7, 7, 4, 2, 22, 20, 37, 35, 30, 24, 34, 39, 37],
+      "EPS in Rs": [6.15, 6.16, 3.30, 2.04, 18.24, 16.70, 30.24, 28.93, 24.44, 20.09, 27.70, 32.26, 30.77]
+    },
+    "Annual Results": {
+      "Sales": [157, 178, 219, 314, 427, 602, 702, 742, 627, 1048, 1404, 1488, 1633],
+      "Expenses": [155, 181, 212, 288, 408, 560, 666, 698, 607, 966, 1276, 1303, 1431],
+      "Operating Profit": [2, -3, 6, 27, 19, 41, 35, 43, 20, 82, 128, 185, 202],
+      "OPM %": [1, -2, 3, 8, 5, 7, 5, 6, 3, 8, 9, 12, 12],
+      "Other Income": [1, 0, 0, 1, 4, 6, 4, 3, 6, -22, 2, 3, 5],
+      "Interest": [7, 7, 8, 7, 2, 2, 2, 4, 3, 5, 7, 6, 6],
+      "Depreciation": [3, 3, 3, 3, 3, 6, 8, 9, 11, 13, 14, 18, 21],
+      "Profit before tax": [-7, -12, -5, 17, 18, 39, 29, 33, 12, 41, 110, 164, 180],
+      "Tax %": [-29, -31, -35, 38, 30, 36, 35, 26, 55, 26, 26, 25, 26],
+      "Net Profit": [-5, -8, -3, 11, 12, 25, 19, 25, 5, 31, 81, 123, 134],
+      "EPS in Rs": [-4.14, -6.95, -2.49, 8.93, 10.24, 20.35, 15.74, 20.33, 4.39, 25.29, 67.22, 101.17, 110.82]
+    },
+    "Sales Growth": {
+      "10 Years": "24%",
+      "5 Years": "16%",
+      "3 Years": "33%",
+      "TTM": "17%"
+    },
+    "Profit Growth": {
+      "10 Years": "32%",
+      "5 Years": "45%",
+      "3 Years": "185%",
+      "TTM": "10%"
+    },
+    "Stock Price CAGR": {
+      "10 Years": "34%",
+      "5 Years": "42%",
+      "3 Years": "47%",
+      "1 Year": "53%"
+    }
+  },
+  "Ratios": {
+    "ROCE %": [-1, -9, 4, 22, 9, 13, 9, 10, 4, 16, 25, 30],
+    "Debtor Days": [78, 97, 93, 99, 111, 110, 109, 97, 123, 99, 93, 99],
+    "Inventory Days": [52, 54, 64, 85, 69, 85, 63, 67, 100, 110, 94, 76],
+    "Days Payable": [68, 66, 72, 127, 108, 108, 119, 115, 152, 181, 155, 110],
+    "Cash Conversion Cycle": [62, 85, 85, 57, 72, 86, 53, 49, 71, 28, 32, 66],
+    "Working Capital Days": [57, 90, 87, 66, 82, 99, 59, 69, 82, 48, 56, 86]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Supreme Inds.", "CMP": 4839.80, "P/E": 56.35, "Mar Cap": 61478.46, "Div Yld": 0.62, "NP Qtr": 206.60, "Qtr Profit Var": -15.05, "Sales Qtr": 2272.95, "Qtr Sales Var": -1.55, "ROCE": 28.56},
+      {"Name": "Astral", "CMP": 1734.60, "P/E": 89.13, "Mar Cap": 46597.38, "Div Yld": 0.22, "NP Qtr": 108.70, "Qtr Profit Var": -17.15, "Sales Qtr": 1370.40, "Qtr Sales Var": 0.54, "ROCE": 23.16},
+      {"Name": "Finolex Inds.", "CMP": 238.50, "P/E": 30.76, "Mar Cap": 14798.37, "Div Yld": 1.05, "NP Qtr": 51.44, "Qtr Profit Var": -45.15, "Sales Qtr": 828.43, "Qtr Sales Var": -6.20, "ROCE": 10.42},
+      {"Name": "Time Technoplast", "CMP": 467.20, "P/E": 29.32, "Mar Cap": 10602.13, "Div Yld": 0.43, "NP Qtr": 99.79, "Qtr Profit Var": 39.72, "Sales Qtr": 1370.52, "Qtr Sales Var": 14.76, "ROCE": 15.62},
+      {"Name": "Responsive Ind", "CMP": 252.15, "P/E": 35.71, "Mar Cap": 6722.53, "Div Yld": 0.04, "NP Qtr": 49.28, "Qtr Profit Var": 21.17, "Sales Qtr": 349.52, "Qtr Sales Var": 30.25, "ROCE": 15.16},
+      {"Name": "Shaily Engineer.", "CMP": 1447.95, "P/E": 90.91, "Mar Cap": 6653.72, "Div Yld": 0.07, "NP Qtr": 21.92, "Qtr Profit Var": 102.40, "Sales Qtr": 192.00, "Qtr Sales Var": 21.85, "ROCE": 14.12},
+      {"Name": "Jai Corp", "CMP": 317.25, "P/E": 85.03, "Mar Cap": 5661.31, "Div Yld": 0.16, "NP Qtr": 17.11, "Qtr Profit Var": 47.76, "Sales Qtr": 135.37, "Qtr Sales Var": 14.84, "ROCE": 3.85},
+      {"Name": "Kingfa Science", "CMP": 3419.40, "P/E": 30.86, "Mar Cap": 4141.05, "Div Yld": 0.29, "NP Qtr": 37.26, "Qtr Profit Var": 25.88, "Sales Qtr": 418.33, "Qtr Sales Var": 19.24, "ROCE": 30.06}
+    ],
+    "Median": {
+      "CMP": 189.98,
+      "P/E": 35.27,
+      "Mar Cap": 493.37,
+      "Div Yld": 0.07,
+      "NP Qtr": 3.62,
+      "Qtr Profit Var": 17.8,
+      "Sales Qtr": 70.5,
+      "Qtr Sales Var": 6.7,
+      "ROCE": 15.35
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 45.1% CAGR over last 5 years",
+      "Company's median sales growth is 23.0% of last 10 years"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Shareholding Pattern Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes.",
+      "Click on the line-items to see the names of individual entities."
+    ],
+    "Shareholding Pattern": {
+      "Quarterly": {
+        "Promoters": [74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99],
+        "FIIs": [6.33, 6.35, 6.34, 6.32, 6.32, 6.33, 6.34, 6.35, 6.36, 6.33, 6.34, 6.35],
+        "DIIs": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.04],
+        "Public": [18.68, 18.66, 18.66, 18.69, 18.68, 18.67, 18.66, 18.66, 18.64, 18.67, 18.67, 18.61]
+      },
+      "Yearly": {
+        "Promoters": [74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99, 74.99],
+        "FIIs": [5.68, 6.55, 6.55, 6.55, 6.33, 6.35, 6.33, 6.33, 6.35],
+        "DIIs": [0.01, 0.01, 0.00, 0.02, 0.00, 0.00, 0.00, 0.00, 0.04],
+        "Public": [19.32, 18.44, 18.45, 18.43, 18.68, 18.66, 18.67, 18.67, 18.61]
+      }
+    }
+  },
+  "Balance Sheet": {
+    "Equity Capital": [6, 6, 6, 10, 10, 12, 12, 12, 12, 12, 12, 12, 12],
+    "Reserves": [13, 5, 2, 109, 234, 293, 312, 336, 342, 372, 454, 576, 641],
+    "Borrowings": [34, 62, 75, 16, 42, 21, 17, 46, 71, 46, 42, 33, 46],
+    "Other Liabilities": [31, 31, 41, 95, 119, 159, 210, 202, 246, 449, 502, 373, 364],
+    "Total Liabilities": [85, 105, 125, 230, 405, 485, 551, 596, 671, 880, 1010, 994, 1063],
+    "Fixed Assets": [26, 24, 25, 29, 76, 88, 85, 107, 129, 126, 123, 252, 245],
+    "CWIP": [0, 0, 1, 41, 10, 2, 79, 115, 123, 127, 131, 2, 10],
+    "Investments": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    "Other Assets": [58, 81, 99, 160, 319, 395, 388, 375, 419, 627, 756, 740, 808],
+    "Total Assets": [85, 105, 125, 230, 405, 485, 551, 596, 671, 880, 1010, 994, 1063]
+  },
+  "Cash Flow": {
+    "Cash from Operating Activity": [9, -24, -1, 19, -119, -116, 96, 30, -2, 38, 27, 16],
+    "Cash from Investing Activity": [2, -1, -4, -47, -18, -6, -77, -63, -14, -19, -12, -5],
+    "Cash from Financing Activity": [-11, 25, 5, 34, 137, 14, -7, 22, 17, -14, -21, -8],
+    "Net Cash Flow": [0, 0, 0, 6, -1, -108, 12, -11, 1, 5, -6, 3]
+  },
+  "Documents": {
+    "Announcements": [
+      {"Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate", "Date": "13 Dec"},
+      {"Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate", "Date": "30 Oct"},
+      {"Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Date": "30 Oct"},
+      {"Title": "Performance Update For The Half Year Ended September 30, 2024", "Date": "29 Oct - Performance update for H1 FY 2024-25."},
+      {"Title": "Announcement under Regulation 30 (LODR)-Change in Management", "Date": "29 Oct - Appointment of CTO and Tax Auditor approved."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "bse"},
+      {"Year": 2010, "Source": "bse"}
+    ]
+  }
+}

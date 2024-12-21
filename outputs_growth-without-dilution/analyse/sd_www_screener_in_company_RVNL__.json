@@ -1,0 +1,144 @@
+
+{
+  "Company Overview": {
+    "Name": "Rail Vikas Nigam Ltd",
+    "Sector": "Infrastructure Developers & Operators",
+    "Industry": "Construction",
+    "Business Description": "Incorporated in 2003 by the Govt. of India, engaged in implementing various types of Rail infrastructure projects assigned by MoR including doubling, gauge conversion, new lines, railway electrification, major bridges, workshops, Production Units and sharing of freight revenue with Railways.",
+    "Market Position": "Part of Nifty 500, Multicap 50:25:25, Nifty MidSmallcap 400, BSE 400 MidSmallCap Index, BSE MidCap, Nifty Midcap 100, Nifty 200, Nifty Alpha 50, BSE India Infrastructure Index, BSE CPSE, BSE Allcap, Nifty LargeMidcap 250, BSE 250 LargeMidCap Index, BSE Industrials, BSE Momentum Index, Nifty Midcap 150, Nifty Total Market, Nifty Midcap150 Momentum 50, BSE 500, BSE 150 MidCap Index, BSE Capital Goods, BSE 200, BSE Dollex 200, BSE PSU, Nifty 500"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 90,334 Cr.",
+    "Current Price": "₹ 433",
+    "High/Low": "₹ 647 / ₹ 175",
+    "P/E Ratio": "70.6",
+    "Book Value": "₹ 38.1",
+    "Dividend Yield": "0.49%",
+    "ROCE": "18.7%",
+    "ROE": "20.4%",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": "4,026",
+        "Dec 2021": "5,049",
+        "Mar 2022": "6,438",
+        "Jun 2022": "4,641",
+        "Sep 2022": "4,909",
+        "Dec 2022": "5,011",
+        "Mar 2023": "5,721",
+        "Jun 2023": "5,446",
+        "Sep 2023": "4,869"
+      },
+      "Net Profit": {
+        "Sep 2021": "222",
+        "Dec 2021": "282",
+        "Mar 2022": "372",
+        "Jun 2022": "283",
+        "Sep 2022": "299",
+        "Dec 2022": "341",
+        "Mar 2023": "345",
+        "Jun 2023": "334",
+        "Sep 2023": "303"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2014": "2,494",
+        "Mar 2015": "3,147",
+        "Mar 2016": "4,540",
+        "Mar 2017": "5,915",
+        "Mar 2018": "7,557",
+        "Mar 2019": "10,060",
+        "Mar 2020": "14,531",
+        "Mar 2021": "15,404",
+        "Mar 2022": "19,382",
+        "Mar 2023": "20,282"
+      },
+      "Net Profit": {
+        "Mar 2014": "162",
+        "Mar 2015": "209",
+        "Mar 2016": "300",
+        "Mar 2017": "389",
+        "Mar 2018": "470",
+        "Mar 2019": "607",
+        "Mar 2020": "790",
+        "Mar 2021": "941",
+        "Mar 2022": "1,087",
+        "Mar 2023": "1,268"
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE": {
+      "Mar 2014": "3%",
+      "Mar 2015": "7%",
+      "Mar 2016": "9%",
+      "Mar 2017": "11%",
+      "Mar 2018": "13%",
+      "Mar 2019": "13%",
+      "Mar 2020": "16%",
+      "Mar 2021": "17%",
+      "Mar 2022": "18%",
+      "Mar 2023": "19%"
+    },
+    "Debt to Equity": "Not explicitly stated, but can be calculated from Balance Sheet data."
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "IRB Infra.Devl.", "CMP": "55.09", "P/E": "53.99", "Mar Cap": "33268.85", "Div Yld": "0.54", "NP Qtr": "99.87", "Qtr Profit Var": "4.30", "Sales Qtr": "1585.84", "Qtr Sales Var": "-9.12", "ROCE": "8.96"},
+      {"Name": "Ircon Intl.", "CMP": "218.27", "P/E": "22.28", "Mar Cap": "20528.64", "Div Yld": "1.42", "NP Qtr": "205.92", "Qtr Profit Var": "-17.87", "Sales Qtr": "2447.52", "Qtr Sales Var": "-18.06", "ROCE": "18.15"},
+      {"Name": "Afcons Infrastr.", "CMP": "520.25", "P/E": "41.77", "Mar Cap": "19134.00", "Div Yld": "0.00", "NP Qtr": "135.43", "Qtr Profit Var": "30.01", "Sales Qtr": "2959.69", "Qtr Sales Var": "-11.23", "ROCE": "23.13"},
+      {"Name": "G R Infraproject", "CMP": "1529.80", "P/E": "16.09", "Mar Cap": "14799.33", "Div Yld": "0.00", "NP Qtr": "193.57", "Qtr Profit Var": "-16.22", "Sales Qtr": "1394.33", "Qtr Sales Var": "-25.94", "ROCE": "16.89"},
+      {"Name": "H.G. Infra Engg.", "CMP": "1432.80", "P/E": "17.82", "Mar Cap": "9337.72", "Div Yld": "0.10", "NP Qtr": "80.72", "Qtr Profit Var": "-16.02", "Sales Qtr": "902.41", "Qtr Sales Var": "-5.46", "ROCE": "24.12"},
+      {"Name": "KNR Construct.", "CMP": "325.20", "P/E": "8.36", "Mar Cap": "9145.75", "Div Yld": "0.08", "NP Qtr": "580.02", "Qtr Profit Var": "216.20", "Sales Qtr": "1944.86", "Qtr Sales Var": "87.28", "ROCE": "25.74"}
+    ],
+    "Median": {
+      "CMP": "223.2",
+      "P/E": "26.34",
+      "Mar Cap": "994.28",
+      "Div Yld": "0.0",
+      "NP Qtr": "13.06",
+      "Qtr Profit Var": "9.65",
+      "Sales Qtr": "153.08",
+      "Qtr Sales Var": "5.05",
+      "ROCE": "19.75"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has been maintaining a healthy dividend payout of 33.4%",
+      "Company's median sales growth is 26.2% of last 10 years"
+    ],
+    "Cons": [
+      "Stock is trading at 11.4 times its book value",
+      "Earnings include an other income of Rs.1,148 Cr.",
+      "Promoter holding has decreased over last 3 years: -5.36%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": "72.84%",
+      "FIIs": "2.32%",
+      "DIIs": "6.18%",
+      "Public": "18.66%"
+    },
+    "Yearly": {
+      "Mar 2019": {
+        "Promoters": "78.20%",
+        "FIIs": "0.86%",
+        "DIIs": "8.62%",
+        "Public": "12.32%"
+      },
+      "Mar 2023": {
+        "Promoters": "78.20%",
+        "FIIs": "1.53%",
+        "DIIs": "6.51%",
+        "Public": "13.76%"
+      }
+    },
+    "Note": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  }
+}

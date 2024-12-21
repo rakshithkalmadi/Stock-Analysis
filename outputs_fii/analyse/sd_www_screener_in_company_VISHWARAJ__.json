@@ -1,0 +1,222 @@
+
+{
+  "Company Overview": {
+    "Name": "Vishwaraj Sugar Industries Ltd",
+    "Sector": "Sugar",
+    "Industry": "Sugar",
+    "Business Description": "Production and sale of sugar, alcoholic spirits by distillation including ethanol, blending and bottling of Indian made foreign liquor, vinegar and generation of power. VSIL is an integrated sugar manufacturing company operating from Belgaum District in Karnataka, which is designated as one of the High Recovery zones for sugar production by Government of India. It is also engaged in the generation of Power for captive consumption as well as external sale through its by-product bagasse.",
+    "Market Position": "Not explicitly stated in the provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 325 Cr.",
+    "Current Price": "₹ 14.9",
+    "High/Low": "₹ 22.0 / ₹ 14.1",
+    "Stock P/E": "Not explicitly stated, but implied in peer comparison table.",
+    "Book Value": "₹ 12.8",
+    "Dividend Yield": "1.34 %",
+    "ROCE": "8.60 %",
+    "ROE": "5.72 %",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": "Not explicitly stated."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": 103,
+        "Dec 2021": 133,
+        "Mar 2022": 131,
+        "Jun 2022": 217,
+        "Sep 2022": 99,
+        "Dec 2022": 102,
+        "Mar 2023": 199,
+        "Jun 2023": 142,
+        "Sep 2023": 138
+      },
+      "Expenses": {
+        "Sep 2021": 91,
+        "Dec 2021": 90,
+        "Mar 2022": 96,
+        "Jun 2022": 211,
+        "Sep 2022": 100,
+        "Dec 2022": 52,
+        "Mar 2023": 187,
+        "Jun 2023": 140,
+        "Sep 2023": 139
+      },
+      "Net Profit": {
+        "Sep 2021": 0,
+        "Dec 2021": 29,
+        "Mar 2022": 35,
+        "Jun 2022": -6,
+        "Sep 2022": -7,
+        "Dec 2022": 38,
+        "Mar 2023": -46,
+        "Jun 2023": -9,
+        "Sep 2023": -11
+      },
+      "EPS": {
+        "Sep 2021": 0.01,
+        "Dec 2021": 1.57,
+        "Mar 2022": 1.89,
+        "Jun 2022": -0.33,
+        "Sep 2022": -0.37,
+        "Dec 2022": 2.01,
+        "Mar 2023": -2.45,
+        "Jun 2023": -0.49,
+        "Sep 2023": -0.60
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2010": 280,
+        "Mar 2011": 361,
+        "Mar 2015": 276,
+        "Mar 2016": 335,
+        "Mar 2017": 284,
+        "Mar 2018": 222,
+        "Mar 2019": 285,
+        "Mar 2020": 362,
+        "Mar 2021": 425,
+        "Mar 2022": 467,
+        "Mar 2023": 611
+      },
+      "Net Profit": {
+        "Mar 2010": 18,
+        "Mar 2011": 43,
+        "Mar 2015": -3,
+        "Mar 2016": 4,
+        "Mar 2017": 6,
+        "Mar 2018": -4,
+        "Mar 2019": -18,
+        "Mar 2020": -8,
+        "Mar 2021": 8,
+        "Mar 2022": 60,
+        "Mar 2023": -23
+      },
+      "EPS": {
+        "Mar 2010": 105.59,
+        "Mar 2011": 2.49,
+        "Mar 2015": -0.19,
+        "Mar 2016": 0.26,
+        "Mar 2017": 0.35,
+        "Mar 2018": -0.25,
+        "Mar 2019": -1.02,
+        "Mar 2020": -0.42,
+        "Mar 2021": 0.44,
+        "Mar 2022": 3.20,
+        "Mar 2023": -1.25
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "Not explicitly stated.",
+      "Compounded Sales Growth (5 Years)": "14%",
+      "Compounded Sales Growth (3 Years)": "9%",
+      "Compounded Sales Growth (TTM)": "-20%",
+      "Compounded Profit Growth (10 Years)": "Not explicitly stated.",
+      "Compounded Profit Growth (5 Years)": "24%",
+      "Compounded Profit Growth (3 Years)": "21%",
+      "Compounded Profit Growth (TTM)": "81%"
+    },
+    "Liquidity Ratios": {
+      "Current Ratio": "Not explicitly stated.",
+      "Quick Ratio": "Not explicitly stated."
+    },
+    "Profitability Ratios": {
+      "Gross Profit Margin": "Not explicitly stated.",
+      "Operating Profit Margin": "Varied across quarters and years (see Performance Trends)",
+      "Net Profit Margin": "Not explicitly stated."
+    },
+    "Valuation Ratios": {
+      "Price-to-Book Ratio": "1.16 (mentioned in Pros)",
+      "Price-to-Earnings Ratio": "Not explicitly stated, but implied in peer comparison table.",
+      "EV/EBITDA": "Not explicitly stated."
+    },
+    "Other Ratios": {
+      "ROCE": "Varied across years (see Performance Trends)",
+      "ROE": "Varied across years (see Performance Trends)",
+      "Debt-to-Equity Ratio": "Not explicitly stated.",
+      "Interest Coverage Ratio": "Low (mentioned in Cons)",
+      "Debtor Days": "Varied across years (see Balance Sheet)",
+      "Inventory Days": "Varied across years (see Balance Sheet)",
+      "Days Payable": "Varied across years (see Balance Sheet)",
+      "Cash Conversion Cycle": "Varied across years (see Balance Sheet)",
+      "Working Capital Days": "Varied across years (see Balance Sheet)"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "EID Parry", "CMP": 959.15, "P/E": 23.16, "Mar Cap": 17033.22, "Div Yld": 0.42, "NP Qtr": 591.66, "Qtr Profit Var": -32.42, "Sales Qtr": 9330.35, "Qtr Sales Var": 2.99, "ROCE": 20.29},
+      {"Name": "Balrampur Chini", "CMP": 538.80, "P/E": 25.18, "Mar Cap": 10878.50, "Div Yld": 0.56, "NP Qtr": 67.18, "Qtr Profit Var": -59.59, "Sales Qtr": 1297.95, "Qtr Sales Var": -15.69, "ROCE": 13.46},
+      {"Name": "Triven.Engg.Ind.", "CMP": 453.90, "P/E": 32.03, "Mar Cap": 9935.78, "Div Yld": 0.77, "NP Qtr": -22.42, "Qtr Profit Var": -165.96, "Sales Qtr": 1490.95, "Qtr Sales Var": 5.83, "ROCE": 14.77},
+      {"Name": "Sh.Renuka Sugar", "CMP": 39.78, "P/E": null, "Mar Cap": 8467.13, "Div Yld": 0.00, "NP Qtr": -23.10, "Qtr Profit Var": 89.12, "Sales Qtr": 2566.20, "Qtr Sales Var": 0.43, "ROCE": 10.15},
+      {"Name": "Bannari Amm.Sug.", "CMP": 3690.35, "P/E": 35.43, "Mar Cap": 4627.59, "Div Yld": 0.34, "NP Qtr": 34.27, "Qtr Profit Var": -29.79, "Sales Qtr": 473.73, "Qtr Sales Var": -21.06, "ROCE": 11.82},
+      {"Name": "Bajaj Hindusthan", "CMP": 31.09, "P/E": null, "Mar Cap": 3971.31, "Div Yld": 0.00, "NP Qtr": -75.63, "Qtr Profit Var": 38.76, "Sales Qtr": 1159.67, "Qtr Sales Var": 2.33, "ROCE": 0.80},
+      {"Name": "Dalmia Bharat", "CMP": 379.00, "P/E": 11.07, "Mar Cap": 3067.60, "Div Yld": 1.32, "NP Qtr": 66.18, "Qtr Profit Var": 20.55, "Sales Qtr": 926.39, "Qtr Sales Var": 26.58, "ROCE": 9.84}
+    ],
+    "Median": {
+      "CMP": 114.02,
+      "P/E": 19.25,
+      "Mar Cap": 787.49,
+      "Div Yld": 0.32,
+      "NP Qtr": -10.93,
+      "Qtr Profit Var": -34.98,
+      "Sales Qtr": 283.5,
+      "Qtr Sales Var": -10.96,
+      "ROCE": 10.35
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Stock is trading at 1.16 times its book value"
+    ],
+    "Cons": [
+      "Company has low interest coverage ratio.",
+      "Promoter holding has decreased over last quarter: -4.64%",
+      "Promoter holding is low: 29.0%",
+      "Company has a low return on equity of 6.58% over last 3 years."
+    ],
+    "Notes": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ],
+    "Shareholding Pattern": {
+      "Promoters": "Varied across quarters and years (see Shareholding Pattern)",
+      "FIIs": "Varied across quarters and years (see Shareholding Pattern)",
+      "DIIs": "Varied across quarters and years (see Shareholding Pattern)",
+      "Government": "Varied across quarters and years (see Shareholding Pattern)",
+      "Public": "Varied across quarters and years (see Shareholding Pattern)"
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "6 Dec", "Description": "Board approved lease of integrated sugar factory."},
+      {"Date": "11 Nov", "Description": "Submission Of Outcome Of Board Meeting Under Regulation 30 Of The SEBI (LODR) Regulations, 2015, As Amended ('Listing Regulations')"},
+      {"Date": "8 Nov", "Description": "Commencement of sugarcane crushing for 2024-25 season."},
+      {"Date": "3 Nov", "Description": "Board meeting to approve Q2 financial results."},
+      {"Date": "17 Oct", "Description": "Certificate received from the Company''s RTA pursuant to Regulation 74(5) of SEBI (DP) Regulations."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "13 Dec", "Agency": "fitch"},
+      {"Date": "22 Oct", "Agency": "icra"},
+      {"Date": "27 Dec 2023", "Agency": "fitch"},
+      {"Date": "22 Nov 2023", "Agency": "brickwork"},
+      {"Date": "9 Oct 2023", "Agency": "icra"},
+      {"Date": "18 Sep 2023", "Agency": "fitch"}
+    ],
+    "Concalls": [
+      {"Date": "Aug 2021", "Type": "Transcript"}
+    ]
+  }
+}

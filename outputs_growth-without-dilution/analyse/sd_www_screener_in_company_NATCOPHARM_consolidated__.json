@@ -1,0 +1,136 @@
+
+{
+  "Company Overview": {
+    "Name": "Natco Pharma Ltd",
+    "Sector": "Pharmaceuticals",
+    "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+    "Business Description": "A vertically integrated, research and development focused pharmaceutical company engaged in developing, manufacturing, and marketing complex products for niche therapeutic areas.  NATCO has established its presence in all three business segments viz. finished dosage formulations (“FDF”), active pharmaceutical ingredients (“APIs”), Contract Manufacturing Business.",
+    "Market Position": "Focuses on niche opportunities in the US, Para IV and First-to-File molecules.  Started winning tenders in Asian markets including Malaysia and Thailand. Focuses on high-barrier-to-entry products characterized by intricate chemistry, challenging delivery systems, and difficult manufacturing processes."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 25,379 Cr.",
+    "Current Price": "₹ 1,417",
+    "High/Low": "₹ 1,639 / ₹ 788",
+    "P/E Ratio": "13.1",
+    "Book Value": "₹ 399",
+    "Dividend Yield": "0.67 %",
+    "ROCE": "30.1 %",
+    "ROE": "25.9 %",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": null //Not explicitly provided in the HTML
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [377, 560, 597, 885, 432, 492, 898, 1140, 1031, 759, 1068, 1363, 1371],
+      "Expenses": [307, 459, 615, 489, 337, 387, 559, 612, 573, 490, 571, 558, 567],
+      "Operating Profit": [70, 102, -19, 395, 95, 106, 339, 528, 458, 268, 497, 805, 804],
+      "OPM %": ["19%", "18%", "-3%", "45%", "22%", "22%", "38%", "46%", "44%", "35%", "47%", "59%", "59%"],
+      "Net Profit": [65, 80, -50, 320, 57, 62, 276, 420, 369, 213, 386, 668, 676],
+      "EPS in Rs": [3.57, 4.41, -2.77, 17.55, 3.11, 3.41, 15.11, 23.47, 20.60, 11.88, 21.57, 37.32, 37.81]
+    },
+    "Annual Results": {
+      "Sales": [661, 739, 825, 1042, 2020, 2185, 2094, 1915, 2052, 1945, 2707, 3999, 4561],
+      "Expenses": [511, 560, 615, 777, 1337, 1256, 1300, 1332, 1446, 1681, 1772, 2245, 2186],
+      "Operating Profit": [150, 179, 210, 266, 683, 928, 795, 583, 606, 264, 936, 1754, 2374],
+      "OPM %": ["23%", "24%", "25%", "25%", "34%", "42%", "38%", "30%", "30%", "14%", "35%", "44%", "52%"],
+      "Net Profit": [66, 98, 130, 156, 485, 695, 642, 458, 442, 170, 715, 1388, 1944],
+      "EPS in Rs": [4.58, 6.21, 8.10, 9.02, 27.88, 37.74, 35.24, 25.31, 24.18, 9.31, 39.18, 77.51, 108.58]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [31, 33, 33, 35, 35, 37, 36, 36, 36, 36, 36, 36, 36],
+      "Reserves": [502, 693, 813, 1261, 1614, 3035, 3452, 3737, 4085, 4227, 4837, 5817, 7114],
+      "Borrowings": [338, 240, 312, 113, 222, 173, 386, 316, 268, 416, 167, 371, 208],
+      "Other Liabilities": [209, 229, 226, 413, 446, 470, 428, 498, 403, 430, 617, 682, 886],
+      "Total Liabilities": [1080, 1196, 1384, 1822, 2318, 3715, 4303, 4588, 4792, 5109, 5657, 6906, 8245],
+      "Fixed Assets": [583, 645, 710, 710, 833, 1019, 1227, 1584, 2023, 2312, 2427, 2491, 2541],
+      "Total Assets": [1080, 1196, 1384, 1822, 2318, 3715, 4303, 4588, 4792, 5109, 5657, 6906, 8245]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [61, 144, 93, 112, 346, 464, 669, 417, 299, 46, 849, 1212],
+      "Cash from Investing Activity": [-111, -108, -120, -176, -299, -1116, -611, -175, -107, 4, -465, -1026],
+      "Cash from Financing Activity": [26, -35, 29, 154, -48, 651, -51, -251, -186, 35, -363, -247],
+      "Net Cash Flow": [-24, 0, 2, 90, -1, -2, 7, -8, 6, 85, 21, -62]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "18%",
+      "Compounded Sales Growth (5 Years)": "14%",
+      "Compounded Sales Growth (3 Years)": "25%",
+      "Compounded Sales Growth (TTM)": "28%",
+      "Compounded Profit Growth (10 Years)": "30%",
+      "Compounded Profit Growth (5 Years)": "17%",
+      "Compounded Profit Growth (3 Years)": "49%",
+      "Compounded Profit Growth (TTM)": "72%",
+      "Stock Price CAGR (10 Years)": "18%",
+      "Stock Price CAGR (5 Years)": "20%",
+      "Stock Price CAGR (3 Years)": "20%",
+      "Stock Price CAGR (1 Year)": "79%"
+    },
+    "Liquidity Ratios": null, //Not explicitly provided
+    "Profitability Ratios": {
+      "ROCE %": [17, 18, 17, 18, 39, 35, 23, 14, 13, 4, 18, 30],
+      "Return on Equity (10 Years)": "17%",
+      "Return on Equity (5 Years)": "14%",
+      "Return on Equity (3 Years)": "16%",
+      "Return on Equity (Last Year)": "26%"
+    },
+    "Valuation Ratios": null, //Partially provided (P/E), but others not explicitly stated.
+    "Other Ratios": {
+      "Debtor Days": [72, 59, 85, 92, 86, 106, 88, 105, 73, 116, 115, 109],
+      "Inventory Days": [220, 283, 331, 482, 213, 389, 545, 534, 570, 496, 432, 357],
+      "Days Payable": [159, 172, 189, 372, 160, 239, 224, 244, 104, 105, 153, 120],
+      "Cash Conversion Cycle": [132, 170, 228, 202, 138, 257, 410, 395, 539, 507, 394, 345],
+      "Working Capital Days": [67, 71, 99, 131, 111, 244, 275, 355, 294, 333, 220, 184]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Sun Pharma.Inds.", "CMP": 1808.85, "P/E": 38.73, "Mar Cap": 434003.71, "Div Yld": 0.75, "NP Qtr": 3037.33, "Qtr Profit Var": 27.86, "Sales Qtr": 13291.39, "Qtr Sales Var": 9.01, "ROCE": 17.32},
+      {"Name": "Cipla", "CMP": 1472.05, "P/E": 25.81, "Mar Cap": 118884.82, "Div Yld": 0.88, "NP Qtr": 1305.01, "Qtr Profit Var": 15.18, "Sales Qtr": 7051.02, "Qtr Sales Var": 5.58, "ROCE": 22.80},
+      {"Name": "Mankind Pharma", "CMP": 2805.20, "P/E": 56.07, "Mar Cap": 112393.74, "Div Yld": 0.00, "NP Qtr": 634.43, "Qtr Profit Var": 34.84, "Sales Qtr": 2529.74, "Qtr Sales Var": 11.91, "ROCE": 24.57},
+      {"Name": "Dr Reddy's Labs", "CMP": 1343.65, "P/E": 21.00, "Mar Cap": 112115.62, "Div Yld": 0.60, "NP Qtr": 1341.90, "Qtr Profit Var": -15.28, "Sales Qtr": 8038.20, "Qtr Sales Var": 16.45, "ROCE": 26.53},
+      {"Name": "Lupin", "CMP": 2150.70, "P/E": 37.36, "Mar Cap": 98114.41, "Div Yld": 0.37, "NP Qtr": 859.48, "Qtr Profit Var": 74.12, "Sales Qtr": 5672.73, "Qtr Sales Var": 12.59, "ROCE": 15.72},
+      {"Name": "Zydus Lifesci.", "CMP": 973.50, "P/E": 22.90, "Mar Cap": 97956.88, "Div Yld": 0.31, "NP Qtr": 920.20, "Qtr Profit Var": 13.62, "Sales Qtr": 5237.00, "Qtr Sales Var": 19.87, "ROCE": 22.34},
+      {"Name": "Aurobindo Pharma", "CMP": 1241.70, "P/E": 19.96, "Mar Cap": 72756.00, "Div Yld": 0.36, "NP Qtr": 816.95, "Qtr Profit Var": 8.65, "Sales Qtr": 7796.07, "Qtr Sales Var": 7.99, "ROCE": 14.10},
+      {"Name": "Natco Pharma", "CMP": 1416.95, "P/E": 13.06, "Mar Cap": 25378.97, "Div Yld": 0.67, "NP Qtr": 676.50, "Qtr Profit Var": 83.33, "Sales Qtr": 1371.10, "Qtr Sales Var": 32.94, "ROCE": 30.10}
+    ],
+    "Median": {
+      "CMP": 78,
+      "P/E": 33.34,
+      "Mar Cap": 2869.55,
+      "Div Yld": 0.05,
+      "NP Qtr": 17.27,
+      "Qtr Profit Var": 19.36,
+      "Sales Qtr": 188.19,
+      "Qtr Sales Var": 9.43,
+      "ROCE": 14.1
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company is almost debt free. Company has been maintaining a healthy dividend payout of 24.9%",
+    "Cons": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Indices": [
+    "Nifty 500",
+    "Multicap 50:25:25",
+    "BSE 250",
+    "SmallCap Index",
+    "BSE 400",
+    "MidSmallCap Index",
+    "BSE SmallCap",
+    "Nifty Pharma",
+    "Nifty Smallcap 100",
+    "BSE Allcap",
+    "Nifty MidSmallcap 400",
+    "Nifty Smallcap 50",
+    "Nifty Smallcap 250",
+    "Nifty Total Market",
+    "Nifty MidSmall Healthcare",
+    "Nifty500 Multicap India Manufacturing 50:30:20",
+    "BSE 500",
+    "BSE SmallCap Select Index",
+    "BSE Healthcare"
+  ]
+}

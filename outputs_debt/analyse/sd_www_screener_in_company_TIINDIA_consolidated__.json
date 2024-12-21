@@ -1,0 +1,113 @@
+
+{
+  "Company Overview": {
+    "Name": "Tube Investments of India Ltd",
+    "Sector": "Steel",
+    "Industry": "Steel - Large",
+    "Business Description": "One of India’s leading manufacturers of a wide range of products for major industries such as Automotive, Railway, Construction, Mining, Agriculture, etc. The Company’s 3 main verticals are Engineering, Metal Formed Products and Bicycles.  It has forayed into TMT bars and Truck Body Building business and is exploring opportunities in optic lens and other vision systems for the Auto industry.",
+    "Market Position": "Part of Nifty LargeMidcap 250, Nifty India Manufacturing, BSE 400 MidSmallCap Index, BSE Auto, BSE MidCap, Nifty Midcap 100, Nifty 200, BSE Allcap, BSE Consumer Discretionary, Nifty Midcap 150, Nifty 500 Multicap 50:25:25, Nifty Midcap150 Quality 50, BSE MidCap Select Index, BSE 250 LargeMidCap Index, Nifty Total Market, Nifty500 Multicap Infrastructure 50:30:20, BSE 500, BSE SENSEX Next 50, BSE 150 MidCap Index, BSE 100, BSE 200, BSE Dollex 200, Nifty 500, Nifty MidSmallcap 400"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 70,020 Cr.",
+    "Current Price": "₹ 3,619",
+    "High/Low": "₹ 4,811 / ₹ 3,334",
+    "P/E Ratio": 87.2,
+    "Book Value": "₹ 276",
+    "Dividend Yield": "0.10 %",
+    "ROCE": "26.3 %",
+    "ROE": "26.5 %",
+    "Face Value": "₹ 1.00"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table."
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Note": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table."
+      },
+      "Annual": {
+        "Note": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table."
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table."
+    },
+    "Cash Flow": {
+      "Note": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "Not specified",
+      "Compounded Sales Growth (5 Years)": "24%",
+      "Compounded Sales Growth (3 Years)": "41%",
+      "Compounded Sales Growth (TTM)": "16%",
+      "Compounded Profit Growth (10 Years)": "Not specified",
+      "Compounded Profit Growth (5 Years)": "38%",
+      "Compounded Profit Growth (3 Years)": "62%",
+      "Compounded Profit Growth (TTM)": "-13%",
+      "Stock Price CAGR (10 Years)": "Not specified",
+      "Stock Price CAGR (5 Years)": "49%",
+      "Stock Price CAGR (3 Years)": "30%",
+      "Stock Price CAGR (1 Year)": "1%"
+    },
+    "Liquidity Ratios": {
+      "Note": "Not explicitly provided, but can be derived from Balance Sheet data."
+    },
+    "Profitability Ratios": {
+      "ROCE (10 Years)": "Not specified",
+      "ROCE (5 Years)": "Not specified",
+      "ROCE (3 Years)": "Not specified",
+      "ROCE (Last Year)": "26%",
+      "ROE (10 Years)": "Not specified",
+      "ROE (5 Years)": "25%",
+      "ROE (3 Years)": "27%",
+      "ROE (Last Year)": "26%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": 87.2,
+      "Price to Book": "Not specified, but can be calculated from Current Price and Book Value."
+    },
+    "Other Ratios": {
+      "Debtor Days": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table.",
+      "Inventory Days": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table.",
+      "Days Payable": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table.",
+      "Cash Conversion Cycle": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table.",
+      "Working Capital Days": "Available in table format but not easily extractable in this format. Requires further processing of the HTML table."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "JSW Steel", "CMP": 917.35, "P/E": 43.70, "Mar Cap": 224333.72, "Div Yld": 0.80, "NP Qtr": 404.00, "Qtr Profit Var": -76.10, "Sales Qtr": 39684.00, "Qtr Sales Var": -10.99, "ROCE": 13.30},
+      {"Name": "Tata Steel", "CMP": 140.68, "P/E": 57.62, "Mar Cap": 175618.26, "Div Yld": 2.56, "NP Qtr": 758.84, "Qtr Profit Var": 210.32, "Sales Qtr": 53904.71, "Qtr Sales Var": -3.19, "ROCE": 7.02},
+      {"Name": "Jindal Stain.", "CMP": 719.80, "P/E": 24.22, "Mar Cap": 59294.94, "Div Yld": 0.42, "NP Qtr": 609.42, "Qtr Profit Var": -11.23, "Sales Qtr": 9776.83, "Qtr Sales Var": -0.21, "ROCE": 22.23},
+      {"Name": "S A I L", "CMP": 116.10, "P/E": 15.19, "Mar Cap": 47955.40, "Div Yld": 1.72, "NP Qtr": 897.15, "Qtr Profit Var": -44.34, "Sales Qtr": 24675.20, "Qtr Sales Var": -16.95, "ROCE": 8.10},
+      {"Name": "APL Apollo Tubes", "CMP": 1559.00, "P/E": 74.22, "Mar Cap": 43266.08, "Div Yld": 0.35, "NP Qtr": 53.81, "Qtr Profit Var": -73.48, "Sales Qtr": 4773.91, "Qtr Sales Var": 3.10, "ROCE": 25.18},
+      {"Name": "Shyam Metalics", "CMP": 768.45, "P/E": 25.66, "Mar Cap": 21449.89, "Div Yld": 0.59, "NP Qtr": 215.68, "Qtr Profit Var": -55.29, "Sales Qtr": 3634.02, "Qtr Sales Var": 23.58, "ROCE": 10.79}
+    ],
+    "Median": {
+      "CMP": 633.85,
+      "P/E": 22.09,
+      "Mar Cap": 20908.69,
+      "Div Yld": 0.53,
+      "NP Qtr": 249.32,
+      "Qtr Profit Var": -31.19,
+      "Sales Qtr": 4203.97,
+      "Qtr Sales Var": -2.5,
+      "ROCE": 20.5
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 38.3% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 27.2%"
+    ],
+    "Cons": [
+      "Stock is trading at 13.1 times its book value",
+      "Earnings include an other income of Rs.822 Cr."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

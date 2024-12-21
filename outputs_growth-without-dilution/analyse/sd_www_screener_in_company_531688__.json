@@ -1,0 +1,113 @@
+
+{
+  "Company Overview": {
+    "Name": "Prithvi Exchange (India) Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Business Description": "Reserve Bank of India licensed, Authorized Dealer Category II. Provides foreign exchange services to leisure and business travelers, students, corporates (IT, manufacturing, service), and individuals traveling abroad.  Has tie-ups with various banks and travel agencies.",
+    "MarketPosition": "Not explicitly stated in provided HTML" 
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 200 Cr.",
+    "Current Price": "₹ 242",
+    "High/Low": "₹ 522 / ₹ 132",
+    "Stock P/E": "13.5",
+    "Book Value": "₹ 60.7",
+    "Dividend Yield": "1.03 %",
+    "ROCE": "46.1 %",
+    "ROE": "35.2 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but implied to be low based on 'Company is almost debt free'"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Detailed data available in Quarterly Results table, but requires further processing to represent as trends."
+    },
+    "Profit & Loss": {
+      "Note": "Detailed quarterly and annual data available in 'Profit & Loss' section. Requires further processing to represent as trends.  Includes Sales, Expenses, Operating Profit, OPM %, Other Income, Interest, Depreciation, Profit before tax, Tax %, Net Profit, and EPS."
+    },
+    "Balance Sheet": {
+      "Note": "Detailed annual data available in 'Balance Sheet' section. Requires further processing to represent as trends. Includes Equity Capital, Reserves, Borrowings, Other Liabilities, Total Liabilities, Fixed Assets, CWIP, Investments, Other Assets, and Total Assets."
+    },
+    "Cash Flow": {
+      "Note": "Detailed annual data available in 'Cash Flows' section. Requires further processing to represent as trends. Includes Cash from Operating Activity, Cash from Investing Activity, Cash from Financing Activity, and Net Cash Flow."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "87%",
+      "Compounded Sales Growth (5 Years)": "233%",
+      "Compounded Sales Growth (3 Years)": "853%",
+      "Compounded Sales Growth (TTM)": "17%",
+      "Compounded Profit Growth (10 Years)": "19%",
+      "Compounded Profit Growth (5 Years)": "41%",
+      "Compounded Profit Growth (3 Years)": "108%",
+      "Compounded Profit Growth (TTM)": "107%",
+      "Stock Price CAGR (10 Years)": "30%",
+      "Stock Price CAGR (5 Years)": "61%",
+      "Stock Price CAGR (3 Years)": "107%",
+      "Stock Price CAGR (1 Year)": "78%"
+    },
+    "Liquidity Ratios": {
+      "Note": "Data available in 'Ratios' section, but requires further processing. Includes Debtor Days, Inventory Days, Days Payable, Cash Conversion Cycle, and Working Capital Days."
+    },
+    "Profitability Ratios": {
+      "ROCE (10 Years)": "11%",
+      "ROCE (5 Years)": "12%",
+      "ROCE (3 Years)": "19%",
+      "ROCE (Last Year)": "35%",
+      "ROE (10 Years)": "11%",
+      "ROE (5 Years)": "12%",
+      "ROE (3 Years)": "19%",
+      "ROE (Last Year)": "35%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "13.5",
+      "Price to Book": "Not explicitly stated, but can be calculated from Current Price and Book Value."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": "6848.25", "P/E": "27.57", "Mar Cap": "423904.26", "Div Yld": "0.53", "NP Qtr": "4013.74", "Qtr Profit Var": "12.64", "Sales Qtr": "17090.27", "Qtr Sales Var": "27.71", "ROCE": "11.92"},
+      {"Name": "Bajaj Finserv", "CMP": "1569.65", "P/E": "29.48", "Mar Cap": "250620.07", "Div Yld": "0.06", "NP Qtr": "4180.15", "Qtr Profit Var": "8.19", "Sales Qtr": "33703.74", "Qtr Sales Var": "29.52", "ROCE": "11.72"},
+      {"Name": "Jio Financial", "CMP": "304.30", "P/E": "120.37", "Mar Cap": "193330.44", "Div Yld": "0.00", "NP Qtr": "689.07", "Qtr Profit Var": "3.13", "Sales Qtr": "693.50", "Qtr Sales Var": "14.05", "ROCE": "1.55"},
+      {"Name": "Bajaj Holdings", "CMP": "10746.75", "P/E": "16.15", "Mar Cap": "119600.58", "Div Yld": "1.22", "NP Qtr": "1510.43", "Qtr Profit Var": "-3.67", "Sales Qtr": "279.07", "Qtr Sales Var": "24.18", "ROCE": "13.07"},
+      {"Name": "Shriram Finance", "CMP": "2877.25", "P/E": "13.80", "Mar Cap": "108201.51", "Div Yld": "1.56", "NP Qtr": "2153.27", "Qtr Profit Var": "17.99", "Sales Qtr": "10089.54", "Qtr Sales Var": "17.93", "ROCE": "11.27"},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": "1189.55", "P/E": "25.96", "Mar Cap": "100010.48", "Div Yld": "0.17", "NP Qtr": "967.80", "Qtr Profit Var": "25.22", "Sales Qtr": "6255.12", "Qtr Sales Var": "35.32", "ROCE": "10.41"},
+      {"Name": "HDFC AMC", "CMP": "4262.80", "P/E": "41.19", "Mar Cap": "91089.60", "Div Yld": "1.64", "NP Qtr": "576.88", "Qtr Profit Var": "31.84", "Sales Qtr": "887.21", "Qtr Sales Var": "37.96", "ROCE": "37.72"}
+    ],
+    "Median": {
+      "CMP": "202.59", "P/E": "25.6", "Mar Cap": "552.06", "Div Yld": "0.0", "NP Qtr": "5.38", "Qtr Profit Var": "20.11", "Sales Qtr": "24.74", "Qtr Sales Var": "26.2", "ROCE": "10.26"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 40.7% CAGR over last 5 years"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Notes": "Further textual analysis of the provided HTML is needed to extract more detailed insights."
+  },
+  "Shareholding Pattern": {
+    "Promoters": "71.95%",
+    "Public": "28.05%",
+    "No. of Shareholders": "Varied across years, with data available for several years."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "13 Dec", "Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate", "Description": "Information on loss of share certificates and duplicate issuance."},
+      {"Date": "2 Dec", "Title": "Announcement under Regulation 30 (LODR)-Investor Presentation", "Description": "Investor Presentation for the quarter and half year ended 30th September, 2024"},
+      {"Date": "11 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Description": ""},
+      {"Date": "10 Nov", "Title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release", "Description": "Prithvi Exchange announces H1 FY2024-25 financial results."},
+      {"Date": "9 Nov", "Title": "Board Meeting Outcome for Outcome Of Board Meeting", "Description": "Board approved unaudited financial results for Q2 2024."}
+    ],
+    "Annual Reports": "Available for several years (2010-2024), links to BSE provided."
+  },
+  "Concalls": {
+    "Note": "Data available for Aug 2024 and Dec 2024, including transcripts, notes, and PPTs."
+  }
+}

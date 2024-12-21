@@ -1,0 +1,155 @@
+
+{
+  "Company Overview": {
+    "Name": "Brady & Morris Engineering Company Ltd",
+    "Sector": "Capital Goods-Non Electrical Equipment",
+    "Industry": "Engineering",
+    "Business Description": "Incorporated in 1946, Brady & Morris Engineering Co. Ltd is in the business of manufacturing of Material handling equipment, textile machinery and stores, etc.",
+    "Market Position": "Information not explicitly provided, but peer comparison data is available."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 373 Cr.",
+    "Current Price": "₹ 1,659",
+    "High/Low": "₹ 2,511 / ₹ 646",
+    "P/E Ratio": "39.1",
+    "Book Value": "₹ 125",
+    "Dividend Yield": "0.00%",
+    "ROCE": "40.3%",
+    "ROE": "43.3%",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [8.88, 13.52, 16.00, 14.01, 16.71, 14.10, 15.54, 14.30, 15.93, 18.98, 26.00, 20.56, 23.42], 
+      "Expenses": [7.36, 12.22, 14.84, 12.51, 14.84, 12.36, 13.28, 11.79, 13.34, 15.55, 22.21, 17.04, 19.96],
+      "Operating Profit": [1.52, 1.30, 1.16, 1.50, 1.87, 1.74, 2.26, 2.51, 2.59, 3.43, 3.79, 3.52, 3.46],
+      "OPM %": [17.12, 9.62, 7.25, 10.71, 11.19, 12.34, 14.54, 17.55, 16.26, 18.07, 14.58, 17.12, 14.77],
+      "Other Income": [0.10, 0.08, 0.30, 0.12, 0.16, 0.17, 0.20, 0.20, 0.22, 0.07, 0.10, 0.08, 0.15],
+      "Interest": [0.08, 0.10, 0.21, 0.11, 0.11, 0.17, 0.16, 0.15, 0.12, 0.29, 0.20, 0.14, 0.11],
+      "Depreciation": [0.13, 0.14, 0.15, 0.12, 0.15, 0.14, 0.17, 0.14, 0.15, 0.17, 0.18, 0.23, 0.24],
+      "Profit before tax": [1.41, 1.14, 1.10, 1.39, 1.77, 1.60, 2.13, 2.42, 2.54, 3.04, 3.51, 3.23, 3.26],
+      "Tax %": [28.37, 42.11, 19.09, 22.30, 25.42, 28.75, 29.11, 26.86, 24.02, 28.29, 28.21, 25.39, 25.46],
+      "Net Profit": [1.02, 0.65, 0.89, 1.08, 1.32, 1.14, 1.51, 1.77, 1.93, 2.19, 2.52, 2.41, 2.43],
+      "EPS in Rs": [4.53, 2.89, 3.96, 4.80, 5.87, 5.07, 6.71, 7.87, 8.58, 9.73, 11.20, 10.71, 10.80]
+    },
+    "Annual Results": {
+      "Sales": [31.01, 34.39, 31.98, 35.83, 36.00, 23.72, 43.66, 43.58, 37.53, 46.79, 60.37, 75.21, 88.96],
+      "Expenses": [28.03, 29.93, 30.06, 33.53, 33.80, 26.26, 39.76, 40.70, 34.58, 41.78, 52.99, 62.91, 74.76],
+      "Operating Profit": [2.98, 4.46, 1.92, 2.30, 2.20, -2.54, 3.90, 2.88, 2.95, 5.01, 7.38, 12.30, 14.20],
+      "OPM %": [9.61, 12.97, 6.00, 6.42, 6.11, -10.71, 8.93, 6.61, 7.86, 10.71, 12.22, 16.35, 15.96],
+      "Other Income": [0.00, -1.44, 0.32, 0.17, 0.30, 3.32, 0.82, 0.95, 0.77, 0.57, 0.65, 0.60, 0.40],
+      "Interest": [1.15, 0.99, 1.19, 1.25, 1.42, 1.13, 1.18, 0.87, 0.42, 0.51, 0.55, 0.76, 0.74],
+      "Depreciation": [1.08, 1.05, 1.20, 1.08, 1.02, 0.78, 1.02, 0.77, 0.64, 0.55, 0.58, 0.63, 0.82],
+      "Profit before tax": [0.75, 0.98, -0.15, 0.14, 0.06, -1.13, 2.52, 2.19, 2.66, 4.52, 6.90, 11.51, 13.04],
+      "Tax %": [0.00, 0.00, 0.00, -42.86, 0.00, 0.00, 17.86, 15.98, 1.50, 29.20, 26.67, 26.93, 25.46],
+      "Net Profit": [0.76, 0.97, -0.14, 0.20, 0.06, -1.13, 2.07, 1.84, 2.63, 3.19, 5.05, 8.41, 9.55],
+      "EPS in Rs": [3.38, 4.31, -0.62, 0.89, 0.27, -5.02, 9.20, 8.18, 11.69, 14.18, 22.44, 37.38, 42.44]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [2.25, 2.25, 2.25, 2.25, 2.25, 2.25, 2.25, 2.25, 2.25, 2.25, 2.25, 2.25, 2.25],
+      "Reserves": [-2.35, -1.38, -1.72, -1.52, -1.04, -2.15, 0.01, 1.77, 4.50, 7.65, 12.68, 21.07, 25.91],
+      "Borrowings": [13.31, 15.21, 31.48, 30.99, 29.78, 30.93, 27.47, 21.21, 17.64, 17.77, 14.04, 7.68, 7.62],
+      "Other Liabilities": [24.50, 22.11, 12.11, 11.89, 22.41, 14.66, 14.14, 11.45, 9.02, 14.31, 11.71, 17.49, 14.02],
+      "Total Liabilities": [37.71, 38.19, 44.12, 43.61, 53.40, 45.69, 43.87, 36.68, 33.41, 41.98, 40.68, 48.49, 49.80],
+      "Fixed Assets": [12.34, 12.29, 11.46, 11.18, 11.33, 9.59, 8.98, 8.41, 7.85, 7.55, 7.60, 10.36, 10.23],
+      "CWIP": [0.98, 1.02, 1.06, 1.56, 2.26, 1.26, 1.06, 1.06, 1.08, 1.16, 2.09, 1.17, 1.79],
+      "Investments": [0.06, 0.06, 0.06, 0.06, 0.48, 0.51, 0.58, 0.55, 3.60, 4.25, 3.79, 0.31, 0.32],
+      "Other Assets": [24.33, 24.82, 31.54, 30.81, 39.33, 34.33, 33.25, 26.66, 20.88, 29.02, 27.20, 36.65, 37.46],
+      "Total Assets": [37.71, 38.19, 44.12, 43.61, 53.40, 45.69, 43.87, 36.68, 33.41, 41.98, 40.68, 48.49, 49.80]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [4.36, -1.06, -15.45, 2.26, 3.62, -5.32, 4.70, 7.26, 7.45, 0.74, 5.07, 5.85],
+      "Cash from Investing Activity": [-0.28, -0.92, -0.39, -2.28, -1.66, 5.23, -0.15, -0.49, -3.50, -0.37, -0.79, 1.27],
+      "Cash from Financing Activity": [-3.92, 1.89, 16.26, -0.48, -1.86, 0.00, -4.55, -6.73, -3.97, -0.38, -4.27, -7.12],
+      "Net Cash Flow": [0.16, -0.09, 0.43, -0.49, 0.10, -0.09, 0.00, 0.03, -0.02, -0.01, 0.01, 0.00]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "8%",
+      "Compounded Sales Growth (5 Years)": "11%",
+      "Compounded Sales Growth (3 Years)": "26%",
+      "Compounded Sales Growth (TTM)": "49%",
+      "Compounded Profit Growth (10 Years)": "12%",
+      "Compounded Profit Growth (5 Years)": "32%",
+      "Compounded Profit Growth (3 Years)": "47%",
+      "Compounded Profit Growth (TTM)": "50%",
+      "Stock Price CAGR (10 Years)": "41%",
+      "Stock Price CAGR (5 Years)": "123%",
+      "Stock Price CAGR (3 Years)": "141%",
+      "Stock Price CAGR (1 Year)": "130%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [101.93, 116.64, 153.17, 171.04, 238.97, 196.35, 118.04, 83.42, 86.17, 113.27, 85.01, 99.05],
+      "Inventory Days": [226.24, 193.51, 276.34, 179.49, 202.04, 494.82, 215.51, 201.51, 141.15, 159.70, 110.48, 104.19],
+      "Days Payable": [171.57, 121.54, 178.49, 153.39, 272.22, 315.52, 151.19, 111.90, 71.28, 95.45, 59.65, 55.28],
+      "Cash Conversion Cycle": [156.60, 188.62, 251.02, 197.13, 168.79, 375.65, 182.37, 173.03, 156.04, 177.52, 135.83, 147.95],
+      "Working Capital Days": [142.30, 163.98, 216.74, 177.97, 160.90, 283.91, 153.07, 121.69, 97.45, 107.57, 87.37, 88.08]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [13.73, 24.45, 4.33, 4.36, 4.72, -10.00, 12.15, 11.10, 12.29, 18.82, 25.32, 40.32],
+      "ROE (10 Years)": "35%",
+      "ROE (5 Years)": "43%",
+      "ROE (3 Years)": "41%",
+      "ROE (Last Year)": "43%"
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Information not explicitly provided, but mentioned in cons section as 13.3 times"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Jyoti CNC Auto.", "CMP": 1331.85, "P/E": 110.35, "Mar Cap": 30289.35, "Div Yld": 0.00, "NP Qtr": 75.88, "Qtr Profit Var": 352.74, "Sales Qtr": 430.67, "Qtr Sales Var": 42.47, "ROCE": 21.22},
+      {"Name": "Jupiter Wagons", "CMP": 540.80, "P/E": 62.81, "Mar Cap": 22956.85, "Div Yld": 0.18, "NP Qtr": 88.62, "Qtr Profit Var": 8.63, "Sales Qtr": 973.63, "Qtr Sales Var": 10.73, "ROCE": 31.67},
+      {"Name": "Action Const.Eq.", "CMP": 1491.40, "P/E": 48.57, "Mar Cap": 17760.07, "Div Yld": 0.13, "NP Qtr": 94.82, "Qtr Profit Var": 28.25, "Sales Qtr": 756.69, "Qtr Sales Var": 12.40, "ROCE": 42.30},
+      {"Name": "Titagarh Rail", "CMP": 1310.55, "P/E": 58.02, "Mar Cap": 17649.67, "Div Yld": 0.06, "NP Qtr": 80.69, "Qtr Profit Var": 15.01, "Sales Qtr": 1056.95, "Qtr Sales Var": 12.99, "ROCE": 24.97},
+      {"Name": "Praj Industries", "CMP": 810.15, "P/E": 53.53, "Mar Cap": 14891.62, "Div Yld": 0.74, "NP Qtr": 53.83, "Qtr Profit Var": -13.69, "Sales Qtr": 816.19, "Qtr Sales Var": -7.50, "ROCE": 29.29},
+      {"Name": "Elecon Engg.Co", "CMP": 601.75, "P/E": 38.02, "Mar Cap": 13503.27, "Div Yld": 0.25, "NP Qtr": 87.72, "Qtr Profit Var": -0.96, "Sales Qtr": 508.14, "Qtr Sales Var": 4.79, "ROCE": 31.32},
+      {"Name": "Lloyds Engineeri", "CMP": 77.15, "P/E": 92.08, "Mar Cap": 8966.64, "Div Yld": 0.26, "NP Qtr": 27.95, "Qtr Profit Var": 48.75, "Sales Qtr": 212.15, "Qtr Sales Var": 74.21, "ROCE": 28.33},
+      {"Name": "Brady & Morris", "CMP": 1659.45, "P/E": 39.10, "Mar Cap": 373.38, "Div Yld": 0.00, "NP Qtr": 2.43, "Qtr Profit Var": 25.91, "Sales Qtr": 23.42, "Qtr Sales Var": 47.02, "ROCE": 40.32}
+    ],
+    "Median": {
+      "CMP": 510.05,
+      "P/E": 42.42,
+      "Mar Cap": 622.68,
+      "Div Yld": 0.15,
+      "NP Qtr": 5.13,
+      "Qtr Profit Var": 24.7,
+      "Sales Qtr": 62.58,
+      "Qtr Sales Var": 10.19,
+      "ROCE": 20.64
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 32.0% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 40.7%"
+    ],
+    "Cons": [
+      "Stock is trading at 13.3 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Company might be capitalizing the interest cost"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Data Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.98, 73.98, 73.98, 73.98, 73.98],
+      "DIIs": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04],
+      "Public": [26.21, 26.21, 26.21, 26.21, 26.22, 26.22, 26.22, 25.97, 25.98, 25.98, 25.99, 25.99]
+    },
+    "Yearly": {
+      "Promoters": [73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.75, 73.98, 73.98],
+      "DIIs": [0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04],
+      "Public": [26.21, 26.21, 26.21, 26.21, 26.21, 26.21, 26.22, 25.98, 25.99]
+    },
+    "No. of Shareholders": [894, 942, 965, 953, 990, 991, 1078, 1189, 1501, 1725, 2027, 2463, 1072, 1039, 1025, 924, 812, 942, 991, 1725, 2463]
+  }
+}

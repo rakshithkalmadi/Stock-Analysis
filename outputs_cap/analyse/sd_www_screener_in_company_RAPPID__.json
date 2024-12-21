@@ -1,0 +1,277 @@
+
+{
+  "Company Overview": {
+    "Name": "Rappid Valves India Ltd",
+    "Sector": "Capital Goods-Non Electrical Equipment",
+    "Industry": "Engineering",
+    "Business Description": "Incorporated in 2002, Rappid Valves (India) Limited manufactures Valve solutions. The company offers various valves, including ball, gate, globe, butterfly, check, double block, filter, and marine valves. These valves are made using ferrous and non-ferrous materials and come in sizes ranging from 15mm to 600mm to meet diverse requirements.",
+    "MarketPosition": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 202 Cr.",
+    "CurrentPrice": "₹ 390",
+    "High/Low": "₹ 430 / ₹ 246",
+    "StockPE": 49.0,
+    "BookValue": "₹ 80.5",
+    "DividendYield": "0.00%",
+    "ROCE": "38.2%",
+    "ROE": "79.7%",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Information not explicitly available in provided HTML." 
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sep 2023": {
+        "Sales": "7.25",
+        "Expenses": "5.40",
+        "OperatingProfit": "1.85",
+        "OPM%": "25.52%",
+        "OtherIncome": "0.06",
+        "Interest": "0.65",
+        "Depreciation": "0.21",
+        "ProfitBeforeTax": "1.05",
+        "Tax%": "22.86%",
+        "NetProfit": "0.81",
+        "EPS": "4.60"
+      },
+      "Sep 2024": {
+        "Sales": "19.62",
+        "Expenses": "15.29",
+        "OperatingProfit": "4.33",
+        "OPM%": "22.07%",
+        "OtherIncome": "0.00",
+        "Interest": "0.60",
+        "Depreciation": "0.35",
+        "ProfitBeforeTax": "3.38",
+        "Tax%": "28.99%",
+        "NetProfit": "2.39",
+        "EPS": null
+      }
+    },
+    "AnnualResults": {
+      "Mar 2022": {
+        "Sales": "12.14",
+        "Expenses": "10.20",
+        "OperatingProfit": "1.94",
+        "OPM%": "15.98%",
+        "OtherIncome": "0.01",
+        "Interest": "1.46",
+        "Depreciation": "0.20",
+        "ProfitBeforeTax": "0.29",
+        "Tax%": "0.00%",
+        "NetProfit": "0.29",
+        "EPS": null
+      },
+      "Mar 2023": {
+        "Sales": "16.40",
+        "Expenses": "14.07",
+        "OperatingProfit": "2.33",
+        "OPM%": "14.21%",
+        "OtherIncome": "0.04",
+        "Interest": "1.44",
+        "Depreciation": "0.30",
+        "ProfitBeforeTax": "0.63",
+        "Tax%": "26.98%",
+        "NetProfit": "0.46",
+        "EPS": null
+      },
+      "Mar 2024": {
+        "Sales": "36.51",
+        "Expenses": "29.16",
+        "OperatingProfit": "7.35",
+        "OPM%": "20.13%",
+        "OtherIncome": "0.09",
+        "Interest": "1.40",
+        "Depreciation": "0.51",
+        "ProfitBeforeTax": "5.53",
+        "Tax%": "25.32%",
+        "NetProfit": "4.13",
+        "EPS": null
+      }
+    },
+    "BalanceSheetHighlights": {
+      "Mar 2022": {
+        "EquityCapital": "0.55",
+        "Reserves": "-0.80",
+        "Borrowings": "9.77",
+        "OtherLiabilities": "2.65",
+        "TotalLiabilities": "12.17",
+        "FixedAssets": "3.83",
+        "CWIP": "0.00",
+        "Investments": "0.16",
+        "OtherAssets": "8.18",
+        "TotalAssets": "12.17"
+      },
+      "Mar 2023": {
+        "EquityCapital": "3.50",
+        "Reserves": "-0.38",
+        "Borrowings": "9.93",
+        "OtherLiabilities": "3.52",
+        "TotalLiabilities": "16.57",
+        "FixedAssets": "4.50",
+        "CWIP": "0.00",
+        "Investments": "0.16",
+        "OtherAssets": "11.91",
+        "TotalAssets": "16.57"
+      },
+      "Mar 2024": {
+        "EquityCapital": "3.52",
+        "Reserves": "3.72",
+        "Borrowings": "15.96",
+        "OtherLiabilities": "6.74",
+        "TotalLiabilities": "29.94",
+        "FixedAssets": "6.68",
+        "CWIP": "0.00",
+        "Investments": "0.17",
+        "OtherAssets": "23.09",
+        "TotalAssets": "29.94"
+      },
+      "Sep 2024": {
+        "EquityCapital": "5.19",
+        "Reserves": "36.59",
+        "Borrowings": "14.63",
+        "OtherLiabilities": "9.55",
+        "TotalLiabilities": "65.96",
+        "FixedAssets": "6.84",
+        "CWIP": "0.00",
+        "Investments": "0.53",
+        "OtherAssets": "58.59",
+        "TotalAssets": "65.96"
+      }
+    },
+    "CashFlowSummaries": {
+      "Mar 2022": {
+        "CashFromOperatingActivity": "1.14",
+        "CashFromInvestingActivity": "-0.04",
+        "CashFromFinancingActivity": "-1.28",
+        "NetCashFlow": "-0.18"
+      },
+      "Mar 2023": {
+        "CashFromOperatingActivity": "-2.48",
+        "CashFromInvestingActivity": "-2.66",
+        "CashFromFinancingActivity": "6.06",
+        "NetCashFlow": "0.92"
+      },
+      "Mar 2024": {
+        "CashFromOperatingActivity": null,
+        "CashFromInvestingActivity": null,
+        "CashFromFinancingActivity": null,
+        "NetCashFlow": null
+      }
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "TTM": "123%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "TTM": "798%"
+      },
+      "StockPriceCAGR": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "1Year": null
+      }
+    },
+    "LiquidityRatios": {
+      "Information not explicitly available in provided HTML.": null
+    },
+    "ProfitabilityRatios": {
+      "ROCE%": {
+        "Mar 2022": "18.34%",
+        "Mar 2023": "38.23%",
+        "Mar 2024": null
+      },
+      "ROE%": {
+        "LastYear": "80%"
+      }
+    },
+    "ValuationRatios": {
+      "PriceToBook": null,
+      "MarketCapToSales": null,
+      "EV/EBITDA": null
+    },
+    "OtherRatios": {
+      "DebtorDays": {
+        "Mar 2022": "79.07",
+        "Mar 2023": "72.78",
+        "Mar 2024": "83.18"
+      },
+      "InventoryDays": {
+        "Mar 2022": "186.97",
+        "Mar 2023": "215.30",
+        "Mar 2024": "158.78"
+      },
+      "DaysPayable": {
+        "Mar 2022": "90.64",
+        "Mar 2023": "75.46",
+        "Mar 2024": "50.87"
+      },
+      "CashConversionCycle": {
+        "Mar 2022": "175.40",
+        "Mar 2023": "212.62",
+        "Mar 2024": "191.09"
+      },
+      "WorkingCapitalDays": {
+        "Mar 2022": "157.24",
+        "Mar 2023": "176.27",
+        "Mar 2024": "149.96"
+      }
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Jyoti CNC Auto.", "CMP": "1331.85", "PE": "110.35", "MarCap": "30289.35", "DivYld": "0.00", "NPQtr": "75.88", "QtrProfitVar": "352.74", "SalesQtr": "430.67", "QtrSalesVar": "42.47", "ROCE": "21.22"},
+      {"Name": "Jupiter Wagons", "CMP": "540.80", "PE": "62.81", "MarCap": "22956.85", "DivYld": "0.18", "NPQtr": "88.62", "QtrProfitVar": "8.63", "SalesQtr": "973.63", "QtrSalesVar": "10.73", "ROCE": "31.67"},
+      {"Name": "Action Const.Eq.", "CMP": "1491.40", "PE": "48.57", "MarCap": "17760.07", "DivYld": "0.13", "NPQtr": "94.82", "QtrProfitVar": "28.25", "SalesQtr": "756.69", "QtrSalesVar": "12.40", "ROCE": "42.30"},
+      {"Name": "Titagarh Rail", "CMP": "1310.55", "PE": "58.02", "MarCap": "17649.67", "DivYld": "0.06", "NPQtr": "80.69", "QtrProfitVar": "15.01", "SalesQtr": "1056.95", "QtrSalesVar": "12.99", "ROCE": "24.97"},
+      {"Name": "Praj Industries", "CMP": "810.15", "PE": "53.53", "MarCap": "14891.62", "DivYld": "0.74", "NPQtr": "53.83", "QtrProfitVar": "-13.69", "SalesQtr": "816.19", "QtrSalesVar": "-7.50", "ROCE": "29.29"},
+      {"Name": "Elecon Engg.Co", "CMP": "601.75", "PE": "38.02", "MarCap": "13503.27", "DivYld": "0.25", "NPQtr": "87.72", "QtrProfitVar": "-0.96", "SalesQtr": "508.14", "QtrSalesVar": "4.79", "ROCE": "31.32"},
+      {"Name": "Lloyds Engineeri", "CMP": "77.15", "PE": "92.08", "MarCap": "8966.64", "DivYld": "0.26", "NPQtr": "27.95", "QtrProfitVar": "48.75", "SalesQtr": "212.15", "QtrSalesVar": "74.21", "ROCE": "28.33"}
+    ],
+    "Median": {
+      "CMP": "510.05",
+      "PE": "42.42",
+      "MarCap": "622.68",
+      "DivYld": "0.15",
+      "NPQtr": "5.13",
+      "QtrProfitVar": "24.7",
+      "SalesQtr": "62.58",
+      "QtrSalesVar": "10.19",
+      "ROCE": "20.64"
+    }
+  },
+  "OtherInsights": {
+    "Pros": "Though the company is reporting repeated profits",
+    "Cons": "it is not paying out dividend",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPattern": {
+      "Sep 2024": {
+        "Promoters": "51.13%",
+        "FIIs": "3.11%",
+        "DIIs": "13.47%",
+        "Public": "32.29%",
+        "NoOfShareholders": "1,107"
+      }
+    },
+    "NotesOnShareholdingData": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "13 December 2024", "Title": "Clarification - Financial Results"},
+      {"Date": "3 December 2024", "Title": "Bagging/Receiving of orders/contracts"},
+      {"Date": "28 November 2024", "Title": "Analysts/Institutional Investor Meet/Con. Call Updates"},
+      {"Date": "28 November 2024", "Title": "General Updates"},
+      {"Date": "14 November 2024", "Title": "Statement of deviation(s) or variation(s) under Reg. 32"}
+    ],
+    "AnnualReports": "No data available."
+  }
+}

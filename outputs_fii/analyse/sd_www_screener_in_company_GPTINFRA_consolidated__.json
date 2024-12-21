@@ -1,0 +1,126 @@
+
+{
+  "Company Overview": {
+    "Name": "GPT Infraprojects Ltd",
+    "Sector": "Infrastructure Developers & Operators",
+    "Industry": "Construction",
+    "Business Description": "A construction company engaged in executing civil and infrastructure projects. It also manufactures concrete sleepers for railways.",
+    "Market Position": "Premier infrastructure company based out of Kolkata, focused on Railways and executing civil and infrastructure projects, especially large bridges and ROBs for Railways."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,753 Cr.",
+    "Current Price": "₹ 139",
+    "High/Low": "₹ 207 / ₹ 68.4",
+    "Stock P/E": 29.0,
+    "Book Value": "₹ 39.8",
+    "Dividend Yield": "1.08 %",
+    "ROCE": "21.6 %",
+    "ROE": "19.1 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each quarter."
+      },
+      "Annual": {
+        "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each year."
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+    },
+    "Cash Flow": {
+      "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "8%",
+        "5 Years": "12%",
+        "3 Years": "19%",
+        "TTM": "15%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "26%",
+        "5 Years": "36%",
+        "3 Years": "40%",
+        "TTM": "41%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "24%",
+        "5 Years": "69%",
+        "3 Years": "95%",
+        "1 Year": "70%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Note": "Data available in tabular format within the provided HTML (Debtor Days, Inventory Days, Days Payable, Cash Conversion Cycle, Working Capital Days), but requires further processing to extract specific values for each period."
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      },
+      "ROE": {
+        "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      },
+      "OPM %": {
+        "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      }
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": {
+        "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      },
+      "Price to Book": {
+        "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      },
+      "Market Cap / Sales": {
+        "Note": "Data available in tabular format within the provided HTML, but requires further processing to extract specific values for each period."
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Rail Vikas", "CMP": 433.25, "P/E": 70.59, "Mar Cap": 90333.50, "Div Yld": 0.49, "NP Qtr": 302.51, "Qtr Profit Var": -18.26, "Sales Qtr": 4869.22, "Qtr Sales Var": -0.83, "ROCE": 18.70},
+      {"Name": "IRB Infra.Devl.", "CMP": 55.09, "P/E": 53.99, "Mar Cap": 33268.85, "Div Yld": 0.54, "NP Qtr": 99.87, "Qtr Profit Var": 4.30, "Sales Qtr": 1585.84, "Qtr Sales Var": -9.12, "ROCE": 8.96},
+      {"Name": "Ircon Intl.", "CMP": 218.27, "P/E": 22.28, "Mar Cap": 20528.64, "Div Yld": 1.42, "NP Qtr": 205.92, "Qtr Profit Var": -17.87, "Sales Qtr": 2447.52, "Qtr Sales Var": -18.06, "ROCE": 18.15},
+      {"Name": "Afcons Infrastr.", "CMP": 520.25, "P/E": 41.77, "Mar Cap": 19134.00, "Div Yld": 0.00, "NP Qtr": 135.43, "Qtr Profit Var": 30.01, "Sales Qtr": 2959.69, "Qtr Sales Var": -11.23, "ROCE": 23.13},
+      {"Name": "G R Infraproject", "CMP": 1529.80, "P/E": 16.09, "Mar Cap": 14799.33, "Div Yld": 0.00, "NP Qtr": 193.57, "Qtr Profit Var": -16.22, "Sales Qtr": 1394.33, "Qtr Sales Var": -25.94, "ROCE": 16.89},
+      {"Name": "H.G. Infra Engg.", "CMP": 1432.80, "P/E": 17.82, "Mar Cap": 9337.72, "Div Yld": 0.10, "NP Qtr": 80.72, "Qtr Profit Var": -16.02, "Sales Qtr": 902.41, "Qtr Sales Var": -5.46, "ROCE": 24.12},
+      {"Name": "KNR Construct.", "CMP": 325.20, "P/E": 8.36, "Mar Cap": 9145.75, "Div Yld": 0.08, "NP Qtr": 580.02, "Qtr Profit Var": 216.20, "Sales Qtr": 1944.86, "Qtr Sales Var": 87.28, "ROCE": 25.74},
+      {"Name": "GPT Infraproject", "CMP": 138.71, "P/E": 29.00, "Mar Cap": 1752.80, "Div Yld": 1.08, "NP Qtr": 14.79, "Qtr Profit Var": 9.47, "Sales Qtr": 287.52, "Qtr Sales Var": 23.07, "ROCE": 21.64}
+    ],
+    "Median": {
+      "CMP": 223.2,
+      "P/E": 26.34,
+      "Mar Cap": 994.28,
+      "Div Yld": 0.0,
+      "NP Qtr": 13.06,
+      "Qtr Profit Var": 9.65,
+      "Sales Qtr": 153.08,
+      "Qtr Sales Var": 5.05,
+      "ROCE": 19.75
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company has delivered good profit growth of 36.5% CAGR over last 5 years",
+      "Company has been maintaining a healthy dividend payout of 37.4%",
+      "Company's working capital requirements have reduced from 144 days to 107 days"
+    ],
+    "Cons": [
+      "Promoter holding has decreased over last quarter: -5.94%",
+      "Company has a low return on equity of 13.4% over last 3 years.",
+      "Promoters have pledged 68.0% of their holding.",
+      "Company's cost of borrowing seems high"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

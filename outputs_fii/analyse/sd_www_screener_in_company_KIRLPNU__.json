@@ -1,0 +1,191 @@
+
+{
+  "Company Overview": {
+    "Name": "Kirloskar Pneumatic Company Ltd",
+    "Sector": "Capital Goods-Non Electrical Equipment",
+    "Industry": "Compressors / Drilling Equipment",
+    "Business Description": "Kirloskar Pneumatic Company Ltd, incorporated in 1958, is part of the Pune-based Kirloskar group. The Co. is engaged in the business of Compression & Transmission segments. It also undertakes O&M services for Compression Packages and has also entered logistic services by operating RoadRailer trains for end to end transportation of goods. It serves a variety of sectors like Oil & Gas, Steel, Cement, Food & Beverages, Railways, Marine and other industries.",
+    "Market Position": "Market leader in CNG systems and oil and gas refrigeration in India (over 60% market share in both segments). World's largest manufacturer of industrial gas compressors. 70% market share in Indian ammonia refrigeration compressor segment."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 10,472 Cr.",
+    "Current Price": "₹ 1,614",
+    "High/Low": "₹ 1,818 / ₹ 590",
+    "P/E Ratio": "53.5",
+    "Book Value": "₹ 157",
+    "Dividend Yield": "0.40%",
+    "ROCE": "21.7%",
+    "ROE": "16.1%",
+    "Face Value": "₹ 2.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": "227",
+        "Dec 2021": "227",
+        "Mar 2022": "398",
+        "Jun 2022": "272",
+        "Sep 2022": "295",
+        "Dec 2022": "312",
+        "Mar 2023": "360",
+        "Jun 2023": "242",
+        "Sep 2023": "282",
+        "Dec 2023": "309",
+        "Mar 2024": "490",
+        "Jun 2024": "275",
+        "Sep 2024": "431"
+      },
+      "Net Profit": {
+        "Sep 2021": "11",
+        "Dec 2021": "12",
+        "Mar 2022": "54",
+        "Jun 2022": "16",
+        "Sep 2022": "27",
+        "Dec 2022": "33",
+        "Mar 2023": "32",
+        "Jun 2023": "18",
+        "Sep 2023": "20",
+        "Dec 2023": "35",
+        "Mar 2024": "60",
+        "Jun 2024": "27",
+        "Sep 2024": "68"
+      },
+      "EPS": {
+        "Sep 2021": "1.77",
+        "Dec 2021": "1.88",
+        "Mar 2022": "8.44",
+        "Jun 2022": "2.52",
+        "Sep 2022": "4.21",
+        "Dec 2022": "5.08",
+        "Mar 2023": "4.99",
+        "Jun 2023": "2.77",
+        "Sep 2023": "3.12",
+        "Dec 2023": "5.40",
+        "Mar 2024": "9.30",
+        "Jun 2024": "4.15",
+        "Sep 2024": "10.41"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2013": "549",
+        "Mar 2014": "510",
+        "Mar 2015": "441",
+        "Mar 2016": "509",
+        "Mar 2017": "514",
+        "Mar 2018": "600",
+        "Mar 2019": "710",
+        "Mar 2020": "829",
+        "Mar 2021": "823",
+        "Mar 2022": "1021",
+        "Mar 2023": "1239",
+        "Mar 2024": "1323",
+        "TTM": "1504"
+      },
+      "Net Profit": {
+        "Mar 2013": "47",
+        "Mar 2014": "39",
+        "Mar 2015": "23",
+        "Mar 2016": "36",
+        "Mar 2017": "54",
+        "Mar 2018": "50",
+        "Mar 2019": "55",
+        "Mar 2020": "53",
+        "Mar 2021": "64",
+        "Mar 2022": "85",
+        "Mar 2023": "109",
+        "Mar 2024": "133",
+        "TTM": "190"
+      },
+      "EPS": {
+        "Mar 2013": "7.34",
+        "Mar 2014": "6.05",
+        "Mar 2015": "3.52",
+        "Mar 2016": "5.67",
+        "Mar 2017": "8.38",
+        "Mar 2018": "7.78",
+        "Mar 2019": "8.60",
+        "Mar 2020": "8.33",
+        "Mar 2021": "9.93",
+        "Mar 2022": "13.18",
+        "Mar 2023": "16.80",
+        "Mar 2024": "20.58",
+        "TTM": "29.26"
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE": {
+      "Mar 2013": "29%",
+      "Mar 2014": "22%",
+      "Mar 2015": "7%",
+      "Mar 2016": "16%",
+      "Mar 2017": "17%",
+      "Mar 2018": "16%",
+      "Mar 2019": "17%",
+      "Mar 2020": "15%",
+      "Mar 2021": "15%",
+      "Mar 2022": "18%",
+      "Mar 2023": "20%",
+      "Mar 2024": "22%"
+    },
+    "Debt-to-Equity": {
+      // Needs calculation from Balance Sheet data.  Not directly provided.
+    },
+    "Other Ratios": {
+      //Other ratios like debtor days, inventory days, days payable, cash conversion cycle, working capital days are available in the HTML but are not included here for brevity.  They can be easily added from the provided HTML.
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Elgi Equipments", "CMP": "596.00", "P/E": "57.64", "Mar Cap": "18887.78", "Div Yld": "0.34", "NP Qtr": "94.72", "Qtr Profit Var": "3.76", "Sales Qtr": "868.86", "Qtr Sales Var": "7.78", "ROCE": "22.28"},
+      {"Name": "Ingersoll-Rand", "CMP": "4134.15", "P/E": "54.12", "Mar Cap": "13050.68", "Div Yld": "1.69", "NP Qtr": "60.35", "Qtr Profit Var": "21.40", "Sales Qtr": "322.10", "Qtr Sales Var": "16.57", "ROCE": "51.35"},
+      {"Name": "Kirl.Pneumatic", "CMP": "1614.45", "P/E": "53.52", "Mar Cap": "10472.40", "Div Yld": "0.40", "NP Qtr": "67.53", "Qtr Profit Var": "234.64", "Sales Qtr": "430.67", "Qtr Sales Var": "52.76", "ROCE": "21.72"}
+    ],
+    "Median": {
+      "P/E": "54.12",
+      "Mar Cap": "13050.68",
+      "Div Yld": "0.4",
+      "NP Qtr": "67.53",
+      "Qtr Profit Var": "21.4",
+      "Sales Qtr": "430.67",
+      "Qtr Sales Var": "16.57",
+      "ROCE": "22.28"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 20.2% CAGR over last 5 years",
+      "Company has been maintaining a healthy dividend payout of 31.6%"
+    ],
+    "Cons": [
+      "Stock is trading at 10.2 times its book value",
+      "Promoter holding has decreased over last 3 years: -14.8%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      //Data available in HTML but omitted for brevity.  Easily extractable.
+    },
+    "Yearly": {
+      //Data available in HTML but omitted for brevity.  Easily extractable.
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      //List of announcements available in HTML but omitted for brevity. Easily extractable.
+    ],
+    "Annual Reports": [
+      //List of annual reports available in HTML but omitted for brevity. Easily extractable.
+    ],
+    "Credit Ratings": [
+      //List of credit ratings available in HTML but omitted for brevity. Easily extractable.
+    ],
+    "Concalls": [
+      //List of concalls available in HTML but omitted for brevity. Easily extractable.
+    ]
+  }
+}

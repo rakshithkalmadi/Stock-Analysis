@@ -1,0 +1,129 @@
+
+{
+  "Company Overview": {
+    "Name": "Bajaj Finserv Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Business Description": "Bajaj Finserv Ltd. is the holding company for the various financial services businesses under the Bajaj group. It serves millions of customers by providing solutions for asset acquisition through financing, asset protection through general insurance, family and income protection in the form of life and health insurance, and retirement and savings solutions.",
+    "Market Position": "Part of Nifty 500, Multicap 50:25:25, BSE 100, LargeCap TMC Index, Nifty100 ESG, Nifty 100 Low Volatility 30, BSE Diversified Financials Revenue Growth Index, Nifty LargeMidcap 250, Nifty 100, Nifty Services Sector, Nifty 200, Nifty Financial Services, Nifty 100 Equal Weight, BSE Allcap, BSE Sensex, Nifty 50, BSE LargeCap, BSE Low Volatility Index, BSE Financial Services, BSE 250 LargeMidCap Index, Nifty Financial Services 25/50, Nifty Total Market, BSE 500, BSE SENSEX 50, BSE 100 ESG Index (INR), BSE 100, BSE 200, BSE Dollex 200, Nifty 50 Equal Weight, Nifty 500"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,50,620 Cr.",
+    "Current Price": "₹ 1,570",
+    "High / Low": "₹ 2,030 / 1,419",
+    "Stock P/E": 29.5,
+    "Book Value": "₹ 428",
+    "Dividend Yield": "0.06 %",
+    "ROCE": "11.7 %",
+    "ROE": "15.3 %",
+    "Face Value": "₹ 1.00"
+  },
+  "Performance Trends": {
+    "Revenue Split FY22": {
+      "Life Insurance": "25%",
+      "General Insurance": "28%",
+      "Retail Financing": "45%",
+      "Investment": "1%"
+    },
+    "Revenue Split FY18": {
+      "Life Insurance": "55%",
+      "General Insurance": "0%",
+      "Retail Financing": "43%",
+      "Investment": "2%"
+    },
+    "Quarterly Results": {
+      "Sales": [18008, 17587, 18862, 15888, 20803, 21755, 23625, 23280, 26023, 29038, 32041, 31480, 33704],
+      "Expenses": [12696, 11783, 12769, 9573, 13416, 13924, 15470, 13935, 16073, 18601, 21108, 19655, 21420],
+      "Operating Profit": [5312, 5804, 6093, 6315, 7387, 7831, 8154, 9345, 9950, 10438, 10933, 11825, 12283],
+      "OPM %": [30, 33, 32, 40, 36, 36, 35, 40, 38, 36, 34, 38, 36],
+      "Other Income": [0, 33, 0, 0, 0, 0, 2, 3, 0, 2, 4, 3, 3],
+      "Interest": [2382, 2445, 2481, 2564, 2961, 3241, 3436, 4020, 4449, 4777, 5154, 5592, 6046],
+      "Depreciation": [138, 143, 149, 157, 168, 172, 181, 202, 209, 232, 257, 267, 275],
+      "Profit before tax": [2792, 3249, 3462, 3594, 4258, 4419, 4540, 5125, 5292, 5431, 5527, 5968, 5966],
+      "Tax %": [28, 28, 27, 28, 30, 25, 27, 28, 29, 26, 26, 29, 30],
+      "Net Profit": [1998, 2349, 2534, 2578, 2997, 3300, 3335, 3709, 3756, 4045, 4085, 4209, 4180],
+      "EPS in Rs": [7.05, 7.89, 8.46, 8.23, 9.77, 11.19, 11.11, 12.20, 12.09, 13.52, 13.28, 13.39, 13.07]
+    },
+    "Annual Results": {
+      "Sales": [8055, 6023, 11335, 20533, 24507, 32862, 42605, 54351, 60592, 68406, 82072, 110382, 126263],
+      "Expenses": [4124, 1531, 5823, 13795, 15794, 22074, 27569, 36094, 40950, 46951, 52204, 69497, 80784],
+      "Operating Profit": [3931, 4491, 5511, 6739, 8713, 10788, 15037, 18258, 19641, 21455, 29868, 40886, 45479],
+      "OPM %": [49, 75, 49, 33, 36, 33, 35, 34, 32, 31, 36, 37, 36],
+      "Other Income": [2, 3, 8, 0, 0, 1, 2, 0, -7, 8, 1, -4, 12],
+      "Interest": [1204, 1562, 2230, 2877, 3716, 4531, 6657, 9500, 9274, 9629, 12380, 18607, 21568],
+      "Depreciation": [22, 31, 38, 58, 73, 160, 226, 457, 498, 563, 678, 900, 1031],
+      "Profit before tax": [2708, 2902, 3251, 3804, 4925, 6099, 8155, 8302, 9862, 11271, 16811, 21375, 22892],
+      "Tax %": [18, 24, 26, 27, 30, 32, 34, 28, 25, 26, 27, 27, 27],
+      "Net Profit": [2214, 2191, 2409, 2775, 3450, 4176, 5374, 5994, 7367, 8314, 12210, 15595, 16520],
+      "EPS in Rs": [9.89, 9.71, 10.62, 11.71, 14.21, 16.65, 20.23, 21.17, 28.09, 28.63, 40.29, 51.07, 53.26]
+    }
+  },
+  "Ratios": {
+    "ROCE %": [19, 16, 15, 14, 14, 13, 13, 11, 10, 10, 11, 12],
+    "Debtor Days": [16, 22, 17, 12, 19, 19, 19, 18, 17, 16, 15, 20],
+    "Inventory Days": [],
+    "Days Payable": [],
+    "Cash Conversion Cycle": [16, 22, 17, 12, 19, 19, 19, 18, 17, 16, 15, 20],
+    "Working Capital Days": [-1204, -1338, -603, -243, -169, -675, -537, -417, -490, -493, -444, -400]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": 6848.25, "P/E": 27.57, "Mar Cap": 423904.26, "Div Yld": 0.53, "NP Qtr": 4013.74, "Qtr Profit Var": 12.64, "Sales Qtr": 17090.27, "Qtr Sales Var": 27.71, "ROCE": 11.92},
+      {"Name": "Bajaj Finserv", "CMP": 1569.65, "P/E": 29.48, "Mar Cap": 250620.07, "Div Yld": 0.06, "NP Qtr": 4180.15, "Qtr Profit Var": 8.19, "Sales Qtr": 33703.74, "Qtr Sales Var": 29.52, "ROCE": 11.72},
+      {"Name": "Jio Financial", "CMP": 304.30, "P/E": 120.37, "Mar Cap": 193330.44, "Div Yld": 0.00, "NP Qtr": 689.07, "Qtr Profit Var": 3.13, "Sales Qtr": 693.50, "Qtr Sales Var": 14.05, "ROCE": 1.55},
+      {"Name": "Bajaj Holdings", "CMP": 10746.75, "P/E": 16.15, "Mar Cap": 119600.58, "Div Yld": 1.22, "NP Qtr": 1510.43, "Qtr Profit Var": -3.67, "Sales Qtr": 279.07, "Qtr Sales Var": 24.18, "ROCE": 13.07},
+      {"Name": "Shriram Finance", "CMP": 2877.25, "P/E": 13.80, "Mar Cap": 108201.51, "Div Yld": 1.56, "NP Qtr": 2153.27, "Qtr Profit Var": 17.99, "Sales Qtr": 10089.54, "Qtr Sales Var": 17.93, "ROCE": 11.27},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": 1189.55, "P/E": 25.96, "Mar Cap": 100010.48, "Div Yld": 0.17, "NP Qtr": 967.80, "Qtr Profit Var": 25.22, "Sales Qtr": 6255.12, "Qtr Sales Var": 35.32, "ROCE": 10.41},
+      {"Name": "HDFC AMC", "CMP": 4262.80, "P/E": 41.19, "Mar Cap": 91089.60, "Div Yld": 1.64, "NP Qtr": 576.88, "Qtr Profit Var": 31.84, "Sales Qtr": 887.21, "Qtr Sales Var": 37.96, "ROCE": 37.72}
+    ],
+    "Median": {
+      "CMP": 202.59,
+      "P/E": 25.6,
+      "Mar Cap": 552.06,
+      "Div Yld": 0.0,
+      "NP Qtr": 5.38,
+      "Qtr Profit Var": 20.11,
+      "Sales Qtr": 24.74,
+      "Qtr Sales Var": 26.2,
+      "ROCE": 10.26
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 20.4% CAGR over last 5 years",
+      "Company's median sales growth is 27.6% of last 10 years"
+    ],
+    "Cons": [
+      "Stock is trading at 3.67 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "10 Dec", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome", "Description": "Audio recording of Investor/Analyst Group Meet shared."},
+      {"Date": "10 Dec", "Title": "Announcement under Regulation 30 (LODR)-Investor Presentation", "Description": ""},
+      {"Date": "9 Dec", "Title": "Information Under Reg. 30 Of SEBI (LODR) Regulations, 2015 Read With Schedule A Of Reg. 8 Of SEBI (Prohibition Of Insider Trading) Regulations, 2015", "Description": "Financial performance of Bajaj Allianz subsidiaries for November 2024."},
+      {"Date": "2 Dec", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation", "Description": "Schedule of investor meet on 10 December 2024."},
+      {"Date": "8 Nov", "Title": "Information Under Reg. 30 Of SEBI (LODR) Regulations, 2015 Read With Schedule A Of Reg. 8 Of SEBI (Prohibition Of Insider Trading) Regulations, 2015", "Description": "Submission of insurance subsidiaries' performance data."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "nse"},
+      {"Year": 2011, "Source": "bse"}
+    ]
+  }
+}

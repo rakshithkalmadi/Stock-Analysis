@@ -1,0 +1,173 @@
+
+{
+  "Company Overview": {
+    "Name": "Aeroflex Industries Ltd",
+    "Sector": "Steel",
+    "Industry": "Steel - Medium / Small",
+    "Business Description": "Manufactures and supplies environment-friendly metallic flexible flow solution products. One of the leading Indian manufacturers of metallic flexible flow solutions made with stainless steel used for controlled flow of all forms of substances including Solid, Liquid, and Gas. Incorporated in 1993, part of Sat Industries Limited.",
+    "Market Position": "Leading Indian manufacturer of metallic flexible flow solutions"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,649 Cr.",
+    "Current Price": "₹ 205",
+    "High / Low": "₹ 235 / 114",
+    "Stock P/E": 58.8,
+    "Book Value": "₹ 24.4",
+    "Dividend Yield": "0.12 %",
+    "ROCE": "26.5 %",
+    "ROE": "20.5 %",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs further analysis from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [68, 66, 70, 83, 84, 73, 78, 88, 94],
+      "Expenses": [56, 57, 51, 67, 66, 59, 63, 70, 73],
+      "Operating Profit": [12, 9, 19, 16, 18, 14, 14, 18, 20],
+      "OPM %": ["18%", "14%", "27%", "19%", "21%", "19%", "19%", "21%", "22%"],
+      "Other Income": [0, 0, 0, 1, 0, 1, 1, 1, 1],
+      "Interest": [1, 1, 1, 1, 1, 0, 0, 0, 0],
+      "Depreciation": [1, 1, 2, 1, 2, 2, 2, 2, 2],
+      "Profit before tax": [10, 7, 16, 15, 15, 13, 14, 17, 19],
+      "Tax %": ["24%", "25%", "23%", "25%", "24%", "32%", "28%", "26%", "27%"],
+      "Net Profit": [8, 5, 13, 11, 12, 9, 10, 12, 14],
+      "EPS in Rs": [3.28, 2.25, 1.10, 0.97, 0.89, 0.70, 0.78, 0.96, 1.05]
+    },
+    "Annual Results": {
+      "Sales": [122, 145, 144, 145, 241, 269, 318, 333],
+      "Expenses": [112, 121, 126, 124, 194, 216, 256, 266],
+      "Operating Profit": [10, 24, 18, 21, 47, 53, 62, 67],
+      "OPM %": ["8%", "16%", "13%", "15%", "20%", "20%", "20%", "20%"],
+      "Other Income": [0, 0, 1, 0, 1, -3, 4, 4],
+      "Interest": [6, 15, 12, 9, 7, 4, 3, 0],
+      "Depreciation": [4, 4, 4, 4, 4, 5, 6, 8],
+      "Profit before tax": [0, 5, 4, 8, 37, 41, 57, 63],
+      "Tax %": ["0%", "-42%", "-32%", "25%", "25%", "27%", "27%", "27%"],
+      "Net Profit": [0, 7, 5, 6, 28, 30, 42, 45],
+      "EPS in Rs": [0.09, 3.10, 2.06, 2.63, 12.06, 2.64, 3.23, 3.49]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [28, 23, 23, 23, 23, 23, 26, 26],
+      "Reserves": [12, 25, 30, 36, 63, 91, 267, 290],
+      "Borrowings": [99, 73, 63, 53, 39, 45, 0, 1],
+      "Other Liabilities": [8, 33, 41, 50, 58, 55, 81, 95],
+      "Total Liabilities": [147, 153, 157, 162, 184, 214, 375, 412],
+      "Fixed Assets": [48, 47, 44, 43, 46, 56, 83, 79],
+      "CWIP": [0, 0, 0, 0, 7, 1, 5, 34],
+      "Investments": [0, 0, 0, 0, 0, 0, 0, 17],
+      "Other Assets": [99, 106, 113, 118, 131, 157, 286, 282],
+      "Total Assets": [147, 153, 157, 162, 184, 214, 375, 412]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [-5, 3, 13, 12, 32, 7, 44],
+      "Cash from Investing Activity": [2, -3, -1, -3, -13, -10, -35],
+      "Cash from Financing Activity": [3, -5, -10, -10, -14, 0, 90],
+      "Net Cash Flow": [0, -5, 2, -1, 5, -2, 99]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": null, 
+      "Compounded Sales Growth (5 Years)": "17%",
+      "Compounded Sales Growth (3 Years)": "30%",
+      "Compounded Sales Growth (TTM)": "10%",
+      "Compounded Profit Growth (10 Years)": null,
+      "Compounded Profit Growth (5 Years)": "43%",
+      "Compounded Profit Growth (3 Years)": "79%",
+      "Compounded Profit Growth (TTM)": "12%",
+      "Stock Price CAGR (1 Year)": "38%"
+    },
+    "Liquidity Ratios": null, // Requires further calculation from Balance Sheet data
+    "Profitability Ratios": {
+      "ROCE (10 Years)": null,
+      "ROCE (5 Years)": "24%",
+      "ROCE (3 Years)": "27%",
+      "ROCE (Last Year)": "21%",
+      "ROE (10 Years)": null,
+      "ROE (5 Years)": "24%",
+      "ROE (3 Years)": "27%",
+      "ROE (Last Year)": "21%"
+    },
+    "Valuation Ratios": {
+      "P/E": 58.8,
+      "Price to Book": null // Needs calculation
+    },
+    "Other Ratios": {
+      "Debtor Days": [93, 68, 72, 86, 80, 91, 109],
+      "Inventory Days": [67, 103, 122, 134, 84, 120, 107],
+      "Days Payable": [130, 97, 130, 158, 80, 78, 100],
+      "Cash Conversion Cycle": [30, 74, 64, 62, 84, 132, 116],
+      "Working Capital Days": [183, 183, 157, 159, 96, 128, 107]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Ratnamani Metals", "CMP": 3297.65, "P/E": 43.66, "Mar Cap": 23113.89, "Div Yld": 0.42, "NP Qtr": 99.35, "Qtr Profit Var": -39.38, "Sales Qtr": 971.33, "Qtr Sales Var": -14.13, "ROCE": 27.72},
+      {"Name": "Sarda Energy", "CMP": 469.60, "P/E": 27.67, "Mar Cap": 16547.82, "Div Yld": 0.21, "NP Qtr": 203.49, "Qtr Profit Var": 38.93, "Sales Qtr": 1158.66, "Qtr Sales Var": 15.71, "ROCE": 15.28},
+      {"Name": "NMDC Steel", "CMP": 43.14, "P/E": null, "Mar Cap": 12642.63, "Div Yld": 0.00, "NP Qtr": -595.37, "Qtr Profit Var": -354.13, "Sales Qtr": 1522.35, "Qtr Sales Var": 448.77, "ROCE": -8.69},
+      {"Name": "Usha Martin", "CMP": 371.85, "P/E": 26.54, "Mar Cap": 11331.82, "Div Yld": 0.74, "NP Qtr": 109.31, "Qtr Profit Var": -0.15, "Sales Qtr": 891.17, "Qtr Sales Var": 13.57, "ROCE": 22.08},
+      {"Name": "Mah. Seamless", "CMP": 709.85, "P/E": 11.28, "Mar Cap": 9511.40, "Div Yld": 1.41, "NP Qtr": 220.16, "Qtr Profit Var": -12.13, "Sales Qtr": 1291.81, "Qtr Sales Var": -15.85, "ROCE": 22.92},
+      {"Name": "Gallantt Ispat L", "CMP": 338.75, "P/E": 25.69, "Mar Cap": 8173.39, "Div Yld": 0.30, "NP Qtr": 48.89, "Qtr Profit Var": 3.45, "Sales Qtr": 942.57, "Qtr Sales Var": -0.77, "ROCE": 11.96},
+      {"Name": "Bansal Wire Inds", "CMP": 441.90, "P/E": 104.69, "Mar Cap": 6918.21, "Div Yld": 0.00, "NP Qtr": 33.43, "Qtr Profit Var": 103.47, "Sales Qtr": 700.61, "Qtr Sales Var": 16.10, "ROCE": 14.27}
+    ],
+    "Median": {
+      "CMP": 186.48,
+      "P/E": 28.05,
+      "Mar Cap": 808.26,
+      "Div Yld": 0.0,
+      "NP Qtr": 6.24,
+      "Qtr Profit Var": 4.84,
+      "Sales Qtr": 163.26,
+      "Qtr Sales Var": 0.78,
+      "ROCE": 14.93
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 42.6% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 27.0%"
+    ],
+    "Cons": [
+      "Stock is trading at 8.38 times its book value"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Date": "8h", "Description": "Newspaper advertisement for Extra-Ordinary General Meeting."},
+      {"Title": "Intimation Of Extra-Ordinary General Meeting ('EOGM') Of The Members Of The Company To Be Held On Wednesday, January 15, 2025 At 11:00 A.M. IST Through Video Conferencing.", "Date": "1d", "Description": null},
+      {"Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Date": "18 Dec", "Description": "Newspaper advertisement titled Information regarding EOGM"},
+      {"Title": "Update On Outcome Of Board Meeting", "Date": "14 Dec", "Description": "Correction of Extra-Ordinary General Meeting date."},
+      {"Title": "Regulation 30 Of SEBI (LODR) Regulations, 2015", "Date": "14 Dec", "Description": "Approval for raising ₹4000 million via equity shares."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "web"},
+      {"Year": 2022, "Source": "web"},
+      {"Year": 2021, "Source": "web"},
+      {"Year": 2020, "Source": "web"}
+    ],
+    "DRHP": null,
+    "Credit Ratings": [
+      {"Date": "16 Oct 2023", "Source": "infomerics"},
+      {"Date": "29 Aug 2023", "Source": "infomerics"},
+      {"Date": "17 Oct 2022", "Source": "crisil"},
+      {"Date": "27 Jul 2022", "Source": "infomerics"},
+      {"Date": "20 Dec 2021", "Source": "crisil"},
+      {"Date": "24 Nov 2021", "Source": "crisil"}
+    ],
+    "Concalls": [
+      {"Date": "Nov 2024", "Transcript": null, "Notes": null, "PPT": null, "REC": null},
+      {"Date": "Aug 2024", "Transcript": null, "Notes": null, "PPT": null, "REC": null},
+      {"Date": "Aug 2024", "Transcript": null, "Notes": null, "PPT": null, "REC": null},
+      {"Date": "May 2024", "Transcript": null, "Notes": null, "PPT": null, "REC": null},
+      {"Date": "Feb 2024", "Transcript": null, "Notes": null, "PPT": null, "REC": null},
+      {"Date": "Feb 2024", "Transcript": null, "Notes": null, "PPT": null, "REC": null},
+      {"Date": "Jan 2024", "Transcript": null, "Notes": null, "PPT": null, "REC": null},
+      {"Date": "Nov 2023", "Transcript": null, "Notes": null, "PPT": null, "REC": null}
+    ]
+  }
+}

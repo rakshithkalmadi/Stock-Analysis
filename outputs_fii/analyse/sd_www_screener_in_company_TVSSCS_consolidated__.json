@@ -1,0 +1,137 @@
+
+{
+  "Company Overview": {
+    "Name": "TVS Supply Chain Solutions Ltd",
+    "Sector": "Logistics",
+    "Industry": "Miscellaneous",
+    "Business Description": "TVS Supply Chain Solutions provides supply chain management services for international organizations, government departments, and large and medium-sized businesses.  TSCS provides solutions and services to meet its customer's supply chain management and logistics requirements. For instance, TSCS provided purchase services, assembling components and parts, kitting, and using packing materials for a global wind turbine company.",
+    "Market Position": "Part of Nifty 500 Multicap 50:25:25, Nifty MidSmallcap 400, BSE SmallCap, BSE Allcap, Nifty Smallcap 250, Nifty Total Market, BSE Services, Nifty 500"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 7,639 Cr.",
+    "Current Price": "₹ 173",
+    "High / Low": "₹ 218 / ₹ 145",
+    "Stock P/E": 257,
+    "Book Value": "₹ 42.1",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "4.74 %",
+    "ROE": "-7.39 %",
+    "Face Value": "₹ 1.00",
+    "Debt-to-Equity Ratio": null //Not explicitly available in provided HTML
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [2675, 2681, 2373, 2322, 2289, 2263, 2222, 2426, 2539, 2513],
+      "Expenses": [2517, 2516, 2197, 2155, 2118, 2078, 2060, 2253, 2358, 2344],
+      "Operating Profit": [158, 165, 176, 167, 170, 185, 162, 173, 182, 169],
+      "OPM %": [6, 6, 7, 7, 7, 8, 7, 7, 7, 7],
+      "Other Income": [17, 25, 28, -1, -18, -13, 22, 9, 7, 29],
+      "Interest": [43, 43, 49, 52, 63, 57, 44, 38, 40, 41],
+      "Depreciation": [124, 125, 125, 134, 137, 142, 140, 139, 135, 140],
+      "Profit before tax": [8, 22, 29, -19, -48, -26, 1, 5, 14, 18],
+      "Tax %": [122, -82, 45, -37, 36, 54, -1565, -9, 46, 40],
+      "Net Profit": [-2, 40, 16, -12, -65, -41, 10, 5, 7, 11],
+      "EPS in Rs": [-0.11, 1.08, 0.44, -0.31, -1.80, -1.13, 0.22, 0.10, 0.15, 0.21]
+    },
+    "Annual Results": {
+      "Sales": [6780, 6605, 6934, 9250, 9994, 9200, 9700],
+      "Expenses": [6271, 6349, 6538, 8629, 9322, 8502, 9015],
+      "Operating Profit": [509, 255, 396, 621, 672, 698, 686],
+      "OPM %": [8, 4, 6, 7, 7, 8, 7],
+      "Other Income": [63, 184, 111, 12, 62, 0, 67],
+      "Interest": [146, 237, 182, 160, 193, 210, 162],
+      "Depreciation": [418, 444, 443, 461, 502, 557, 553],
+      "Profit before tax": [8, -242, -119, 13, 40, -69, 37],
+      "Tax %": [497, 3, -36, 463, -4, 31],
+      "Net Profit": [-33, -248, -76, -46, 42, -90, 33],
+      "EPS in Rs": [-4.26, -60.62, -23.43, -1.35, 1.09, -2.30, 0.68]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [32, 32, 32, 36, 36, 44, 44],
+      "Reserves": [588, 479, 459, 678, 687, 1771, 1812],
+      "Borrowings": [2501, 3355, 2734, 2954, 3324, 2199, 2243],
+      "Other Liabilities": [1492, 1524, 1644, 1986, 2070, 1757, 1880],
+      "Total Liabilities": [4612, 5390, 4868, 5654, 6117, 5771, 5979],
+      "Fixed Assets": [2019, 2021, 1987, 2141, 2296, 2350, 2293],
+      "CWIP": [13, 8, 16, 12, 35, 12, 34],
+      "Investments": [60, 50, 112, 100, 105, 93, 95],
+      "Other Assets": [2521, 3310, 2754, 3401, 3681, 3316, 3558],
+      "Total Assets": [4612, 5390, 4868, 5654, 6117, 5771, 5979]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [372, 190, 712, 621, 734, 128],
+      "Cash from Investing Activity": [-236, -337, 102, -383, -222, -112],
+      "Cash from Financing Activity": [-17, 557, -1167, 217, -419, -592],
+      "Net Cash Flow": [120, 410, -353, 455, 92, -576]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": null, 
+      "Compounded Sales Growth (5 Years)": "6%",
+      "Compounded Sales Growth (3 Years)": "10%",
+      "Compounded Sales Growth (TTM)": "5%",
+      "Compounded Profit Growth (10 Years)": null,
+      "Compounded Profit Growth (5 Years)": null,
+      "Compounded Profit Growth (3 Years)": "7%",
+      "Compounded Profit Growth (TTM)": "154%"
+    },
+    "Liquidity Ratios": null, //Not explicitly available in provided HTML
+    "Profitability Ratios": {
+      "ROCE (10 Years)": null,
+      "ROCE (5 Years)": null,
+      "ROCE (3 Years)": null,
+      "ROCE (Last Year)": "4.74%",
+      "ROE (10 Years)": null,
+      "ROE (5 Years)": "-15%",
+      "ROE (3 Years)": "-9%",
+      "ROE (Last Year)": "-7%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": 257,
+      "Price to Book": null //Not explicitly calculated in provided HTML
+    },
+    "Other Ratios": {
+      "Debtor Days": [66, 73, 61, 52, 45, 56],
+      "Inventory Days": [74, 71, 91, 92, 92, 86],
+      "Days Payable": [440, 432, 464, 458, 380, 303],
+      "Cash Conversion Cycle": [-300, -288, -311, -314, -243, -162],
+      "Working Capital Days": [29, 36, 26, 18, 14, 34]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Container Corpn.", "CMP": 767.95, "P/E": 36.10, "Mar Cap": 46790.76, "Div Yld": 1.50, "NP Qtr": 366.26, "Qtr Profit Var": 6.28, "Sales Qtr": 2287.75, "Qtr Sales Var": 4.23, "ROCE": 13.93},
+      {"Name": "Delhivery", "CMP": 349.60, "P/E": 825.45, "Mar Cap": 25968.58, "Div Yld": 0.00, "NP Qtr": 10.20, "Qtr Profit Var": 109.91, "Sales Qtr": 2189.73, "Qtr Sales Var": 12.77, "ROCE": -1.73},
+      {"Name": "Zinka Logistics", "CMP": 501.65, "P/E": 8853.06, "Mar Cap": null, "Div Yld": 0.00, "NP Qtr": -269.47, "Qtr Profit Var": 130.78, "Sales Qtr": 98.77, "Qtr Sales Var": 55.86, "ROCE": -32.33},
+      {"Name": "Transport Corp.", "CMP": 1084.75, "P/E": 22.18, "Mar Cap": 8453.09, "Div Yld": 0.88, "NP Qtr": 107.30, "Qtr Profit Var": 22.30, "Sales Qtr": 1120.80, "Qtr Sales Var": 12.81, "ROCE": 19.92},
+      {"Name": "Allcargo Logist.", "CMP": 51.21, "P/E": 145.81, "Mar Cap": 5032.83, "Div Yld": 2.15, "NP Qtr": 37.74, "Qtr Profit Var": 47.16, "Sales Qtr": 4301.09, "Qtr Sales Var": 30.07, "ROCE": 3.32},
+      {"Name": "VRL Logistics", "CMP": 517.70, "P/E": 53.62, "Mar Cap": 4528.24, "Div Yld": 0.97, "NP Qtr": 35.82, "Qtr Profit Var": 83.04, "Sales Qtr": 799.48, "Qtr Sales Var": 12.71, "ROCE": 10.70}
+    ],
+    "Median": {
+      "CMP": 113.05,
+      "P/E": 27.74,
+      "Mar Cap": 642.98,
+      "Div Yld": 0.0,
+      "NP Qtr": 3.78,
+      "Qtr Profit Var": 36.33,
+      "Sales Qtr": 124.2,
+      "Qtr Sales Var": 14.24,
+      "ROCE": 11.59
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt."
+    ],
+    "Cons": [
+      "Stock is trading at 4.11 times its book value",
+      "Company has low interest coverage ratio.",
+      "The company has delivered a poor sales growth of 6.29% over past five years.",
+      "Company has a low return on equity of -9.21% over last 3 years.",
+      "Company might be capitalizing the interest cost"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

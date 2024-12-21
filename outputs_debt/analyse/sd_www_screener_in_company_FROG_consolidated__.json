@@ -1,0 +1,254 @@
+
+{
+  "Company Overview": {
+    "Name": "Frog Cellsat Ltd",
+    "Sector": "Telecomm Equipment & Infra Services",
+    "Industry": "Telecommunications - Equipment",
+    "Business Description": "Manufactures in-building coverage solutions and mobile network accessories for mobile service providers and operators. It also provides installations, repair and maintenance services. FSL is certified by ISO and National Security Council, for design, manufacture, installation and supply of Telecom Equipment to Indian Mobile Operators. It manufactures RF equipments in India and provides wireless coverage enhancement solutions for 2G /3G /4G /5G.",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 492 Cr.",
+    "Current Price": "₹ 318",
+    "High/Low": "₹ 401 / ₹ 132",
+    "Stock P/E": "31.8",
+    "Book Value": "₹ 90.5",
+    "Dividend Yield": "0.00%",
+    "ROCE": "14.3%",
+    "ROE": "11.0%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly available in provided HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [38.26, 31.13, 33.40, 35.15, 44.68, 44.50, 35.94, 43.81],
+      "Expenses": [32.41, 26.19, 29.76, 30.54, 40.04, 36.97, 33.11, 40.18],
+      "Operating Profit": [5.85, 4.94, 3.64, 4.61, 4.64, 7.53, 2.83, 3.63],
+      "OPM %": ["15.29%", "15.87%", "10.90%", "13.12%", "10.38%", "16.92%", "7.87%", "8.29%"],
+      "Other Income": [0.30, 0.35, 0.66, 0.06, 0.11, 2.43, 0.25, 2.52],
+      "Interest": [0.09, 0.02, 0.01, 0.02, 0.16, 0.29, 0.06, 0.07],
+      "Depreciation": [0.36, 0.54, 0.63, 0.62, 0.65, 1.21, 1.16, 1.19],
+      "Profit before tax": [5.70, 4.73, 3.66, 4.03, 3.94, 8.46, 1.86, 4.89],
+      "Tax %": ["30.53%", "16.07%", "26.23%", "35.98%", "26.90%", "12.88%", "37.10%", "15.13%"],
+      "Net Profit": [3.96, 3.97, 2.70, 2.58, 2.87, 7.38, 1.17, 4.13],
+      "EPS in Rs": [2.58, 2.58, 1.76, 1.68, 1.86, 4.78, 0.76, 2.67]
+    },
+    "Annual Results": {
+      "Sales": [89, 60, 87, 121, 133, 135, 158, 169],
+      "Expenses": [84, 64, 81, 110, 113, 111, 137, 150],
+      "Operating Profit": [5, -3, 6, 11, 20, 24, 20, 19],
+      "OPM %": ["6%", "-5%", "7%", "9%", "15%", "18%", "13%", "11%"],
+      "Other Income": [2, 1, 2, 8, 3, -1, 3, 5],
+      "Interest": [2, 2, 2, 1, 1, 1, 0, 1],
+      "Depreciation": [2, 4, 3, 2, 1, 2, 3, 4],
+      "Profit before tax": [3, -8, 3, 16, 21, 20, 20, 19],
+      "Tax %": ["7%", "-19%", "41%", "10%", "29%", "26%", "23%", null],
+      "Net Profit": [3, -7, 2, 14, 15, 15, 16, 16],
+      "EPS in Rs": [636.00, -1348.00, 388.00, 2852.00, 2950.00, 9.81, 10.05, 10.07]
+    },
+    "Compounded Growth": {
+      "Sales Growth": {
+        "10 Years": null,
+        "5 Years": "21%",
+        "3 Years": "9%",
+        "TTM": "22%"
+      },
+      "Profit Growth": {
+        "10 Years": null,
+        "5 Years": "32%",
+        "3 Years": "14%",
+        "TTM": "17%"
+      }
+    },
+    "Stock Price CAGR": {
+      "10 Years": null,
+      "5 Years": null,
+      "3 Years": null,
+      "1 Year": "72%"
+    },
+    "Return on Equity": {
+      "10 Years": null,
+      "5 Years": "15%",
+      "3 Years": "16%",
+      "Last Year": "11%"
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": "21%",
+        "3 Years": "9%",
+        "TTM": "22%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": "32%",
+        "3 Years": "14%",
+        "TTM": "17%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Current Ratio": "Information not explicitly available in provided HTML.",
+      "Quick Ratio": "Information not explicitly available in provided HTML."
+    },
+    "Profitability Ratios": {
+      "Gross Profit Margin": "Information not explicitly available in provided HTML.",
+      "Operating Profit Margin": "Information available in Quarterly and Annual Results.",
+      "Net Profit Margin": "Information not explicitly available in provided HTML.",
+      "Return on Assets (ROA)": "Information not explicitly available in provided HTML."
+    },
+    "Valuation Ratios": {
+      "Price-to-Earnings Ratio (P/E)": "31.8",
+      "Price-to-Book Ratio (P/B)": "Information not explicitly available but can be calculated from Current Price and Book Value.",
+      "Enterprise Value to EBITDA (EV/EBITDA)": "Information not explicitly available in provided HTML."
+    },
+    "Other Ratios": {
+      "ROCE": "14.3%",
+      "ROE": "11.0%",
+      "Debtor Days": [70, 76, 90, 81, 54, 75, 71],
+      "Inventory Days": [145, 234, 170, 95, 128, 156, 126],
+      "Days Payable": [34, 32, 119, 112, 71, 63, 45],
+      "Cash Conversion Cycle": [181, 278, 141, 64, 111, 168, 152],
+      "Working Capital Days": [127, 174, 97, 71, 89, 119, 132]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Tejas Networks", "CMP": "1217.55", "P/E": "45.87", "Mar Cap": "20851.83", "Div Yld": "0.00", "NP Qtr": "275.18", "Qtr Profit Var": "2277.06", "Sales Qtr": "2811.26", "Qtr Sales Var": "610.00", "ROCE": "3.68"},
+      {"Name": "GTL Infra.", "CMP": "2.05", "P/E": "2625.44", "Mar Cap": null, "Div Yld": "0.00", "NP Qtr": "-214.05", "Qtr Profit Var": "-26.26", "Sales Qtr": "336.38", "Qtr Sales Var": "-4.10", "ROCE": null},
+      {"Name": "ADC India", "CMP": "1775.60", "P/E": "28.16", "Mar Cap": "816.78", "Div Yld": "0.28", "NP Qtr": "8.72", "Qtr Profit Var": "17.05", "Sales Qtr": "50.79", "Qtr Sales Var": "5.59", "ROCE": "45.23"},
+      {"Name": "Frog Cellsat", "CMP": "317.50", "P/E": "31.75", "Mar Cap": "491.56", "Div Yld": "0.00", "NP Qtr": "4.13", "Qtr Profit Var": "60.08", "Sales Qtr": "43.81", "Qtr Sales Var": "24.64", "ROCE": "14.31"},
+      {"Name": "Valiant Commun.", "CMP": "523.35", "P/E": "40.78", "Mar Cap": "399.21", "Div Yld": "0.00", "NP Qtr": "2.80", "Qtr Profit Var": "95.80", "Sales Qtr": "12.72", "Qtr Sales Var": "14.59", "ROCE": "18.93"},
+      {"Name": "Prec. Electronic", "CMP": "135.70", "P/E": "1252.93", "Mar Cap": "187.94", "Div Yld": "0.00", "NP Qtr": "-1.17", "Qtr Profit Var": "-36.05", "Sales Qtr": "10.48", "Qtr Sales Var": "5.54", "ROCE": "9.85"},
+      {"Name": "Kavveri Defence", "CMP": "57.44", "P/E": "11557.00", "Mar Cap": "115.57", "Div Yld": "0.00", "NP Qtr": "0.48", "Qtr Profit Var": "229.73", "Sales Qtr": "1.30", "Qtr Sales Var": "233.33", "ROCE": "-2.11"}
+    ],
+    "Median": {
+      "CMP": "317.5",
+      "P/E": "43.33",
+      "Mar Cap": "491.56",
+      "Div Yld": "0.0",
+      "NP Qtr": "2.8",
+      "Qtr Profit Var": "60.08",
+      "Sales Qtr": "43.81",
+      "Qtr Sales Var": "14.59",
+      "ROCE": "12.08"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company is almost debt free.",
+    "Cons": "Though the company is reporting repeated profits, it is not paying out dividend. Promoter holding has decreased over last quarter: -1.39%",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Balance Sheet": {
+    "Equity Capital": [0.05, 0.05, 0.05, 0.05, 0.05, 15, 15, 15],
+    "Reserves": [51, 44, 46, 60, 69, 101, 118, 125],
+    "Borrowings": [26, 26, 20, 6, 6, 0, 5, 0],
+    "Other Liabilities": [14, 13, 27, 32, 26, 25, 25, 55],
+    "Total Liabilities": [91, 83, 93, 97, 101, 141, 163, 195],
+    "Fixed Assets": [19, 21, 19, 15, 20, 13, 82, 82],
+    "CWIP": [2, 1, 0, 0, 7, 36, 0, 0],
+    "Investments": [4, 5, 7, 6, 0, 0, 0, 0],
+    "Other Assets": [67, 56, 67, 77, 74, 92, 81, 112],
+    "Total Assets": [91, 83, 93, 97, 101, 141, 163, 195]
+  },
+  "Cash Flow": {
+    "Cash from Operating Activity": [9, -2, 11, 7, 10, 7, 7],
+    "Cash from Investing Activity": [-12, -3, -1, 4, -9, -35, -30],
+    "Cash from Financing Activity": [7, -2, -8, -12, -5, 35, 4],
+    "Net Cash Flow": [4, -7, 1, -2, -4, 7, -19]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Sep 2022": {
+        "Promoters": "99.99%",
+        "FIIs": "0.00%",
+        "DIIs": "0.00%",
+        "Public": "0.01%"
+      },
+      "Oct 2022": {
+        "Promoters": "73.49%",
+        "FIIs": "2.22%",
+        "DIIs": "0.76%",
+        "Public": "23.53%"
+      },
+      "Mar 2023": {
+        "Promoters": "74.39%",
+        "FIIs": "0.00%",
+        "DIIs": "1.75%",
+        "Public": "23.86%"
+      },
+      "Sep 2023": {
+        "Promoters": "74.39%",
+        "FIIs": "0.00%",
+        "DIIs": "1.87%",
+        "Public": "23.74%"
+      },
+      "Mar 2024": {
+        "Promoters": "74.10%",
+        "FIIs": "0.00%",
+        "DIIs": "0.00%",
+        "Public": "25.90%"
+      },
+      "Sep 2024": {
+        "Promoters": "72.71%",
+        "FIIs": "0.01%",
+        "DIIs": "0.00%",
+        "Public": "27.28%"
+      }
+    },
+    "Yearly": {
+      "Mar 2023": {
+        "Promoters": "74.39%",
+        "FIIs": "0.00%",
+        "DIIs": "1.75%",
+        "Public": "23.86%"
+      },
+      "Mar 2024": {
+        "Promoters": "74.10%",
+        "FIIs": "0.00%",
+        "DIIs": "0.00%",
+        "Public": "25.90%"
+      },
+      "Sep 2024": {
+        "Promoters": "72.71%",
+        "FIIs": "0.01%",
+        "DIIs": "0.00%",
+        "Public": "27.28%"
+      }
+    },
+    "No. of Shareholders": {
+      "Sep 2022": 8,
+      "Oct 2022": 1410,
+      "Mar 2023": 1135,
+      "Sep 2023": 1734,
+      "Mar 2024": 2493,
+      "Sep 2024": 3726
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "26 November 2024", "Title": "Frog Cellsat Limited has informed regarding a press release dated November 25, 2024, titled \"Frog Cellsat wins deal to deploy DAS solution at new terminal …"},
+      {"Date": "22 November 2024", "Title": "Frog Cellsat Limited has informed regarding 'Purchase Order from M/s Amaravati Digital Networks LLP for Active OneDAS system to provide 4G and 5G Mobile network …"},
+      {"Date": "25 October 2024", "Title": "Frog Cellsat Limited has informed about Transcript of the Q2 & H1 FY 25 Results Concall (Group Meet)"},
+      {"Date": "21 October 2024", "Title": "Frog Cellsat Limited has informed about Link of Recording of Concall for Discussion on Q2 & H1 FY25 Financial Results"},
+      {"Date": "21 October 2024", "Title": "Frog Cellsat Limited has informed regarding 'Participation at The International Telecommunication Union - World Telecommunication Standardization Assembly (ITU-WTSA 2024).'"}
+    ],
+    "Annual Reports": [
+      {"Year": "2024", "Source": "nse"},
+      {"Year": "2023", "Source": "nse"}
+    ],
+    "Concalls": [
+      {"Month": "Oct", "Year": "2024", "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      {"Month": "Jul", "Year": "2024", "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      {"Month": "May", "Year": "2024", "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      {"Month": "Nov", "Year": "2023", "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      {"Month": "Sep", "Year": "2023", "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      {"Month": "Aug", "Year": "2023", "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      {"Month": "Jun", "Year": "2023", "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      {"Month": "Dec", "Year": "2022", "Transcript": true, "Notes": true, "PPT": true, "REC": true},
+      {"Month": "Dec", "Year": "2022", "Transcript": true, "Notes": true, "PPT": true, "REC": true}
+    ]
+  }
+}

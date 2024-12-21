@@ -1,0 +1,162 @@
+
+{
+  "Company Overview": {
+    "Name": "Central Depository Services (India) Ltd",
+    "Sector": "Financial Services",
+    "Industry": "Miscellaneous",
+    "Business Description": "Central Depository Services Limited is a Market Infrastructure Institution (MII), part of the capital market structure, providing services to all market participants - exchanges, clearing corporations, depository participants (DPs), issuers and investors. It is a facilitator for holding of securities in the dematerialised form and an enabler for securities transactions.  CDSL facilitates holding and transacting securities in electronic form and facilitates the settlement of trades executed on stock exchanges. These securities include equities, debentures, bonds, units of mutual funds, Certificates of deposit (CDs), commercial papers (CP), Treasury Bills (TBills), and others. Other services include e-Voting, M-Voting, Myeasi Mobile App and e-Locker.",
+    "Market Position": "Part of Nifty Smallcap 100, Nifty Alpha 50, Nifty Smallcap 50, Nifty 500 Multicap 50:25:25, Nifty Smallcap 250, Nifty Total Market, Nifty 500, Nifty MidSmallcap 400"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 38,890 Cr.",
+    "Current Price": "₹ 1,861",
+    "High/Low": "₹ 1,990 / ₹ 811",
+    "P/E Ratio": 73.0,
+    "Book Value": "₹ 73.2",
+    "Dividend Yield": "0.51 %",
+    "ROCE": "40.2 %",
+    "ROE": "31.3 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided in the HTML
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [146, 152, 137, 140, 149, 141, 125, 150, 207, 214, 241, 257, 322],
+      "Expenses": [47, 49, 46, 66, 58, 57, 56, 70, 79, 84, 93, 103, 122],
+      "Operating Profit": [99, 103, 90, 75, 91, 85, 68, 80, 128, 130, 148, 154, 200],
+      "OPM %": [68, 68, 66, 53, 61, 60, 55, 53, 62, 61, 61, 60, 62],
+      "Other Income": [19, 11, 11, 6, 21, 20, 19, 24, 23, 21, 29, 30, 37],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [3, 3, 4, 4, 5, 5, 5, 6, 6, 7, 8, 10, 12],
+      "Profit before tax": [115, 111, 98, 77, 107, 99, 82, 98, 145, 145, 168, 175, 225],
+      "Tax %": [25, 25, 20, 25, 25, 25, 23, 25, 25, 26, 23, 23, 28],
+      "Net Profit": [86, 84, 78, 58, 80, 75, 63, 74, 109, 107, 129, 134, 162],
+      "EPS in Rs": [4.11, 4.01, 3.72, 2.76, 3.85, 3.57, 3.02, 3.52, 5.21, 5.14, 6.18, 6.42, 7.75]
+    },
+    "Annual Results": {
+      "Sales": [91, 89, 105, 123, 146, 188, 196, 225, 344, 551, 555, 812, 1035],
+      "Expenses": [55, 56, 60, 59, 67, 77, 87, 136, 132, 186, 236, 324, 402],
+      "Operating Profit": [36, 33, 45, 64, 79, 110, 109, 89, 212, 365, 319, 488, 633],
+      "OPM %": [39, 37, 43, 52, 54, 59, 56, 40, 62, 66, 57, 60, 61],
+      "Other Income": [33, 35, 23, 72, 41, 38, 49, 59, 57, 55, 66, 95, 117],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [3, 5, 6, 4, 4, 7, 10, 12, 9, 11, 19, 27, 37],
+      "Profit before tax": [66, 62, 63, 131, 117, 141, 148, 136, 260, 409, 365, 556, 713],
+      "Tax %": [23, 21, 31, 31, 26, 27, 23, 22, 22, 24, 24, 25, 25],
+      "Net Profit": [51, 50, 43, 91, 87, 104, 115, 107, 201, 312, 276, 420, 533],
+      "EPS in Rs": [2.44, 2.36, 2.09, 4.35, 4.10, 4.94, 5.43, 5.08, 9.59, 14.89, 13.20, 20.05, 25.49]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 104, 209],
+      "Reserves": [224, 249, 265, 375, 429, 494, 564, 619, 773, 988, 1109, 1359, 1320],
+      "Borrowings": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 1],
+      "Other Liabilities": [87, 101, 122, 74, 73, 92, 116, 138, 207, 232, 241, 317, 518],
+      "Total Liabilities": [416, 455, 491, 553, 606, 690, 784, 862, 1084, 1326, 1457, 1781, 2048],
+      "Fixed Assets": [8, 10, 7, 4, 5, 76, 75, 74, 73, 106, 125, 342, 375],
+      "CWIP": [1, 0, 0, 0, 0, 0, 0, 0, 23, 4, 174, 4, 4],
+      "Investments": [342, 375, 389, 457, 503, 521, 593, 665, 709, 925, 937, 1149, 1247],
+      "Other Assets": [64, 70, 95, 92, 98, 93, 115, 123, 278, 290, 221, 287, 423],
+      "Total Assets": [416, 455, 491, 553, 606, 690, 784, 862, 1084, 1326, 1457, 1781, 2048]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [24, 35, 43, 28, 43, 79, 86, 82, 193, 283, 249, 386],
+      "Cash from Investing Activity": [-6, -13, -19, 0, 18, -67, -67, -33, -107, -146, -126, -249],
+      "Cash from Financing Activity": [-18, -23, -23, -28, -31, -38, -20, -51, -47, -94, -158, -169],
+      "Net Cash Flow": [0, -1, 0, 1, 29, -26, -1, -1, 38, 44, -35, -32]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "25%",
+      "Compounded Sales Growth (5 Years)": "33%",
+      "Compounded Sales Growth (3 Years)": "33%",
+      "Compounded Sales Growth (TTM)": "66%",
+      "Compounded Profit Growth (10 Years)": "29%",
+      "Compounded Profit Growth (5 Years)": "30%",
+      "Compounded Profit Growth (3 Years)": "28%",
+      "Compounded Profit Growth (TTM)": "66%",
+      "Stock Price CAGR (10 Years)": null,
+      "Stock Price CAGR (5 Years)": "75%",
+      "Stock Price CAGR (3 Years)": "36%",
+      "Stock Price CAGR (1 Year)": "103%"
+    },
+    "Liquidity Ratios": null, //Not explicitly provided
+    "Profitability Ratios": {
+      "ROCE (10 Years)": "23%",
+      "ROCE (5 Years)": "26%",
+      "ROCE (3 Years)": "29%",
+      "ROCE (Last Year)": "31%",
+      "ROE (10 Years)": "23%",
+      "ROE (5 Years)": "26%",
+      "ROE (3 Years)": "29%",
+      "ROE (Last Year)": "31%"
+    },
+    "Valuation Ratios": null, //Partially provided (P/E ratio), others not explicitly stated.
+    "Other Ratios": {
+      "Debtor Days": [34, 25, 24, 39, 33, 37, 36, 42, 25, 30, 25, 30],
+      "Inventory Days": null,
+      "Days Payable": null,
+      "Cash Conversion Cycle": [34, 25, 24, 39, 33, 37, 36, 42, 25, 30, 25, 30],
+      "Working Capital Days": [-160, -223, -253, -100, -79, -92, -79, -85, -111, -75, -44, -22]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "BSE", "CMP": 5542.85, "P/E": 91.15, "Mar Cap": 75037.09, "Div Yld": 0.27, "NP Qtr": 345.77, "Qtr Profit Var": 192.01, "Sales Qtr": 813.30, "Qtr Sales Var": 124.66, "ROCE": 19.97},
+      {"Name": "C D S L", "CMP": 1860.75, "P/E": 72.99, "Mar Cap": 38889.68, "Div Yld": 0.51, "NP Qtr": 161.96, "Qtr Profit Var": 48.79, "Sales Qtr": 322.26, "Qtr Sales Var": 55.45, "ROCE": 40.18},
+      {"Name": "Multi Comm. Exc.", "CMP": 6397.40, "P/E": 94.01, "Mar Cap": 32625.70, "Div Yld": 0.12, "NP Qtr": 153.62, "Qtr Profit Var": 905.56, "Sales Qtr": 285.58, "Qtr Sales Var": 72.96, "ROCE": 7.15},
+      {"Name": "KFin Technolog.", "CMP": 1444.50, "P/E": 83.09, "Mar Cap": 24816.83, "Div Yld": 0.40, "NP Qtr": 89.32, "Qtr Profit Var": 45.52, "Sales Qtr": 280.47, "Qtr Sales Var": 34.22, "ROCE": 30.26},
+      {"Name": "Cams Services", "CMP": 4951.00, "P/E": 61.16, "Mar Cap": 24440.99, "Div Yld": 0.94, "NP Qtr": 115.22, "Qtr Profit Var": 41.58, "Sales Qtr": 341.90, "Qtr Sales Var": 34.09, "ROCE": 49.77},
+      {"Name": "Indian Energy Ex", "CMP": 177.45, "P/E": 41.21, "Mar Cap": 15823.09, "Div Yld": 1.41, "NP Qtr": 106.08, "Qtr Profit Var": 28.01, "Sales Qtr": 139.24, "Qtr Sales Var": 28.30, "ROCE": 50.01}
+    ],
+    "Median": {
+      "CMP": 3405.88,
+      "P/E": 78.04,
+      "Mar Cap": 28721.26,
+      "Div Yld": 0.46,
+      "NP Qtr": 134.42,
+      "Qtr Profit Var": 47.16,
+      "Sales Qtr": 303.92,
+      "Qtr Sales Var": 44.84,
+      "ROCE": 35.22
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company is expected to give good quarter",
+      "Company has delivered good profit growth of 29.9% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 28.9%",
+      "Company has been maintaining a healthy dividend payout of 55.3%",
+      "Company's median sales growth is 18.5% of last 10 years"
+    ],
+    "Cons": [
+      "Stock is trading at 25.4 times its book value",
+      "Promoter holding is low: 15.0%",
+      "Promoter holding has decreased over last 3 years: -5.00%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "16 December 2024", "Title": "CDSL has informed about the cancellation of the Analysts/Institutional Investor Meet/Con. Call scheduled with Temasek Holdings Advisors India Pvt. Ltd."},
+      {"Date": "16 December 2024", "Title": "CDSL has submitted the Exchange a copy of Scrutinizer's report of Postal Ballot."},
+      {"Date": "11 December 2024", "Title": "CDSL has informed about Schedule of Analysts/Institutional Investor Meet/Con. Call to be held on December 19, 2024."},
+      {"Date": "5 December 2024", "Title": "CDSL has informed about Schedule of Analysts/Institutional Investor Meet/Con. Call to be held on December 12, 2024."},
+      {"Date": "27 November 2024", "Title": "Depository Services (India) Limited has informed regarding Appointment of Mr Bharat Vasani as Non- Executive Independent Director."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "nse"},
+      {"Year": 2023, "Source": "nse"},
+      {"Year": 2022, "Source": "nse"},
+      {"Year": 2022, "Source": "web"},
+      {"Year": 2021, "Source": "nse"},
+      {"Year": 2020, "Source": "nse"},
+      {"Year": 2019, "Source": "nse"},
+      {"Year": 2018, "Source": "nse"}
+    ],
+    "Concalls": [] //List of concalls is present but requires further parsing to extract relevant data.
+  }
+}

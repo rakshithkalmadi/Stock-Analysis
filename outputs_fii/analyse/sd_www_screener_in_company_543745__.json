@@ -1,0 +1,177 @@
+
+{
+  "Company Overview": {
+    "Name": "SVS Ventures Ltd",
+    "Sector": "Construction",
+    "Industry": "Construction",
+    "Business Description": "Deals in real estate activities, with own or leased property, and construction business. SVSVL and the Erstwhile Proprietary Firm, viz. M/s Vijay & Co, are in the business of construction and real estate development, focused on development of residential villas and apartment projects, commercial projects, etc. in and around Ahmedabad, Gujarat. Their residential buildings and villas are designed with a variety of amenities such as security systems, sports and recreational facilities, play areas and electricity back-up.",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 25.7 Cr.",
+    "Current Price": "₹ 12.0",
+    "High / Low": "₹ 20.0 / ₹ 7.03",
+    "Stock P/E": 160,
+    "Book Value": "₹ 15.5",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "0.39 %",
+    "ROE": "0.24 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly available, but implied low debt based on 'Company is almost debt free' note."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Jun 2022": "1.30",
+        "Sep 2022": "1.30",
+        "Mar 2023": "5.33",
+        "Sep 2023": "0.90",
+        "Jun 2024": "0.00",
+        "Sep 2024": "0.31"
+      },
+      "Net Profit": {
+        "Jun 2022": "0.14",
+        "Sep 2022": "0.52",
+        "Mar 2023": "0.18",
+        "Sep 2023": "-0.07",
+        "Jun 2024": "-0.09",
+        "Sep 2024": "0.16"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2020": "13.48",
+        "Mar 2021": "13.55",
+        "Mar 2022": "0.17",
+        "Mar 2023": "6.63",
+        "Mar 2024": "1.43"
+      },
+      "Net Profit": {
+        "Mar 2020": "0.25",
+        "Mar 2021": "0.27",
+        "Mar 2022": "0.12",
+        "Mar 2023": "0.70",
+        "Mar 2024": "0.08"
+      }
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": {
+        "Mar 2020": "0.01",
+        "Mar 2021": "0.01",
+        "Mar 2022": "0.01",
+        "Mar 2023": "21.35",
+        "Mar 2024": "21.35",
+        "Sep 2024": "21.35"
+      },
+      "Total Liabilities": {
+        "Mar 2020": "8.45",
+        "Mar 2021": "11.66",
+        "Mar 2022": "0.19",
+        "Mar 2023": "36.25",
+        "Mar 2024": "34.60",
+        "Sep 2024": "34.09"
+      },
+      "Total Assets": {
+        "Mar 2020": "8.45",
+        "Mar 2021": "11.66",
+        "Mar 2022": "0.19",
+        "Mar 2023": "36.25",
+        "Mar 2024": "34.60",
+        "Sep 2024": "34.09"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": {
+        "Mar 2020": "0.95",
+        "Mar 2021": "0.93",
+        "Mar 2022": "0.00",
+        "Mar 2023": "-17.81",
+        "Mar 2024": "-3.08"
+      },
+      "Net Cash Flow": {
+        "Mar 2020": "0.11",
+        "Mar 2021": "0.47",
+        "Mar 2022": "0.00",
+        "Mar 2023": "0.11",
+        "Mar 2024": "0.05"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (3 Years)": "-53%",
+      "Compounded Sales Growth (TTM)": "-92%",
+      "Compounded Profit Growth (3 Years)": "-33%",
+      "Compounded Profit Growth (TTM)": "-6%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": {
+        "Mar 2020": "28.43",
+        "Mar 2021": "5.39",
+        "Mar 2022": "386.47",
+        "Mar 2023": "234.52",
+        "Mar 2024": "456.89"
+      },
+      "Working Capital Days": {
+        "Mar 2020": "142.16",
+        "Mar 2021": "142.23",
+        "Mar 2022": "300.59",
+        "Mar 2023": "1030.59",
+        "Mar 2024": "5600.07"
+      }
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Mar 2020": "12.08%",
+        "Mar 2021": "4.31%",
+        "Mar 2022": "5.58%",
+        "Mar 2023": "0.39%"
+      },
+      "ROE (3 Years)": "2%",
+      "ROE (Last Year)": "0%"
+    },
+    "Valuation Ratios": {
+      "Price to Book": "0.78" 
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "NCC", "CMP": "287.55", "P/E": "21.17", "Mar Cap": "18053.73", "Div Yld": "0.77", "NP Qtr": "174.79", "Qtr Profit Var": "110.71", "Sales Qtr": "5195.98", "Qtr Sales Var": "10.09", "ROCE": "22.10"},
+      {"Name": "Man Infra", "CMP": "233.27", "P/E": "32.19", "Mar Cap": "8682.03", "Div Yld": "0.69", "NP Qtr": "47.25", "Qtr Profit Var": "-31.60", "Sales Qtr": "230.32", "Qtr Sales Var": "6.98", "ROCE": "28.06"},
+      {"Name": "Mahindra Life.", "CMP": "474.85", "P/E": "61.28", "Mar Cap": "7364.26", "Div Yld": "0.56", "NP Qtr": "-14.01", "Qtr Profit Var": "25.99", "Sales Qtr": "7.61", "Qtr Sales Var": "-57.18", "ROCE": "2.01"},
+      {"Name": "Arkade", "CMP": "162.03", "P/E": "24.50", "Mar Cap": "3008.31", "Div Yld": "0.00", "NP Qtr": "43.36", "Qtr Profit Var": "-9.38", "Sales Qtr": "201.65", "Qtr Sales Var": "-4.41", "ROCE": "45.21"},
+      {"Name": "PSP Projects", "CMP": "680.05", "P/E": "28.93", "Mar Cap": "2695.84", "Div Yld": "0.00", "NP Qtr": "11.15", "Qtr Profit Var": "-71.71", "Sales Qtr": "578.09", "Qtr Sales Var": "-4.79", "ROCE": "19.08"},
+      {"Name": "Elpro Internatio", "CMP": "114.25", "P/E": "15.18", "Mar Cap": "1936.30", "Div Yld": "0.61", "NP Qtr": "32.22", "Qtr Profit Var": "76.74", "Sales Qtr": "207.42", "Qtr Sales Var": "488.09", "ROCE": "7.85"},
+      {"Name": "B.L.Kashyap", "CMP": "76.05", "P/E": "30.71", "Mar Cap": "1714.47", "Div Yld": "0.00", "NP Qtr": "9.38", "Qtr Profit Var": "-21.77", "Sales Qtr": "267.28", "Qtr Sales Var": "-18.17", "ROCE": "14.29"},
+      {"Name": "SVS Ventures", "CMP": "12.02", "P/E": "160.38", "Mar Cap": "25.66", "Div Yld": "0.00", "NP Qtr": "0.07", "Qtr Profit Var": "200.00", "Sales Qtr": "0.31", "Qtr Sales Var": "-74.38", "ROCE": "0.39"}
+    ],
+    "Median": {
+      "CMP": "138.0",
+      "P/E": "32.19",
+      "Mar Cap": "421.51",
+      "Div Yld": "0.0",
+      "NP Qtr": "1.71",
+      "Qtr Profit Var": "2.67",
+      "Sales Qtr": "38.22",
+      "Qtr Sales Var": "10.09",
+      "ROCE": "8.06"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Stock is trading at 0.78 times its book value"
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Promoter holding has decreased over last quarter: -45.6%",
+      "Promoter holding is low: 21.1%",
+      "Company has a low return on equity of 1.80% over last 3 years.",
+      "Company has high debtors of 457 days.",
+      "Working capital days have increased from 2,310 days to 5,600 days"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  }
+}

@@ -1,0 +1,398 @@
+
+{
+  "Company Overview": {
+    "Name": "Interiors & More Ltd",
+    "Sector": "Miscellaneous",
+    "Industry": "Miscellaneous",
+    "Description": "Incorporated in June 2012, Interiors & More Limited trades, imports, and sells artificial flowers. The company manufactures and trades quality artificial flowers, plants, and decor items for homes and offices.  The company offers various products, including artificial flowers such as Roses, Yellow Marigolds, Green Grass in Mats, green Leaves, carnations, Hydrangea, and Hanging orchids. Company trades in Fountains, battery-operated Candles, Chandeliers, vases made of Wood and Glass, artificial trees, Furniture, and Tables.",
+    "MarketPosition": null 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 203 Cr.",
+    "CurrentPrice": "₹ 290",
+    "High/Low": "₹ 383 / ₹ 201",
+    "PEratio": 19.7,
+    "BookValue": "₹ 85.9",
+    "DividendYield": "0.00 %",
+    "ROCE": "31.1 %",
+    "ROE": "24.6 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": null
+  },
+  "PerformanceTrends": {
+    "QuarterlyResults": {
+      "Sep 2023": {
+        "Sales": 6,
+        "Expenses": 3,
+        "OperatingProfit": 3,
+        "OPM%": "53%",
+        "OtherIncome": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 2,
+        "Tax%": "26%",
+        "NetProfit": 2,
+        "EPS": 3.30
+      },
+      "Mar 2024": {
+        "Sales": 26,
+        "Expenses": 17,
+        "OperatingProfit": 10,
+        "OPM%": "38%",
+        "OtherIncome": 0,
+        "Interest": 1,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 9,
+        "Tax%": "28%",
+        "NetProfit": 6,
+        "EPS": 9.03
+      },
+      "Sep 2024": {
+        "Sales": 16,
+        "Expenses": 10,
+        "OperatingProfit": 6,
+        "OPM%": "35%",
+        "OtherIncome": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 5,
+        "Tax%": "26%",
+        "NetProfit": 4,
+        "EPS": 5.58
+      }
+    },
+    "AnnualResults": {
+      "Mar 2021": {
+        "Sales": 7,
+        "Expenses": 6,
+        "OperatingProfit": 1,
+        "OPM%": "13%",
+        "OtherIncome": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 1,
+        "Tax%": "27%",
+        "NetProfit": 0,
+        "EPS": 2.51
+      },
+      "Mar 2022": {
+        "Sales": 20,
+        "Expenses": 18,
+        "OperatingProfit": 3,
+        "OPM%": "13%",
+        "OtherIncome": 0,
+        "Interest": 1,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 1,
+        "Tax%": "27%",
+        "NetProfit": 1,
+        "EPS": 6.06
+      },
+      "Mar 2023": {
+        "Sales": 36,
+        "Expenses": 27,
+        "OperatingProfit": 9,
+        "OPM%": "26%",
+        "OtherIncome": 1,
+        "Interest": 1,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 8,
+        "Tax%": "25%",
+        "NetProfit": 6,
+        "EPS": 35.22
+      },
+      "Mar 2024": {
+        "Sales": 47,
+        "Expenses": 34,
+        "OperatingProfit": 13,
+        "OPM%": "28%",
+        "OtherIncome": 0,
+        "Interest": 1,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 11,
+        "Tax%": "28%",
+        "NetProfit": 8,
+        "EPS": 11.45
+      },
+      "TTM": {
+        "Sales": 43,
+        "Expenses": 27,
+        "OperatingProfit": 16,
+        "OPM%": "37%",
+        "OtherIncome": 0,
+        "Interest": 1,
+        "Depreciation": 0,
+        "ProfitBeforeTax": 14,
+        "Tax%": null,
+        "NetProfit": 10,
+        "EPS": 14.61
+      }
+    },
+    "BalanceSheetHighlights": {
+      "Mar 2021": {
+        "EquityCapital": 2,
+        "Reserves": 1,
+        "Borrowings": 9,
+        "OtherLiabilities": 3,
+        "TotalLiabilities": 15,
+        "FixedAssets": 2,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 13,
+        "TotalAssets": 15
+      },
+      "Mar 2022": {
+        "EquityCapital": 2,
+        "Reserves": 2,
+        "Borrowings": 13,
+        "OtherLiabilities": 2,
+        "TotalLiabilities": 20,
+        "FixedAssets": 3,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 17,
+        "TotalAssets": 20
+      },
+      "Mar 2023": {
+        "EquityCapital": 2,
+        "Reserves": 8,
+        "Borrowings": 14,
+        "OtherLiabilities": 7,
+        "TotalLiabilities": 31,
+        "FixedAssets": 3,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 28,
+        "TotalAssets": 31
+      },
+      "Mar 2024": {
+        "EquityCapital": 7,
+        "Reserves": 49,
+        "Borrowings": 1,
+        "OtherLiabilities": 6,
+        "TotalLiabilities": 63,
+        "FixedAssets": 5,
+        "CWIP": 0,
+        "Investments": 10,
+        "OtherAssets": 49,
+        "TotalAssets": 63
+      },
+      "Sep 2024": {
+        "EquityCapital": 7,
+        "Reserves": 53,
+        "Borrowings": 7,
+        "OtherLiabilities": 11,
+        "TotalLiabilities": 78,
+        "FixedAssets": 9,
+        "CWIP": 0,
+        "Investments": 0,
+        "OtherAssets": 70,
+        "TotalAssets": 78
+      }
+    },
+    "CashFlowSummaries": {
+      "Mar 2021": {
+        "CashFromOperatingActivity": -6,
+        "CashFromInvestingActivity": -1,
+        "CashFromFinancingActivity": 7,
+        "NetCashFlow": 0
+      },
+      "Mar 2022": {
+        "CashFromOperatingActivity": -1,
+        "CashFromInvestingActivity": -2,
+        "CashFromFinancingActivity": 3,
+        "NetCashFlow": 0
+      },
+      "Mar 2023": {
+        "CashFromOperatingActivity": 1,
+        "CashFromInvestingActivity": -1,
+        "CashFromFinancingActivity": 0,
+        "NetCashFlow": 0
+      },
+      "Mar 2024": {
+        "CashFromOperatingActivity": -10,
+        "CashFromInvestingActivity": -12,
+        "CashFromFinancingActivity": 24,
+        "NetCashFlow": 1
+      }
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "91%",
+        "TTM": "29%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "208%",
+        "TTM": "37%"
+      },
+      "StockPriceCAGR": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "1Year": null
+      }
+    },
+    "LiquidityRatios": null,
+    "ProfitabilityRatios": {
+      "ROE": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": "35%",
+        "LastYear": "25%"
+      },
+      "ROCE": {
+        "Mar 2021": "16%",
+        "Mar 2022": "45%",
+        "Mar 2023": "31%"
+      }
+    },
+    "ValuationRatios": null,
+    "OtherRatios": {
+      "DebtorDays": {
+        "Mar 2021": 79,
+        "Mar 2022": 16,
+        "Mar 2023": 72,
+        "Mar 2024": 81
+      },
+      "InventoryDays": {
+        "Mar 2021": 1054,
+        "Mar 2022": 1250,
+        "Mar 2023": 700,
+        "Mar 2024": 1103
+      },
+      "DaysPayable": {
+        "Mar 2021": 275,
+        "Mar 2022": 202,
+        "Mar 2023": 111,
+        "Mar 2024": 59
+      },
+      "CashConversionCycle": {
+        "Mar 2021": 858,
+        "Mar 2022": 1063,
+        "Mar 2023": 661,
+        "Mar 2024": 1125
+      },
+      "WorkingCapitalDays": {
+        "Mar 2021": 527,
+        "Mar 2022": 233,
+        "Mar 2023": 199,
+        "Mar 2024": 312
+      }
+    }
+  },
+  "PeerComparison": [
+    {
+      "Name": "GMR Airports",
+      "CMP": 78.82,
+      "PE": 83225.85,
+      "MarCap": null,
+      "DivYld": 0.00,
+      "NPQtr": -428.77,
+      "QtrProfitVar": -318.52,
+      "SalesQtr": 2495.46,
+      "QtrSalesVar": 20.93,
+      "ROCE": 6.41
+    },
+    {
+      "Name": "SJVN",
+      "CMP": 111.54,
+      "PE": 47.39,
+      "MarCap": 43832.94,
+      "DivYld": 1.61,
+      "NPQtr": 439.90,
+      "QtrProfitVar": 0.06,
+      "SalesQtr": 1026.25,
+      "QtrSalesVar": 16.84,
+      "ROCE": 4.99
+    },
+    {
+      "Name": "Sagility India",
+      "CMP": 45.17,
+      "PE": 92.88,
+      "MarCap": 21145.56,
+      "DivYld": 0.00,
+      "NPQtr": 117.34,
+      "QtrProfitVar": 235.64,
+      "SalesQtr": 1325.05,
+      "QtrSalesVar": 21.11,
+      "ROCE": 4.71
+    },
+    {
+      "Name": "International Ge",
+      "CMP": 471.15,
+      "PE": 62.68,
+      "MarCap": 20361.20,
+      "DivYld": 0.00,
+      "NPQtr": 98.79,
+      "QtrProfitVar": null,
+      "SalesQtr": null,
+      "QtrSalesVar": null,
+      "ROCE": null
+    },
+    {
+      "Name": "Rites",
+      "CMP": 281.00,
+      "PE": 33.91,
+      "MarCap": 13504.97,
+      "DivYld": 4.09,
+      "NPQtr": 82.50,
+      "QtrProfitVar": -27.85,
+      "SalesQtr": 540.86,
+      "QtrSalesVar": -7.13,
+      "ROCE": 25.36
+    },
+    {
+      "Name": "RattanIndia Ent",
+      "CMP": 66.69,
+      "PE": 12.87,
+      "MarCap": 9218.36,
+      "DivYld": 0.00,
+      "NPQtr": -241.59,
+      "QtrProfitVar": -227.06,
+      "SalesQtr": 1800.62,
+      "QtrSalesVar": 11.52,
+      "ROCE": 2.89
+    },
+    {
+      "Name": "CMS Info Systems",
+      "CMP": 490.50,
+      "PE": 22.22,
+      "MarCap": 8004.13,
+      "DivYld": 1.17,
+      "NPQtr": 90.92,
+      "QtrProfitVar": 7.78,
+      "SalesQtr": 624.54,
+      "QtrSalesVar": 14.86,
+      "ROCE": 26.95
+    },
+    {
+      "Name": "Interiors",
+      "CMP": 290.05,
+      "PE": 19.70,
+      "MarCap": 202.90,
+      "DivYld": 0.00,
+      "NPQtr": 3.90,
+      "QtrProfitVar": 16.08,
+      "SalesQtr": 177.72,
+      "QtrSalesVar": 31.08,
+      "ROCE": null
+    }
+  ],
+  "OtherInsights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 34.7%"
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Debtor days have increased from 56.3 to 80.9 days."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  }
+}

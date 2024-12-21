@@ -1,0 +1,155 @@
+
+{
+  "Company Overview": {
+    "Name": "Global Pet Industries Ltd",
+    "Sector": "Engineering",
+    "Industry": "Engineering",
+    "Business Description": "Incorporated in 2013, Global Pet Industries Ltd is in the business of manufacturing and trading of PET bottles machines.",
+    "MarketPosition": "Information not explicitly available in provided HTML." 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 114 Cr.",
+    "CurrentPrice": "₹ 117",
+    "High/Low": "₹ 138 / ₹ 75.6",
+    "StockPE": 63.8,
+    "BookValue": "₹ 25.5",
+    "DividendYield": "0.00 %",
+    "ROCE": "14.9 %",
+    "ROE": "10.7 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Information not explicitly available, but mentioned as 'almost debt free'."
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sep 2022": {
+        "Sales": "16.77 Cr",
+        "NetProfit": "0.99 Cr",
+        "EPS": "22.35"
+      },
+      "Mar 2023": {
+        "Sales": "18.06 Cr",
+        "NetProfit": "1.01 Cr",
+        "EPS": "1.43"
+      },
+      "Sep 2023": {
+        "Sales": "15.89 Cr",
+        "NetProfit": "0.79 Cr",
+        "EPS": "0.81"
+      },
+      "Mar 2024": {
+        "Sales": "23.26 Cr",
+        "NetProfit": "1.27 Cr",
+        "EPS": "1.30"
+      },
+      "Sep 2024": {
+        "Sales": "17.93 Cr",
+        "NetProfit": "0.52 Cr",
+        "EPS": "0.53"
+      }
+    },
+    "AnnualResults": {
+      "Mar 2020": {
+        "Sales": "19.73 Cr",
+        "NetProfit": "0.95 Cr",
+        "EPS": "21.44"
+      },
+      "Mar 2021": {
+        "Sales": "22.48 Cr",
+        "NetProfit": "1.42 Cr",
+        "EPS": "32.05"
+      },
+      "Mar 2022": {
+        "Sales": "27.60 Cr",
+        "NetProfit": "1.19 Cr",
+        "EPS": "26.86"
+      },
+      "Mar 2023": {
+        "Sales": "34.82 Cr",
+        "NetProfit": "2.00 Cr",
+        "EPS": "2.82"
+      },
+      "Mar 2024": {
+        "Sales": "39.15 Cr",
+        "NetProfit": "2.06 Cr",
+        "EPS": "2.10"
+      }
+    },
+    "ProfitAndLossTrends": "Available in Quarterly and Annual Results sections.",
+    "BalanceSheetHighlights": "Available in Balance Sheet section.",
+    "CashFlowSummaries": "Available in Cash Flows section."
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth_3Years": "20%",
+      "CompoundedSalesGrowth_TTM": "21%",
+      "CompoundedProfitGrowth_3Years": "8%",
+      "CompoundedProfitGrowth_TTM": "47%",
+      "StockPriceCAGR_1Year": "18%"
+    },
+    "LiquidityRatios": "Information not explicitly available in the provided HTML.",
+    "ProfitabilityRatios": {
+      "ROCE": "Available in Financial Metrics and detailed yearly data in Ratios section.",
+      "ROE": "Available in Financial Metrics and detailed yearly data in Ratios section.",
+      "OPM": "Available in Quarterly and Annual Results sections."
+    },
+    "ValuationRatios": {
+      "PE": "Available in Financial Metrics and detailed yearly data in Ratios section.",
+      "PriceToBook": "Information not explicitly available, but data for calculation is present."
+    },
+    "OtherRatios": {
+      "DebtorDays": "Available in Ratios section.",
+      "InventoryDays": "Available in Ratios section.",
+      "DaysPayable": "Available in Ratios section.",
+      "CashConversionCycle": "Available in Ratios section.",
+      "WorkingCapitalDays": "Available in Ratios section."
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Tega Inds.", "CMP": 1610.75, "PE": 63.39, "MarCap": 10717.20, "DivYld": 0.12, "NPQtr": 7.22, "QtrProfitVar": -84.76, "SalesQtr": 353.30, "QtrSalesVar": -6.40, "ROCE": 19.20},
+      {"Name": "Azad Engineering", "CMP": 1659.10, "PE": 140.63, "MarCap": 9807.44, "DivYld": 0.00, "NPQtr": 20.88, "QtrProfitVar": 7.46, "SalesQtr": 111.54, "QtrSalesVar": 34.65, "ROCE": 19.89},
+      {"Name": "The Anup Enginee", "CMP": 3421.45, "PE": 57.35, "MarCap": 6844.77, "DivYld": 0.44, "NPQtr": 32.31, "QtrProfitVar": 48.76, "SalesQtr": 187.87, "QtrSalesVar": 34.34, "ROCE": 22.58},
+      {"Name": "Skipper", "CMP": 563.15, "PE": 59.09, "MarCap": 6334.74, "DivYld": 0.02, "NPQtr": 33.94, "QtrProfitVar": 78.82, "SalesQtr": 1109.74, "QtrSalesVar": 43.68, "ROCE": 20.33},
+      {"Name": "Rajoo Engineers", "CMP": 268.15, "PE": 179.22, "MarCap": 4397.99, "DivYld": 0.07, "NPQtr": 7.24, "QtrProfitVar": 36.86, "SalesQtr": 56.81, "QtrSalesVar": 6.13, "ROCE": 23.70},
+      {"Name": "KRN Heat Exchan", "CMP": 703.45, "PE": 109.72, "MarCap": 4372.41, "DivYld": 0.00, "NPQtr": 12.10, "QtrProfitVar": 40.53, "SalesQtr": 98.94, "QtrSalesVar": 38.98, "ROCE": 42.09},
+      {"Name": "KP Green Engg.", "CMP": 568.80, "PE": 55.02, "MarCap": 2844.00, "DivYld": 0.04, "NPQtr": 27.48, "QtrProfitVar": 262.36, "SalesQtr": 152.44, "QtrSalesVar": 29.85, "ROCE": null},
+      {"Name": "Global Pet Indus", "CMP": 116.60, "PE": 63.75, "MarCap": 114.12, "DivYld": 0.00, "NPQtr": 0.52, "QtrProfitVar": 17.93, "SalesQtr": 12.84, "QtrSalesVar": 14.88, "ROCE": null}
+    ],
+    "Median": {
+      "CMP": 373.52,
+      "PE": 47.03,
+      "MarCap": 523.72,
+      "DivYld": 0.0,
+      "NPQtr": 3.43,
+      "QtrProfitVar": 6.79,
+      "SalesQtr": 43.93,
+      "QtrSalesVar": 12.68,
+      "ROCE": 24.98
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is almost debt free."
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Promoter holding has decreased over last quarter: -12.3%",
+      "Earnings include an other income of Rs.0.86 Cr.",
+      "Working capital days have increased from 34.0 days to 68.6 days"
+    ],
+    "Notes": [
+      "* The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and your own analysis.",
+      "* The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ],
+    "Announcements": [
+      "Clarification - Financial Results (12 December 2024)",
+      "Resignation of Independent director (12 December 2024)",
+      "Resignation (12 December 2024)",
+      "Resignation (27 November 2024)",
+      "Updates (27 November 2024)"
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+
+{
+  "Company Overview": {
+    "Name": "ROX Hi-Tech Ltd",
+    "Sector": "Trading",
+    "Industry": "Trading",
+    "Business Description": "Incorporated in 2002, ROX Hi-Tech Ltd deals in Computer Hardware components, peripheral devices, electronic data processing equipment, and software including packaged & customized software. It offers distributed IT solutions including consulting, software services, enterprise and end-user computing, managed print, and network & security services, catering to Fortune 1,000 companies.  The company also operates software/hardware training centers, offers software consultancy, system studies, and management consultancy, and conducts feasibility studies for project management systems.  It focuses on identifying, selecting, and training software manpower for on-site placements and recruitment services within India and abroad. ROX is an ISO 9001:2015 certified and DUNS registered system integrator.  ROX helps clients overcome business challenges by implementing IBM’s ON-DEMAND solutions. ROX specializes in implementing software solutions for CRM, supply chain management, and business operations.",
+    "Market Position": "NSE - SME: ROXHITECH"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 226 Cr.",
+    "Current Price": "₹ 98.9",
+    "High / Low": "₹ 191 / ₹ 95.9",
+    "Stock P/E": 10.8,
+    "Book Value": "₹ 45.0",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "39.3 %",
+    "ROE": "36.4 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sep 2023": {
+        "Sales": 77,
+        "Expenses": 62,
+        "Operating Profit": 16,
+        "OPM %": "20%",
+        "Other Income": 0,
+        "Interest": 1,
+        "Depreciation": 0,
+        "Profit before tax": 14,
+        "Tax %": "25%",
+        "Net Profit": 10,
+        "EPS in Rs": 6.24
+      },
+      "Mar 2024": {
+        "Sales": 99,
+        "Expenses": 83,
+        "Operating Profit": 16,
+        "OPM %": "16%",
+        "Other Income": 0,
+        "Interest": 2,
+        "Depreciation": 1,
+        "Profit before tax": 14,
+        "Tax %": "25%",
+        "Net Profit": 11,
+        "EPS in Rs": 4.71
+      },
+      "Sep 2024": {
+        "Sales": 83,
+        "Expenses": 66,
+        "Operating Profit": 16,
+        "OPM %": "20%",
+        "Other Income": 2,
+        "Interest": 2,
+        "Depreciation": 2,
+        "Profit before tax": 15,
+        "Tax %": "30%",
+        "Net Profit": 10,
+        "EPS in Rs": 4.47
+      }
+    },
+    "Annual Results": {
+      "Mar 2004": {
+        "Sales": 1,
+        "Expenses": 1,
+        "Operating Profit": -0,
+        "OPM %": "-8%",
+        "Other Income": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "Profit before tax": 0,
+        "Tax %": "0%",
+        "Net Profit": 0,
+        "EPS in Rs": 3.33
+      },
+      "Mar 2005": {
+        "Sales": 2,
+        "Expenses": 2,
+        "Operating Profit": -0,
+        "OPM %": "-2%",
+        "Other Income": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "Profit before tax": 0,
+        "Tax %": "50%",
+        "Net Profit": 0,
+        "EPS in Rs": 2.03
+      },
+      "Mar 2006": {
+        "Sales": 6,
+        "Expenses": 6,
+        "Operating Profit": 0,
+        "OPM %": "0%",
+        "Other Income": 0,
+        "Interest": 0,
+        "Depreciation": 0,
+        "Profit before tax": 0,
+        "Tax %": "33%",
+        "Net Profit": 0,
+        "EPS in Rs": 2.02
+      },
+      "Mar 2021": {
+        "Sales": 64,
+        "Expenses": 63,
+        "Operating Profit": 1,
+        "OPM %": "2%",
+        "Other Income": 1,
+        "Interest": 1,
+        "Depreciation": 0,
+        "Profit before tax": 1,
+        "Tax %": "27%",
+        "Net Profit": 1,
+        "EPS in Rs": 20.60
+      },
+      "Mar 2022": {
+        "Sales": 103,
+        "Expenses": 99,
+        "Operating Profit": 4,
+        "OPM %": "4%",
+        "Other Income": 0,
+        "Interest": 2,
+        "Depreciation": 0,
+        "Profit before tax": 2,
+        "Tax %": "27%",
+        "Net Profit": 2,
+        "EPS in Rs": 9.30
+      },
+      "Mar 2023": {
+        "Sales": 133,
+        "Expenses": 110,
+        "Operating Profit": 23,
+        "OPM %": "17%",
+        "Other Income": 1,
+        "Interest": 3,
+        "Depreciation": 0,
+        "Profit before tax": 20,
+        "Tax %": "25%",
+        "Net Profit": 15,
+        "EPS in Rs": 9.18
+      },
+      "Mar 2024": {
+        "Sales": 176,
+        "Expenses": 144,
+        "Operating Profit": 32,
+        "OPM %": "18%",
+        "Other Income": 0,
+        "Interest": 3,
+        "Depreciation": 1,
+        "Profit before tax": 28,
+        "Tax %": "25%",
+        "Net Profit": 21,
+        "EPS in Rs": 20.60
+      },
+      "TTM": {
+        "Sales": 181,
+        "Expenses": 149,
+        "Operating Profit": 33,
+        "OPM %": "18%",
+        "Other Income": 2,
+        "Interest": 4,
+        "Depreciation": 3,
+        "Profit before tax": 29,
+        "Tax %": "25%",
+        "Net Profit": 21,
+        "EPS in Rs": 20.60
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "40%",
+        "TTM": "32%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "218%",
+        "TTM": "38%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": "-38%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": {
+        "Mar 2004": 64,
+        "Mar 2005": 69,
+        "Mar 2006": 58,
+        "Mar 2021": 95,
+        "Mar 2022": 60,
+        "Mar 2023": 50,
+        "Mar 2024": 112
+      },
+      "Inventory Days": {
+        "Mar 2004": 25,
+        "Mar 2005": 11,
+        "Mar 2006": 13,
+        "Mar 2021": 106,
+        "Mar 2022": 115,
+        "Mar 2023": null,
+        "Mar 2024": null
+      },
+      "Days Payable": {
+        "Mar 2004": 65,
+        "Mar 2005": 62,
+        "Mar 2006": 68,
+        "Mar 2021": 30,
+        "Mar 2022": 74,
+        "Mar 2023": null,
+        "Mar 2024": null
+      },
+      "Cash Conversion Cycle": {
+        "Mar 2004": 24,
+        "Mar 2005": 18,
+        "Mar 2006": 3,
+        "Mar 2021": 95,
+        "Mar 2022": 60,
+        "Mar 2023": 127,
+        "Mar 2024": 153
+      },
+      "Working Capital Days": {
+        "Mar 2004": 32,
+        "Mar 2005": 11,
+        "Mar 2006": 8,
+        "Mar 2021": 55,
+        "Mar 2022": 58,
+        "Mar 2023": 100,
+        "Mar 2024": 198
+      }
+    },
+    "Profitability Ratios": {
+      "ROCE %": {
+        "Mar 2004": "30%",
+        "Mar 2005": "19%",
+        "Mar 2006": "18%",
+        "Mar 2021": "64%",
+        "Mar 2022": "39%",
+        "Mar 2023": null,
+        "Mar 2024": null
+      },
+      "ROE": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "46%",
+        "Last Year": "36%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": null,
+      "Market Cap / Sales": null,
+      "EV / EBITDA": null
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Adani Enterp.", "CMP": 2344.95, "P/E": 47.95, "Mar Cap": 270649.61, "Div Yld": 0.06, "NP Qtr": 1989.19, "Qtr Profit Var": 577.60, "Sales Qtr": 22608.07, "Qtr Sales Var": 15.66, "ROCE": 9.87},
+      {"Name": "Vishal Mega Mart", "CMP": 101.19, "P/E": 100.64, "Mar Cap": 45623.73, "Div Yld": 0.00, "NP Qtr": 254.14, "Qtr Profit Var": 5032.51, "Sales Qtr": 19.27, "Qtr Sales Var": 11.36, "ROCE": 11.36},
+      {"Name": "Aegis Logistics", "CMP": 825.80, "P/E": 49.64, "Mar Cap": 28985.58, "Div Yld": 0.79, "NP Qtr": 152.02, "Qtr Profit Var": -0.80, "Sales Qtr": 1750.42, "Qtr Sales Var": 41.75, "ROCE": 14.74},
+      {"Name": "Cello World", "CMP": 775.65, "P/E": 50.71, "Mar Cap": 17132.95, "Div Yld": 0.19, "NP Qtr": 86.78, "Qtr Profit Var": 2.06, "Sales Qtr": 490.06, "Qtr Sales Var": 0.22, "ROCE": 36.28},
+      {"Name": "Redington", "CMP": 205.68, "P/E": 13.81, "Mar Cap": 16079.54, "Div Yld": 3.01, "NP Qtr": 282.88, "Qtr Profit Var": -6.78, "Sales Qtr": 24895.56, "Qtr Sales Var": 12.04, "ROCE": 19.46},
+      {"Name": "MMTC", "CMP": 74.30, "P/E": 52.62, "Mar Cap": 11145.00, "Div Yld": 0.00, "NP Qtr": 48.05, "Qtr Profit Var": -58.86, "Sales Qtr": 1.56, "Qtr Sales Var": 100.74, "ROCE": 9.23},
+      {"Name": "Honasa Consumer", "CMP": 259.70, "P/E": 111.75, "Mar Cap": 8435.68, "Div Yld": 0.00, "NP Qtr": -14.92, "Qtr Profit Var": -139.53, "Sales Qtr": 417.48, "Qtr Sales Var": -9.28, "ROCE": 17.10}
+    ],
+    "Median": {
+      "CMP": 126.3,
+      "P/E": 37.07,
+      "Mar Cap": 337.87,
+      "Div Yld": 0.0,
+      "NP Qtr": 2.61,
+      "Qtr Profit Var": 59.15,
+      "Sales Qtr": 44.64,
+      "Qtr Sales Var": 28.95,
+      "ROCE": 9.64
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 46.0%",
+    "Cons": "Though the company is reporting repeated profits, it is not paying out dividend. Debtor days have increased from 73.9 to 112 days. Working capital days have increased from 118 days to 198 days",
+    "Disclaimer": "* The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Dec 2023": {
+        "Promoters": "58.94%",
+        "FIIs": "5.82%",
+        "Public": "35.24%"
+      },
+      "Mar 2024": {
+        "Promoters": "58.94%",
+        "FIIs": "1.84%",
+        "Public": "39.21%"
+      },
+      "Sep 2024": {
+        "Promoters": "58.94%",
+        "FIIs": "0.18%",
+        "Public": "40.87%"
+      }
+    },
+    "Yearly": {
+      "Mar 2024": {
+        "Promoters": "58.94%",
+        "FIIs": "1.84%",
+        "Public": "39.21%"
+      },
+      "Sep 2024": {
+        "Promoters": "58.94%",
+        "FIIs": "0.18%",
+        "Public": "40.87%"
+      }
+    },
+    "No. of Shareholders": {
+      "Dec 2023": 1684,
+      "Mar 2024": 1982,
+      "Sep 2024": 2493
+    },
+    "Disclaimer": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "19 December 2024", "Title": "Rox Hi Tech Limited has informed about Outcome of meeting"},
+      {"Date": "13 December 2024", "Title": "Rox Hi Tech Limited has informed about Schedule of meet"},
+      {"Date": "11 December 2024", "Title": "ROX Hi-Tech Secures Rs. 40 Cr Order Book In Digital …"},
+      {"Date": "23 November 2024", "Title": "Membership With The Confederation Of Indian Industry"},
+      {"Date": "21 November 2024", "Title": "Rox Hi Tech Limited has informed about Transcript"}
+    ],
+    "Annual Reports": [{"Year": 2024, "Source": "nse"}],
+    "Concalls": [
+      {"Month": "Nov 2024", "Type": "Transcript", "Notes": null, "PPT": null},
+      {"Month": "Jun 2024", "Type": "Transcript", "Notes": null, "PPT": null},
+      {"Month": "Feb 2024", "Type": "Transcript", "Notes": null, "PPT": null}
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+
+{
+  "Company Overview": {
+    "Name": "Thejo Engineering Ltd",
+    "Sector": "Engineering",
+    "Industry": "Engineering",
+    "Business Description": "Engineering Solutions provider for Bulk Material Handling, Mineral Processing and Corrosion Protection to the Core Sector Industries like mining, power, steel, cement, ports and fertilisers.",
+    "Market Position": "Not explicitly stated, but peer comparison data is available."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,285 Cr.",
+    "Current Price": "₹ 2,107",
+    "High/Low": "₹ 3,708 / ₹ 1,780",
+    "P/E Ratio": "44.5",
+    "Book Value": "₹ 250",
+    "Dividend Yield": "0.14 %",
+    "ROCE": "28.3 %",
+    "ROE": "24.6 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated" 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [111, 119, 122, 122, 135, 134, 150, 141, 131, 133], 
+      "Expenses": [92, 104, 107, 112, 112, 111, 121, 115, 112, 117],
+      "Operating Profit": [19, 15, 15, 10, 23, 23, 29, 26, 18, 17],
+      "OPM %": ["17%", "13%", "12%", "8%", "17%", "17%", "19%", "18%", "14%", "13%"],
+      "Other Income": [0, 1, 1, 1, 1, 0, 2, -0, 1, 4],
+      "Interest": [1, 1, 1, 1, 2, 2, 2, 1, 1, 1],
+      "Depreciation": [3, 3, 3, 3, 5, 5, 5, 6, 4, 5],
+      "Profit before tax": [16, 12, 12, 6, 17, 17, 24, 18, 13, 15],
+      "Tax %": ["25%", "23%", "23%", "24%", "23%", "20%", "22%", "25%", "27%", "16%"],
+      "Net Profit": [12, 9, 9, 5, 14, 14, 19, 13, 10, 12],
+      "EPS in Rs": [9.82, 7.75, 8.38, 4.39, 11.84, 12.25, 16.15, 11.59, 8.85, 10.98]
+    },
+    "Annual Results": {
+      "Sales": [126, 147, 186, 175, 178, 220, 229, 303, 327, 424, 474, 559, 555],
+      "Expenses": [110, 133, 175, 162, 158, 192, 197, 254, 276, 355, 414, 458, 465],
+      "Operating Profit": [16, 14, 11, 13, 20, 27, 31, 49, 50, 69, 60, 100, 90],
+      "OPM %": ["13%", "9%", "6%", "7%", "11%", "12%", "14%", "16%", "15%", "16%", "13%", "18%", "16%"],
+      "Other Income": [2, 1, 1, 0, 0, 1, 1, 0, 3, 1, 3, 3, 6],
+      "Interest": [4, 5, 6, 6, 6, 6, 5, 5, 4, 3, 5, 6, 6],
+      "Depreciation": [3, 4, 6, 6, 5, 5, 6, 6, 9, 11, 12, 20, 20],
+      "Profit before tax": [12, 6, 0, 1, 9, 17, 22, 38, 41, 56, 46, 77, 70],
+      "Tax %": ["34%", "79%", "1240%", "149%", "34%", "23%", "31%", "21%", "27%", "24%", "24%", "23%", "23%"],
+      "Net Profit": [8, 1, -2, -1, 6, 13, 15, 30, 29, 43, 35, 59, 54],
+      "EPS in Rs": [7.49, 3.04, -0.22, 0.20, 5.59, 10.73, 12.97, 24.17, 25.19, 35.31, 30.30, 51.69, 47.57]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "14%",
+      "Compounded Sales Growth (5 Years)": "20%",
+      "Compounded Sales Growth (3 Years)": "20%",
+      "Compounded Sales Growth (TTM)": "8%",
+      "Compounded Profit Growth (10 Years)": "45%",
+      "Compounded Profit Growth (5 Years)": "33%",
+      "Compounded Profit Growth (3 Years)": "28%",
+      "Compounded Profit Growth (TTM)": "30%",
+      "Stock Price CAGR (5 Years)": "67%",
+      "Stock Price CAGR (3 Years)": "25%",
+      "Stock Price CAGR (1 Year)": "13%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [117, 115, 108, 112, 120, 109, 102, 122, 104, 92, 83, 89],
+      "Inventory Days": [133, 117, 110, 281, 221, 196, 315, 229, 214, 198, 201, 194],
+      "Days Payable": [131, 107, 131, 193, 185, 155, 207, 178, 223, 131, 161, 126],
+      "Cash Conversion Cycle": [119, 124, 87, 200, 157, 150, 210, 173, 94, 159, 123, 156],
+      "Working Capital Days": [99, 91, 82, 94, 105, 82, 96, 95, 82, 88, 76, 88]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["25%", "13%", "7%", "8%", "16%", "22%", "24%", "33%", "28%", "31%", "21%", "28%"],
+      "ROE (10 Years)": "20%",
+      "ROE (5 Years)": "23%",
+      "ROE (3 Years)": "23%",
+      "ROE (Last Year)": "25%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "44.5",
+      "Price to Book": "Not explicitly stated but implied by Current Price and Book Value"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Tega Inds.", "CMP": 1610.75, "P/E": 63.39, "Mar Cap": 10717.20, "Div Yld": 0.12, "NP Qtr": 7.22, "Qtr Profit Var": -84.76, "Sales Qtr": 353.30, "Qtr Sales Var": -6.40, "ROCE": 19.20},
+      {"Name": "Azad Engineering", "CMP": 1659.10, "P/E": 140.63, "Mar Cap": 9807.44, "Div Yld": 0.00, "NP Qtr": 20.88, "Qtr Profit Var": 7.46, "Sales Qtr": 111.54, "Qtr Sales Var": 34.65, "ROCE": 19.89},
+      {"Name": "The Anup Enginee", "CMP": 3421.45, "P/E": 57.35, "Mar Cap": 6844.77, "Div Yld": 0.44, "NP Qtr": 32.31, "Qtr Profit Var": 48.76, "Sales Qtr": 187.87, "Qtr Sales Var": 34.34, "ROCE": 22.58},
+      {"Name": "Skipper", "CMP": 563.15, "P/E": 59.09, "Mar Cap": 6334.74, "Div Yld": 0.02, "NP Qtr": 33.94, "Qtr Profit Var": 78.82, "Sales Qtr": 1109.74, "Qtr Sales Var": 43.68, "ROCE": 20.33},
+      {"Name": "Rajoo Engineers", "CMP": 268.15, "P/E": 179.22, "Mar Cap": 4397.99, "Div Yld": 0.07, "NP Qtr": 7.24, "Qtr Profit Var": 36.86, "Sales Qtr": 56.81, "Qtr Sales Var": 6.13, "ROCE": 23.70},
+      {"Name": "KRN Heat Exchan", "CMP": 703.45, "P/E": 109.72, "Mar Cap": 4372.41, "Div Yld": 0.00, "NP Qtr": 12.10, "Qtr Profit Var": 40.53, "Sales Qtr": 98.94, "Qtr Sales Var": 38.98, "ROCE": 42.09},
+      {"Name": "KP Green Engg.", "CMP": 568.80, "P/E": 55.02, "Mar Cap": 2844.00, "Div Yld": 0.04, "NP Qtr": 27.48, "Qtr Profit Var": 262.36, "Sales Qtr": 152.44, "Qtr Sales Var": 29.85, "ROCE": 28.31},
+      {"Name": "Thejo Engg.", "CMP": 2106.80, "P/E": 44.51, "Mar Cap": 2284.60, "Div Yld": 0.14, "NP Qtr": 12.29, "Qtr Profit Var": -9.36, "Sales Qtr": 133.44, "Qtr Sales Var": -0.44, "ROCE": 28.31}
+    ],
+    "Median": {
+      "CMP": 373.52,
+      "P/E": 47.03,
+      "Mar Cap": 523.72,
+      "Div Yld": 0.0,
+      "NP Qtr": 3.43,
+      "Qtr Profit Var": 6.79,
+      "Sales Qtr": 43.93,
+      "Qtr Sales Var": 12.68,
+      "ROCE": 24.98
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has delivered good profit growth of 32.8% CAGR over last 5 years",
+    "Cons": "Stock is trading at 8.42 times its book value",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Title": "Alteration Of Capital and Fund Raising-XBRL", "Date": "13 December 2024"},
+      {"Title": "ESOP/ESOS/ESPS", "Date": "13 December 2024"},
+      {"Title": "Copy of Newspaper Publication", "Date": "9 November 2024"},
+      {"Title": "Financial Result Updates", "Date": "8 November 2024"},
+      {"Title": "Outcome of Board Meeting", "Date": "8 November 2024"}
+    ],
+    "Annual Reports": ["Financial Year 2024", "Financial Year 2023", "Financial Year 2022", "Financial Year 2021", "Financial Year 2020", "Financial Year 2019", "Financial Year 2018", "Financial Year 2017", "Financial Year 2016", "Financial Year 2015", "Financial Year 2014", "Financial Year 2013"],
+    "Credit Ratings": [
+      {"Date": "2 Jan", "Source": "crisil"},
+      {"Date": "19 Dec 2023", "Source": "crisil"},
+      {"Date": "2 Nov 2022", "Source": "crisil"},
+      {"Date": "30 Sep 2021", "Source": "crisil"},
+      {"Date": "25 Sep 2020", "Source": "crisil"},
+      {"Date": "8 Jan 2020", "Source": "crisil"}
+    ],
+    "Concalls": [
+      {"Month": "Aug 2024"},
+      {"Month": "Jul 2024"}
+    ]
+  }
+}

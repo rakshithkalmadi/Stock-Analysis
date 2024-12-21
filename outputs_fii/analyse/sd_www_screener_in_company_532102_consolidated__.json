@@ -1,0 +1,117 @@
+
+{
+  "Company Overview": {
+    "Name": "SBEC Sugar Ltd",
+    "Sector": "Sugar",
+    "Industry": "Sugar",
+    "Business Description": "SBEC Sugar Ltd is engaged in the production of sugar. SBECL is promoted by the Modi Group and SBEC Systems Ltd, UK. Co. is in the business of sugar manufacturing. The promoter company is a global player in the project design, engineering, and consultancy.",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 326 Cr.",
+    "Current Price": "₹ 68.4",
+    "High/Low": "₹ 85.9 / ₹ 35.4",
+    "Stock P/E": null, 
+    "Book Value": "₹ -16.9",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "15.5 %",
+    "ROE": null,
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [147, 152, 158, 166, 121, 151, 221, 137, 135, 144, 239, 141, 137],
+      "Expenses": [141, 159, 134, 155, 138, 152, 193, 138, 146, 136, 190, 139, 153],
+      "Operating Profit": [6, -7, 24, 11, -18, -1, 28, -1, -11, 8, 49, 2, -15],
+      "OPM %": ["4%", "-5%", "15%", "7%", "-15%", "-0%", "13%", "-1%", "-8%", "6%", "20%", "2%", "-11%"],
+      "Other Income": [0, 0, 1, 3, 10, -0, -3, 0, 0, 0, 1, 0, 0],
+      "Interest": [4, 5, 4, 4, 5, 4, 5, 5, 5, 5, 8, 9, 10],
+      "Depreciation": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "Profit before tax": [-4, -17, 17, 5, -17, -10, 15, -11, -22, -2, 36, -12, -30],
+      "Tax %": ["0%", "0%", "0%", "0%", "14%", "-0%", "-1%", "10%", "0%", "0%", "10%", "0%", "0%"],
+      "Net Profit": [-4, -17, 17, 5, -20, -10, 15, -12, -22, -2, 32, -12, -30],
+      "EPS in Rs": [-0.44, -3.55, 3.29, 1.08, -3.75, -2.02, 2.86, -4.57, -4.24, -0.46, 6.73, -2.59, -6.36]
+    },
+    "Annual Results": {
+      "Sales": [315, 392, 435, 399, 309, 486, 417, 482, 580, 614, 658, 655, 662],
+      "Expenses": [339, 416, 454, 388, 319, 535, 436, 442, 564, 589, 638, 610, 617],
+      "Operating Profit": [-24, -25, -19, 11, -10, -50, -18, 40, 15, 25, 21, 45, 44],
+      "OPM %": ["-7%", "-6%", "-4%", "3%", "-3%", "-10%", "-4%", "8%", "3%", "4%", "3%", "7%", "7%"],
+      "Other Income": [-5, 6, 7, 6, 0, 1, 0, 0, 1, 6, 11, 1, 1],
+      "Interest": [36, 33, 13, 10, 15, 16, 12, 21, 22, 18, 18, 23, 32],
+      "Depreciation": [7, 8, 3, 4, 20, 20, 20, 20, 21, 21, 21, 21, 21],
+      "Profit before tax": [-72, -59, -28, 2, -45, -85, -51, -1, -27, -7, -8, 2, -9],
+      "Tax %": ["6%", "-2%", "1%", "-22%", "-1%", "0%", "0%", "-187%", "0%", "15%", "26%", "317%"],
+      "Net Profit": [-76, -57, -28, 3, -44, -85, -51, 1, -27, -9, -10, -3, -12],
+      "EPS in Rs": [-15.99, -11.71, -5.95, 0.78, -8.69, -17.83, -10.36, 0.56, -5.13, -1.63, -1.83, -2.54, -2.68]
+    }
+  },
+  "Ratios": {
+    "ROCE %": ["-8%", "-16%", "-36%", "62%", "-20%", "-32%", "-16%", "6%", "-2%", "5%", "6%", "15%"],
+    "Debtor Days": [25, 14, 11, 20, 24, 14, 11, 15, 17, 8, 9, 12],
+    "Inventory Days": [337, 202, 116, 60, 166, 65, 133, 230, 165, 180, 145, 180],
+    "Days Payable": [243, 326, 335, 356, 552, 327, 295, 390, 332, 371, 340, 345],
+    "Cash Conversion Cycle": [119, -110, -208, -277, -361, -247, -151, -145, -150, -183, -186, -153],
+    "Working Capital Days": [81, -114, -183, -212, -286, -261, -165, -146, -122, -159, -178, -129]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "EID Parry", "CMP": 959.15, "P/E": 23.16, "Mar Cap": 17033.22, "Div Yld": 0.42, "NP Qtr": 591.66, "Qtr Profit Var": -32.42, "Sales Qtr": 9330.35, "Qtr Sales Var": 2.99, "ROCE": 20.29},
+      {"Name": "Balrampur Chini", "CMP": 538.80, "P/E": 25.18, "Mar Cap": 10878.50, "Div Yld": 0.56, "NP Qtr": 67.18, "Qtr Profit Var": -59.59, "Sales Qtr": 1297.95, "Qtr Sales Var": -15.69, "ROCE": 13.46},
+      {"Name": "Triven.Engg.Ind.", "CMP": 453.90, "P/E": 32.03, "Mar Cap": 9935.78, "Div Yld": 0.77, "NP Qtr": -22.42, "Qtr Profit Var": -165.96, "Sales Qtr": 1490.95, "Qtr Sales Var": 5.83, "ROCE": 14.77},
+      {"Name": "Sh.Renuka Sugar", "CMP": 39.78, "P/E": null, "Mar Cap": 8467.13, "Div Yld": 0.00, "NP Qtr": -23.10, "Qtr Profit Var": 89.12, "Sales Qtr": 2566.20, "Qtr Sales Var": 0.43, "ROCE": 10.15},
+      {"Name": "Bannari Amm.Sug.", "CMP": 3690.35, "P/E": 35.43, "Mar Cap": 4627.59, "Div Yld": 0.34, "NP Qtr": 34.27, "Qtr Profit Var": -29.79, "Sales Qtr": 473.73, "Qtr Sales Var": -21.06, "ROCE": 11.82},
+      {"Name": "Bajaj Hindusthan", "CMP": 31.09, "P/E": null, "Mar Cap": 3971.31, "Div Yld": 0.00, "NP Qtr": -75.63, "Qtr Profit Var": 38.76, "Sales Qtr": 1159.67, "Qtr Sales Var": 2.33, "ROCE": 0.80},
+      {"Name": "Dalmia Bharat", "CMP": 379.00, "P/E": 11.07, "Mar Cap": 3067.60, "Div Yld": 1.32, "NP Qtr": 66.18, "Qtr Profit Var": 20.55, "Sales Qtr": 926.39, "Qtr Sales Var": 26.58, "ROCE": 9.84}
+    ],
+    "Median": {
+      "CMP": 114.02,
+      "P/E": 19.25,
+      "Mar Cap": 787.49,
+      "Div Yld": 0.32,
+      "NP Qtr": -10.93,
+      "Qtr Profit Var": -34.98,
+      "Sales Qtr": 283.5,
+      "Qtr Sales Var": -10.96,
+      "ROCE": 10.35
+    }
+  },
+  "Other Insights": {
+    "Warnings": [
+      "Company has low interest coverage ratio.",
+      "The company has delivered a poor sales growth of 9.41% over past five years.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [65.12, 65.12, 65.12, 65.13, 65.13, 65.13, 65.13, 65.13, 65.13, 65.13, 65.13, 65.13],
+      "FIIs": [2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 0.00, 2.01],
+      "DIIs": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 2.01, 0.00],
+      "Public": [32.86, 32.86, 32.86, 32.87, 32.85, 32.86, 32.85, 32.86, 32.86, 32.86, 32.87, 32.87]
+    },
+    "Yearly": {
+      "Promoters": [65.17, 65.17, 65.17, 65.17, 65.12, 65.12, 65.13, 65.13, 65.13],
+      "FIIs": [2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01],
+      "Public": [32.82, 32.82, 32.82, 32.82, 32.86, 32.86, 32.86, 32.86, 32.87]
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "2d", "Title": "Resignation of Company Secretary effective August 17, 2024."},
+      {"Date": "16 Dec", "Title": "Consent received for plant capacity expansion from UPPCB."},
+      {"Date": "11 Dec", "Title": "Appointment of Mr. Ankit Bisht as Company Secretary."},
+      {"Date": "16 Nov", "Title": "NEWSPAPER PUBLICATION OF QUARTERLY RESULTS FOR THE PERIOD ENDED ON 30.09.2024"},
+      {"Date": "14 Nov", "Title": "Un-Audited Financial Results (Standalone & Consolidated) For The Quarter Ended September 30, 2024 Along With Limited Review Report"}
+    ],
+    "Annual Reports": [
+      "Financial Year 2024", "Financial Year 2023", "Financial Year 2022", "Financial Year 2021", "Financial Year 2020", "Financial Year 2019", "Financial Year 2018", "Financial Year 2017", "Financial Year 2016", "Financial Year 2015", "Financial Year 2014", "Financial Year 2013", "Financial Year 2012", "Financial Year 2011", "Financial Year 2010"
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+
+{
+  "Company Overview": {
+    "Name": "Global Education Ltd",
+    "Sector": "Education",
+    "Industry": "Miscellaneous",
+    "Business Description": "Global Education Limited (GEL) operates as a diversified education solutions provider. The company emphasizes skill development, digital transformation, with a focus on underserved regions and communities. Their model integrates education technology (EdTech), publishing, training, and placement services with strategic partnerships across India. Key growth drivers include digitalization, government collaboration, and corporate partnerships.",
+    "Market Position": "Not explicitly stated in the provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 372 Cr.",
+    "Current Price": "₹ 73.0",
+    "High/Low": "₹ 153 / ₹ 65.5",
+    "P/E Ratio": "12.6",
+    "Book Value": "₹ 19.6",
+    "Dividend Yield": "2.74%",
+    "ROCE": "54.6%",
+    "ROE": "40.2%",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but mentioned as 'almost debt free' in pros."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [7, 13, 12, 12, 17, 11, 22, 15, 23, 17, 17, 14, 23], 
+      "Expenses": [5, 6, 7, 7, 9, 5, 7, 5, 8, 6, 10, 6, 10],
+      "Operating Profit": [3, 7, 5, 6, 8, 6, 15, 9, 14, 11, 8, 8, 13],
+      "OPM %": ["37%", "53%", "42%", "46%", "46%", "56%", "68%", "65%", "63%", "66%", "45%", "55%", "57%"],
+      "Other Income": [0, 0, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1],
+      "Profit before tax": [2, 6, 4, 5, 7, 6, 13, 9, 14, 11, 8, 8, 14],
+      "Tax %": ["29%", "25%", "6%", "25%", "25%", "27%", "25%", "25%", "24%", "31%", "26%", "25%", "24%"],
+      "Net Profit": [2, 4, 4, 3, 5, 4, 10, 7, 11, 7, 6, 6, 10],
+      "EPS in Rs": [0.32, 0.85, 0.76, 0.68, 1.00, 0.82, 1.95, 1.30, 2.11, 1.47, 1.10, 1.15, 2.06]
+    },
+    "Annual Results": {
+      "Sales": [1, 2, 5, 11, 26, 32, 30, 27, 26, 39, 62, 72, 72],
+      "Expenses": [1, 1, 3, 6, 19, 21, 20, 16, 22, 23, 28, 28, 32],
+      "Operating Profit": [1, 1, 2, 6, 7, 10, 10, 11, 4, 17, 34, 43, 40],
+      "OPM %": ["51%", "60%", "46%", "50%", "28%", "33%", "34%", "41%", "15%", "42%", "56%", "60%", "56%"],
+      "Other Income": [0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 2, 2, 3],
+      "Interest": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [0, 0, 1, 1, 1, 2, 3, 3, 1, 4, 6, 4, 3],
+      "Profit before tax": [1, 1, 2, 5, 7, 10, 9, 11, 4, 15, 30, 41, 40],
+      "Tax %": ["31%", "32%", "33%", "34%", "32%", "30%", "28%", "26%", "28%", "26%", "25%", "26%", "26%"],
+      "Net Profit": [0, 1, 1, 3, 5, 7, 7, 8, 3, 11, 23, 30, 29],
+      "EPS in Rs": [4.75, 12.00, 1.33, 0.16, 0.99, 1.37, 1.31, 1.55, 0.62, 2.13, 4.46, 5.98, 5.78],
+      "Dividend Payout %": ["0%", "0%", "0%", "0%", "20%", "9%", "15%", "13%", "65%", "28%", "22%", "33%"]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [0.04, 0.04, 0.04, 1, 2, 2, 2, 2, 10, 10, 10, 10, 10],
+      "Reserves": [0, 1, 2, 5, 17, 23, 28, 35, 30, 37, 55, 76, 90],
+      "Borrowings": [0, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Other Liabilities": [0, 1, 1, 2, 3, 4, 4, 4, 4, 6, 8, 8, 11],
+      "Total Liabilities": [1, 2, 4, 10, 23, 29, 35, 41, 44, 52, 74, 94, 111],
+      "Fixed Assets": [0, 1, 1, 4, 1, 3, 4, 3, 1, 16, 13, 10, 9],
+      "CWIP": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Investments": [0, 0, 0, 0, 0, 0, 5, 5, 0, 0, 20, 25, 25],
+      "Other Assets": [1, 1, 3, 6, 20, 26, 26, 34, 42, 36, 41, 59, 77],
+      "Total Assets": [1, 2, 4, 10, 23, 29, 35, 41, 44, 52, 74, 94, 111]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [0, 1, 1, 3, 3, 2, -3, -2, 6, 21, 26, 20],
+      "Cash from Investing Activity": [-0, -1, -1, -3, -4, 4, -6, 2, -5, -14, -17, -10],
+      "Cash from Financing Activity": [0, 0, 0, 2, 7, -2, -2, -1, -0, -4, -4, -10],
+      "Net Cash Flow": [0, 0, 1, 2, 6, 4, -11, -1, 1, 3, 5, -1]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "40%",
+      "Compounded Sales Growth (5 Years)": "19%",
+      "Compounded Sales Growth (3 Years)": "41%",
+      "Compounded Sales Growth (TTM)": "2%",
+      "Compounded Profit Growth (10 Years)": "41%",
+      "Compounded Profit Growth (5 Years)": "35%",
+      "Compounded Profit Growth (3 Years)": "113%",
+      "Compounded Profit Growth (TTM)": "-6%",
+      "Stock Price CAGR (10 Years)": null, 
+      "Stock Price CAGR (5 Years)": "77%",
+      "Stock Price CAGR (3 Years)": "99%",
+      "Stock Price CAGR (1 Year)": "-41%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [46, 27, 13, 25, 12, 71, 78, 218, 203, 102, 84, 131],
+      "Inventory Days": [92, 34, 4, 12, 60, 121, 23, 31],
+      "Days Payable": [150, 37, 68, 105, 261, 606, 186, 103],
+      "Cash Conversion Cycle": [46, 27, 13, -33, 9, 6, -14, 17, 203, -383, -78, 59],
+      "Working Capital Days": [36, -5, 30, 41, 33, 99, 239, 387, 469, 231, 126, 206]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [268, 148, 75, 91, 52, 41, 35, 32, 11, 34, 54, 55],
+      "ROE (10 Years)": "31%",
+      "ROE (5 Years)": "30%",
+      "ROE (3 Years)": "37%",
+      "ROE (Last Year)": "40%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "12.6",
+      "Price to Book": "Not explicitly stated"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Vantage Knowledg", "CMP": "232.15", "P/E": "1289.00", "Mar Cap": "2642.45", "Div Yld": "0.00", "NP Qtr": "0.86", "Qtr Profit Var": "207.14", "Sales Qtr": "1.17", "Qtr Sales Var": "67.14", "ROCE": "20.51"},
+      {"Name": "Shanti Educat.", "CMP": "162.75", "P/E": "534.75", "Mar Cap": "2620.28", "Div Yld": "0.00", "NP Qtr": "2.70", "Qtr Profit Var": "92.86", "Sales Qtr": "6.29", "Qtr Sales Var": "116.15", "ROCE": "7.43"},
+      {"Name": "Veranda Learning", "CMP": "242.73", "P/E": "1732.67", "Mar Cap": "0.00", "Div Yld": "-30.37", "NP Qtr": "-1866.67", "Sales Qtr": "138.62", "Qtr Sales Var": "40.92", "ROCE": "-0.33"},
+      {"Name": "Lucent Industrie", "CMP": "564.15", "P/E": "846.23", "Mar Cap": "0.00", "Div Yld": "-0.13", "NP Qtr": "-1200.00", "Sales Qtr": "0.00", "Qtr Sales Var": "-0.64"},
+      {"Name": "Career Point", "CMP": "394.80", "P/E": "11.57", "Mar Cap": "718.26", "Div Yld": "0.76", "NP Qtr": "12.94", "Qtr Profit Var": "12.15", "Sales Qtr": "26.41", "Qtr Sales Var": "29.21", "ROCE": "13.36"},
+      {"Name": "CL Educate", "CMP": "118.74", "P/E": "60.55", "Mar Cap": "642.36", "Div Yld": "0.00", "NP Qtr": "3.38", "Qtr Profit Var": "-38.32", "Sales Qtr": "98.68", "Qtr Sales Var": "10.83", "ROCE": "7.62"},
+      {"Name": "Addictive Learn", "CMP": "374.50", "P/E": "68.88", "Mar Cap": "595.82", "Div Yld": "0.00", "NP Qtr": "5.86", "Qtr Profit Var": "40.88", "Sales Qtr": "32.00", "Qtr Sales Var": "40.13", "ROCE": "8"},
+      {"Name": "Global Education", "CMP": "73.02", "P/E": "12.63", "Mar Cap": "371.68", "Div Yld": "2.74", "NP Qtr": "10.46", "Qtr Profit Var": "-2.61", "Sales Qtr": "23.39", "Qtr Sales Var": "2.36", "ROCE": "54.60"}
+    ],
+    "Median": {
+      "CMP": "197.43",
+      "P/E": "59.09",
+      "Mar Cap": "520.08",
+      "Div Yld": "0.0",
+      "NP Qtr": "1.31",
+      "Qtr Profit Var": "-14.27",
+      "Sales Qtr": "14.29",
+      "Qtr Sales Var": "30.61",
+      "ROCE": "10.38"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 35.5% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 36.6%",
+      "Company has been maintaining a healthy dividend payout of 28.0%"
+    ],
+    "Cons": [
+      "Debtor days have increased from 106 to 131 days.",
+      "Promoter holding has decreased over last 3 years: -4.01%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and your own analysis.",
+    "Notes on Shareholding Pattern": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": [
+    {"Date": "29 November 2024", "Title": "Acquisition of Equity Shares in Rishiraj Infravision Private Limited.", "Type": "Acquisition-XBRL"},
+    {"Date": "29 November 2024", "Title": "Acquisition Corrigendum", "Type": "Corrigendum"},
+    {"Date": "20 November 2024", "Title": "Corrigendum to a typographical error while mentioning the Purpose of the Record Date (Purpose)", "Type": "Record Date"},
+    {"Date": "20 November 2024", "Title": "Record date for the purpose of Split/Subdivision is 10-Dec-2024.", "Type": "Outcome of Board Meeting"},
+    {"Date": "20 November 2024", "Title": "Board meeting held on November 20, 2024.", "Type": "Annual reports"}
+  ]
+}

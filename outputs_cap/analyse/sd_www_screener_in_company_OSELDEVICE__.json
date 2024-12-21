@@ -1,0 +1,216 @@
+
+{
+  "Company Overview": {
+    "Name": "OSEL Devices Ltd",
+    "Sector": "Consumer Durables",
+    "Industry": "Electronics - Consumer",
+    "Business Description": "Founded in 2006, Osel Devices Limited manufactures LED display systems and hearing aids.",
+    "MarketPosition": "Information not explicitly provided, but peer comparison data is available."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 347 Cr.",
+    "CurrentPrice": "₹ 215",
+    "High/Low": "₹ 242 / ₹ 170",
+    "StockPE": 26.6,
+    "BookValue": "₹ 65.8",
+    "DividendYield": "0.00 %",
+    "ROCE": "54.2 %",
+    "ROE": "69.4 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Not explicitly provided, but can be inferred from Balance Sheet data." 
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sep 2024": {
+        "Sales": "₹ 87 Cr.",
+        "Expenses": "₹ 74 Cr.",
+        "OperatingProfit": "₹ 13 Cr.",
+        "OPM%": "15%",
+        "NetProfit": "₹ 8 Cr.",
+        "EPS": "₹ 4.97"
+      }
+    },
+    "AnnualResults": {
+      "Mar 2021": {
+        "Sales": "₹ 57 Cr.",
+        "NetProfit": "₹ 1 Cr.",
+        "EPS": "₹ 9.99"
+      },
+      "Mar 2022": {
+        "Sales": "₹ 65 Cr.",
+        "NetProfit": "₹ 2 Cr.",
+        "EPS": "₹ 11.39"
+      },
+      "Mar 2023": {
+        "Sales": "₹ 82 Cr.",
+        "NetProfit": "₹ 5 Cr.",
+        "EPS": "₹ 25.04"
+      },
+      "Mar 2024": {
+        "Sales": "₹ 132 Cr.",
+        "NetProfit": "₹ 13 Cr.",
+        "EPS": "₹ 11.31"
+      }
+    },
+    "ProfitAndLossTrends": {
+      "CompoundedSalesGrowth": {
+        "3Years": "32%",
+        "TTM": "61%"
+      },
+      "CompoundedProfitGrowth": {
+        "3Years": "113%",
+        "TTM": "180%"
+      }
+    },
+    "BalanceSheetHighlights": {
+      "Mar 2021": {
+        "TotalAssets": "₹ 23 Cr.",
+        "TotalLiabilities": "₹ 23 Cr."
+      },
+      "Mar 2022": {
+        "TotalAssets": "₹ 33 Cr.",
+        "TotalLiabilities": "₹ 33 Cr."
+      },
+      "Mar 2023": {
+        "TotalAssets": "₹ 49 Cr.",
+        "TotalLiabilities": "₹ 49 Cr."
+      },
+      "Mar 2024": {
+        "TotalAssets": "₹ 99 Cr.",
+        "TotalLiabilities": "₹ 99 Cr."
+      },
+      "Sep 2024": {
+        "TotalAssets": "₹ 240 Cr.",
+        "TotalLiabilities": "₹ 240 Cr."
+      }
+    },
+    "CashFlowSummaries": {
+      "Mar 2021": {"NetCashFlow": "₹ 2 Cr."},
+      "Mar 2022": {"NetCashFlow": "₹ 1 Cr."},
+      "Mar 2023": {"NetCashFlow": "-₹ 4 Cr."},
+      "Mar 2024": {"NetCashFlow": "₹ 4 Cr."}
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "3Years": "32%",
+        "TTM": "61%"
+      },
+      "CompoundedProfitGrowth": {
+        "3Years": "113%",
+        "TTM": "180%"
+      },
+      "StockPriceCAGR": {
+        "3Years": "Not Available"
+      },
+      "ROE": {
+        "3Years": "57%",
+        "LastYear": "69%"
+      }
+    },
+    "LiquidityRatios": {
+      "CurrentRatio": "Not explicitly provided, but can be inferred from Balance Sheet data."
+    },
+    "ProfitabilityRatios": {
+      "ROCE": {
+        "Mar 2021": "26%",
+        "Mar 2022": "35%",
+        "Mar 2023": "54%",
+        "Mar 2024": "Not Available"
+      },
+      "ROE": {
+        "3Years": "57%",
+        "LastYear": "69%"
+      },
+      "OPM": {
+        "Mar 2021": "5%",
+        "Mar 2022": "7%",
+        "Mar 2023": "11%",
+        "Mar 2024": "17%",
+        "Sep 2024": "15%"
+      }
+    },
+    "ValuationRatios": {
+      "PE": 26.6,
+      "PriceToBook": "Not explicitly provided, but can be calculated from Current Price and Book Value."
+    },
+    "TurnoverRatios": {
+      "DebtorDays": {
+        "Mar 2021": 45,
+        "Mar 2022": 63,
+        "Mar 2023": 57,
+        "Mar 2024": 73
+      },
+      "InventoryDays": {
+        "Mar 2021": 28,
+        "Mar 2022": 63,
+        "Mar 2023": 94,
+        "Mar 2024": 90
+      },
+      "DaysPayable": {
+        "Mar 2021": 37,
+        "Mar 2022": 94,
+        "Mar 2023": 84,
+        "Mar 2024": 128
+      },
+      "CashConversionCycle": {
+        "Mar 2021": 36,
+        "Mar 2022": 33,
+        "Mar 2023": 67,
+        "Mar 2024": 35
+      },
+      "WorkingCapitalDays": {
+        "Mar 2021": 31,
+        "Mar 2022": 33,
+        "Mar 2023": 102,
+        "Mar 2024": 78
+      }
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Dixon Technolog.", "CMP": 17944.90, "PE": 192.28, "MarCap": 107797.21, "DivYld": 0.03, "NPQtr": 411.70, "QtrProfitVar": 119.30, "SalesQtr": 11534.08, "QtrSalesVar": 133.33, "ROCE": 29.16},
+      {"Name": "MIRC Electronics", "CMP": 23.18, "PE": 535.35, "MarCap": 0.00, "DivYld": 0.00, "NPQtr": 1.35, "QtrProfitVar": 121.00, "SalesQtr": 151.37, "QtrSalesVar": -21.66, "ROCE": -19.92},
+      {"Name": "OSEL Devices", "CMP": 215.35, "PE": 26.62, "MarCap": 347.34, "DivYld": 0.00, "NPQtr": 8.01, "QtrProfitVar": 87.35, "SalesQtr": 72.32, "QtrSalesVar": 54.21, "ROCE": 54.21},
+      {"Name": "Arham Tech", "CMP": 153.00, "PE": 46.39, "MarCap": 258.88, "DivYld": 0.00, "NPQtr": 2.41, "QtrProfitVar": 32.08, "SalesQtr": 18.46, "QtrSalesVar": 22.14, "ROCE": 22.14},
+      {"Name": "Prizor Viztech", "CMP": 180.35, "PE": 34.62, "MarCap": 192.82, "DivYld": 0.00, "NPQtr": 4.28, "QtrProfitVar": 31.03, "SalesQtr": 418.90, "QtrSalesVar": 72.24, "ROCE": 72.24}
+    ],
+    "Median": {
+      "CMP": 180.35,
+      "PE": 40.5,
+      "MarCap": 347.34,
+      "DivYld": 0.0,
+      "NPQtr": 4.28,
+      "QtrProfitVar": 120.15,
+      "SalesQtr": 87.35,
+      "QtrSalesVar": 72.32,
+      "ROCE": 29.16
+    }
+  },
+  "OtherInsights": {
+    "Pros": "Company has a good return on equity (ROE) track record: 3 Years ROE 56.5%",
+    "Cons": "Though the company is reporting repeated profits, it is not paying out dividend",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPattern": {
+      "Sep 2024": {
+        "Promoters": "71.53%",
+        "FIIs": "4.13%",
+        "DIIs": "5.88%",
+        "Public": "18.46%",
+        "NoofShareholders": 1525
+      }
+    },
+    "NotesOnShareholdingData": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": [
+    {"Title": "Reply to Clarification- Financial results", "Date": "20 December 2024"},
+    {"Title": "Press Release", "Date": "17 December 2024"},
+    {"Title": "Clarification - Financial Results", "Date": "13 December 2024"},
+    {"Title": "Voluntary Revision of Financial statements or Report", "Date": "18 November 2024"},
+    {"Title": "Financial Result Updates", "Date": "13 November 2024"}
+  ],
+  "CreditRatings": {
+    "RatingUpdate": "31 Aug from crisil"
+  }
+}

@@ -1,0 +1,162 @@
+
+{
+  "Company Overview": {
+    "Name": "Tuticorin Alkali Chemicals & Fertilizers Ltd",
+    "Sector": "Chemicals",
+    "Industry": "Chlor Alkali / Soda Ash",
+    "Business Description": "Manufactures and sells Soda Ash and Ammonium Chloride Fertilizer. ISO 9001:2008 and BIS certified producer of all grades of Soda Ash and co-produces Ammonium Chloride Fertilizer.",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,138 Cr.",
+    "Current Price": "₹ 93.4",
+    "High / Low": "₹ 117 / ₹ 68.0",
+    "Stock P/E": "18.3",
+    "Book Value": "₹ 10.6",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "146 %",
+    "ROE": "166 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly available in provided HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [28, 50, 80, 111, 119, 148, 134, 99, 90, 76, 56, 72, 74],
+      "Expenses": [45, 62, 69, 97, 97, 129, 106, 78, 70, 55, 41, 60, 61],
+      "Operating Profit": [-18, -12, 11, 15, 22, 19, 28, 20, 19, 21, 15, 13, 14],
+      "OPM %": [-64, -25, 14, 13, 19, 13, 21, 21, 22, 28, 26, 17, 19],
+      "Other Income": [1, 0, 5, 1, 0, 0, 0, 0, 1, 0, -3, 25, 2],
+      "Interest": [1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1],
+      "Depreciation": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2],
+      "Profit before tax": [-18, -13, 15, 14, 21, 18, 26, 19, 19, 19, 9, 36, 13],
+      "Tax %": [0, 0, 0, 0, 0, 0, -86, 0, 0, 0, -33, -1, -4],
+      "Net Profit": [-18, -13, 15, 14, 21, 18, 48, 19, 19, 19, 12, 36, 14],
+      "EPS in Rs": [-1.50, -1.09, 1.20, 1.19, 1.69, 1.44, 3.98, 1.59, 1.57, 1.57, 0.98, 2.97, 1.14]
+    },
+    "Annual Results": {
+      "Sales": [156, 26, 132, 157, 133, 134, 175, 157, 66, 175, 511, 320, 279],
+      "Expenses": [168, 44, 146, 173, 163, 173, 208, 178, 121, 209, 427, 245, 217],
+      "Operating Profit": [-12, -18, -14, -16, -31, -40, -33, -21, -55, -35, 84, 75, 62],
+      "OPM %": [-8, -69, -10, -10, -23, -30, -19, -14, -83, -20, 16, 24, 22],
+      "Other Income": [3, 1, 7, 57, 1, 1, 1, 3, 2, 6, 2, -2, 24],
+      "Interest": [8, 10, 8, 5, 3, 3, 2, 2, 2, 2, 3, 3, 4],
+      "Depreciation": [5, 4, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 5],
+      "Profit before tax": [-21, -30, -17, 34, -35, -44, -38, -24, -58, -34, 79, 67, 77],
+      "Tax %": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, -28, -4, 0],
+      "Net Profit": [-21, -30, -17, 34, -35, -45, -38, -24, -58, -34, 101, 70, 81],
+      "EPS in Rs": [-14.31, -20.47, -11.57, 22.74, -23.82, -30.25, -25.62, -1.94, -4.76, -2.79, 8.30, 5.71, 6.66]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [15, 15, 15, 15, 15, 15, 122, 122, 122, 122, 122, 122, 122],
+      "Reserves": [-144, -175, -192, -158, -213, -259, -296, -320, -378, -412, -112, -43, 7],
+      "Borrowings": [111, 118, 109, 40, 119, 121, 8, 8, 6, 6, 4, 8, 67],
+      "Other Liabilities": [102, 123, 155, 205, 188, 249, 288, 323, 358, 428, 525, 330, 293],
+      "Total Liabilities": [84, 81, 86, 102, 109, 126, 122, 133, 108, 144, 538, 417, 489],
+      "Fixed Assets": [32, 28, 26, 27, 54, 62, 62, 59, 56, 60, 302, 308, 307],
+      "CWIP": [1, 1, 1, 6, 7, 3, 0, 0, 2, 4, 5, 12, 21],
+      "Investments": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Other Assets": [51, 53, 60, 69, 48, 61, 59, 74, 49, 81, 231, 97, 161],
+      "Total Assets": [84, 81, 86, 102, 109, 126, 122, 133, 108, 144, 538, 417, 489]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [0, -3, 16, 40, 31, 8, 9, 3, 6, 9, 14, 13],
+      "Cash from Investing Activity": [0, 0, 1, -8, -30, -7, -1, 0, -3, -8, -10, -15],
+      "Cash from Financing Activity": [0, 3, -17, -32, -1, -2, -8, -2, -4, -1, -5, 2],
+      "Net Cash Flow": [0, 0, 0, 0, 0, 0, 0, 1, -1, 1, -1, 0]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "29%",
+      "Compounded Sales Growth (5 Years)": "13%",
+      "Compounded Sales Growth (3 Years)": "69%",
+      "Compounded Sales Growth (TTM)": "-41%",
+      "Compounded Profit Growth (10 Years)": "16%",
+      "Compounded Profit Growth (5 Years)": "32%",
+      "Compounded Profit Growth (3 Years)": "48%",
+      "Compounded Profit Growth (TTM)": "-40%",
+      "Stock Price CAGR (10 Years)": "36%",
+      "Stock Price CAGR (5 Years)": "84%",
+      "Stock Price CAGR (3 Years)": "46%",
+      "Stock Price CAGR (1 Year)": "-7%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [17, 99, 25, 43, 11, 59, 47, 87, 73, 19, 124, 28],
+      "Inventory Days": [83, 494, 143, 178, 182, 184, 107, 123, 142, 196, 54, 129],
+      "Days Payable": [199, 1208, 238, 429, 870, 1401, 997, 1322, 1929, 639, 218, 257],
+      "Cash Conversion Cycle": [-99, -615, -71, -209, -677, -1158, -844, -1112, -1714, -423, -39, -100],
+      "Working Capital Days": [-288, -2027, -444, -322, -410, -536, -496, -606, -1764, -374, -18, -68]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [146]
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Information not explicitly available, but implied by the Price to Book ratio calculation in the 'Cons' section."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Epigral", "CMP": "1966.05", "P/E": "29.00", "Mar Cap": "8481.80", "Div Yld": "0.25", "NP Qtr": "80.53", "Qtr Profit Var": "111.20", "Sales Qtr": "626.06", "Qtr Sales Var": "30.93", "ROCE": "17.49"},
+      {"Name": "Gujarat Alkalies", "CMP": "743.85", "P/E": null, "Mar Cap": "5462.83", "Div Yld": "0.00", "NP Qtr": null, "Qtr Profit Var": "-18.18", "Sales Qtr": "1.03", "Qtr Sales Var": "2.00", "ROCE": "-3.83"},
+      {"Name": "Andhra Sugars", "CMP": "94.08", "P/E": "22.46", "Mar Cap": "1275.12", "Div Yld": "1.06", "NP Qtr": "5.03", "Qtr Profit Var": "-76.35", "Sales Qtr": "528.42", "Qtr Sales Var": "2.03", "ROCE": "5.34"},
+      {"Name": "Tuticorin Alkali", "CMP": "93.41", "P/E": "18.27", "Mar Cap": "1138.07", "Div Yld": "0.00", "NP Qtr": "13.87", "Qtr Profit Var": "-27.27", "Sales Qtr": "74.42", "Qtr Sales Var": "-16.92", "ROCE": "146.32"},
+      {"Name": "TGV Sraac", "CMP": "104.55", "P/E": "20.97", "Mar Cap": "1119.62", "Div Yld": "0.96", "NP Qtr": "32.90", "Qtr Profit Var": "960.45", "Sales Qtr": "428.06", "Qtr Sales Var": "18.79", "ROCE": "5.12"},
+      {"Name": "Primo Chemicals", "CMP": "38.12", "P/E": null, "Mar Cap": "923.81", "Div Yld": "0.00", "NP Qtr": "13.26", "Qtr Profit Var": "197.72", "Sales Qtr": "134.36", "Qtr Sales Var": "44.16", "ROCE": "-2.47"},
+      {"Name": "Lords Chloro", "CMP": "167.08", "P/E": null, "Mar Cap": "420.21", "Div Yld": "0.00", "NP Qtr": "0.36", "Qtr Profit Var": "129.51", "Sales Qtr": "60.62", "Qtr Sales Var": "25.98", "ROCE": "-2.62"}
+    ],
+    "Median": {
+      "CMP": "104.55",
+      "P/E": "21.71",
+      "Mar Cap": "1138.07",
+      "Div Yld": "0.0",
+      "NP Qtr": "13.26",
+      "Qtr Profit Var": "111.2",
+      "Sales Qtr": "428.06",
+      "Qtr Sales Var": "18.79",
+      "ROCE": "5.12"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 31.6% CAGR over last 5 years",
+      "Debtor days have improved from 57.1 to 27.9 days."
+    ],
+    "Cons": [
+      "Stock is trading at 8.82 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Tax rate seems low",
+      "Earnings include an other income of Rs.24.2 Cr."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "18 Dec", "Title": "Intimation of duplicate share certificate issuance."},
+      {"Date": "14 Dec", "Title": "Intimation of duplicate share certificate issuance."},
+      {"Date": "11 Dec", "Title": "Intimation of duplicate share certificate issuance."},
+      {"Date": "30 Nov", "Title": "Intimation of duplicate share certificate issuance."},
+      {"Date": "30 Nov", "Title": "Revised scrutinizer report of the 51st AGM submitted."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "bse"},
+      {"Year": 2010, "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "20 Dec 2023", "Source": "fitch"}
+    ]
+  }
+}

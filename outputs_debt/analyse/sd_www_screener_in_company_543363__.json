@@ -1,0 +1,148 @@
+
+{
+  "Company Overview": {
+    "Name": "Prevest Denpro Ltd",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare",
+    "Business Description": "Incorporated in 2000, Prevest DenPro Limited is into development and manufacturing of dental materials used for diagnosis, prevention and treatment of dental conditions. Company is heavily export-oriented.",
+    "Market Position": "Leading manufacturer of high-quality 3D printing resins designed for fabrication of dental crowns, bridges, inlays, onlays, and veneers."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 687 Cr.",
+    "Current Price": "₹ 572",
+    "High/Low": "₹ 673 / ₹ 332",
+    "P/E Ratio": "40.9",
+    "Book Value": "₹ 79.9",
+    "Dividend Yield": "0.17 %",
+    "ROCE": "26.8 %",
+    "ROE": "20.0 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but mentioned as 'almost debt free'"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Available but detailed data needs further extraction from tables"
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Sales": [11.41, 9.33, 12.37, 11.45, 12.27, 13.77, 13.39, 13.18, 13.62, 16.24, 13.34, 16.26],
+        "Expenses": [6.52, 6.42, 7.80, 7.00, 7.30, 8.16, 8.43, 8.68, 9.15, 10.36, 8.85, 10.45],
+        "Operating Profit": [4.89, 2.91, 4.57, 4.45, 4.97, 5.61, 4.96, 4.50, 4.47, 5.88, 4.49, 5.81],
+        "OPM %": ["42.86%", "31.19%", "36.94%", "38.86%", "40.51%", "40.74%", "37.04%", "34.14%", "32.82%", "36.21%", "33.66%", "35.73%"],
+        "Other Income": [0.38, 0.86, 0.62, 0.58, 0.50, 0.33, 0.61, 0.74, 0.68, 0.84, 0.86, 1.07],
+        "Interest": [0.02, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00],
+        "Depreciation": [0.13, 0.15, 0.15, 0.19, 0.18, 0.16, 0.17, 0.22, 0.42, 0.46, 0.48, 0.47],
+        "Profit before tax": [5.12, 3.62, 5.04, 4.84, 5.29, 5.78, 5.40, 5.02, 4.73, 6.26, 4.87, 6.41],
+        "Tax %": ["26.76%", "32.04%", "27.18%", "31.20%", "31.95%", "11.76%", "24.26%", "25.70%", "23.26%", "25.56%", "25.26%", "24.49%"],
+        "Net Profit": [3.75, 2.46, 3.68, 3.33, 3.59, 5.11, 4.08, 3.74, 3.64, 4.66, 3.65, 4.84],
+        "EPS in Rs": [3.12, 2.05, 3.07, 2.77, 2.99, 4.26, 3.40, 3.12, 3.03, 3.88, 3.04, 4.03]
+      },
+      "Annual": {
+        "Sales": [19, 23, 28, 38, 50, 56, 59],
+        "Expenses": [15, 17, 19, 23, 30, 36, 39],
+        "Operating Profit": [4, 5, 9, 15, 20, 20, 21],
+        "OPM %": ["20%", "23%", "32%", "40%", "40%", "36%", "35%"],
+        "Other Income": [0, 2, 1, 2, 2, 3, 3],
+        "Interest": [0, 0, 0, 0, 0, 0, 0],
+        "Depreciation": [0, 0, 0, 1, 1, 1, 2],
+        "Profit before tax": [4, 6, 9, 16, 21, 21, 22],
+        "Tax %": ["20%", "20%", "23%", "28%", "25%", "25%", "25%"],
+        "Net Profit": [3, 5, 7, 12, 16, 16, 17],
+        "EPS in Rs": ["1,049.12", "1,757.89", "252.98", "9.64", "13.09", "13.43", "13.98"]
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Available but detailed data needs further extraction from tables"
+    },
+    "Cash Flow": {
+      "Note": "Available but detailed data needs further extraction from tables"
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "%",
+        "5 Years": "24%",
+        "3 Years": "26%",
+        "TTM": "13%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "%",
+        "5 Years": "40%",
+        "3 Years": "31%",
+        "TTM": "2%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "%",
+        "5 Years": "%",
+        "3 Years": "22%",
+        "1 Year": "36%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Note": "Not explicitly provided, needs calculation from Balance Sheet data"
+    },
+    "Profitability Ratios": {
+      "ROE": {
+        "10 Years": "%",
+        "5 Years": "26%",
+        "3 Years": "23%",
+        "Last Year": "20%"
+      },
+      "ROCE": {
+        "Note": "Available in multiple years, needs extraction from table"
+      }
+    },
+    "Valuation Ratios": {
+      "Note": "Price to Book ratio is mentioned (7.16 times), others need extraction"
+    },
+    "Other Ratios": {
+      "Debtor Days": [46, 35, 48, 22, 31, 53],
+      "Inventory Days": [28, 59, 59, 122, 139, 162],
+      "Days Payable": [70, 72, 181, 61, 40, 34],
+      "Cash Conversion Cycle": [4, 22, -74, 83, 130, 181],
+      "Working Capital Days": [10, 20, 3, 41, 64, 80]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Max Healthcare", "CMP": "1165.20", "P/E": "106.97", "Mar Cap": "113272.83", "Div Yld": "0.13", "NP Qtr": "281.81", "Qtr Profit Var": "1.85", "Sales Qtr": "1707.46", "Qtr Sales Var": "25.26", "ROCE": "16.00"},
+      {"Name": "Apollo Hospitals", "CMP": "7251.70", "P/E": "88.13", "Mar Cap": "104268.32", "Div Yld": "0.22", "NP Qtr": "395.70", "Qtr Profit Var": "63.46", "Sales Qtr": "5589.30", "Qtr Sales Var": "15.32", "ROCE": "15.11"},
+      {"Name": "Fortis Health.", "CMP": "677.85", "P/E": "74.39", "Mar Cap": "51174.84", "Div Yld": "0.15", "NP Qtr": "193.08", "Qtr Profit Var": "26.85", "Sales Qtr": "1988.39", "Qtr Sales Var": "12.34", "ROCE": "10.34"},
+      {"Name": "Global Health", "CMP": "1098.60", "P/E": "60.47", "Mar Cap": "29507.01", "Div Yld": "0.00", "NP Qtr": "130.81", "Qtr Profit Var": "4.51", "Sales Qtr": "956.56", "Qtr Sales Var": "13.34", "ROCE": "19.32"},
+      {"Name": "Narayana Hrudaya", "CMP": "1288.10", "P/E": "33.80", "Mar Cap": "26323.72", "Div Yld": "0.31", "NP Qtr": "198.80", "Qtr Profit Var": "-12.34", "Sales Qtr": "1400.01", "Qtr Sales Var": "7.26", "ROCE": "26.54"},
+      {"Name": "Poly Medicure", "CMP": "2595.75", "P/E": "89.20", "Mar Cap": "26301.62", "Div Yld": "0.12", "NP Qtr": "87.45", "Qtr Profit Var": "40.62", "Sales Qtr": "420.02", "Qtr Sales Var": "24.53", "ROCE": "23.62"},
+      {"Name": "Dr Lal Pathlabs", "CMP": "2946.25", "P/E": "61.35", "Mar Cap": "24625.42", "Div Yld": "0.81", "NP Qtr": "130.80", "Qtr Profit Var": "18.21", "Sales Qtr": "660.20", "Qtr Sales Var": "9.80", "ROCE": "25.17"},
+      {"Name": "Prevest Denpro", "CMP": "572.25", "P/E": "40.91", "Mar Cap": "686.87", "Div Yld": "0.17", "NP Qtr": "4.84", "Qtr Profit Var": "29.41", "Sales Qtr": "16.26", "Qtr Sales Var": "23.37", "ROCE": "26.79"}
+    ],
+    "Median": {
+      "CMP": "572.25",
+      "P/E": "60.91",
+      "Mar Cap": "4461.75",
+      "Div Yld": "0.13",
+      "NP Qtr": "21.97",
+      "Qtr Profit Var": "25.87",
+      "Sales Qtr": "182.95",
+      "Qtr Sales Var": "14.06",
+      "ROCE": "18.72"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 40.1% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 23.4%"
+    ],
+    "Cons": [
+      "Stock is trading at 7.16 times its book value",
+      "Debtor days have increased from 35.5 to 52.8 days."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern": {
+      "Note": "Available but detailed data needs further extraction from tables.  Data might be affected by changes in XBRL format from Sep'2022."
+    },
+    "Documents": {
+      "Note": "Several announcements and documents are listed, but content needs further extraction."
+    }
+  }
+}

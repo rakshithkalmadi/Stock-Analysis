@@ -1,0 +1,149 @@
+
+{
+  "Company Overview": {
+    "Name": "Vedavaag Systems Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Incorporated in 1998, Vedavaag Systems Ltd provides IT Sales & Services like Governance & Citizen Services, Banking, Finance and Insurance Services. VSL is certified under ISO 9001:2015 and ISO 27001:2013. It started off as an e-governance company and transited to citizen services delivery management that includes financial inclusion, e-governance solutions, cloud-enabled IOT-based AI & ML solutions, Retail and logistics, Fintech, Health care, online education services, and rural citizen services in partnership with various Nodal Agencies and Public Sector Undertakings like SBI, SCR, ITI, BEL, BSNL, ECIL, UTIITSL, etc across 18 states in India.",
+    "Market Position": "Information not explicitly provided, but peer comparison data is available."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 206 Cr.",
+    "Current Price": "₹ 66.7",
+    "High / Low": "₹ 83.5 / ₹ 44.1",
+    "Stock P/E": "25.5",
+    "Book Value": "₹ 60.3",
+    "Dividend Yield": "1.12 %",
+    "ROCE": "7.58 %",
+    "ROE": "6.05 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly provided." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [22.22, 22.44, 28.70, 23.07, 24.10, 17.91, 19.93, 16.77, 31.13, 15.84, 22.97, 22.29, 25.04],
+      "Expenses": [17.97, 17.96, 24.53, 18.41, 19.81, 14.43, 16.04, 14.00, 24.59, 13.46, 17.96, 18.95, 20.72],
+      "Operating Profit": [4.25, 4.48, 4.17, 4.66, 4.29, 3.48, 3.89, 2.77, 6.54, 2.38, 5.01, 3.34, 4.32],
+      "OPM %": ["19.13%", "19.96%", "14.53%", "20.20%", "17.80%", "19.43%", "19.52%", "16.52%", "21.01%", "15.03%", "21.81%", "14.98%", "17.25%"],
+      "Other Income": [0.01, 0.06, 0.03, 0.01, 0.01, -0.00, 0.14, -0.00, -0.00, -0.00, 0.08, -0.00, -0.00],
+      "Interest": [0.01, 0.01, 0.09, 0.01, 0.01, -0.00, 0.01, -0.00, 0.01, -0.00, 0.19, 0.12, 0.12],
+      "Depreciation": [1.18, 1.18, 2.41, 1.42, 1.43, 1.42, 2.03, 0.80, 2.53, 0.94, 2.41, 0.52, 0.54],
+      "Profit before tax": [3.07, 3.35, 1.70, 3.24, 2.86, 2.06, 1.99, 1.97, 4.00, 1.44, 2.49, 2.70, 3.66],
+      "Tax %": ["21.82%", "25.67%", "35.88%", "24.38%", "17.13%", "21.36%", "41.71%", "24.87%", "21.75%", "23.61%", "12.45%", "24.81%", "25.41%"],
+      "Net Profit": [2.41, 2.49, 1.09, 2.45, 2.37, 1.62, 1.14, 1.47, 3.13, 1.11, 2.19, 2.03, 2.74],
+      "EPS in Rs": [1.05, 1.09, 0.48, 1.07, 1.03, 0.71, 0.50, 0.64, 1.37, 0.48, 0.96, 0.89, 1.20]
+    },
+    "Annual Results": {
+      "Sales": [81.83, 100.48, 91.70, 77.34, 76.20, 70.58, 94.81, 85.00, 96.06, 86.14],
+      "Expenses": [69.90, 84.21, 66.43, 60.70, 62.26, 55.62, 77.72, 68.65, 79.35, 71.09],
+      "Operating Profit": [11.93, 16.27, 25.27, 16.64, 13.94, 14.96, 17.09, 16.35, 16.71, 15.05],
+      "OPM %": ["14.58%", "16.19%", "27.56%", "21.52%", "18.29%", "21.20%", "18.03%", "19.24%", "17.40%", "17.47%"],
+      "Other Income": [1.75, 1.15, 0.40, 0.90, 0.28, 0.55, 0.10, 0.15, 0.09, 0.08],
+      "Interest": [0.07, 0.04, 0.06, 0.19, 0.17, 0.08, 0.13, 0.06, 0.22, 0.43],
+      "Depreciation": [7.30, 3.24, 4.06, 4.56, 5.71, 5.76, 5.93, 6.30, 6.68, 4.41],
+      "Profit before tax": [6.31, 14.14, 21.55, 12.79, 8.34, 9.67, 11.13, 10.14, 9.90, 10.29],
+      "Tax %": ["14.90%", "27.37%", "30.49%", "21.89%", "25.18%", "27.51%", "25.43%", "25.25%", "20.30%", "N/A"],
+      "Net Profit": [5.38, 10.26, 14.99, 9.99, 6.25, 7.00, 8.30, 7.58, 7.89, 8.07],
+      "EPS in Rs": [3.81, 7.20, 9.41, 4.36, 2.73, 3.05, 3.62, 3.31, 3.44, 3.53]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [14.13, 14.25, 15.94, 22.93, 22.93, 22.93, 22.93, 22.93, 22.93, 22.93],
+      "Reserves": [24.55, 43.92, 62.08, 82.76, 86.72, 92.33, 98.50, 104.26, 110.56, 115.21],
+      "Borrowings": [-0.00, 0.08, 5.08, 0.50, 5.41, 4.64, 4.90, 3.96, 2.36, 3.52],
+      "Other Liabilities": [38.59, 37.60, 34.98, 20.24, 17.88, 18.45, 20.01, 25.71, 31.07, 30.46],
+      "Total Liabilities": [77.27, 95.85, 118.08, 126.43, 132.94, 138.35, 146.34, 156.86, 166.92, 172.12],
+      "Fixed Assets": [13.14, 26.11, 32.37, 31.03, 36.66, 36.52, 31.21, 31.87, 25.10, 27.75],
+      "CWIP": [-0.00, -0.00, -0.00, 7.87, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00],
+      "Investments": [-0.00, -0.00, -0.00, -0.00, -0.00, 0.01, 0.01, 0.01, 0.01, 0.01],
+      "Other Assets": [64.13, 69.74, 85.71, 87.53, 96.28, 101.82, 115.12, 124.98, 141.81, 144.36],
+      "Total Assets": [77.27, 95.85, 118.08, 126.43, 132.94, 138.35, 146.34, 156.86, 166.92, 172.12]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [0.71, 8.97, -6.98, -8.39, 4.13, 8.27, 2.62, 9.59, 4.76],
+      "Cash from Investing Activity": [1.50, -16.16, -10.26, -10.98, -11.27, -5.55, -0.56, -6.84, 0.16],
+      "Cash from Financing Activity": [0.40, 9.88, 11.19, 20.40, 6.22, -2.29, -1.94, -2.67, -4.13],
+      "Net Cash Flow": [2.61, 2.69, -6.05, 1.03, -0.92, 0.42, 0.13, 0.07, 0.80]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "Information not explicitly provided.",
+      "Compounded Sales Growth (5 Years)": "4%",
+      "Compounded Sales Growth (3 Years)": "11%",
+      "Compounded Sales Growth (TTM)": "0%",
+      "Compounded Profit Growth (10 Years)": "Information not explicitly provided.",
+      "Compounded Profit Growth (5 Years)": "-5%",
+      "Compounded Profit Growth (3 Years)": "4%",
+      "Compounded Profit Growth (TTM)": "10%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [110.80, 106.29, 225.29, 195.90, 104.71, 59.78, 80.54, 122.43, 121.06],
+      "Inventory Days": [110.23, 152.04, "Information not explicitly provided for other years."],
+      "Days Payable": [192.78, 218.43, "Information not explicitly provided for other years."],
+      "Cash Conversion Cycle": [28.25, 39.89, 225.29, 195.90, 104.71, 59.78, 80.54, 122.43, 121.06],
+      "Working Capital Days": [105.53, 97.50, 215.74, 334.13, 287.50, 292.29, 308.41, 365.73, 370.93]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [29.26, 30.58, 13.71, 7.69, 8.30, 9.15, 7.92, 7.58],
+      "ROE": [ "Information not explicitly provided for other years."]
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Information not explicitly provided."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "P/E": 42.61, "Mar Cap": 106322.89, "Div Yld": 1.96, "NP Qtr": 577.70, "Qtr Profit Var": 38.39, "Sales Qtr": 1673.90, "Qtr Sales Var": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "P/E": 554.42, "Mar Cap": 96075.89, "Div Yld": 0.00, "NP Qtr": 50.98, "Qtr Profit Var": 350.35, "Sales Qtr": 1167.23, "Qtr Sales Var": 43.81, "ROCE": 1.75},
+      {"Name": "Coforge", "CMP": 9370.45, "P/E": 79.48, "Mar Cap": 62650.25, "Div Yld": 0.81, "NP Qtr": 233.60, "Qtr Profit Var": 11.71, "Sales Qtr": 3062.30, "Qtr Sales Var": 34.54, "ROCE": 28.60},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "P/E": 52.77, "Mar Cap": 43110.04, "Div Yld": 1.01, "NP Qtr": 229.43, "Qtr Profit Var": 14.70, "Sales Qtr": 955.09, "Qtr Sales Var": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "P/E": 54.80, "Mar Cap": 39785.12, "Div Yld": 0.46, "NP Qtr": 203.75, "Qtr Profit Var": 45.30, "Sales Qtr": 1471.41, "Qtr Sales Var": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "P/E": 56.02, "Mar Cap": 36238.37, "Div Yld": 0.94, "NP Qtr": 157.41, "Qtr Profit Var": -1.85, "Sales Qtr": 1296.45, "Qtr Sales Var": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "P/E": 87.35, "Mar Cap": 32355.27, "Div Yld": 0.00, "NP Qtr": 208.58, "Qtr Profit Var": 1282.88, "Sales Qtr": 103.35, "Qtr Sales Var": 30.01, "ROCE": "N/A"},
+      {"Name": "Vedavaag Systems", "CMP": 66.67, "P/E": 25.50, "Mar Cap": 205.76, "Div Yld": 1.12, "NP Qtr": 2.74, "Qtr Profit Var": -12.46, "Sales Qtr": 25.04, "Qtr Sales Var": -19.56, "ROCE": 7.58}
+    ],
+    "Median": {
+      "CMP": 283.15,
+      "P/E": 43.44,
+      "Mar Cap": 1028.49,
+      "Div Yld": 0.0,
+      "NP Qtr": 4.85,
+      "Qtr Profit Var": 13.68,
+      "Sales Qtr": 52.64,
+      "Qtr Sales Var": 13.45,
+      "ROCE": 17.45
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Stock is trading at 1.11 times its book value",
+      "Company has been maintaining a healthy dividend payout of 18.8%"
+    ],
+    "Cons": [
+      "The company has delivered a poor sales growth of 4.43% over past five years.",
+      "Promoter holding is low: 36.0%",
+      "Company has a low return on equity of 6.37% over last 3 years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Corporate Actions": "Information not structured, but available in the HTML.",
+  "Documents": {
+    "Announcements": [
+      {"Date": "25 Nov", "Title": "Vedavaag Systems Q2 FY25 financial results presentation."},
+      {"Date": "15 Nov", "Title": "Newspaper publication - Unaudited Financial Results for the quarter and half year ended September 30, 2024"},
+      {"Date": "14 Nov", "Title": "Approved Un-Audited Financial Results For The Quarter And Half Year Ended September 30, 2024"},
+      {"Date": "14 Nov", "Title": "Approved financial results and resignation of independent director."},
+      {"Date": "6 Nov", "Title": "Board meeting scheduled for November 14, 2024."}
+    ],
+    "Annual Reports": ["Financial Year 2024", "Financial Year 2023", "Financial Year 2022", "Financial Year 2021", "Financial Year 2020", "Financial Year 2019", "Financial Year 2018", "Financial Year 2017", "Financial Year 2016", "Financial Year 2015", "Financial Year 2014", "Financial Year 2013", "Financial Year 2012", "Financial Year 2011", "Financial Year 2010"]
+  },
+  "Concalls": {
+    "Nov 2024": {"Transcript": "Available", "Notes": "Available", "PPT": "Available"},
+    "Feb 2022": {"Transcript": "Available", "Notes": "Available", "PPT": "Available"},
+    "Nov 2021": {"Transcript": "Available", "Notes": "Available", "PPT": "Available"},
+    "Aug 2021": {"Transcript": "Available", "Notes": "Available", "PPT": "Available"},
+    "Jul 2021": {"Transcript": "Available", "Notes": "Available", "PPT": "Available"}
+  }
+}

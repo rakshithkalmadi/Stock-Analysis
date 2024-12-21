@@ -1,0 +1,100 @@
+
+{
+  "Company Overview": {
+    "Name": "Coforge Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "IT services company providing end-to-end software solutions and services. Among the top-20 Indian software exporters.  Has subsidiaries in the US, Singapore, Australia, UK, Germany and Thailand.",
+    "Market Position": "Top-20 Indian software exporters. Prominent global customers include British Airways, the ING group, SEI Investments, Sabre, and SITA."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 62,650 Cr.",
+    "Current Price": "₹ 9,370",
+    "High / Low": "₹ 9,799 / 4,287",
+    "Stock P/E": 79.5,
+    "Book Value": "₹ 896",
+    "Dividend Yield": "0.81 %",
+    "ROCE": "28.6 %",
+    "ROE": "24.1 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [
+        1569, 1658, 1743, 1829, 1959, 2056, 2170, 2221, 2276, 2323, 2358, 2401, 3062
+      ],
+      "Expenses": [
+        1295, 1355, 1430, 1541, 1622, 1696, 1874, 1915, 1935, 1928, 1973, 2108, 2650
+      ],
+      "Operating Profit": [
+        275, 303, 312, 289, 337, 360, 296, 306, 341, 395, 386, 293, 412
+      ],
+      "Net Profit": [
+        162, 197, 225, 172, 221, 236, 117, 176, 188, 243, 229, 139, 234
+      ],
+      "EPS": [
+        24.20, 30.17, 34.10, 24.58, 32.99, 37.37, 18.79, 27.06, 29.41, 38.54, 36.19, 19.97, 30.32
+      ]
+    },
+    "Annual Results": {
+      "Sales": [2021, 2305, 2372, 2688, 2802, 2991, 3676, 4184, 4663, 6432, 8015, 9179, 10145],
+      "Expenses": [1688, 1950, 2036, 2214, 2322, 2489, 3026, 3459, 3882, 5330, 6733, 7751, 8659],
+      "Operating Profit": [333, 355, 337, 474, 480, 502, 650, 725, 781, 1102, 1282, 1428, 1486],
+      "Net Profit": [218, 238, 122, 287, 272, 309, 422, 468, 466, 715, 745, 836, 845],
+      "EPS": [35.40, 37.98, 18.69, 44.13, 40.76, 45.59, 65.28, 71.05, 75.19, 108.65, 113.58, 130.70, 125.02]
+    }
+  },
+  "Ratios": {
+    "ROCE": [28, 26, 19, 25, 23, 23, 30, 27, 25, 32, 31, 29],
+    "Debtor Days": [82, 89, 93, 80, 61, 71, 58, 75, 84, 79, 73, 72],
+    "Inventory Days": [13, 12],
+    "Days Payable": [519, 361],
+    "Cash Conversion Cycle": [-424, -260, 93, 80, 61, 71, 58, 75, 84, 79, 73, 72],
+    "Working Capital Days": [57, 70, 48, 64, 38, 30, 37, 38, 36, 37, 15, 35]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "P/E": 42.61, "Mar Cap": 106322.89, "Div Yld": 1.96, "NP Qtr": 577.70, "Qtr Profit Var": 38.39, "Sales Qtr": 1673.90, "Qtr Sales Var": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "P/E": 554.42, "Mar Cap": 96075.89, "Div Yld": 0.00, "NP Qtr": 50.98, "Qtr Profit Var": 350.35, "Sales Qtr": 1167.23, "Qtr Sales Var": 43.81, "ROCE": 1.75},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "P/E": 52.77, "Mar Cap": 43110.04, "Div Yld": 1.01, "NP Qtr": 229.43, "Qtr Profit Var": 14.70, "Sales Qtr": 955.09, "Qtr Sales Var": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "P/E": 54.80, "Mar Cap": 39785.12, "Div Yld": 0.46, "NP Qtr": 203.75, "Qtr Profit Var": 45.30, "Sales Qtr": 1471.41, "Qtr Sales Var": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "P/E": 56.02, "Mar Cap": 36238.37, "Div Yld": 0.94, "NP Qtr": 157.41, "Qtr Profit Var": -1.85, "Sales Qtr": 1296.45, "Qtr Sales Var": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "P/E": 87.35, "Mar Cap": 32355.27, "Div Yld": 0.00, "NP Qtr": 208.58, "Qtr Profit Var": 1282.88, "Sales Qtr": 103.35, "Qtr Sales Var": 30.01, "ROCE": null}
+    ]
+  },
+  "Other Insights": {
+    "Key Points": "Acquisition of NIIT Tech. NIIT Technologies Ltd., now known as Coforge, was founded in April 2003. In 2019, NIIT and its founder's family sold their 30.2% stake to Hulst B.V., which subsequently acquired an additional ~40% through an open offer, reaching a 70% stake. Hulst sold off its entire stake by September 30, 2023.",
+    "Pros": "Company has been maintaining a healthy dividend payout of 54.1%",
+    "Cons": "Stock is trading at 10.4 times its book value",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Note": "The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  },
+  "Indices": [
+    "Nifty MidSmallcap 400",
+    "Nifty Midcap Select",
+    "Nifty LargeMidcap 250",
+    "BSE 400 MidSmallCap Index",
+    "Nifty IT",
+    "BSE MidCap",
+    "Nifty Midcap 100",
+    "Nifty 200",
+    "BSE Allcap",
+    "BSE 250 LargeMidCap Index",
+    "Nifty Midcap 150",
+    "Nifty 500 Multicap 50:25:25",
+    "Nifty Midcap150 Quality 50",
+    "BSE MidCap Select Index",
+    "Nifty India Digital Index",
+    "Nifty Total Market",
+    "BSE 500",
+    "BSE Information Technology",
+    "BSE 150 MidCap Index",
+    "BSE 200",
+    "BSE Dollex 200",
+    "BSE Teck",
+    "Nifty 500"
+  ],
+  "Website": "coforge.com",
+  "BSE": "532541",
+  "NSE": "COFORGE"
+}

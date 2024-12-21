@@ -1,0 +1,166 @@
+
+{
+  "Company Overview": {
+    "Name": "Intense Technologies Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Business Description": "Incorporated in 1990, Intense Technologies Ltd develops software products designed for data analytics and provides tech-enabled services for organizations. ITL is a cloud-based global enterprise software products and services company. Its enterprise software products are used globally for the digital transformation of customer-centric business processes. The company provides Business Process Automation, Data Management, Data & AI, and personalized Digital Customer Engagement, etc.",
+    "Market Position": "Information not explicitly provided in the HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 313 Cr.",
+    "Current Price": "₹ 133",
+    "High / Low": "₹ 178 / ₹ 91.4",
+    "Stock P/E": 22.7,
+    "Book Value": "₹ 56.6",
+    "Dividend Yield": "0.75 %",
+    "ROCE": "14.0 %",
+    "ROE": "10.2 %",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": "Information not explicitly provided, but implied to be low based on 'Company is almost debt free'."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [16.69, 17.67, 32.68, 15.16, 21.06, 19.15, 30.70, 21.34, 30.59, 24.18, 26.67, 35.72, 37.69], 
+      "Expenses": [12.79, 12.51, 22.06, 13.39, 15.19, 16.22, 28.44, 18.10, 24.50, 19.31, 24.13, 30.11, 31.44],
+      "Operating Profit": [3.90, 5.16, 10.62, 1.77, 5.87, 2.93, 2.26, 3.24, 6.09, 4.87, 2.54, 5.61, 6.25],
+      "OPM %": ["23.37%", "29.20%", "32.50%", "11.68%", "27.87%", "15.30%", "7.36%", "15.18%", "19.91%", "20.14%", "9.52%", "15.71%", "16.58%"],
+      "Other Income": [0.05, 0.18, 0.24, 0.26, 0.15, 0.30, 0.52, 0.35, 0.18, 0.56, 0.94, 1.23, 0.64],
+      "Interest": [0.27, 0.06, -0.03, 0.12, 0.01, 0.07, 0.03, 0.14, 0.08, 0.08, 0.08, 0.08, 0.04],
+      "Depreciation": [0.22, 0.32, 0.15, 0.26, 0.34, 0.46, 0.48, 0.37, 0.39, 0.77, 0.79, 1.16, 1.17],
+      "Profit before tax": [3.46, 4.96, 10.74, 1.65, 5.67, 2.70, 2.27, 3.08, 5.80, 4.58, 2.61, 5.60, 5.68],
+      "Tax %": ["23.99%", "26.61%", "21.23%", "41.21%", "23.28%", "24.81%", "3.52%", "29.22%", "24.83%", "25.11%", "23.37%", "31.61%", "20.25%"],
+      "Net Profit": [2.63, 3.63, 8.46, 0.97, 4.34, 2.03, 2.19, 2.17, 4.37, 3.43, 2.01, 3.83, 4.53],
+      "EPS in Rs": [1.17, 1.62, 3.77, 0.43, 1.93, 0.90, 0.93, 0.92, 1.86, 1.46, 0.86, 1.63, 1.93]
+    },
+    "Annual Results": {
+      "Sales": [32, 43, 47, 42, 55, 52, 56, 67, 68, 80, 86, 103, 124],
+      "Expenses": [28, 33, 40, 43, 49, 40, 45, 56, 55, 59, 73, 86, 105],
+      "Operating Profit": [4, 10, 7, -1, 7, 12, 11, 11, 13, 21, 13, 17, 19],
+      "OPM %": ["14%", "24%", "15%", "-2%", "12%", "23%", "20%", "16%", "20%", "27%", "15%", "16%", "16%"],
+      "Other Income": [2, 4, 3, 2, 1, 1, 1, 2, 2, 1, 1, 2, 3],
+      "Interest": [0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0],
+      "Depreciation": [1, 1, 1, 2, 3, 4, 2, 1, 1, 1, 2, 2, 4],
+      "Profit before tax": [6, 12, 8, -1, 4, 8, 10, 10, 14, 21, 12, 16, 18],
+      "Tax %": ["0%", "9%", "15%", "-9%", "5%", "44%", "33%", "25%", "25%", "25%", "22%", "26%", "26%"],
+      "Net Profit": [6, 11, 7, -1, 3, 4, 7, 8, 11, 16, 10, 12, 14],
+      "EPS in Rs": [2.98, 5.87, 3.55, -0.43, 1.55, 2.02, 2.95, 3.48, 4.69, 6.96, 4.06, 5.10, 5.88]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "9%",
+        "5 Years": "13%",
+        "3 Years": "15%",
+        "TTM": "22%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "1%",
+        "5 Years": "13%",
+        "3 Years": "5%",
+        "TTM": "28%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [86, 137, 224, 239, 125, 194, 174, 170, 271, 182, 202, 125],
+      "Inventory Days": "Information not explicitly provided.",
+      "Days Payable": "Information not explicitly provided.",
+      "Cash Conversion Cycle": [86, 137, 224, 239, 125, 194, 174, 170, 271, 182, 202, 125],
+      "Working Capital Days": [75, 121, 227, 306, 204, 224, 182, 151, 128, 83, 127, 62]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["15%", "27%", "15%", "2%", "7%", "14%", "15%", "14%", "18%", "22%", "12%", "14%"],
+      "ROE": ["10%", "12%", "12%", "10%"]
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Information not explicitly provided but can be calculated from Current Price and Book Value.",
+      "Market Cap / Sales": "Information not explicitly provided but can be calculated from Market Cap and Sales."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "P/E": 42.61, "Mar Cap": 106322.89, "Div Yld": 1.96, "NP Qtr": 577.70, "Qtr Profit Var": 38.39, "Sales Qtr": 1673.90, "Qtr Sales Var": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "P/E": 554.42, "Mar Cap": 96075.89, "Div Yld": 0.00, "NP Qtr": 50.98, "Qtr Profit Var": 350.35, "Sales Qtr": 1167.23, "Qtr Sales Var": 43.81, "ROCE": 1.75},
+      {"Name": "Coforge", "CMP": 9370.45, "P/E": 79.48, "Mar Cap": 62650.25, "Div Yld": 0.81, "NP Qtr": 233.60, "Qtr Profit Var": 11.71, "Sales Qtr": 3062.30, "Qtr Sales Var": 34.54, "ROCE": 28.60},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "P/E": 52.77, "Mar Cap": 43110.04, "Div Yld": 1.01, "NP Qtr": 229.43, "Qtr Profit Var": 14.70, "Sales Qtr": 955.09, "Qtr Sales Var": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "P/E": 54.80, "Mar Cap": 39785.12, "Div Yld": 0.46, "NP Qtr": 203.75, "Qtr Profit Var": 45.30, "Sales Qtr": 1471.41, "Qtr Sales Var": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "P/E": 56.02, "Mar Cap": 36238.37, "Div Yld": 0.94, "NP Qtr": 157.41, "Qtr Profit Var": -1.85, "Sales Qtr": 1296.45, "Qtr Sales Var": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "P/E": 87.35, "Mar Cap": 32355.27, "Div Yld": 0.00, "NP Qtr": 208.58, "Qtr Profit Var": 1282.88, "Sales Qtr": 103.35, "Qtr Sales Var": 30.01, "ROCE": 30.01},
+      {"Name": "Intense Tech.", "CMP": 133.28, "P/E": 22.70, "Mar Cap": 313.26, "Div Yld": 0.75, "NP Qtr": 4.53, "Qtr Profit Var": 3.66, "Sales Qtr": 37.69, "Qtr Sales Var": 23.21, "ROCE": 14.04}
+    ],
+    "Median": {
+      "CMP": 283.15,
+      "P/E": 43.44,
+      "Mar Cap": 1028.49,
+      "Div Yld": 0.0,
+      "NP Qtr": 4.85,
+      "Qtr Profit Var": 13.68,
+      "Sales Qtr": 52.64,
+      "Qtr Sales Var": 13.45,
+      "ROCE": 17.45
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Debtor days have improved from 170 to 125 days.",
+      "Company's working capital requirements have reduced from 90.6 days to 61.8 days"
+    ],
+    "Cons": [
+      "Promoter holding is low: 20.7%",
+      "Company has a low return on equity of 11.8% over last 3 years.",
+      "Dividend payout has been low at 12.6% of profits over last 3 years"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "11 Nov", "Title": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript", "Description": "Earnings Call Transcript for the Q2 and H1 FY 2024-25 Financial Results held on November 06, 2024"},
+      {"Date": "6 Nov", "Title": "Announcement under Regulation 30 (LODR)-Investor Presentation", "Description": "Investor Presentation for the Q2 and H1 Financial Results for FY 2024-25"},
+      {"Date": "6 Nov", "Title": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome", "Description": "Audio recording of Q2 FY 2024-25 earnings call submitted."},
+      {"Date": "6 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication", "Description": "Newspaper Publications of the Financial Results of the quarter and Half-Year ended September 30, 2024 in the Newspapers of Andhra Prabha and Business Standard"},
+      {"Date": "5 Nov", "Title": "Announcement under Regulation 30 (LODR)-Press Release / Media Release", "Description": "Un-audited financial results for Q2 and half-year ended September 30, 2024."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "bse"},
+      {"Year": 2010, "Source": "bse"}
+    ],
+    "Concalls": [
+      {"Date": "Nov 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Aug 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "May 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "May 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Jan 2024", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Nov 2023", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Aug 2023", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Jun 2023", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Nov 2022", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Nov 2022", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Jul 2021", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Jun 2019", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Feb 2019", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Nov 2018", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Jun 2018", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Dec 2017", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Oct 2017", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Jun 2017", "Materials": ["Transcript", "Notes", "PPT"]},
+      {"Date": "Mar 2017", "Materials": ["Transcript", "Notes", "PPT"]}
+    ]
+  }
+}

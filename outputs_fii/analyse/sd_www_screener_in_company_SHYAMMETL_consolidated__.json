@@ -1,0 +1,145 @@
+
+{
+  "Company Overview": {
+    "Name": "Shyam Metalics & Energy Ltd",
+    "Sector": "Steel",
+    "Industry": "Steel - Large",
+    "Business Description": "Shyam Metalics is primarily engaged in the manufacturing of steel and allied products including pellets, sponge iron, TMT and long products, ferro alloys and generation of power.",
+    "Market Position": "India’s leading Metal Producer. The company is 6th largest integrated steel producer & amongst the largest ferro alloys producer in India, 4th largest sponge iron player, leading player in terms of pellet capacity."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 21,450 Cr.",
+    "Current Price": "₹ 768",
+    "High / Low": "₹ 957 / ₹ 511",
+    "Stock P/E": 25.7,
+    "Book Value": "₹ 365",
+    "Dividend Yield": "0.59 %",
+    "ROCE": "10.8 %",
+    "ROE": "12.1 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [
+        2494, 2578, 2857, 3223, 3085, 2922, 3428, 3333, 2941, 3315, 3606, 3612, 3634
+      ],
+      "Expenses": [
+        1870, 1953, 2194, 2617, 2842, 2699, 3001, 2919, 2634, 2908, 3165, 3124, 3227
+      ],
+      "Operating Profit": [
+        624, 625, 663, 607, 244, 222, 427, 414, 307, 407, 442, 488, 407
+      ],
+      "OPM %": [
+        25, 24, 23, 19, 8, 8, 12, 12, 10, 12, 12, 14, 11
+      ],
+      "Other Income": [
+        21, 17, 15, 22, 22, 38, 23, 30, 38, 40, 51, 51, 75
+      ],
+      "Interest": [
+        5, 6, 6, 7, 15, 33, 39, 37, 35, 40, 22, 27, 30
+      ],
+      "Depreciation": [
+        61, 60, 91, 95, 110, 132, 137, 158, 177, 182, 139, 136, 144
+      ],
+      "Profit before tax": [
+        580, 576, 581, 527, 140, 95, 275, 249, 133, 226, 332, 376, 307
+      ],
+      "Tax %": [
+        29, 27, 25, 21, 21, 32, 8, 19, -261, 44, 34, 26, 30
+      ],
+      "Net Profit": [
+        410, 423, 433, 414, 111, 65, 254, 202, 482, 126, 220, 278, 216
+      ],
+      "EPS in Rs": [
+        16.24, 16.52, 16.89, 16.26, 4.48, 2.64, 10.05, 8.00, 18.98, 4.99, 7.76, 9.96, 7.72
+      ]
+    },
+    "Annual Results": {
+      "Sales": [3747, 4606, 4376, 6297, 10394, 12658, 13195, 14167],
+      "Expenses": [3034, 3656, 3710, 4903, 7793, 11159, 11625, 12424],
+      "Operating Profit": [714, 950, 666, 1394, 2601, 1499, 1570, 1743],
+      "OPM %": [19, 21, 15, 22, 25, 12, 12, 12],
+      "Other Income": [68, 73, 12, 24, 59, 105, 159, 217],
+      "Interest": [49, 64, 86, 62, 23, 93, 133, 118],
+      "Depreciation": [215, 195, 297, 300, 272, 474, 656, 601],
+      "Profit before tax": [517, 764, 295, 1055, 2364, 1037, 940, 1240],
+      "Tax %": [-2, 17, -15, 20, 27, 19, -9, 0],
+      "Net Profit": [528, 637, 340, 844, 1724, 843, 1029, 840],
+      "EPS in Rs": [90.83, 25.86, 14.56, 36.10, 67.61, 33.43, 37.07, 30.43]
+    }
+  },
+  "Ratios": {
+    "Debtor Days": [36, 17, 13, 31, 13, 18, 20],
+    "Inventory Days": [86, 96, 203, 98, 119, 90, 84],
+    "Days Payable": [69, 41, 79, 35, 69, 63, 91],
+    "Cash Conversion Cycle": [53, 72, 136, 94, 63, 45, 12],
+    "Working Capital Days": [57, 71, 123, 83, 68, 23, 12],
+    "ROCE %": [28, 11, 27, 44, 15, 11, 0]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "JSW Steel", "CMP": 917.35, "P/E": 43.70, "Mar Cap": 224333.72, "Div Yld": 0.80, "NP Qtr": 404.00, "Qtr Profit Var": -76.10, "Sales Qtr": 39684.00, "Qtr Sales Var": -10.99, "ROCE": 13.30},
+      {"Name": "Tata Steel", "CMP": 140.68, "P/E": 57.62, "Mar Cap": 175618.26, "Div Yld": 2.56, "NP Qtr": 758.84, "Qtr Profit Var": 210.32, "Sales Qtr": 53904.71, "Qtr Sales Var": -3.19, "ROCE": 7.02},
+      {"Name": "Tube Investments", "CMP": 3619.10, "P/E": 87.24, "Mar Cap": 70019.52, "Div Yld": 0.10, "NP Qtr": 299.17, "Qtr Profit Var": -21.66, "Sales Qtr": 4924.55, "Qtr Sales Var": 14.37, "ROCE": 26.28},
+      {"Name": "Jindal Stain.", "CMP": 719.80, "P/E": 24.22, "Mar Cap": 59294.94, "Div Yld": 0.42, "NP Qtr": 609.42, "Qtr Profit Var": -11.23, "Sales Qtr": 9776.83, "Qtr Sales Var": -0.21, "ROCE": 22.23},
+      {"Name": "S A I L", "CMP": 116.10, "P/E": 15.19, "Mar Cap": 47955.40, "Div Yld": 1.72, "NP Qtr": 897.15, "Qtr Profit Var": -44.34, "Sales Qtr": 24675.20, "Qtr Sales Var": -16.95, "ROCE": 8.10},
+      {"Name": "APL Apollo Tubes", "CMP": 1559.00, "P/E": 74.22, "Mar Cap": 43266.08, "Div Yld": 0.35, "NP Qtr": 53.81, "Qtr Profit Var": -73.48, "Sales Qtr": 4773.91, "Qtr Sales Var": 3.10, "ROCE": 25.18}
+    ],
+    "Median": {
+      "CMP": 633.85,
+      "P/E": 22.09,
+      "Mar Cap": 20908.69,
+      "Div Yld": 0.53,
+      "NP Qtr": 249.32,
+      "Qtr Profit Var": -31.19,
+      "Sales Qtr": 4203.97,
+      "Qtr Sales Var": -2.5,
+      "ROCE": 20.5
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company's working capital requirements have reduced from 34.1 days to 12.1 days",
+    "Cons": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Indices": [
+    "BSE 250 SmallCap Index",
+    "Nifty MidSmallcap 400",
+    "Nifty Smallcap 250",
+    "BSE 400 MidSmallCap Index",
+    "BSE SmallCap",
+    "Nifty Smallcap 100",
+    "BSE Allcap",
+    "BSE Industrials",
+    "Nifty 500 Multicap 50:25:25",
+    "Nifty Total Market",
+    "BSE 500",
+    "Nifty 500"
+  ],
+  "Documents": {
+    "Announcements": [
+      {"Date": "14 Dec", "Title": "Outcome of investor meetings at B&K Indian INC Leaders Conference."},
+      {"Date": "9 Dec", "Title": "Schedule of Analyst/Institutional Investor Meeting on Dec 13, 2024."},
+      {"Date": "9 Dec", "Title": "Consolidated sales release for November 2024."},
+      {"Date": "22 Nov", "Title": "Outcome of investor meeting with no UPSI discussed."},
+      {"Date": "14 Nov", "Title": "Intimation of analyst/investor meetings on Nov 21-22, 2024."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "12 Nov", "Agency": "crisil"},
+      {"Date": "5 Dec 2023", "Agency": "crisil"},
+      {"Date": "7 Jul 2023", "Agency": "crisil"},
+      {"Date": "4 Jan 2023", "Agency": "care"},
+      {"Date": "20 Dec 2022", "Agency": "crisil"},
+      {"Date": "7 Jul 2022", "Agency": "crisil"}
+    ],
+    "Concalls": [
+      // ... (Numerous concall entries omitted for brevity)
+    ]
+  }
+}

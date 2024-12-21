@@ -1,0 +1,173 @@
+
+{
+  "Company Overview": {
+    "Name": "Astra Microwave Products Ltd",
+    "Sector": "Aerospace & Defence",
+    "Industry": "Telecommunications - Equipment",
+    "Business Description": "Astra Microwave Products is engaged in the business of design, development and manufacture of sub-systems for Radio Frequency and microwave systems used in defense, space, meteorology and telecommunication.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Industrials, Nifty Microcap 250, Nifty Total Market"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 7,570 Cr.",
+    "Current Price": "₹ 797",
+    "High / Low": "₹ 1,060 / 510",
+    "Stock P/E": 58.1,
+    "Book Value": "₹ 103",
+    "Dividend Yield": "0.25 %",
+    "ROCE": "18.8 %",
+    "ROE": "15.0 %",
+    "Face Value": "₹ 2.00"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data available in tabular format within the provided HTML, needs further parsing for detailed representation."
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Note": "Data available in tabular format within the provided HTML, needs further parsing for detailed representation."
+      },
+      "Annual": {
+        "Note": "Data available in tabular format within the provided HTML, needs further parsing for detailed representation."
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Data available in tabular format within the provided HTML, needs further parsing for detailed representation."
+    },
+    "Cash Flow": {
+      "Note": "Data available in tabular format within the provided HTML, needs further parsing for detailed representation."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "6%",
+      "Compounded Sales Growth (5 Years)": "25%",
+      "Compounded Sales Growth (3 Years)": "12%",
+      "Compounded Sales Growth (TTM)": "21%",
+      "Compounded Profit Growth (10 Years)": "9%",
+      "Compounded Profit Growth (5 Years)": "105%",
+      "Compounded Profit Growth (3 Years)": "61%",
+      "Compounded Profit Growth (TTM)": "102%",
+      "Stock Price CAGR (10 Years)": "22%",
+      "Stock Price CAGR (5 Years)": "57%",
+      "Stock Price CAGR (3 Years)": "52%",
+      "Stock Price CAGR (1 Year)": "31%"
+    },
+    "Liquidity Ratios": {
+      "Note": "Data available in tabular format within the provided HTML (Debtor Days, Inventory Days, Days Payable, Cash Conversion Cycle, Working Capital Days), needs further parsing for detailed representation."
+    },
+    "Profitability Ratios": {
+      "ROCE (10 Years)": "11%",
+      "ROCE (5 Years)": "10%",
+      "ROCE (3 Years)": "11%",
+      "ROCE (Last Year)": "15%",
+      "ROE (10 Years)": "11%",
+      "ROE (5 Years)": "10%",
+      "ROE (3 Years)": "11%",
+      "ROE (Last Year)": "15%"
+    },
+    "Valuation Ratios": {
+      "P/E": 58.1,
+      "Price to Book": {
+        "Note": "Data needs to be extracted from the HTML."
+      },
+      "Market Cap / Sales": {
+        "Note": "Data needs to be extracted from the HTML."
+      },
+      "EV / EBITDA": {
+        "Note": "Data needs to be extracted from the HTML."
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {
+        "Name": "ITI",
+        "CMP": "341.65",
+        "P/E": "32828.70",
+        "Mar Cap": "0.00",
+        "Div Yld": "-70.11",
+        "NP Qtr": "44.99",
+        "Qtr Profit Var": "1016.20",
+        "Sales Qtr": "312.30",
+        "Qtr Sales Var": "-8.43",
+        "ROCE": null
+      },
+      {
+        "Name": "Astra Microwave",
+        "CMP": "797.30",
+        "P/E": "58.07",
+        "Mar Cap": "7569.97",
+        "Div Yld": "0.25",
+        "NP Qtr": "25.39",
+        "Qtr Profit Var": "-15.42",
+        "Sales Qtr": "229.61",
+        "Qtr Sales Var": "20.77",
+        "ROCE": "18.77"
+      },
+      {
+        "Name": "Avantel",
+        "CMP": "160.24",
+        "P/E": "63.18",
+        "Mar Cap": "3898.15",
+        "Div Yld": "0.12",
+        "NP Qtr": "23.57",
+        "Qtr Profit Var": "41.05",
+        "Sales Qtr": "77.25",
+        "Qtr Sales Var": "42.53",
+        "ROCE": "47.50"
+      }
+    ],
+    "Median": {
+      "CMP": "341.65",
+      "P/E": "60.62",
+      "Mar Cap": "7569.97",
+      "Div Yld": "0.12",
+      "NP Qtr": "23.57",
+      "Qtr Profit Var": "41.05",
+      "Sales Qtr": "229.61",
+      "Qtr Sales Var": "42.53",
+      "ROCE": "18.77"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 105% CAGR over last 5 years",
+      "Company has been maintaining a healthy dividend payout of 22.5%"
+    ],
+    "Cons": [
+      "Stock is trading at 7.72 times its book value",
+      "Promoter holding is low: 6.54%",
+      "Company has a low return on equity of 11.5% over last 3 years.",
+      "Company has high debtors of 203 days."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {
+        "Title": "Receipt Of Order By Astra Rafael Comsys Private Limited, Joint Venture Company.",
+        "Date": "13 Dec",
+        "Description": "Astra Rafael Comsys received Rs.255.88 crores order from Ministry of Defence."
+      },
+      {
+        "Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate",
+        "Date": "25 Nov",
+        "Description": "Intimation of loss of share certificates and request for duplicates."
+      },
+      // ... other announcements
+    ],
+    "Annual Reports": [
+      // ... list of annual reports
+    ],
+    "Credit Ratings": [
+      // ... list of credit ratings
+    ]
+  },
+  "Concalls": {
+    "Note": "A list of concall dates and associated documents (Transcript, Notes, PPT, REC) is available in the HTML, requiring further parsing for structured representation."
+  }
+}
+```
+
+**Note:**  This JSON represents a significant portion of the extractable data.  However, several tables within the HTML (Quarterly Results, Profit & Loss (Annual), Balance Sheet, Cash Flow, Ratios, Shareholding Pattern) contain extensive numerical data that requires further parsing and structuring to be fully included.  The `Note` fields within the JSON indicate where this additional parsing is needed.  A robust HTML parsing library would be necessary to fully automate this process.

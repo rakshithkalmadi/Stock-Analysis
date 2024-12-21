@@ -1,0 +1,228 @@
+
+{
+  "Company Overview": {
+    "Name": "Infollion Research Services Ltd",
+    "Sector": "Miscellaneous",
+    "Industry": "Miscellaneous",
+    "Business Description": "Incorporated in 2009, Infollion Research Services Ltd operates in the B2B Human Cloud segment in India. IRSL is a tech-oriented marketplace, operating in the B2B Human Cloud segment, catering to on-demand contingent hiring and work arrangements with senior management talent, subject matter experts, and high-ranking, seasoned professionals.",
+    "MarketPosition": "Not explicitly stated in provided HTML" 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 451 Cr.",
+    "CurrentPrice": "₹ 466",
+    "High/Low": "₹ 520 / ₹ 153",
+    "PEratio": "43.9",
+    "BookValue": "₹ 49.0",
+    "DividendYield": "0.00%",
+    "ROCE": "40.5%",
+    "ROE": "29.5%",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Not explicitly stated, but implied as almost debt-free"
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": {
+        "Sep 2022": "14",
+        "Mar 2023": "20",
+        "Sep 2023": "25",
+        "Mar 2024": "27",
+        "Sep 2024": "35"
+      },
+      "Expenses": {
+        "Sep 2022": "11",
+        "Mar 2023": "17",
+        "Sep 2023": "20",
+        "Mar 2024": "22",
+        "Sep 2024": "28"
+      },
+      "OperatingProfit": {
+        "Sep 2022": "3",
+        "Mar 2023": "2",
+        "Sep 2023": "5",
+        "Mar 2024": "5",
+        "Sep 2024": "7"
+      },
+      "OPM%": {
+        "Sep 2022": "22%",
+        "Mar 2023": "12%",
+        "Sep 2023": "21%",
+        "Mar 2024": "18%",
+        "Sep 2024": "20%"
+      },
+      "NetProfit": {
+        "Sep 2022": "2",
+        "Mar 2023": "2",
+        "Sep 2023": "4",
+        "Mar 2024": "4",
+        "Sep 2024": "6"
+      },
+      "EPS": {
+        "Sep 2022": "1,610.74",
+        "Mar 2023": "2.49",
+        "Sep 2023": "4.36",
+        "Mar 2024": "4.48",
+        "Sep 2024": "6.13"
+      }
+    },
+    "AnnualResults": {
+      "Sales": {
+        "Mar 2020": "13",
+        "Mar 2021": "16",
+        "Mar 2022": "22",
+        "Mar 2023": "34",
+        "Mar 2024": "52"
+      },
+      "Expenses": {
+        "Mar 2020": "10",
+        "Mar 2021": "13",
+        "Mar 2022": "18",
+        "Mar 2023": "28",
+        "Mar 2024": "42"
+      },
+      "OperatingProfit": {
+        "Mar 2020": "3",
+        "Mar 2021": "3",
+        "Mar 2022": "3",
+        "Mar 2023": "5",
+        "Mar 2024": "10"
+      },
+      "OPM%": {
+        "Mar 2020": "20%",
+        "Mar 2021": "17%",
+        "Mar 2022": "16%",
+        "Mar 2023": "16%",
+        "Mar 2024": "20%"
+      },
+      "NetProfit": {
+        "Mar 2020": "2",
+        "Mar 2021": "2",
+        "Mar 2022": "3",
+        "Mar 2023": "4",
+        "Mar 2024": "9"
+      },
+      "EPS": {
+        "Mar 2020": "1,597.01",
+        "Mar 2021": "1,552.24",
+        "Mar 2022": "1,902.99",
+        "Mar 2023": "5.71",
+        "Mar 2024": "8.84"
+      }
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": {
+        "Mar 2020": "0.01",
+        "Mar 2021": "0.01",
+        "Mar 2022": "0.01",
+        "Mar 2023": "7",
+        "Mar 2024": "10",
+        "Sep 2024": "10"
+      },
+      "Reserves": {
+        "Mar 2020": "5",
+        "Mar 2021": "7",
+        "Mar 2022": "8",
+        "Mar 2023": "5",
+        "Mar 2024": "32",
+        "Sep 2024": "38"
+      },
+      "Borrowings": {
+        "Mar 2020": "0",
+        "Mar 2021": "0",
+        "Mar 2022": "0",
+        "Mar 2023": "0",
+        "Mar 2024": "0",
+        "Sep 2024": "0"
+      }
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": {
+        "Mar 2020": "1",
+        "Mar 2021": "2",
+        "Mar 2022": "1",
+        "Mar 2023": "3",
+        "Mar 2024": "9"
+      },
+      "CashFromInvestingActivity": {
+        "Mar 2020": "0",
+        "Mar 2021": "0",
+        "Mar 2022": "-0",
+        "Mar 2023": "-0",
+        "Mar 2024": "-1"
+      },
+      "CashFromFinancingActivity": {
+        "Mar 2020": "0",
+        "Mar 2021": "0",
+        "Mar 2022": "0",
+        "Mar 2023": "0",
+        "Mar 2024": "17"
+      }
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth_10Years": "%",
+      "CompoundedSalesGrowth_5Years": "%",
+      "CompoundedSalesGrowth_3Years": "48%",
+      "CompoundedSalesGrowth_TTM": "38%",
+      "CompoundedProfitGrowth_10Years": "%",
+      "CompoundedProfitGrowth_5Years": "%",
+      "CompoundedProfitGrowth_3Years": "57%",
+      "CompoundedProfitGrowth_TTM": "69%",
+      "StockPriceCAGR_1Year": "97%"
+    },
+    "LiquidityRatios": "Not explicitly stated",
+    "ProfitabilityRatios": {
+      "ROCE_10Years": "%",
+      "ROCE_5Years": "%",
+      "ROCE_3Years": "32%",
+      "ROCE_LastYear": "30%"
+    },
+    "ValuationRatios": {
+      "PriceToBook": "9.51"
+    },
+    "OtherRatios": {
+      "DebtorDays": {
+        "Mar 2020": "105",
+        "Mar 2021": "87",
+        "Mar 2022": "55",
+        "Mar 2023": "64",
+        "Mar 2024": "78"
+      },
+      "InventoryDays": "Not explicitly stated",
+      "DaysPayable": "Not explicitly stated",
+      "CashConversionCycle": "Not explicitly stated",
+      "WorkingCapitalDays": {
+        "Mar 2020": "102",
+        "Mar 2021": "86",
+        "Mar 2022": "82",
+        "Mar 2023": "71",
+        "Mar 2024": "68"
+      }
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "GMR Airports", "CMP": "78.82", "P/E": "83225.85", "MarCap": "0.00", "DivYld": "-428.77", "NPQtr": "-318.52", "QtrProfitVar": "2495.46", "QtrSalesVar": "20.93", "ROCE": "6.41"},
+      {"Name": "SJVN", "CMP": "111.54", "P/E": "47.39", "MarCap": "43832.94", "DivYld": "1.61", "NPQtr": "439.90", "QtrProfitVar": "0.06", "QtrSalesVar": "1026.25", "QtrSalesVar": "16.84", "ROCE": "4.99"},
+      {"Name": "Sagility India", "CMP": "45.17", "P/E": "92.88", "MarCap": "21145.56", "DivYld": "0.00", "NPQtr": "117.34", "QtrProfitVar": "235.64", "QtrSalesVar": "1325.05", "QtrSalesVar": "21.11", "ROCE": "4.71"},
+      {"Name": "International Ge", "CMP": "471.15", "P/E": "62.68", "MarCap": "20361.20", "DivYld": "0.00", "NPQtr": "98.79", "QtrProfitVar": null, "QtrSalesVar": null, "ROCE": null},
+      {"Name": "Rites", "CMP": "281.00", "P/E": "33.91", "MarCap": "13504.97", "DivYld": "4.09", "NPQtr": "82.50", "QtrProfitVar": "-27.85", "QtrSalesVar": "540.86", "QtrSalesVar": "-7.13", "ROCE": "25.36"},
+      {"Name": "RattanIndia Ent", "CMP": "66.69", "P/E": "12.87", "MarCap": "9218.36", "DivYld": "0.00", "NPQtr": "-241.59", "QtrProfitVar": "-227.06", "QtrSalesVar": "1800.62", "QtrSalesVar": "11.52", "ROCE": "2.89"},
+      {"Name": "CMS Info Systems", "CMP": "490.50", "P/E": "22.22", "MarCap": "8004.13", "DivYld": "1.17", "NPQtr": "90.92", "QtrProfitVar": "7.78", "QtrSalesVar": "624.54", "QtrSalesVar": "14.86", "ROCE": "26.95"}
+    ],
+    "Median": {
+      "CMP": "212.43",
+      "P/E": "32.44",
+      "MarCap": "378.27",
+      "DivYld": "0.0",
+      "NPQtr": "3.4",
+      "ROCE": "13.48"
+    }
+  },
+  "OtherInsights": {
+    "Pros": "Company is almost debt free. Company has a good return on equity (ROE) track record: 3 Years ROE 32.3%",
+    "Cons": "Stock is trading at 9.51 times its book value. Though the company is reporting repeated profits, it is not paying out dividend.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPatternNotes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

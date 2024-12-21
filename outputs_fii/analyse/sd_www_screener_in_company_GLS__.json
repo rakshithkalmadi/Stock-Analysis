@@ -1,0 +1,162 @@
+
+{
+  "Company Overview": {
+    "Name": "Glenmark Life Sciences Ltd",
+    "Sector": "Pharmaceuticals",
+    "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+    "Business Description": "A leading developer and manufacturer of select, high-value, non-commoditized, active pharmaceutical ingredients (APIs) in chronic therapeutic areas. The company further operates in Contract Development and manufacturing operations to offer services to specialty Pharmaceutical companies.",
+    "Market Position": "Subsidiary of Nirma Limited, a diversified conglomerate with interest in consumer products, cement, chemicals and pharmaceuticals."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 12,416 Cr.",
+    "Current Price": "₹ 1,013",
+    "High/Low": "₹ 1,335 / ₹ 645",
+    "P/E Ratio": 29.3,
+    "Book Value": "₹ 207",
+    "Dividend Yield": "2.22 %",
+    "ROCE": "28.1 %",
+    "ROE": "21.1 %",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs further analysis from balance sheet data.
+
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [562, 522, 514, 490, 509, 541, 621, 578, 595, 573, 537, 589, 507],
+      "Expenses": [394, 376, 372, 343, 366, 395, 415, 385, 428, 400, 395, 429, 373],
+      "Operating Profit": [167, 146, 142, 147, 144, 145, 206, 193, 167, 173, 141, 159, 134],
+      "OPM %": ["30%", "28%", "28%", "30%", "28%", "27%", "33%", "33%", "28%", "30%", "26%", "27%", "27%"],
+      "Other Income": [2, 4, 5, 9, 10, 7, 3, 2, 5, 2, 3, 5, 9],
+      "Interest": [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Depreciation": [10, 10, 10, 10, 10, 11, 12, 13, 13, 13, 15, 14, 15],
+      "Profit before tax": [153, 140, 138, 146, 144, 141, 198, 182, 159, 161, 130, 150, 127],
+      "Tax %": ["24%", "26%", "28%", "26%", "26%", "26%", "26%", "26%", "25%", "26%", "24%", "26%", "25%"],
+      "Net Profit": [115, 104, 99, 109, 107, 105, 146, 135, 119, 119, 98, 111, 95],
+      "EPS in Rs": [9.40, 8.46, 8.07, 8.87, 8.72, 8.57, 11.95, 11.05, 9.69, 9.69, 7.99, 9.10, 7.78]
+    },
+    "Annual Results": {
+      "Sales": [0, 886, 1537, 1885, 2123, 2161, 2283, 2205],
+      "Expenses": [0, 638, 1064, 1294, 1506, 1518, 1608, 1597],
+      "Operating Profit": [0, 248, 473, 592, 617, 643, 675, 608],
+      "OPM %": ["-4%", "28%", "31%", "31%", "29%", "30%", "30%", "28%"],
+      "Other Income": [0, 0, 11, 0, 14, 28, 11, 19],
+      "Interest": [0, 1, 34, 88, 28, 1, 2, 1],
+      "Depreciation": [0, 19, 29, 33, 38, 42, 53, 57],
+      "Profit before tax": [0, 228, 421, 471, 565, 629, 631, 568],
+      "Tax %": ["4200%", "14%", "26%", "25%", "26%", "26%", "25%"],
+      "Net Profit": [0, 196, 313, 352, 419, 467, 471, 424],
+      "EPS in Rs": [-430.00, 997.86, 1597.37, 358.74, 34.17, 38.11, 38.43, 34.56]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [0.01, 2, 2, 2, 25, 25, 25, 25],
+      "Reserves": [-1, 86, 400, 751, 2030, 2114, 2308, 2514],
+      "Borrowings": [0, 0, 0, 0, 3, 19, 17, 16],
+      "Other Liabilities": [1, 1387, 1324, 1244, 414, 545, 501, 530],
+      "Total Liabilities": [0, 1475, 1726, 1997, 2471, 2702, 2850, 3085],
+      "Fixed Assets": [0, 456, 546, 573, 590, 781, 805, 821],
+      "CWIP": [0, 80, 11, 14, 97, 62, 106, 141],
+      "Investments": [0, 0, 0, 0, 0, 0, 0, 0],
+      "Other Assets": [0, 939, 1169, 1410, 1784, 1860, 1939, 2122],
+      "Total Assets": [0, 1475, 1726, 1997, 2471, 2702, 2850, 3085]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [-0, 10, 195, 388, 598, 306, 414],
+      "Cash from Investing Activity": [0, -9, -51, -69, -122, -147, -116],
+      "Cash from Financing Activity": [0, 1, -137, -214, -79, -388, -279],
+      "Net Cash Flow": [0, 2, 8, 106, 397, -228, 18]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": null, 
+      "Compounded Sales Growth (5 Years)": "21%",
+      "Compounded Sales Growth (3 Years)": "7%",
+      "Compounded Sales Growth (TTM)": "-6%",
+      "Compounded Profit Growth (10 Years)": null,
+      "Compounded Profit Growth (5 Years)": "19%",
+      "Compounded Profit Growth (3 Years)": "10%",
+      "Compounded Profit Growth (TTM)": "-16%",
+      "Stock Price CAGR (10 Years)": null,
+      "Stock Price CAGR (5 Years)": null,
+      "Stock Price CAGR (3 Years)": "19%",
+      "Stock Price CAGR (1 Year)": "57%"
+    },
+    "Liquidity Ratios": null, // Requires further calculation from Balance Sheet data
+    "Profitability Ratios": {
+      "ROCE (10 Years)": null,
+      "ROCE (5 Years)": null,
+      "ROCE (3 Years)": null,
+      "ROCE (Last Year)": "28%",
+      "ROE (10 Years)": null,
+      "ROE (5 Years)": "31%",
+      "ROE (3 Years)": "24%",
+      "ROE (Last Year)": "21%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": 29.3,
+      "Price to Book": null // Needs calculation
+    },
+    "Other Ratios": {
+      "Debtor Days": [44, 185, 152, 120, 116, 136, 122],
+      "Inventory Days": [162, 441, 227, 214, 185, 224, 251],
+      "Days Payable": [41, 201, 111, 92, 110, 158, 139],
+      "Cash Conversion Cycle": [165, 424, 268, 241, 190, 202, 235],
+      "Working Capital Days": [-2059, -186, -37, 12, 150, 177, 188]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Sun Pharma.Inds.", "CMP": 1808.85, "P/E": 38.73, "Mar Cap": 434003.71, "Div Yld": 0.75, "NP Qtr": 3037.33, "Qtr Profit Var": 27.86, "Sales Qtr": 13291.39, "Qtr Sales Var": 9.01, "ROCE": 17.32},
+      {"Name": "Cipla", "CMP": 1472.05, "P/E": 25.81, "Mar Cap": 118884.82, "Div Yld": 0.88, "NP Qtr": 1305.01, "Qtr Profit Var": 15.18, "Sales Qtr": 7051.02, "Qtr Sales Var": 5.58, "ROCE": 22.80},
+      {"Name": "Mankind Pharma", "CMP": 2805.20, "P/E": 56.07, "Mar Cap": 112393.74, "Div Yld": 0.00, "NP Qtr": 634.43, "Qtr Profit Var": 34.84, "Sales Qtr": 2529.74, "Qtr Sales Var": 11.91, "ROCE": 24.57},
+      {"Name": "Dr Reddy's Labs", "CMP": 1343.65, "P/E": 21.00, "Mar Cap": 112115.62, "Div Yld": 0.60, "NP Qtr": 1341.90, "Qtr Profit Var": -15.28, "Sales Qtr": 8038.20, "Qtr Sales Var": 16.45, "ROCE": 26.53},
+      {"Name": "Lupin", "CMP": 2150.70, "P/E": 37.36, "Mar Cap": 98114.41, "Div Yld": 0.37, "NP Qtr": 859.48, "Qtr Profit Var": 74.12, "Sales Qtr": 5672.73, "Qtr Sales Var": 12.59, "ROCE": 15.72},
+      {"Name": "Zydus Lifesci.", "CMP": 973.50, "P/E": 22.90, "Mar Cap": 97956.88, "Div Yld": 0.31, "NP Qtr": 920.20, "Qtr Profit Var": 13.62, "Sales Qtr": 5237.00, "Qtr Sales Var": 19.87, "ROCE": 22.34},
+      {"Name": "Aurobindo Pharma", "CMP": 1241.70, "P/E": 19.96, "Mar Cap": 72756.00, "Div Yld": 0.36, "NP Qtr": 816.95, "Qtr Profit Var": 8.65, "Sales Qtr": 7796.07, "Qtr Sales Var": 7.99, "ROCE": 14.10}
+    ],
+    "Median": {
+      "CMP": 78,
+      "P/E": 33.34,
+      "Mar Cap": 2869.55,
+      "Div Yld": 0.05,
+      "NP Qtr": 17.27,
+      "Qtr Profit Var": 19.36,
+      "Sales Qtr": 188.19,
+      "Qtr Sales Var": 9.43,
+      "ROCE": 14.1
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 23.7%",
+      "Company has been maintaining a healthy dividend payout of 76.8%"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Notes": [
+      "Prior to 2019 API business was an integral part of Glenmark Pharma (GPL). It was separated out of GPL into GLS through a Business Transfer Agreement in Jan 2019.",
+      "GLS was listed on NSE & BSE in FY22.",
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ],
+    "Company Name Change": "Company name changed from Glenmark to Alivus Life Sciences on 17 Dec"
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [82.85, 82.85, 82.85, 82.85, 82.85, 82.85, 82.85, 82.85, 82.85, 82.85, 82.85, 75.00],
+      "FIIs": [8.32, 8.12, 7.58, 6.04, 4.45, 3.28, 3.27, 4.39, 4.57, 5.01, 4.81, 7.85],
+      "DIIs": [0.47, 0.56, 0.79, 0.79, 0.08, 0.00, 0.58, 0.64, 0.74, 1.41, 1.57, 4.16],
+      "Public": [8.36, 8.47, 8.78, 10.31, 12.62, 13.86, 13.30, 12.13, 11.84, 10.73, 10.76, 12.99]
+    },
+    "Yearly": {
+      "Promoters": [82.85, 82.85, 82.85, 75.00],
+      "FIIs": [8.12, 3.28, 5.01, 7.85],
+      "DIIs": [0.56, 0.00, 1.41, 4.16],
+      "Public": [8.47, 13.86, 10.73, 12.99]
+    }
+  }
+}

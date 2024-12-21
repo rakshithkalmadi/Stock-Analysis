@@ -1,0 +1,127 @@
+
+{
+  "Company Overview": {
+    "Name": "Globus Spirits Ltd",
+    "Sector": "Alcoholic Beverages",
+    "Industry": "Breweries & Distilleries",
+    "Business Description": "Globus Spirits Limited, established in 1992 is primarily engaged in the business of manufacture and sale of Indian Made Indian Liquor (IMIL), Indian Made Foreign Liquor (IMFL), Bulk Alcohol hand sanitizer, and Franchise Bottling. It has a unique 360⁰ model straddling across the entire alcohol value chain. It is the 1st to set up a grain distillery and launch branded DDGS in India.",
+    "Market Position": "The provided text doesn't explicitly state Globus Spirits' market position, but it mentions being the first to set up a grain distillery and launch branded DDGS in India, suggesting some level of innovation and early-mover advantage."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,538 Cr.",
+    "Current Price": "₹ 879",
+    "High / Low": "₹ 1,373 / 656",
+    "Stock P/E": "40.4",
+    "Book Value": "₹ 340",
+    "Dividend Yield": "0.40 %",
+    "ROCE": "9.56 %",
+    "ROE": "10.4 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Not explicitly provided in the HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [382.22, 347.06, 479.37, 495.41, 480.29, 592.39, 540.96, 570.09, 567.16, 687.49, 589.94, 642.11, 637.86],
+      "Expenses": [294.43, 288.71, 395.01, 426.82, 435.36, 533.59, 467.70, 497.80, 529.61, 647.29, 569.46, 593.73, 607.60],
+      "Operating Profit": [87.79, 58.35, 84.36, 68.59, 44.93, 58.80, 73.26, 72.29, 37.55, 40.20, 20.48, 48.38, 30.26],
+      "OPM %": ["22.97%", "16.81%", "17.60%", "13.85%", "9.35%", "9.93%", "13.54%", "12.68%", "6.62%", "5.85%", "3.47%", "7.53%", "4.74%"],
+      "Other Income": [1.57, 2.17, 1.81, 1.71, 2.10, 1.24, 2.77, 1.88, 3.54, 2.88, 5.22, 1.76, 1.99],
+      "Interest": [2.39, 2.36, 2.76, 2.20, 2.51, 5.04, 7.26, 6.28, 7.37, 6.83, 6.31, 8.26, 9.71],
+      "Depreciation": [10.44, 10.48, 11.31, 12.50, 12.94, 14.92, 15.97, 16.07, 16.24, 16.73, 16.56, 19.52, 20.18],
+      "Profit before tax": [76.53, 47.68, 72.10, 55.60, 31.58, 40.08, 52.80, 51.82, 17.48, 19.52, 2.83, 22.36, 2.36],
+      "Tax %": ["31.39%", "36.01%", "32.64%", "32.97%", "29.89%", "32.78%", "32.14%", "25.16%", "25.29%", "-128.12%", "86.93%", "26.70%", "33.90%"],
+      "Net Profit": [52.51, 30.51, 48.58, 37.27, 22.14, 26.95, 35.82, 38.78, 13.06, 44.54, 0.38, 16.40, 1.56],
+      "EPS in Rs": [18.23, 10.59, 16.87, 12.94, 7.69, 9.36, 12.44, 13.46, 4.53, 15.46, 0.13, 5.68, 0.54]
+    },
+    "Annual Results": {
+      "Sales": [502, 496, 586, 707, 774, 853, 985, 1161, 1224, 1579, 2103, 2414, 2557],
+      "Expenses": [431, 451, 537, 637, 718, 784, 891, 1028, 969, 1255, 1857, 2243, 2418],
+      "Operating Profit": [70, 45, 49, 70, 56, 69, 94, 133, 255, 324, 246, 171, 139],
+      "OPM %": ["14%", "9%", "8%", "10%", "7%", "8%", "10%", "11%", "21%", "21%", "12%", "7%", "5%"],
+      "Other Income": [5, -3, 4, 4, 5, 5, 8, 5, 7, 11, 8, 14, 12],
+      "Interest": [6, 10, 14, 17, 18, 27, 26, 24, 19, 11, 17, 27, 31],
+      "Depreciation": [16, 28, 29, 42, 27, 36, 36, 38, 41, 43, 56, 66, 73],
+      "Profit before tax": [52, 3, 10, 15, 16, 12, 40, 77, 202, 281, 180, 92, 47],
+      "Tax %": ["35%", "-31%", "31%", "15%", "-1%", "39%", "23%", "22%", "29%", "33%", "32%", "-6%"],
+      "Net Profit": [34, 4, 7, 13, 16, 7, 31, 59, 144, 187, 122, 97, 63],
+      "EPS in Rs": [14.87, 1.86, 2.45, 4.35, 5.60, 2.44, 10.61, 20.59, 50.00, 65.01, 42.43, 33.57, 21.81]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "17%",
+      "Compounded Sales Growth (5 Years)": "20%",
+      "Compounded Sales Growth (3 Years)": "25%",
+      "Compounded Sales Growth (TTM)": "13%",
+      "Compounded Profit Growth (10 Years)": "67%",
+      "Compounded Profit Growth (5 Years)": "26%",
+      "Compounded Profit Growth (3 Years)": "-12%",
+      "Compounded Profit Growth (TTM)": "-45%",
+      "Stock Price CAGR (10 Years)": "30%",
+      "Stock Price CAGR (5 Years)": "45%",
+      "Stock Price CAGR (3 Years)": "-12%",
+      "Stock Price CAGR (1 Year)": "3%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [45, 35, 24, 19, 17, 21, 18, 9, 26, 27, 36, 42],
+      "Inventory Days": [62, 54, 52, 37, 53, 43, 43, 50, 58, 48, 46, 42],
+      "Days Payable": [145, 94, 81, 64, 81, 68, 57, 54, 66, 60, 60, 70],
+      "Cash Conversion Cycle": [-38, -5, -5, -8, -11, -5, 4, 5, 17, 15, 22, 14],
+      "Working Capital Days": [-19, 1, -10, -10, -16, -10, -0, -11, 25, 28, 31, 27]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["15%", "4%", "5%", "6%", "5%", "6%", "10%", "15%", "31%", "34%", "19%", "10%"],
+      "Return on Equity (10 Years)": "13%",
+      "Return on Equity (5 Years)": "18%",
+      "Return on Equity (3 Years)": "17%",
+      "Return on Equity (Last Year)": "10%"
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "40.4",
+      "Price to Book": "Not explicitly provided in the HTML.",
+      "Market Cap / Sales": "Not explicitly provided in the HTML."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "United Spirits", "CMP": 1544.80, "P/E": 78.16, "Mar Cap": 112361.16, "Div Yld": 0.58, "NP Qtr": 341.00, "Qtr Profit Var": 8.10, "Sales Qtr": 2844.00, "Qtr Sales Var": -0.87, "ROCE": 27.87},
+      {"Name": "United Breweries", "CMP": 2025.35, "P/E": 113.39, "Mar Cap": 53550.25, "Div Yld": 0.49, "NP Qtr": 132.33, "Qtr Profit Var": 23.33, "Sales Qtr": 2116.72, "Qtr Sales Var": 11.99, "ROCE": 13.49},
+      {"Name": "Radico Khaitan", "CMP": 2488.80, "P/E": 115.16, "Mar Cap": 33297.09, "Div Yld": 0.12, "NP Qtr": 82.19, "Qtr Profit Var": 32.82, "Sales Qtr": 1116.30, "Qtr Sales Var": 20.68, "ROCE": 13.16},
+      {"Name": "Allied Blenders", "CMP": 386.60, "P/E": 176.03, "Mar Cap": 10813.59, "Div Yld": 0.00, "NP Qtr": 48.45, "Qtr Profit Var": 314.10, "Sales Qtr": 867.67, "Qtr Sales Var": 1.94, "ROCE": 15.76},
+      {"Name": "Piccadily Agro", "CMP": 892.00, "P/E": 82.32, "Mar Cap": 8415.06, "Div Yld": 0.00, "NP Qtr": 24.64, "Qtr Profit Var": 121.78, "Sales Qtr": 184.92, "Qtr Sales Var": 62.05, "ROCE": 29.59},
+      {"Name": "Tilaknagar Inds.", "CMP": 412.30, "P/E": 43.81, "Mar Cap": 7955.59, "Div Yld": 0.12, "NP Qtr": 58.23, "Qtr Profit Var": 82.42, "Sales Qtr": 374.86, "Qtr Sales Var": 5.78, "ROCE": 22.00},
+      {"Name": "India Glycols", "CMP": 1331.10, "P/E": 21.25, "Mar Cap": 4121.29, "Div Yld": 0.60, "NP Qtr": 49.71, "Qtr Profit Var": 30.78, "Sales Qtr": 961.20, "Qtr Sales Var": 24.09, "ROCE": 10.98}
+    ],
+    "Median": {
+      "CMP": 414.45,
+      "P/E": 42.33,
+      "Mar Cap": 2142.35,
+      "Div Yld": 0.0,
+      "NP Qtr": 18.02,
+      "Qtr Profit Var": 24.63,
+      "Sales Qtr": 254.63,
+      "Qtr Sales Var": 11.99,
+      "ROCE": 15.12
+    }
+  },
+  "Other Insights": {
+    "Pros": ["Tax rate seems low"],
+    "Cons": ["Company might be capitalizing the interest cost", "Dividend payout has been low at 9.73% of profits over last 3 years"],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [50.90, 51.01, 51.01, 51.01, 51.01, 51.01, 51.01, 51.02, 50.98, 50.98, 50.90, 50.90],
+      "FIIs": [4.88, 4.86, 4.83, 4.75, 4.83, 4.76, 4.76, 5.72, 4.65, 4.89, 4.76, 5.56],
+      "DIIs": [1.40, 2.12, 1.60, 1.68, 2.94, 5.48, 8.93, 3.87, 1.63, 0.98, 1.11, 5.95],
+      "Public": [42.81, 42.01, 42.56, 42.56, 41.22, 38.75, 35.29, 39.39, 42.73, 43.15, 43.24, 37.59]
+    },
+    "Yearly": {
+      "Promoters": [56.85, 54.21, 54.46, 55.74, 55.88, 51.01, 51.01, 50.98, 50.90],
+      "FIIs": [0.00, 1.36, 0.47, 0.77, 0.83, 4.86, 4.76, 4.89, 5.56],
+      "DIIs": [0.25, 0.12, 1.15, 1.32, 0.25, 2.12, 5.48, 0.98, 5.95],
+      "Public": [42.90, 44.30, 43.92, 42.17, 43.04, 42.01, 38.75, 43.15, 37.59]
+    }
+  }
+}

@@ -1,0 +1,249 @@
+
+{
+  "Company Overview": {
+    "Name": "Tanla Platforms Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Medium / Small",
+    "Description": "Tanla Platforms Ltd (formerly Tanla Solutions Ltd) is a cloud communications provider enabling businesses to communicate with their customers and intended recipients. It is headquartered in Hyderabad, India. It is a global A2P(application to person) messaging platform provider.",
+    "MarketPosition": "Global A2P messaging platform provider. ~50% of Tanla's top 50 customers have been with them for more than 7 years.  Key customers include Airtel, SFR, Google, Facebook, LinkedIn, HDFC Bank, Kotak Bank, Axis Bank, CMAS, Dept of Telecommunications, Truecaller, etc."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 8,990 Cr.",
+    "CurrentPrice": "₹ 668",
+    "HighLow": "₹ 1,248 / ₹ 662",
+    "StockPE": 16.6,
+    "BookValue": "₹ 157",
+    "DividendYield": "1.80 %",
+    "ROCE": "38.3 %",
+    "ROE": "31.7 %",
+    "FaceValue": "₹ 1.00"
+  },
+  "PerformanceTrends": {
+    "QuarterlyResults": {
+      "Sales": [
+        {"period": "Sep 2021", "value": 842},
+        {"period": "Dec 2021", "value": 885},
+        {"period": "Mar 2022", "value": 853},
+        {"period": "Jun 2022", "value": 800},
+        {"period": "Sep 2022", "value": 851},
+        {"period": "Dec 2022", "value": 870},
+        {"period": "Mar 2023", "value": 833},
+        {"period": "Jun 2023", "value": 911},
+        {"period": "Sep 2023", "value": 1009}
+      ],
+      "Expenses": [
+        {"period": "Sep 2021", "value": 663},
+        {"period": "Dec 2021", "value": 682},
+        {"period": "Mar 2022", "value": 669},
+        {"period": "Jun 2022", "value": 669},
+        {"period": "Sep 2022", "value": 712},
+        {"period": "Dec 2022", "value": 718},
+        {"period": "Mar 2023", "value": 667},
+        {"period": "Jun 2023", "value": 729},
+        {"period": "Sep 2023", "value": 812}
+
+      ],
+      "NetProfit": [
+        {"period": "Sep 2021", "value": 136},
+        {"period": "Dec 2021", "value": 158},
+        {"period": "Mar 2022", "value": 141},
+        {"period": "Jun 2022", "value": 100},
+        {"period": "Sep 2022", "value": 110},
+        {"period": "Dec 2022", "value": 117},
+        {"period": "Mar 2023", "value": 120},
+        {"period": "Jun 2023", "value": 135},
+        {"period": "Sep 2023", "value": 143}
+      ]
+    },
+    "AnnualResults": {
+      "Sales": [
+        {"year": "Mar 2013", "value": 117},
+        {"year": "Mar 2014", "value": 105},
+        {"year": "Mar 2015", "value": 242},
+        {"year": "Mar 2016", "value": 432},
+        {"year": "Mar 2017", "value": 579},
+        {"year": "Mar 2018", "value": 792},
+        {"year": "Mar 2019", "value": 1004},
+        {"year": "Mar 2020", "value": 1943},
+        {"year": "Mar 2021", "value": 2341},
+        {"year": "Mar 2022", "value": 3206},
+        {"year": "Mar 2023", "value": 3355}
+      ],
+      "NetProfit": [
+        {"year": "Mar 2013", "value": -147},
+        {"year": "Mar 2014", "value": -20},
+        {"year": "Mar 2015", "value": 3},
+        {"year": "Mar 2016", "value": 7},
+        {"year": "Mar 2017", "value": 41},
+        {"year": "Mar 2018", "value": 19},
+        {"year": "Mar 2019", "value": 30},
+        {"year": "Mar 2020", "value": -211},
+        {"year": "Mar 2021", "value": 356},
+        {"year": "Mar 2022", "value": 539},
+        {"year": "Mar 2023", "value": 448}
+      ]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth": {
+        "10Years": "44%",
+        "5Years": "31%",
+        "3Years": "19%",
+        "TTM": "11%"
+      },
+      "CompoundedProfitGrowth": {
+        "10Years": "50%",
+        "5Years": "87%",
+        "3Years": "16%",
+        "TTM": "5%"
+      },
+      "StockPriceCAGR": {
+        "10Years": "46%",
+        "5Years": "59%",
+        "3Years": "-30%",
+        "1Year": "-39%"
+      }
+    },
+    "LiquidityRatios": {}, 
+    "ProfitabilityRatios": {
+      "ROE": {
+        "10Years": "20%",
+        "5Years": "30%",
+        "3Years": "36%",
+        "LastYear": "32%"
+      },
+      "ROCE": {
+        "10Years": "20%",
+        "5Years": "30%",
+        "3Years": "36%",
+        "LastYear": "32%"
+      }
+    },
+    "ValuationRatios": {
+      "PE": 16.6,
+      "PriceToBook": {}
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Oracle Fin.Serv.", "CMP": 12247.55, "P/E": 42.61, "MarCap": 106322.89, "DivYld": 1.96, "NPQtr": 577.70, "QtrProfitVar": 38.39, "SalesQtr": 1673.90, "QtrSalesVar": 15.88, "ROCE": 39.54},
+      {"Name": "PB Fintech.", "CMP": 2092.15, "P/E": 554.42, "MarCap": 96075.89, "DivYld": 0.00, "NPQtr": 50.98, "QtrProfitVar": 350.35, "SalesQtr": 1167.23, "QtrSalesVar": 43.81, "ROCE": 1.75},
+      {"Name": "Coforge", "CMP": 9370.45, "P/E": 79.48, "MarCap": 62650.25, "DivYld": 0.81, "NPQtr": 233.60, "QtrProfitVar": 11.71, "SalesQtr": 3062.30, "QtrSalesVar": 34.54, "ROCE": 28.60},
+      {"Name": "Tata Elxsi", "CMP": 6921.60, "P/E": 52.77, "MarCap": 43110.04, "DivYld": 1.01, "NPQtr": 229.43, "QtrProfitVar": 14.70, "SalesQtr": 955.09, "QtrSalesVar": 8.32, "ROCE": 42.74},
+      {"Name": "KPIT Technologi.", "CMP": 1451.25, "P/E": 54.80, "MarCap": 39785.12, "DivYld": 0.46, "NPQtr": 203.75, "QtrProfitVar": 45.30, "SalesQtr": 1471.41, "QtrSalesVar": 22.70, "ROCE": 38.36},
+      {"Name": "Tata Technolog.", "CMP": 893.30, "P/E": 56.02, "MarCap": 36238.37, "DivYld": 0.94, "NPQtr": 157.41, "QtrProfitVar": -1.85, "SalesQtr": 1296.45, "QtrSalesVar": 2.15, "ROCE": 28.29},
+      {"Name": "Inventurus Knowl", "CMP": 1885.80, "P/E": 87.35, "MarCap": 32355.27, "DivYld": 0.00, "NPQtr": 208.58, "QtrProfitVar": 1282.88, "SalesQtr": 103.35, "QtrSalesVar": 30.01, "ROCE": 87.35},
+      {"Name": "Tanla Platforms", "CMP": 667.85, "P/E": 16.59, "MarCap": 8990.42, "DivYld": 1.80, "NPQtr": 130.21, "QtrProfitVar": -8.66, "SalesQtr": 1000.72, "QtrSalesVar": -0.78, "ROCE": 38.28}
+    ],
+    "Median": {
+      "CMP": 283.15,
+      "P/E": 43.44,
+      "MarCap": 1028.49,
+      "DivYld": 0.0,
+      "NPQtr": 4.85,
+      "QtrProfitVar": 13.68,
+      "SalesQtr": 52.64,
+      "QtrSalesVar": 13.45,
+      "ROCE": 17.45
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 35.8%",
+      "Company has been maintaining a healthy dividend payout of 21.5%",
+      "Company's median sales growth is 34.2% of last 10 years"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "NotesOnShareholding": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ]
+  },
+  "ShareholdingPattern": {
+    "Quarterly": {
+      "Promoters": [
+        {"period": "Dec 2021", "value": "43.74%"},
+        {"period": "Mar 2022", "value": "43.74%"},
+        {"period": "Jun 2022", "value": "43.74%"},
+        {"period": "Sep 2022", "value": "43.73%"},
+        {"period": "Dec 2022", "value": "43.73%"},
+        {"period": "Mar 2023", "value": "44.18%"},
+        {"period": "Jun 2023", "value": "44.18%"},
+        {"period": "Sep 2023", "value": "44.17%"}
+      ],
+      "FIIs": [
+        {"period": "Dec 2021", "value": "13.47%"},
+        {"period": "Mar 2022", "value": "13.46%"},
+        {"period": "Jun 2022", "value": "13.46%"},
+        {"period": "Sep 2022", "value": "12.73%"},
+        {"period": "Dec 2022", "value": "14.02%"},
+        {"period": "Mar 2023", "value": "14.23%"},
+        {"period": "Jun 2023", "value": "14.56%"},
+        {"period": "Sep 2023", "value": "15.15%"}
+      ],
+      "DIIs": [
+        {"period": "Dec 2021", "value": "0.05%"},
+        {"period": "Mar 2022", "value": "3.03%"},
+        {"period": "Jun 2022", "value": "2.77%"},
+        {"period": "Sep 2022", "value": "0.09%"},
+        {"period": "Dec 2022", "value": "0.07%"},
+        {"period": "Mar 2023", "value": "0.07%"},
+        {"period": "Jun 2023", "value": "0.38%"},
+        {"period": "Sep 2023", "value": "0.74%"}
+      ],
+      "Public": [
+        {"period": "Dec 2021", "value": "42.74%"},
+        {"period": "Mar 2022", "value": "39.77%"},
+        {"period": "Jun 2022", "value": "40.03%"},
+        {"period": "Sep 2022", "value": "43.43%"},
+        {"period": "Dec 2022", "value": "42.16%"},
+        {"period": "Mar 2023", "value": "41.50%"},
+        {"period": "Jun 2023", "value": "40.89%"},
+        {"period": "Sep 2023", "value": "39.94%"}
+      ]
+    },
+    "Yearly": {
+      "Promoters": [
+        {"year": "Mar 2017", "value": "33.69%"},
+        {"year": "Mar 2018", "value": "30.63%"},
+        {"year": "Mar 2019", "value": "35.06%"},
+        {"year": "Mar 2020", "value": "32.42%"},
+        {"year": "Mar 2021", "value": "41.22%"},
+        {"year": "Mar 2022", "value": "43.74%"},
+        {"year": "Mar 2023", "value": "44.18%"}
+      ],
+      "FIIs": [
+        {"year": "Mar 2017", "value": "0.62%"},
+        {"year": "Mar 2018", "value": "0.00%"},
+        {"year": "Mar 2019", "value": "0.00%"},
+        {"year": "Mar 2020", "value": "0.09%"},
+        {"year": "Mar 2021", "value": "11.82%"},
+        {"year": "Mar 2022", "value": "13.46%"},
+        {"year": "Mar 2023", "value": "14.23%"}
+      ],
+      "DIIs": [
+        {"year": "Mar 2017", "value": "0.35%"},
+        {"year": "Mar 2018", "value": "0.21%"},
+        {"year": "Mar 2019", "value": "0.30%"},
+        {"year": "Mar 2020", "value": "15.09%"},
+        {"year": "Mar 2021", "value": "3.27%"},
+        {"year": "Mar 2022", "value": "3.03%"},
+        {"year": "Mar 2023", "value": "0.07%"}
+      ],
+      "Public": [
+        {"year": "Mar 2017", "value": "65.34%"},
+        {"year": "Mar 2018", "value": "69.16%"},
+        {"year": "Mar 2019", "value": "64.65%"},
+        {"year": "Mar 2020", "value": "52.40%"},
+        {"year": "Mar 2021", "value": "43.69%"},
+        {"year": "Mar 2022", "value": "39.77%"},
+        {"year": "Mar 2023", "value": "41.50%"}
+      ]
+    }
+  }
+}

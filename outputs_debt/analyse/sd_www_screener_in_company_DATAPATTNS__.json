@@ -1,0 +1,140 @@
+
+{
+  "Company Overview": {
+    "Name": "Data Patterns (India) Ltd",
+    "Sector": "Aerospace & Defence",
+    "Industry": "Electronics - Components",
+    "Business Description": "One of the fastest-growing companies in the Defence and Aerospace Electronics sector in India. It is among the few vertically integrated defence and aerospace electronics solutions providers catering to the indigenously developed defence products industry. It is focused on in-house development and manufacturing facilities led by innovation and design and development efforts. It is in the business for over 35 years. It has supplied products catering to all the platforms, viz., space, air, land and sea, including products for LCA-Tejas, Light Utility Helicopter, BrahMos missile.",
+    "Market Position": "Leading Defence Oriented Company.  Data Patterns cater to the entire spectrum of defence and aerospace platforms like space, air, land, sea and under-sea. It has design capabilities across the entire spectrum of strategic aerospace and defence electronics solutions including processors, power, radio frequency and microwave equipment, embedded software and firmware and mechanical engineering."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 14,375 Cr.",
+    "Current Price": "₹ 2,568",
+    "High / Low": "₹ 3,655 / 1,751",
+    "Stock P/E": 77.6,
+    "Book Value": "₹ 241",
+    "Dividend Yield": "0.25 %",
+    "ROCE": "19.7 %",
+    "ROE": "14.3 %",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": null //Not explicitly available, needs further calculation from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [59, 44, 171, 68, 88, 112, 185, 90, 108, 140, 182, 104, 91],
+      "Expenses": [39, 28, 83, 47, 58, 65, 112, 62, 68, 79, 89, 67, 57],
+      "Operating Profit": [21, 16, 87, 21, 30, 47, 73, 28, 41, 60, 93, 37, 34],
+      "OPM %": [35, 36, 51, 31, 34, 42, 40, 31, 38, 43, 51, 36, 38],
+      "Other Income": [0, 1, 3, 2, 2, 2, 4, 12, 11, 11, 12, 12, 12],
+      "Interest": [3, 3, 4, 2, 1, 2, 3, 2, 2, 2, 3, 3, 3],
+      "Depreciation": [2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 7, 3, 3],
+      "Profit before tax": [17, 12, 85, 19, 29, 45, 72, 35, 46, 66, 95, 43, 40],
+      "Tax %": [23, 25, 27, 27, 27, 25, 23, 26, 27, 22, 25, 25, 24],
+      "Net Profit": [13, 9, 62, 14, 21, 33, 55, 26, 34, 51, 71, 33, 30],
+      "EPS in Rs": [2.76, 1.73, 11.88, 2.74, 4.06, 6.42, 9.89, 4.61, 6.04, 9.10, 12.70, 5.86, 5.41]
+    },
+    "Annual Results": {
+      "Sales": [63, 50, 42, 49, 57, 131, 156, 224, 311, 453, 520, 517],
+      "Expenses": [46, 39, 35, 40, 48, 106, 113, 132, 170, 282, 298, 292],
+      "Operating Profit": [17, 11, 7, 9, 9, 26, 43, 92, 141, 172, 222, 225],
+      "OPM %": [27, 22, 16, 18, 16, 19, 28, 41, 45, 38, 43, 43],
+      "Other Income": [1, 1, 2, 0, 0, 1, 4, 3, 4, 9, 46, 48],
+      "Interest": [5, 5, 5, 5, 5, 11, 13, 14, 11, 8, 9, 11],
+      "Depreciation": [2, 3, 3, 3, 3, 6, 5, 6, 7, 8, 16, 17],
+      "Profit before tax": [10, 4, 1, 1, 1, 10, 28, 75, 127, 165, 242, 245],
+      "Tax %": [33, 36, 1, 35, -23, 26, 26, 25, 26, 25, 25],
+      "Net Profit": [7, 3, 1, 1, 1, 8, 21, 56, 94, 124, 182, 185],
+      "EPS in Rs": [40.36, 15.30, 4.71, 4.18, 7.35, 45.30, 123.84, 326.86, 18.11, 22.15, 32.45, 33.07]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [2, 2, 2, 2, 2, 2, 2, 2, 10, 11, 11, 11],
+      "Reserves": [100, 102, 102, 103, 104, 131, 152, 206, 564, 1156, 1313, 1338],
+      "Borrowings": [34, 38, 38, 35, 32, 60, 61, 37, 9, 2, 4, 7],
+      "Other Liabilities": [13, 15, 15, 13, 17, 84, 81, 84, 123, 265, 364, 346],
+      "Total Liabilities": [149, 157, 157, 152, 154, 277, 295, 329, 707, 1435, 1692, 1702],
+      "Fixed Assets": [32, 29, 26, 24, 23, 36, 33, 33, 47, 112, 150, 233],
+      "CWIP": [0, 0, 0, 0, 0, 0, 0, 0, 17, 1, 48, 4],
+      "Investments": [7, 7, 7, 7, 7, 0, 0, 0, 0, 56, 262, 364],
+      "Other Assets": [109, 120, 123, 121, 124, 241, 262, 295, 642, 1266, 1231, 1101],
+      "Total Assets": [149, 157, 157, 152, 154, 277, 295, 329, 707, 1435, 1692, 1702]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [13, 1, 6, 9, 11, -4, 13, 43, 52, -17, 139],
+      "Cash from Investing Activity": [-1, -1, 0, 0, -2, 0, 1, 9, -120, -383, -224],
+      "Cash from Financing Activity": [-11, -2, -6, -8, -8, 2, -14, -45, 236, 438, -43],
+      "Net Cash Flow": [1, -1, 0, 0, 0, -2, 1, 7, 168, 38, -127]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "24%",
+      "Compounded Sales Growth (5 Years)": "32%",
+      "Compounded Sales Growth (3 Years)": "32%",
+      "Compounded Sales Growth (TTM)": "4%",
+      "Compounded Profit Growth (10 Years)": "38%",
+      "Compounded Profit Growth (5 Years)": "87%",
+      "Compounded Profit Growth (3 Years)": "47%",
+      "Compounded Profit Growth (TTM)": "25%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [247, 344, 424, 400, 418, 287, 270, 254, 233, 308, 280],
+      "Inventory Days": [480, 906, 1377, 1350, 1044, 646, 517, 382, 508, 412, 590],
+      "Days Payable": [31, 164, 197, 145, 148, 118, 112, 62, 162, 95, 111],
+      "Cash Conversion Cycle": [695, 1086, 1604, 1606, 1315, 815, 675, 574, 579, 625, 759],
+      "Working Capital Days": [569, 774, 940, 797, 687, 424, 367, 335, 290, 405, 278]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [7, 4, 4, 4, 13, 20, 39, 33, 20, 20]
+    },
+    "Valuation Ratios": {
+      "Price to Book": null // Needs calculation
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Bharat Electron", "CMP": 290.85, "P/E": 46.83, "Mar Cap": 212604.92, "Div Yld": 0.76, "NP Qtr": 1092.78, "Qtr Profit Var": 38.40, "Sales Qtr": 4604.90, "Qtr Sales Var": 14.86, "ROCE": 34.61},
+      {"Name": "Data Pattern", "CMP": 2567.75, "P/E": 77.65, "Mar Cap": 14375.28, "Div Yld": 0.25, "NP Qtr": 30.28, "Qtr Profit Var": -10.39, "Sales Qtr": 91.02, "Qtr Sales Var": -15.96, "ROCE": 19.71},
+      {"Name": "DCX Systems", "CMP": 329.80, "P/E": 67.42, "Mar Cap": 3673.52, "Div Yld": 0.00, "NP Qtr": 5.22, "Qtr Profit Var": -73.70, "Sales Qtr": 195.62, "Qtr Sales Var": -36.72, "ROCE": 9.98},
+      {"Name": "Apollo Micro Sys", "CMP": 94.15, "P/E": 60.47, "Mar Cap": 2885.60, "Div Yld": 0.05, "NP Qtr": 15.87, "Qtr Profit Var": 139.73, "Sales Qtr": 160.71, "Qtr Sales Var": 84.39, "ROCE": 12.01}
+    ],
+    "Median": {
+      "CMP": 310.33,
+      "P/E": 63.95,
+      "Mar Cap": 9024.4,
+      "Div Yld": 0.15,
+      "NP Qtr": 23.07,
+      "Qtr Profit Var": 14.0,
+      "Sales Qtr": 178.17,
+      "Qtr Sales Var": -0.55,
+      "ROCE": 15.86
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 87.3% CAGR over last 5 years",
+      "Company has been maintaining a healthy dividend payout of 19.9%"
+    ],
+    "Cons": [
+      "Stock is trading at 10.6 times its book value",
+      "Company has high debtors of 280 days.",
+      "Promoter holding has decreased over last 3 years: -22.4%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [45.62, 45.62, 45.62, 45.76, 45.76, 42.41, 42.41, 42.41, 42.41, 42.41, 42.41, 42.41],
+      "FIIs": [1.27, 1.48, 1.43, 1.60, 2.30, 5.08, 5.32, 7.17, 6.74, 14.56, 14.95, 14.39],
+      "DIIs": [9.18, 8.01, 8.25, 9.24, 7.90, 11.64, 11.11, 9.55, 9.15, 11.58, 8.52, 8.72],
+      "Public": [43.93, 44.89, 44.70, 43.40, 44.03, 40.88, 41.15, 40.88, 41.71, 31.44, 34.12, 34.47]
+    },
+    "Yearly": {
+      "Promoters": [45.62, 42.41, 42.41, 42.41],
+      "FIIs": [1.48, 5.08, 14.56, 14.39],
+      "DIIs": [8.01, 11.64, 11.58, 8.72],
+      "Public": [44.89, 40.88, 31.44, 34.47]
+    }
+  }
+}

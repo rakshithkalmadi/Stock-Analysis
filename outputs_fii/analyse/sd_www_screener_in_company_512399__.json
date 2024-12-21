@@ -1,0 +1,137 @@
+
+{
+  "Company Overview": {
+    "Name": "Sera Investments & Finance India Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Business Description": "Investment company mainly involved in trading in the stock market, providing loans and leasing, and trading in ferrous and non-ferrous metals.",
+    "Market Position": "Information not explicitly provided in the HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 245 Cr.",
+    "Current Price": "₹ 37.6",
+    "High/Low": "₹ 48.7 / ₹ 11.9",
+    "Stock P/E": 14.7,
+    "Book Value": "₹ 10.6",
+    "Dividend Yield": "0.27 %",
+    "ROCE": "28.2 %",
+    "ROE": "37.6 %",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": "Information not explicitly provided in the HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [2.59, 0.13, -3.96, -0.90, 2.93, -0.73, 1.48, 2.33, 1.40, 9.13, 5.27, 5.98, 2.86], 
+      "Expenses": [0.47, 0.57, 1.11, 4.32, 0.43, 0.51, 9.23, 0.27, 0.24, 1.52, 0.30, 0.60, -0.04],
+      "Operating Profit": [2.12, -0.44, -5.07, -5.22, 2.50, -1.24, -7.75, 2.06, 1.16, 7.61, 4.97, 5.38, 2.90],
+      "OPM %": [81.85, -338.46, 85.32, -523.65, 88.41, 82.86, 83.35, 94.31, 89.97, 101.40],
+      "Other Income": [0.00, 3.12, 0.00, 0.00, 0.00, 0.04, 0.00, 0.21, 4.53, 0.00, 0.00, 0.00, 0.00],
+      "Interest": [0.36, 0.55, 0.89, 0.40, 0.24, 0.03, 0.25, 0.39, 0.20, 0.13, 0.23, 0.48, 0.51],
+      "Depreciation": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.03, 0.07, 0.16, 0.10, 0.24],
+      "Profit before tax": [1.76, 2.13, -5.96, -5.62, 2.26, -1.23, -8.00, 1.88, 5.46, 7.41, 4.58, 4.80, 2.15],
+      "Tax %": [-17.05, 0.00, -7.55, 0.00, 0.00, 0.00, 17.38, 18.62, 0.00, 0.00, 24.24, 24.79, -1.86],
+      "Net Profit": [2.06, 2.13, -5.51, -5.62, 2.26, -1.23, -9.39, 1.53, 5.46, 7.41, 3.46, 3.61, 2.19],
+      "EPS in Rs": [0.82, 0.85, -2.20, -1.12, 0.45, -0.25, -1.88, 0.31, 1.09, 1.48, 0.53, 0.56, 0.34]
+    },
+    "Annual Results": {
+      "Sales": [1,1,1,1,1,0,1,1,0,3,-1,23],
+      "Expenses": [0,2,0,0,0,0,0,0,0,2,11,2],
+      "Operating Profit": [0,-1,1,1,1,0,0,1,0,1,-12,21],
+      "OPM %": [12,-169,84,73,77,55,44,76,20,26,90,90],
+      "Other Income": [0,-0,0,0,0,0,0,0,0,0,0,0],
+      "Interest": [0,0,0,0,0,0,0,0,0,2,1,1],
+      "Depreciation": [0,0,0,0,0,0,0,0,0,0,0,0],
+      "Profit before tax": [0,-1,1,1,1,0,0,0,-0,-1,-13,19],
+      "Tax %": [20,13,33,33,34,38,169,23,3,0,11,8],
+      "Net Profit": [0,-1,0,0,0,0,-0,0,-0,-1,-14,18],
+      "EPS in Rs": [0.06,-1.12,0.31,0.27,0.31,0.13,-0.07,0.08,-0.14,-0.44,-2.79,2.75]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [1,1,1,1,1,1,1,2,5,5,10,13],
+      "Reserves": [4,3,3,3,4,4,4,2,12,7,16,56],
+      "Borrowings": [0,0,0,0,0,0,3,3,0,40,30,19],
+      "Other Liabilities": [0,0,0,0,0,0,0,0,0,0,0,2],
+      "Total Liabilities": [5,4,4,4,5,5,8,8,17,52,56,91],
+      "Fixed Assets": [0,0,0,0,0,0,0,0,0,0,0,1],
+      "CWIP": [0,0,0,0,0,0,0,0,0,0,0,0],
+      "Investments": [0,0,0,0,0,0,0,3,11,35,26,34],
+      "Other Assets": [5,4,4,4,5,5,8,4,6,17,30,56],
+      "Total Assets": [5,4,4,4,5,5,8,8,17,52,56,91]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [-1,0,-0,-0,-3,0,0,-0,-6,-6,-6],
+      "Cash from Investing Activity": [1,-0,1,1,0,0,-3,-10,-29,8,-6],
+      "Cash from Financing Activity": [0,0,0,0,3,-0,3,10,35,-2,13],
+      "Net Cash Flow": [0,0,1,0,-0,0,0,0,-0,1,2]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "43%",
+      "Compounded Sales Growth (5 Years)": "113%",
+      "Compounded Sales Growth (3 Years)": "324%",
+      "Compounded Sales Growth (TTM)": "419%",
+      "Compounded Profit Growth (10 Years)": "32%",
+      "Compounded Profit Growth (5 Years)": "189%",
+      "Compounded Profit Growth (3 Years)": "279%",
+      "Compounded Profit Growth (TTM)": "559%",
+      "Stock Price CAGR (5 Years)": "28%",
+      "Stock Price CAGR (3 Years)": "46%",
+      "Stock Price CAGR (1 Year)": "115%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [0,0,0,0,0,0,0,0,0,590,-348,41],
+      "Inventory Days": [],
+      "Days Payable": [],
+      "Cash Conversion Cycle": [0,0,0,0,0,0,0,0,0,590,-348,41],
+      "Working Capital Days": [1369,-17,151,151,351,4073,5461,-49,-36,705,382,16]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [0,-24,15,12,13,5,4,7,0,2,-22,28],
+      "Return on Equity (10 Years)": "3%",
+      "Return on Equity (5 Years)": "3%",
+      "Return on Equity (3 Years)": "3%",
+      "Return on Equity (Last Year)": "38%"
+    },
+    "Valuation Ratios": {
+      "Price to Book": "Information not explicitly provided, but implied by the data."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": 6848.25, "P/E": 27.57, "Mar Cap": 423904.26, "Div Yld": 0.53, "NP Qtr": 4013.74, "Qtr Profit Var": 12.64, "Sales Qtr": 17090.27, "Qtr Sales Var": 27.71, "ROCE": 11.92},
+      {"Name": "Bajaj Finserv", "CMP": 1569.65, "P/E": 29.48, "Mar Cap": 250620.07, "Div Yld": 0.06, "NP Qtr": 4180.15, "Qtr Profit Var": 8.19, "Sales Qtr": 33703.74, "Qtr Sales Var": 29.52, "ROCE": 11.72},
+      {"Name": "Jio Financial", "CMP": 304.30, "P/E": 120.37, "Mar Cap": 193330.44, "Div Yld": 0.00, "NP Qtr": 689.07, "Qtr Profit Var": 3.13, "Sales Qtr": 693.50, "Qtr Sales Var": 14.05, "ROCE": 1.55},
+      {"Name": "Bajaj Holdings", "CMP": 10746.75, "P/E": 16.15, "Mar Cap": 119600.58, "Div Yld": 1.22, "NP Qtr": 1510.43, "Qtr Profit Var": -3.67, "Sales Qtr": 279.07, "Qtr Sales Var": 24.18, "ROCE": 13.07},
+      {"Name": "Shriram Finance", "CMP": 2877.25, "P/E": 13.80, "Mar Cap": 108201.51, "Div Yld": 1.56, "NP Qtr": 2153.27, "Qtr Profit Var": 17.99, "Sales Qtr": 10089.54, "Qtr Sales Var": 17.93, "ROCE": 11.27},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": 1189.55, "P/E": 25.96, "Mar Cap": 100010.48, "Div Yld": 0.17, "NP Qtr": 967.80, "Qtr Profit Var": 25.22, "Sales Qtr": 6255.12, "Qtr Sales Var": 35.32, "ROCE": 10.41},
+      {"Name": "HDFC AMC", "CMP": 4262.80, "P/E": 41.19, "Mar Cap": 91089.60, "Div Yld": 1.64, "NP Qtr": 576.88, "Qtr Profit Var": 31.84, "Sales Qtr": 887.21, "Qtr Sales Var": 37.96, "ROCE": 37.72}
+    ],
+    "Median": {
+      "CMP": 202.59,
+      "P/E": 25.6,
+      "Mar Cap": 552.06,
+      "Div Yld": 0.0,
+      "NP Qtr": 5.38,
+      "Qtr Profit Var": 20.11,
+      "Sales Qtr": 24.74,
+      "Qtr Sales Var": 26.2,
+      "ROCE": 10.26
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company has delivered good profit growth of 189% CAGR over last 5 years",
+      "Debtor days have improved from 94.5 to 41.3 days.",
+      "Company's working capital requirements have reduced from 368 days to 16.3 days"
+    ],
+    "Cons": [
+      "Stock is trading at 3.54 times its book value",
+      "Company has a low return on equity of 3.49% over last 3 years.",
+      "Promoter holding has decreased over last 3 years: -4.72%"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+  }
+}

@@ -1,0 +1,383 @@
+
+{
+  "Company Overview": {
+    "Name": "Gillette India Ltd",
+    "Sector": "FMCG",
+    "Industry": "Personal Care - Multinational",
+    "Business Description": "Gillette India Limited is a public company engaged in manufacturing and selling packaged fast-moving goods under its various brands in the grooming and oral care segment. Gillette sells razors and blades, shaving gel, shaving cream, and aftershave through various modes like drug stores, department stores, grocery stores, mass merchandisers, and membership club stores.",
+    "Market Position": "Part of Nifty MidSmallcap 400, Nifty Smallcap 250, BSE 400 MidSmallCap Index, BSE MidCap, BSE Allcap, BSE 250 SmallCap Index, Nifty 500 Multicap 50:25:25, BSE Quality Index, Nifty Total Market, BSE 500, BSE Fast Moving Consumer Goods, Nifty 500"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 30,682 Cr.",
+    "Current Price": "₹ 9,414",
+    "High/Low": "₹ 10,699 / ₹ 6,071",
+    "P/E Ratio": 67.9,
+    "Book Value": "₹ 298",
+    "Dividend Yield": "0.48%",
+    "ROCE": "58.9%",
+    "ROE": "42.5%",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": 573,
+        "Dec 2021": 563,
+        "Mar 2022": 567,
+        "Jun 2022": 553,
+        "Sep 2022": 620,
+        "Dec 2022": 619,
+        "Mar 2023": 619,
+        "Jun 2023": 619,
+        "Sep 2023": 668,
+        "Dec 2023": 639,
+        "Mar 2024": 681,
+        "Jun 2024": 645,
+        "Sep 2024": 782
+      },
+      "Expenses": {
+        "Sep 2021": 448,
+        "Dec 2021": 449,
+        "Mar 2022": 435,
+        "Jun 2022": 441,
+        "Sep 2022": 484,
+        "Dec 2022": 493,
+        "Mar 2023": 485,
+        "Jun 2023": 476,
+        "Sep 2023": 530,
+        "Dec 2023": 484,
+        "Mar 2024": 520,
+        "Jun 2024": 470,
+        "Sep 2024": 591
+      },
+      "Net Profit": {
+        "Sep 2021": 82,
+        "Dec 2021": 70,
+        "Mar 2022": 69,
+        "Jun 2022": 68,
+        "Sep 2022": 87,
+        "Dec 2022": 74,
+        "Mar 2023": 103,
+        "Jun 2023": 92,
+        "Sep 2023": 93,
+        "Dec 2023": 104,
+        "Mar 2024": 99,
+        "Jun 2024": 116,
+        "Sep 2024": 133
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Jun 2013": 1424,
+        "Jun 2014": 1662,
+        "Jun 2015": 1875,
+        "Jun 2016": 1755,
+        "Jun 2017": 1733,
+        "Jun 2018": 1677,
+        "Jun 2019": 1862,
+        "Jun 2020": 1679,
+        "Jun 2021": 1982,
+        "Jun 2022": 2256,
+        "Jun 2023": 2477,
+        "Jun 2024": 2633,
+        "TTM": 2747
+      },
+      "Net Profit": {
+        "Jun 2013": 87,
+        "Jun 2014": 51,
+        "Jun 2015": 158,
+        "Jun 2016": 214,
+        "Jun 2017": 253,
+        "Jun 2018": 229,
+        "Jun 2019": 253,
+        "Jun 2020": 230,
+        "Jun 2021": 310,
+        "Jun 2022": 289,
+        "Jun 2023": 356,
+        "Jun 2024": 412,
+        "TTM": 452
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE": {
+      "Jun 2013": "22%",
+      "Jun 2014": "12%",
+      "Jun 2015": "35%",
+      "Jun 2016": "39%",
+      "Jun 2017": "54%",
+      "Jun 2018": "60%",
+      "Jun 2019": "48%",
+      "Jun 2020": "38%",
+      "Jun 2021": "51%",
+      "Jun 2022": "51%",
+      "Jun 2023": "52%",
+      "Jun 2024": "59%"
+    },
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "5%",
+        "5 Years": "7%",
+        "3 Years": "10%",
+        "TTM": "9%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "23%",
+        "5 Years": "10%",
+        "3 Years": "10%",
+        "TTM": "25%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "11%",
+        "5 Years": "7%",
+        "3 Years": "21%",
+        "1 Year": "53%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": {
+        "Jun 2013": 24,
+        "Jun 2014": 20,
+        "Jun 2015": 23,
+        "Jun 2016": 23,
+        "Jun 2017": 27,
+        "Jun 2018": 38,
+        "Jun 2019": 36,
+        "Jun 2020": 41,
+        "Jun 2021": 36,
+        "Jun 2022": 43,
+        "Jun 2023": 47,
+        "Jun 2024": 38
+      },
+      "Inventory Days": {
+        "Jun 2013": 131,
+        "Jun 2014": 104,
+        "Jun 2015": 87,
+        "Jun 2016": 104,
+        "Jun 2017": 103,
+        "Jun 2018": 105,
+        "Jun 2019": 104,
+        "Jun 2020": 136,
+        "Jun 2021": 152,
+        "Jun 2022": 130,
+        "Jun 2023": 127,
+        "Jun 2024": 131
+      },
+      "Days Payable": {
+        "Jun 2013": 122,
+        "Jun 2014": 116,
+        "Jun 2015": 116,
+        "Jun 2016": 137,
+        "Jun 2017": 150,
+        "Jun 2018": 173,
+        "Jun 2019": 126,
+        "Jun 2020": 138,
+        "Jun 2021": 169,
+        "Jun 2022": 193,
+        "Jun 2023": 209,
+        "Jun 2024": 212
+      },
+      "Cash Conversion Cycle": {
+        "Jun 2013": 33,
+        "Jun 2014": 9,
+        "Jun 2015": -6,
+        "Jun 2016": -10,
+        "Jun 2017": -19,
+        "Jun 2018": -30,
+        "Jun 2019": 15,
+        "Jun 2020": 40,
+        "Jun 2021": 19,
+        "Jun 2022": -20,
+        "Jun 2023": -35,
+        "Jun 2024": -43
+      },
+      "Working Capital Days": {
+        "Jun 2013": 48,
+        "Jun 2014": 27,
+        "Jun 2015": 49,
+        "Jun 2016": -10,
+        "Jun 2017": -17,
+        "Jun 2018": -18,
+        "Jun 2019": 15,
+        "Jun 2020": 35,
+        "Jun 2021": 14,
+        "Jun 2022": -0,
+        "Jun 2023": -4,
+        "Jun 2024": -7
+      }
+    },
+    "Profitability Ratios": {
+      "ROE": {
+        "10 Years": "34%",
+        "5 Years": "36%",
+        "3 Years": "39%",
+        "Last Year": "42%"
+      },
+      "OPM %": {
+        "Sep 2021": "22%",
+        "Dec 2021": "20%",
+        "Mar 2022": "23%",
+        "Jun 2022": "20%",
+        "Sep 2022": "22%",
+        "Dec 2022": "20%",
+        "Mar 2023": "22%",
+        "Jun 2023": "23%",
+        "Sep 2023": "21%",
+        "Dec 2023": "24%",
+        "Mar 2024": "24%",
+        "Jun 2024": "27%",
+        "Sep 2024": "24%"
+      }
+    },
+    "Valuation Ratios": {
+      "Price to Book": null, 
+      "Market Cap / Sales": null
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Hind. Unilever", "CMP": 2333.90, "P/E": 53.35, "Mar Cap": 548371.10, "Div Yld": 1.80, "NP Qtr": 2595.00, "Qtr Profit Var": -2.14, "Sales Qtr": 15926.00, "Qtr Sales Var": 1.94, "ROCE": 27.24},
+      {"Name": "Colgate-Palmoliv", "CMP": 2750.85, "P/E": 50.93, "Mar Cap": 74819.17, "Div Yld": 1.74, "NP Qtr": 395.05, "Qtr Profit Var": 16.17, "Sales Qtr": 1619.11, "Qtr Sales Var": 10.06, "ROCE": 96.80},
+      {"Name": "P & G Hygiene", "CMP": 15114.75, "P/E": 72.55, "Mar Cap": 49063.59, "Div Yld": 1.29, "NP Qtr": 211.90, "Qtr Profit Var": 0.57, "Sales Qtr": 1135.16, "Qtr Sales Var": -0.28, "ROCE": 112.44},
+      {"Name": "Gillette India", "CMP": 9414.40, "P/E": 67.88, "Mar Cap": 30681.53, "Div Yld": 0.48, "NP Qtr": 133.01, "Qtr Profit Var": 43.50, "Sales Qtr": 781.82, "Qtr Sales Var": 17.12, "ROCE": 58.91}
+    ],
+    "Median": {
+      "CMP": 6082.62,
+      "P/E": 60.61,
+      "Mar Cap": 61941.38,
+      "Div Yld": 1.52,
+      "NP Qtr": 303.48,
+      "Qtr Profit Var": 8.37,
+      "Sales Qtr": 1377.13,
+      "Qtr Sales Var": 6.0,
+      "ROCE": 77.85
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 38.9%",
+      "Company has been maintaining a healthy dividend payout of 86.2%"
+    ],
+    "Cons": [
+      "Stock is trading at 31.6 times its book value",
+      "The company has delivered a poor sales growth of 7.18% over past five years."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Notes on Shareholding Pattern": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": "75.00%",
+      "FIIs": {
+        "Dec 2021": "2.11%",
+        "Mar 2022": "2.17%",
+        "Jun 2022": "2.18%",
+        "Sep 2022": "2.34%",
+        "Dec 2022": "2.50%",
+        "Mar 2023": "1.52%",
+        "Jun 2023": "0.66%",
+        "Sep 2023": "0.61%",
+        "Dec 2023": "0.64%",
+        "Mar 2024": "0.71%",
+        "Jun 2024": "1.84%",
+        "Sep 2024": "3.27%"
+      },
+      "DIIs": {
+        "Dec 2021": "10.49%",
+        "Mar 2022": "10.34%",
+        "Jun 2022": "10.43%",
+        "Sep 2022": "10.37%",
+        "Dec 2022": "10.16%",
+        "Mar 2023": "10.78%",
+        "Jun 2023": "11.29%",
+        "Sep 2023": "11.08%",
+        "Dec 2023": "11.22%",
+        "Mar 2024": "12.82%",
+        "Jun 2024": "12.08%",
+        "Sep 2024": "10.79%"
+      },
+      "Public": {
+        "Dec 2021": "12.41%",
+        "Mar 2022": "12.50%",
+        "Jun 2022": "12.39%",
+        "Sep 2022": "12.31%",
+        "Dec 2022": "12.35%",
+        "Mar 2023": "12.71%",
+        "Jun 2023": "13.06%",
+        "Sep 2023": "13.32%",
+        "Dec 2023": "13.15%",
+        "Mar 2024": "11.48%",
+        "Jun 2024": "11.08%",
+        "Sep 2024": "10.96%"
+      }
+    },
+    "Yearly": {
+      "Promoters": "75.00%",
+      "FIIs": {
+        "Mar 2017": "5.58%",
+        "Mar 2018": "5.22%",
+        "Mar 2019": "4.27%",
+        "Mar 2020": "3.95%",
+        "Mar 2021": "2.04%",
+        "Mar 2022": "2.17%",
+        "Mar 2023": "1.52%",
+        "Mar 2024": "0.71%",
+        "Sep 2024": "3.27%"
+      },
+      "DIIs": {
+        "Mar 2017": "4.77%",
+        "Mar 2018": "5.68%",
+        "Mar 2019": "7.11%",
+        "Mar 2020": "7.50%",
+        "Mar 2021": "10.69%",
+        "Mar 2022": "10.34%",
+        "Mar 2023": "10.78%",
+        "Mar 2024": "12.82%",
+        "Sep 2024": "10.79%"
+      },
+      "Public": {
+        "Mar 2017": "14.66%",
+        "Mar 2018": "14.11%",
+        "Mar 2019": "13.62%",
+        "Mar 2020": "13.55%",
+        "Mar 2021": "12.27%",
+        "Mar 2022": "12.50%",
+        "Mar 2023": "12.71%",
+        "Mar 2024": "11.48%",
+        "Sep 2024": "10.96%"
+      }
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "12 Dec", "Title": "Change In Senior Management Personnel - Change in Category Leader for Oral Care division."},
+      {"Date": "12 Dec", "Title": "Change In Senior Management Personnel - Appointment of new Sales Head, Rohini Venkateswaran."},
+      {"Date": "11 Dec", "Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate - Issue of duplicate share certificates to shareholders."},
+      {"Date": "5 Dec", "Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate - Information on loss of share certificates reported."},
+      {"Date": "4 Dec", "Title": "Shareholders' Approval For Appointment Of Mr. Chander Prakash Gurnani (DIN 00018234) As A Non-Executive Independent Director Of The Company For A Term Of Five Years - Appointment of Mr. Chander Prakash Gurnani as Non-Executive Independent Director."}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"},
+      {"Year": 2011, "Source": "nse"},
+      {"Year": 2011, "Source": "bse"}
+    ],
+    "Concalls": [
+      {"Date": "Sep 2024", "Transcript": null, "Notes": null, "PPT": null},
+      {"Date": "Sep 2023", "Transcript": null, "Notes": null, "PPT": null},
+      {"Date": "May 2023", "Transcript": null, "Notes": null, "PPT": null}
+    ]
+  }
+}

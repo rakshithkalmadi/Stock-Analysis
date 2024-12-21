@@ -1,0 +1,106 @@
+
+{
+  "Company Overview": {
+    "Name": "Apollo Hospitals Enterprise Ltd",
+    "Sector": "Healthcare",
+    "Industry": "Healthcare",
+    "Business Description": "Apollo Hospitals was established in 1983 by Dr. Prathap C Reddy. As the nation’s first corporate hospital, Apollo Hospitals is acclaimed for pioneering the private healthcare revolution in the country. Apollo Hospitals has emerged as Asia’s foremost integrated healthcare services provider and has a robust presence across the healthcare ecosystem, including Hospitals, Pharmacies, Primary Care & Diagnostic Clinics and several Retail Health models.",
+    "Market Position": "Asia’s foremost integrated healthcare services provider"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,04,268 Cr.",
+    "Current Price": "₹ 7,252",
+    "High/Low": "₹ 7,545 / 5,526",
+    "P/E Ratio": 88.1,
+    "Book Value": "₹ 522",
+    "Dividend Yield": "0.22 %",
+    "ROCE": "15.1 %",
+    "ROE": "13.3 %",
+    "Face Value": "₹ 5.00"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data available in tabular format for Quarterly and Yearly periods.  Requires further parsing from the provided HTML."
+    },
+    "Profit & Loss": {
+      "Note": "Data available in tabular format for Quarterly and Yearly periods. Requires further parsing from the provided HTML. Includes Sales, Expenses, Operating Profit, OPM %, Other Income, Interest, Depreciation, Profit before tax, Tax %, Net Profit, and EPS."
+    },
+    "Balance Sheet": {
+      "Note": "Data available in tabular format for Yearly periods. Requires further parsing from the provided HTML. Includes Equity Capital, Reserves, Borrowings, Other Liabilities, Total Liabilities, Fixed Assets, CWIP, Investments, Other Assets, and Total Assets."
+    },
+    "Cash Flow": {
+      "Note": "Data available in tabular format for Yearly periods. Requires further parsing from the provided HTML. Includes Cash from Operating Activity, Cash from Investing Activity, Cash from Financing Activity, and Net Cash Flow."
+    }
+  },
+  "Ratios": {
+    "Note": "Data available in tabular format for Yearly periods. Requires further parsing from the provided HTML. Includes Debtor Days, Inventory Days, Days Payable, Cash Conversion Cycle, Working Capital Days, and ROCE %."
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Max Healthcare", "CMP": 1165.20, "P/E": 106.97, "Mar Cap": 113272.83, "Div Yld": 0.13, "NP Qtr": 281.81, "Qtr Profit Var": 1.85, "Sales Qtr": 1707.46, "Qtr Sales Var": 25.26, "ROCE": 16.00},
+      {"Name": "Apollo Hospitals", "CMP": 7251.70, "P/E": 88.13, "Mar Cap": 104268.32, "Div Yld": 0.22, "NP Qtr": 395.70, "Qtr Profit Var": 63.46, "Sales Qtr": 5589.30, "Qtr Sales Var": 15.32, "ROCE": 15.11},
+      {"Name": "Fortis Health.", "CMP": 677.85, "P/E": 74.39, "Mar Cap": 51174.84, "Div Yld": 0.15, "NP Qtr": 193.08, "Qtr Profit Var": 26.85, "Sales Qtr": 1988.39, "Qtr Sales Var": 12.34, "ROCE": 10.34},
+      {"Name": "Global Health", "CMP": 1098.60, "P/E": 60.47, "Mar Cap": 29507.01, "Div Yld": 0.00, "NP Qtr": 130.81, "Qtr Profit Var": 4.51, "Sales Qtr": 956.56, "Qtr Sales Var": 13.34, "ROCE": 19.32},
+      {"Name": "Narayana Hrudaya", "CMP": 1288.10, "P/E": 33.80, "Mar Cap": 26323.72, "Div Yld": 0.31, "NP Qtr": 198.80, "Qtr Profit Var": -12.34, "Sales Qtr": 1400.01, "Qtr Sales Var": 7.26, "ROCE": 26.54},
+      {"Name": "Poly Medicure", "CMP": 2595.75, "P/E": 89.20, "Mar Cap": 26301.62, "Div Yld": 0.12, "NP Qtr": 87.45, "Qtr Profit Var": 40.62, "Sales Qtr": 420.02, "Qtr Sales Var": 24.53, "ROCE": 23.62},
+      {"Name": "Dr Lal Pathlabs", "CMP": 2946.25, "P/E": 61.35, "Mar Cap": 24625.42, "Div Yld": 0.81, "NP Qtr": 130.80, "Qtr Profit Var": 18.21, "Sales Qtr": 660.20, "Qtr Sales Var": 9.80, "ROCE": 25.17}
+    ],
+    "Median": {
+      "CMP": 572.25,
+      "P/E": 60.91,
+      "Mar Cap": 4461.75,
+      "Div Yld": 0.13,
+      "NP Qtr": 21.97,
+      "Qtr Profit Var": 25.87,
+      "Sales Qtr": 182.95,
+      "Qtr Sales Var": 14.06,
+      "ROCE": 18.72
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has delivered good profit growth of 34.3% CAGR over last 5 years. Company has been maintaining a healthy dividend payout of 22.6%.",
+    "Cons": "Stock is trading at 13.9 times its book value.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern": {
+      "Note": "Data available in tabular format for Quarterly and Yearly periods. Requires further parsing from the provided HTML. Includes Promoters, FIIs, DIIs, Government, and Public shareholding percentages.  Includes a disclaimer regarding changes in classification from Sep'2022 onwards."
+    },
+    "Indices": [
+      "BSE 100 LargeCap TMC Index",
+      "Nifty100 ESG",
+      "Nifty LargeMidcap 250",
+      "Nifty 100",
+      "Nifty Infrastructure",
+      "Nifty Services Sector",
+      "Nifty India Consumption",
+      "Nifty 200",
+      "Nifty 100 Liquid 15",
+      "Nifty 100 Equal Weight",
+      "BSE Allcap",
+      "Nifty 50",
+      "BSE Dividend Stability Index",
+      "BSE LargeCap",
+      "BSE Low Volatility Index",
+      "BSE 250 LargeMidCap Index",
+      "Nifty 500 Multicap 50:25:25",
+      "Nifty Healthcare Index",
+      "Nifty Total Market",
+      "Nifty500 Multicap Infrastructure 50:30:20",
+      "BSE 500",
+      "BSE SENSEX 50",
+      "BSE 100 ESG Index (INR)",
+      "BSE Healthcare",
+      "BSE 100",
+      "BSE 200",
+      "BSE Dollex 200",
+      "Nifty 50 Equal Weight",
+      "Nifty 100 Low Volatility 30",
+      "Nifty 500"
+    ],
+    "Documents": {
+      "Note": "List of available documents including announcements, annual reports, and credit ratings.  Requires further processing to extract specific details from each document."
+    },
+    "Concalls": {
+      "Note": "List of available concall transcripts, notes, and presentations. Requires further processing to extract specific details from each concall."
+    }
+  }
+}

@@ -1,0 +1,123 @@
+
+{
+  "Company Overview": {
+    "Name": "Som Datt Finance Corporation Ltd",
+    "Sector": "Finance",
+    "Industry": "Finance & Investments",
+    "Description": "Incorporated in 1993, Som Datt Finance Corporation Ltd does proprietary investment in stocks and securities.  Company is a Non-Banking Financial Institution (Non-Deposit Taking). Additionally, company is not a Core Investment Company (CIC) as defined in the regulations by Reserve Bank of India",
+    "MarketPosition": "Not explicitly stated, but peer comparison data is provided."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 120 Cr.",
+    "CurrentPrice": "₹ 120",
+    "High/Low": "₹ 177 / ₹ 91.8",
+    "PEratio": 13.4,
+    "BookValue": "₹ 38.1",
+    "DividendYield": "0.00%",
+    "ROCE": "46.6%",
+    "ROE": "41.2%",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": "Not explicitly stated, but mentioned as 'almost debt free' in pros."
+  },
+  "PerformanceTrends": {
+    "QuarterlyResults": {
+      "Sales": [2.26, 0.68, -0.58, -3.77, 2.79, 2.62, -0.30, 3.29, 3.62, 4.49, 3.62, 4.94, 0.03],
+      "Expenses": [0.16, 0.20, 0.19, 0.15, 0.12, 0.15, 0.10, 0.12, 0.25, 0.45, 0.49, 0.57, 0.59],
+      "OperatingProfit": [2.10, 0.48, -0.77, -3.92, 2.67, 2.47, -0.40, 3.17, 3.37, 4.04, 3.13, 4.37, -0.56],
+      "NetProfit": [1.76, 0.37, -0.69, -3.33, 2.32, 2.09, -0.36, 2.80, 3.00, 3.56, 2.74, 3.16, -0.52],
+      "EPS": [1.76, 0.37, -0.69, -3.33, 2.32, 2.09, -0.36, 2.80, 3.00, 3.56, 2.74, 3.16, -0.52]
+    },
+    "AnnualResults": {
+      "Sales": [0.93, 0.87, 1.11, 1.40, 1.60, 1.94, 0.60, 0.49, 5.37, 5.39, 1.34, 15.03, 13.08],
+      "Expenses": [0.71, 0.74, 0.79, 1.23, 1.52, 1.90, 0.36, 0.46, 0.52, 0.67, 0.52, 1.32, 2.10],
+      "OperatingProfit": [0.22, 0.13, 0.32, 0.17, 0.08, 0.04, 0.24, 0.03, 4.85, 4.72, 0.82, 13.71, 10.98],
+      "NetProfit": [0.17, 0.40, 0.17, 0.38, 0.38, 0.04, 0.17, 0.06, 4.43, 3.84, 0.72, 12.10, 8.94],
+      "EPS": [0.17, 0.40, 0.17, 0.38, 0.38, 0.04, 0.17, 0.06, 4.43, 3.84, 0.72, 12.09, 8.94]
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": [10.01, 10.01, 10.01, 10.01, 10.01, 10.01, 10.01, 10.01, 10.01, 10.01, 10.01, 10.01, 10.01],
+      "Reserves": [2.99, 3.39, 3.56, 3.94, 4.32, 4.10, 4.30, 4.36, 8.79, 12.63, 13.35, 25.44, 28.09],
+      "Borrowings": [-0.00, -0.00, -0.00, 0.11, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00],
+      "OtherLiabilities": [1.91, 1.69, 1.20, 1.41, 0.65, 0.33, 0.12, 0.07, 0.05, 0.28, 0.19, 0.24, 0.19],
+      "TotalAssets": [14.91, 15.09, 14.77, 15.47, 14.98, 14.44, 14.43, 14.44, 18.85, 22.92, 23.55, 35.69, 38.29]
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": [-0.10, -0.00, 0.27, 0.19, -2.66, -1.48, 0.56, 2.30, 2.93, 0.92, 1.69, -2.42],
+      "CashFromInvestingActivity": [-0.00, 0.81, 0.16, 1.88, 1.38, 0.05, -0.95, -1.45, -3.94, 1.79, -2.89, 2.72],
+      "CashFromFinancingActivity": [-0.16, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00, -0.00],
+      "NetCashFlow": [-0.26, 0.81, 0.43, 2.07, -1.28, -1.43, -0.40, 0.85, -1.00, 2.70, -1.20, 0.29]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth_10Years": "33%",
+      "CompoundedSalesGrowth_5Years": "90%",
+      "CompoundedSalesGrowth_3Years": "41%",
+      "CompoundedSalesGrowth_TTM": "42%",
+      "CompoundedProfitGrowth_10Years": "60%",
+      "CompoundedProfitGrowth_5Years": "135%",
+      "CompoundedProfitGrowth_3Years": "40%",
+      "CompoundedProfitGrowth_TTM": "19%",
+      "StockPriceCAGR_10Years": "37%",
+      "StockPriceCAGR_5Years": "51%",
+      "StockPriceCAGR_3Years": "48%",
+      "StockPriceCAGR_1Year": "3%"
+    },
+    "LiquidityRatios": {
+      "Not explicitly provided" : "Requires further calculation from balance sheet data."
+    },
+    "ProfitabilityRatios": {
+      "ROCE_10Years": "13%",
+      "ROCE_5Years": "20%",
+      "ROCE_3Years": "23%",
+      "ROCE_LastYear": "46.6%",
+      "ROE_10Years": "13%",
+      "ROE_5Years": "20%",
+      "ROE_3Years": "23%",
+      "ROE_LastYear": "41.2%"
+    },
+    "ValuationRatios": {
+      "PEratio": 13.4,
+      "PriceToBook": "Not explicitly stated, but can be calculated from Current Price and Book Value."
+    },
+    "OtherRatios": {
+      "DebtorDays": [78.49, 318.85, 318.96, -0.00, 191.62, 152.40, 12.17, -0.00, 2.04, 127.99, -0.00, -0.00],
+      "InventoryDays": "Not explicitly provided",
+      "DaysPayable": "Not explicitly provided",
+      "CashConversionCycle": [78.49, 318.85, 318.96, -0.00, 191.62, 152.40, 12.17, -0.00, 2.04, 127.99, -0.00, -0.00],
+      "WorkingCapitalDays": [2099.73, 2412.36, 1976.26, 1728.54, 2196.84, 2001.86, 2001.42, -7.45, 6.12, 118.51, -32.69, -1.94]
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Bajaj Finance", "CMP": 6848.25, "PE": 27.57, "MarCap": 423904.26, "DivYld": 0.53, "NPQtr": 4013.74, "QtrProfitVar": 12.64, "SalesQtr": 17090.27, "QtrSalesVar": 27.71, "ROCE": 11.92},
+      {"Name": "Bajaj Finserv", "CMP": 1569.65, "PE": 29.48, "MarCap": 250620.07, "DivYld": 0.06, "NPQtr": 4180.15, "QtrProfitVar": 8.19, "SalesQtr": 33703.74, "QtrSalesVar": 29.52, "ROCE": 11.72},
+      {"Name": "Jio Financial", "CMP": 304.30, "PE": 120.37, "MarCap": 193330.44, "DivYld": 0.00, "NPQtr": 689.07, "QtrProfitVar": 3.13, "SalesQtr": 693.50, "QtrSalesVar": 14.05, "ROCE": 1.55},
+      {"Name": "Bajaj Holdings", "CMP": 10746.75, "PE": 16.15, "MarCap": 119600.58, "DivYld": 1.22, "NPQtr": 1510.43, "QtrProfitVar": -3.67, "SalesQtr": 279.07, "QtrSalesVar": 24.18, "ROCE": 13.07},
+      {"Name": "Shriram Finance", "CMP": 2877.25, "PE": 13.80, "MarCap": 108201.51, "DivYld": 1.56, "NPQtr": 2153.27, "QtrProfitVar": 17.99, "SalesQtr": 10089.54, "QtrSalesVar": 17.93, "ROCE": 11.27},
+      {"Name": "Cholaman.Inv.&Fn", "CMP": 1189.55, "PE": 25.96, "MarCap": 100010.48, "DivYld": 0.17, "NPQtr": 967.80, "QtrProfitVar": 25.22, "SalesQtr": 6255.12, "QtrSalesVar": 35.32, "ROCE": 10.41},
+      {"Name": "HDFC AMC", "CMP": 4262.80, "PE": 41.19, "MarCap": 91089.60, "DivYld": 1.64, "NPQtr": 576.88, "QtrProfitVar": 31.84, "SalesQtr": 887.21, "QtrSalesVar": 37.96, "ROCE": 37.72}
+    ],
+    "Median": {
+      "CMP": 229,
+      "PE": 25.6,
+      "MarCap": 552.06,
+      "DivYld": 0.0,
+      "NPQtr": 5.38,
+      "QtrProfitVar": 20.11,
+      "SalesQtr": 24.74,
+      "QtrSalesVar": 26.2,
+      "ROCE": 10.26
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Company has delivered good profit growth of 135% CAGR over last 5 years"
+    ],
+    "Cons": [
+      "Though the company is reporting repeated profits, it is not paying out dividend"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  }
+}

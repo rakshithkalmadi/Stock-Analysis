@@ -1,0 +1,276 @@
+
+{
+  "Company Overview": {
+    "Name": "IKIO Lighting Ltd",
+    "Sector": "Capital Goods - Electrical Equipment",
+    "Industry": "Electric Equipment",
+    "Business Description": "Indian manufacturer of light-emitting diode (LED) lighting solutions.  Original Design Manufacturer (ODM) that designs, develops, manufactures, and supplies products to customers who sell them under their brands.  They also work with customers to develop, manufacture, and supply customer-designed products.  Plans to expand its ODM business to new international markets.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, BSE Consumer Discretionary"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 1,970 Cr.",
+    "Current Price": "₹ 255",
+    "High/Low": "₹ 345 / ₹ 245",
+    "P/E Ratio": "36.6",
+    "Book Value": "₹ 71.2",
+    "Dividend Yield": "0.39%",
+    "ROCE": "21.7%",
+    "ROE": "17.5%",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs further calculation from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [49, 80, 115, 115, 108, 118, 117, 95, 127, 125],
+      "Expenses": [40, 65, 86, 92, 86, 91, 91, 78, 110, 103],
+      "Operating Profit": [9, 15, 29, 23, 23, 27, 26, 17, 17, 22],
+      "OPM %": ["18%", "19%", "25%", "20%", "21%", "23%", "22%", "18%", "13%", "18%"],
+      "Other Income": [0, 1, 1, 1, 1, 6, 4, 4, 6, 3],
+      "Interest": [1, 1, 4, 3, 3, 3, 3, 2, 2, 2],
+      "Depreciation": [1, 1, 2, 3, 2, 4, 2, 4, 5, 7],
+      "Profit before tax": [7, 14, 25, 18, 19, 26, 25, 15, 16, 17],
+      "Tax %": ["25%", "23%", "28%", "22%", "26%", "30%", "24%", "36%", "21%", "22%"],
+      "Net Profit": [6, 11, 18, 14, 14, 18, 19, 10, 12, 13],
+      "EPS in Rs": [2.23, 1.72, 2.75, 2.13, 1.79, 2.36, 2.45, 1.23, 1.60, 1.68]
+    },
+    "Annual Results": {
+      "Sales": [220, 213, 332, 359, 438, 464],
+      "Expenses": [182, 165, 254, 281, 345, 382],
+      "Operating Profit": [38, 48, 77, 78, 93, 82],
+      "OPM %": ["17%", "23%", "23%", "22%", "21%", "18%"],
+      "Other Income": [2, 1, 2, 3, 15, 17],
+      "Interest": [5, 4, 5, 9, 12, 10],
+      "Depreciation": [4, 5, 5, 6, 12, 18],
+      "Profit before tax": [30, 40, 69, 66, 85, 72],
+      "Tax %": ["29%", "28%", "27%", "24%", "28%", null],
+      "Net Profit": [21, 29, 51, 50, 61, 54],
+      "EPS in Rs": [4282.00, 5762.00, 20.21, 7.70, 7.84, 6.96],
+      "Dividend Payout %": ["0%", "0%", "0%", "0%", "13%"]
+    },
+    "Growth Rates": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "27%",
+        "TTM": "2%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": "28%",
+        "TTM": "-16%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": "-26%"
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE %": ["38%", "41%", "31%", "22%", null],
+    "Debtor Days": [49, 56, 61, 74, 81],
+    "Inventory Days": [97, 175, 208, 191, 191],
+    "Days Payable": [85, 70, 44, 38, 30],
+    "Cash Conversion Cycle": [62, 161, 226, 227, 241],
+    "Working Capital Days": [48, 127, 162, 170, 195]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Siemens", "CMP": 6868.90, "P/E": 90.04, "Mar Cap": 244615.61, "Div Yld": 0.15, "NP Qtr": 831.20, "Qtr Profit Var": 45.41, "Sales Qtr": 6461.10, "Qtr Sales Var": 11.25, "ROCE": 25.59},
+      {"Name": "A B B", "CMP": 6921.25, "P/E": 86.89, "Mar Cap": 146667.08, "Div Yld": 0.34, "NP Qtr": 440.45, "Qtr Profit Var": 21.68, "Sales Qtr": 2912.16, "Qtr Sales Var": 5.16, "ROCE": 30.69},
+      {"Name": "CG Power & Ind", "CMP": 730.05, "P/E": 124.61, "Mar Cap": 111592.02, "Div Yld": 0.18, "NP Qtr": 219.63, "Qtr Profit Var": -1.77, "Sales Qtr": 2412.69, "Qtr Sales Var": 20.54, "ROCE": 46.63},
+      {"Name": "Suzlon Energy", "CMP": 64.13, "P/E": 88.00, "Mar Cap": 86810.83, "Div Yld": 0.00, "NP Qtr": 200.60, "Qtr Profit Var": 45.89, "Sales Qtr": 2103.38, "Qtr Sales Var": 47.98, "ROCE": 24.93},
+      {"Name": "Waaree Energies", "CMP": 2879.35, "P/E": 83.70, "Mar Cap": 82718.89, "Div Yld": 0.00, "NP Qtr": 375.66, "Qtr Profit Var": 14.78, "Sales Qtr": 3574.38, "Qtr Sales Var": 1.05, "ROCE": 43.63},
+      {"Name": "B H E L", "CMP": 235.30, "P/E": 184.25, "Mar Cap": 81932.95, "Div Yld": 0.11, "NP Qtr": 106.15, "Qtr Profit Var": 268.47, "Sales Qtr": 6584.10, "Qtr Sales Var": 28.46, "ROCE": 3.37},
+      {"Name": "Premier Energies", "CMP": 1296.40, "P/E": 253.01, "Mar Cap": 58438.39, "Div Yld": 0.00, "NP Qtr": 205.95, "Qtr Profit Var": 289.61, "Sales Qtr": 1527.22, "Qtr Sales Var": 120.16, "ROCE": 25.23},
+      {"Name": "IKIO Lighting", "CMP": 254.95, "P/E": 36.64, "Mar Cap": 1970.27, "Div Yld": 0.39, "NP Qtr": 12.92, "Qtr Profit Var": -29.17, "Sales Qtr": 125.04, "Qtr Sales Var": 6.04, "ROCE": 21.70}
+    ],
+    "Median": {
+      "CMP": 525.73,
+      "P/E": 69.63,
+      "Mar Cap": 1616.72,
+      "Div Yld": 0.0,
+      "NP Qtr": 8.31,
+      "Qtr Profit Var": 34.14,
+      "Sales Qtr": 127.8,
+      "Qtr Sales Var": 21.98,
+      "ROCE": 19.48
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 28.8%"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Shareholding Pattern Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier.",
+      "The sudden changes in FII or DII can be because of these changes.",
+      "Click on the line-items to see the names of individual entities."
+    ],
+    "Announcements": [
+      "6 Dec - IKIO Lighting signs MOU with Metco Engineering for energy-saving products.",
+      "2 Dec - Board approved change of name to IKIO Technologies Limited.",
+      "15 Nov - Disclosure Under Regulation 30 of SEBI (LODR) Regulations, 2015_Transcript of Q2 FY25 Results Conference Call",
+      "13 Nov - Monitoring Agency Report for IKIO Lighting's IPO utilization.",
+      "13 Nov - No deviation in IPO fund utilization for Q3 2024."
+    ]
+  },
+  "Balance Sheet": {
+    "Mar 2020": {
+      "Equity Capital": 0.05,
+      "Reserves": 36,
+      "Borrowings": 57,
+      "Other Liabilities": 52,
+      "Total Liabilities": 145,
+      "Fixed Assets": 54,
+      "CWIP": 1,
+      "Investments": 0,
+      "Other Assets": 90,
+      "Total Assets": 145
+    },
+    "Mar 2021": {
+      "Equity Capital": 0.05,
+      "Reserves": 63,
+      "Borrowings": 79,
+      "Other Liabilities": 32,
+      "Total Liabilities": 174,
+      "Fixed Assets": 59,
+      "CWIP": 4,
+      "Investments": 0,
+      "Other Assets": 112,
+      "Total Assets": 174
+    },
+    "Mar 2022": {
+      "Equity Capital": 25,
+      "Reserves": 84,
+      "Borrowings": 116,
+      "Other Liabilities": 40,
+      "Total Liabilities": 265,
+      "Fixed Assets": 60,
+      "CWIP": 9,
+      "Investments": 0,
+      "Other Assets": 195,
+      "Total Assets": 265
+    },
+    "Mar 2023": {
+      "Equity Capital": 65,
+      "Reserves": 77,
+      "Borrowings": 123,
+      "Other Liabilities": 46,
+      "Total Liabilities": 311,
+      "Fixed Assets": 65,
+      "CWIP": 27,
+      "Investments": 0,
+      "Other Assets": 219,
+      "Total Assets": 311
+    },
+    "Mar 2024": {
+      "Equity Capital": 77,
+      "Reserves": 476,
+      "Borrowings": 70,
+      "Other Liabilities": 35,
+      "Total Liabilities": 658,
+      "Fixed Assets": 106,
+      "CWIP": 72,
+      "Investments": 0,
+      "Other Assets": 480,
+      "Total Assets": 658
+    },
+    "Sep 2024": {
+      "Equity Capital": 77,
+      "Reserves": 473,
+      "Borrowings": 59,
+      "Other Liabilities": 72,
+      "Total Liabilities": 682,
+      "Fixed Assets": 177,
+      "CWIP": 41,
+      "Investments": 0,
+      "Other Assets": 464,
+      "Total Assets": 682
+    }
+  },
+  "Cash Flow": {
+    "Mar 2020": {
+      "Cash from Operating Activity": 23,
+      "Cash from Investing Activity": 3,
+      "Cash from Financing Activity": -21,
+      "Net Cash Flow": 5
+    },
+    "Mar 2021": {
+      "Cash from Operating Activity": -9,
+      "Cash from Investing Activity": -6,
+      "Cash from Financing Activity": 10,
+      "Net Cash Flow": -4
+    },
+    "Mar 2022": {
+      "Cash from Operating Activity": -15,
+      "Cash from Investing Activity": -9,
+      "Cash from Financing Activity": 24,
+      "Net Cash Flow": -1
+    },
+    "Mar 2023": {
+      "Cash from Operating Activity": 57,
+      "Cash from Investing Activity": -47,
+      "Cash from Financing Activity": -8,
+      "Net Cash Flow": 2
+    },
+    "Mar 2024": {
+      "Cash from Operating Activity": -5,
+      "Cash from Investing Activity": -249,
+      "Cash from Financing Activity": 266,
+      "Net Cash Flow": 12
+    }
+  },
+  "Shareholding Pattern": {
+    "Jun 2023": {
+      "Promoters": "72.46%",
+      "FIIs": "5.06%",
+      "DIIs": "7.21%",
+      "Public": "15.27%",
+      "No. of Shareholders": 103722
+    },
+    "Sep 2023": {
+      "Promoters": "72.46%",
+      "FIIs": "3.18%",
+      "DIIs": "7.50%",
+      "Public": "16.85%",
+      "No. of Shareholders": 102006
+    },
+    "Dec 2023": {
+      "Promoters": "72.46%",
+      "FIIs": "1.51%",
+      "DIIs": "7.10%",
+      "Public": "18.93%",
+      "No. of Shareholders": 114600
+    },
+    "Mar 2024": {
+      "Promoters": "72.46%",
+      "FIIs": "1.56%",
+      "DIIs": "4.95%",
+      "Public": "21.04%",
+      "No. of Shareholders": 124136
+    },
+    "Jun 2024": {
+      "Promoters": "72.50%",
+      "FIIs": "0.71%",
+      "DIIs": "5.12%",
+      "Public": "21.68%",
+      "No. of Shareholders": 117356
+    },
+    "Sep 2024": {
+      "Promoters": "72.50%",
+      "FIIs": "0.69%",
+      "DIIs": "1.71%",
+      "Public": "25.10%",
+      "No. of Shareholders": 114827
+    }
+  }
+}

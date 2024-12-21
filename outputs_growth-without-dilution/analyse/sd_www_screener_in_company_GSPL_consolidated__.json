@@ -1,0 +1,166 @@
+
+{
+  "Company Overview": {
+    "Name": "Gujarat State Petronet Ltd",
+    "Sector": "Gas Distribution",
+    "Industry": "Miscellaneous",
+    "Business Description": "Gujarat State Petronet Limited is a Public Limited Company incorporated under The Companies Act,1956. Further it is a Government Company u/s 2(45) under the Companies Act,2013. Gujarat State Petronet Limited alongwith its subsidiaries is primarily engaged in transmission of Natural gas through pipeline. Further it is engaged in business of implementing and operating City Gas Distribution and generation of electricity through windmills.",
+    "Market Position": "One of the largest players in the natural gas transmission business in India, with a leadership position in Gujarat and a strategic location with connection to all major natural gas supply sources."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 20,735 Cr.",
+    "Current Price": "₹ 368",
+    "High/Low": "₹ 470 / ₹ 260",
+    "Stock P/E": 13.8,
+    "Book Value": "₹ 198",
+    "Dividend Yield": "1.36 %",
+    "ROCE": "21.5 %",
+    "ROE": "16.1 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [4085, 5490, 4990, 5536, 4312, 3998, 4270, 4108, 4265, 4389, 4532, 4727, 3992],
+      "Expenses": [3280, 4907, 4000, 4563, 3329, 3149, 3433, 3394, 3351, 3608, 3570, 3905, 3304],
+      "Operating Profit": [805, 583, 990, 974, 983, 849, 837, 715, 914, 781, 962, 822, 688],
+      "OPM %": [20, 11, 20, 18, 23, 21, 20, 17, 21, 18, 21, 17, 17],
+      "Other Income": [45, 67, 11, 54, 24, 42, 45, 40, 55, 56, 114, 69, 76],
+      "Interest": [27, 25, 24, 21, 20, 15, 6, 8, 14, 8, 8, 8, 8],
+      "Depreciation": [143, 146, 151, 151, 155, 158, 157, 161, 165, 168, 169, 171, 179],
+      "Profit before tax": [680, 479, 826, 855, 833, 718, 719, 586, 789, 661, 899, 712, 577],
+      "Tax %": [25, 27, 23, 24, 25, 26, 24, 26, 25, 25, 26, 26, 27],
+      "Net Profit": [513, 351, 639, 648, 621, 530, 543, 434, 590, 496, 663, 527, 423],
+      "EPS in Rs": [7.06, 5.22, 7.72, 8.39, 7.73, 6.37, 6.61, 5.94, 8.06, 7.00, 8.42, 6.65, 4.99]
+    },
+    "Annual Results": {
+      "Sales": [1173, 1051, 1065, 992, 5901, 7261, 9345, 12244, 11535, 17991, 18117, 17295, 17640],
+      "Expenses": [101, 122, 136, 126, 4260, 5217, 6805, 9027, 7961, 14491, 14437, 13887, 14387],
+      "Operating Profit": [1072, 929, 928, 866, 1642, 2044, 2540, 3217, 3574, 3500, 3680, 3407, 3253],
+      "OPM %": [91, 88, 87, 87, 28, 28, 27, 26, 31, 19, 20, 20, 18],
+      "Other Income": [66, 57, 42, 94, 118, 122, 135, 108, 130, 148, 136, 248, 315],
+      "Interest": [126, 142, 118, 80, 278, 242, 427, 369, 227, 112, 70, 56, 33],
+      "Depreciation": [186, 184, 189, 183, 436, 447, 468, 518, 542, 579, 621, 664, 688],
+      "Profit before tax": [826, 660, 664, 697, 1046, 1477, 1780, 2438, 2936, 2957, 3125, 2935, 2848],
+      "Tax %": [35, 36, 38, 33, 31, 35, 33, 7, 25, 25, 25, 26, 26],
+      "Net Profit": [538, 417, 488, 465, 718, 958, 1190, 2279, 2192, 2231, 2342, 2184, 2109],
+      "EPS in Rs": [9.56, 7.39, 8.64, 8.26, 9.84, 13.15, 17.71, 30.65, 28.48, 29.04, 29.09, 29.41, 27.06]
+    }
+  },
+  "Ratios": {
+    "ROCE %": [22, 17, 16, 15, 19, 20, 25, 30, 31, 28, 27, 21],
+    "Debtor Days": [79, 86, 52, 56, 28, 25, 27, 20, 30, 21, 23, 24],
+    "Inventory Days": [79, 86, 52, 56, 28, 25, 27, 20, 30, 21, 23, 24],
+    "Days Payable": [79, 86, 52, 56, 28, 25, 27, 20, 30, 21, 23, 24],
+    "Cash Conversion Cycle": [79, 86, 52, 56, 28, 25, 27, 20, 30, 21, 23, 24],
+    "Working Capital Days": [-65, -91, -84, -57, -60, -113, -75, -61, -28, -19, -25, -8]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "GAIL (India)", "CMP": 192.42, "P/E": 10.97, "Mar Cap": 126518.07, "Div Yld": 2.86, "NP Qtr": 2689.67, "Qtr Profit Var": 10.13, "Sales Qtr": 33888.90, "Qtr Sales Var": 2.74, "ROCE": 14.66},
+      {"Name": "Adani Total Gas", "CMP": 674.35, "P/E": 105.64, "Mar Cap": 74165.69, "Div Yld": 0.04, "NP Qtr": 185.60, "Qtr Profit Var": 7.48, "Sales Qtr": 1218.65, "Qtr Sales Var": 11.23, "ROCE": 21.20},
+      {"Name": "Petronet LNG", "CMP": 336.45, "P/E": 12.88, "Mar Cap": 50467.50, "Div Yld": 2.97, "NP Qtr": 847.62, "Qtr Profit Var": 3.61, "Sales Qtr": 13021.82, "Qtr Sales Var": 3.91, "ROCE": 26.41},
+      {"Name": "Gujarat Gas", "CMP": 499.80, "P/E": 28.08, "Mar Cap": 34405.74, "Div Yld": 1.13, "NP Qtr": 306.93, "Qtr Profit Var": 3.07, "Sales Qtr": 3781.75, "Qtr Sales Var": -1.66, "ROCE": 20.51},
+      {"Name": "Indraprastha Gas", "CMP": 388.30, "P/E": 16.91, "Mar Cap": 27181.03, "Div Yld": 2.32, "NP Qtr": 431.09, "Qtr Profit Var": -19.39, "Sales Qtr": 3697.29, "Qtr Sales Var": 6.90, "ROCE": 28.76},
+      {"Name": "Guj.St.Petronet", "CMP": 367.50, "P/E": 13.85, "Mar Cap": 20734.77, "Div Yld": 1.36, "NP Qtr": 423.17, "Qtr Profit Var": -38.04, "Sales Qtr": 3992.12, "Qtr Sales Var": -6.40, "ROCE": 21.46},
+      {"Name": "Mahanagar Gas", "CMP": 1215.30, "P/E": 10.44, "Mar Cap": 12004.46, "Div Yld": 2.47, "NP Qtr": 282.80, "Qtr Profit Var": -16.45, "Sales Qtr": 1711.62, "Qtr Sales Var": 8.96, "ROCE": 36.60}
+    ],
+    "Median": {
+      "CMP": 367.5,
+      "P/E": 16.91,
+      "Mar Cap": 27181.03,
+      "Div Yld": 1.36,
+      "NP Qtr": 306.93,
+      "Qtr Profit Var": -6.69,
+      "Sales Qtr": 3697.29,
+      "Qtr Sales Var": 5.18,
+      "ROCE": 21.46
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company is almost debt free.",
+    "Cons": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and your own analysis.",
+    "Notes on Shareholding Pattern": "The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [37.63, 37.63, 37.63, 37.63, 37.63, 37.63, 37.63, 37.63, 37.63, 37.63, 37.63, 37.63],
+      "FIIs": [16.61, 16.21, 16.54, 17.31, 17.28, 16.72, 16.55, 16.00, 16.03, 15.67, 15.84, 15.21],
+      "DIIs": [21.61, 22.25, 21.78, 24.19, 24.27, 24.88, 25.20, 25.17, 24.77, 24.74, 23.57, 24.87],
+      "Government": [10.98, 10.98, 10.98, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 2.01, 10.00],
+      "Public": [13.17, 12.93, 13.07, 18.85, 18.82, 18.75, 18.62, 19.19, 19.56, 19.95, 20.95, 12.29]
+    },
+    "Yearly": {
+      "Promoters": [37.67, 37.65, 37.64, 37.64, 37.63, 37.63, 37.63, 37.63, 37.63],
+      "FIIs": [17.21, 16.63, 16.52, 15.75, 17.16, 16.21, 16.72, 15.67, 15.21],
+      "DIIs": [19.26, 19.51, 20.97, 22.89, 19.05, 22.25, 24.88, 24.74, 24.87],
+      "Government": [10.99, 10.99, 10.98, 10.98, 10.98, 10.98, 2.01, 2.01, 10.00],
+      "Public": [14.87, 15.22, 13.88, 12.74, 15.18, 12.93, 18.75, 19.95, 12.29]
+    }
+  },
+  "Indices": [
+    "BSE 250 SmallCap Index",
+    "Nifty MidSmallcap 400",
+    "Nifty Smallcap 250",
+    "BSE 400 MidSmallCap Index",
+    "BSE SmallCap",
+    "Nifty Smallcap 100",
+    "BSE India Infrastructure Index",
+    "BSE Allcap",
+    "BSE Energy",
+    "Nifty Smallcap 50",
+    "Nifty 500 Multicap 50:25:25",
+    "Nifty Oil & Gas",
+    "BSE SmallCap Select Index",
+    "Nifty Total Market",
+    "Nifty500 Multicap Infrastructure 50:30:20",
+    "BSE 500",
+    "Nifty 500"
+  ],
+  "Documents": {
+    "Announcements": [
+      {"Title": "Disclosure Under Regulation 30 For Equity Contribution", "Date": "7 Nov", "Description": "Approval of Rs. 42.03 Cr equity investment in CICL."},
+      {"Title": "Presentation On Performance Highlights", "Date": "7 Nov", "Description": "Presentation on Q2 2024-25 financial results."},
+      {"Title": "Un-Audited Financial Results For Quarter & Half Year Ended 30Th September 2024", "Date": "7 Nov"},
+      {"Title": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011", "Date": "22 Oct"},
+      {"Title": "Closure of Trading Window", "Date": "18 Oct"}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "nse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "nse"},
+      {"Year": 2012, "Source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"Date": "9 Sep", "Source": "care"},
+      {"Date": "4 Oct 2023", "Source": "care"},
+      {"Date": "27 Sep 2022", "Source": "care"},
+      {"Date": "6 Oct 2021", "Source": "care"},
+      {"Date": "7 Oct 2020", "Source": "care"},
+      {"Date": "7 Oct 2020", "Source": "care"}
+    ],
+    "Concalls": [
+      {"Date": "Aug 2024"},
+      {"Date": "Aug 2024"},
+      {"Date": "Aug 2024"},
+      {"Date": "May 2024"},
+      {"Date": "Feb 2024"},
+      {"Date": "Nov 2023"},
+      {"Date": "Aug 2023"},
+      {"Date": "May 2023"},
+      {"Date": "Nov 2019"},
+      {"Date": "Aug 2019"},
+      {"Date": "May 2019"}
+    ]
+  }
+}

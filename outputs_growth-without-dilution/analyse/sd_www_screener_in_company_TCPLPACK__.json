@@ -1,0 +1,153 @@
+
+{
+  "Company Overview": {
+    "Name": "TCPL Packaging Ltd",
+    "Sector": "Packaging",
+    "Industry": "Packaging",
+    "Business Description": "TCPL manufactures folding cartons, printed blanks and outers, litho-lamination, plastic cartons, blister packs, and shelf-ready packaging. TCPL has also ventured into the flexible packaging industry, with the capability to produce printed cork-tipping paper, laminates, sleeves, and wrap-around labels. TCPL Packaging is promoted by the Kanoria family, which has varied business interests such as jute, tea, textiles, pharmaceuticals, and chemicals.  TCPL is a leading supplier to the tobacco, liquor, consumer goods, and food packaging industry in India.",
+    "Market Position": "Leading supplier to the tobacco, liquor, consumer goods, and food packaging industry in India"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,868 Cr.",
+    "Current Price": "₹ 3,152",
+    "High/Low": "₹ 3,671 / 1,902",
+    "P/E Ratio": 24.4,
+    "Book Value": "₹ 635",
+    "Dividend Yield": "0.70 %",
+    "ROCE": "20.1 %",
+    "ROE": "21.4 %",
+    "Face Value": "₹ 10.0",
+    "BSE Code": 523301,
+    "NSE Code": "TCPLPACK"
+  },
+  "Performance Trends": {
+    "Revenue Mix FY23": {
+      "Folding cartons": "~85%",
+      "Flexible packaging": "~15%"
+    },
+    "Quarterly Results": {
+      "Sales": [253, 274, 323, 335, 349, 366, 381, 361, 391, 354, 384, 391, 439],
+      "Expenses": [217, 232, 274, 282, 293, 306, 315, 300, 327, 296, 318, 321, 362],
+      "Operating Profit": [36, 42, 48, 54, 56, 60, 66, 60, 64, 59, 66, 69, 76],
+      "OPM %": ["14%", "15%", "15%", "16%", "16%", "16%", "17%", "17%", "16%", "17%", "17%", "18%", "17%"],
+      "Other Income": [0, 2, 0, 3, 20, 3, 1, 1, 4, 2, 5, 3, 1],
+      "Interest": [8, 8, 9, 10, 10, 11, 12, 13, 13, 14, 14, 13, 13],
+      "Depreciation": [14, 14, 14, 15, 15, 15, 16, 16, 18, 17, 18, 18, 18],
+      "Profit before tax": [15, 21, 25, 32, 51, 37, 39, 33, 37, 30, 39, 42, 45],
+      "Tax %": ["29%", "32%", "27%", "29%", "20%", "28%", "29%", "27%", "22%", "30%", "25%", "23%", "20%"],
+      "Net Profit": [11, 14, 19, 23, 41, 27, 28, 24, 29, 21, 29, 32, 36],
+      "EPS in Rs": [11.74, 15.44, 20.34, 24.81, 44.56, 29.51, 30.29, 26.44, 31.62, 22.85, 32.01, 35.11, 39.35]
+    },
+    "Annual Results": {
+      "Sales": [373, 395, 498, 593, 613, 698, 816, 890, 904, 1076, 1432, 1486, 1567],
+      "Expenses": [318, 333, 416, 492, 516, 613, 711, 764, 770, 920, 1196, 1237, 1297],
+      "Operating Profit": [55, 61, 82, 101, 97, 85, 105, 126, 134, 156, 236, 249, 271],
+      "OPM %": ["15%", "16%", "17%", "17%", "16%", "12%", "13%", "14%", "15%", "15%", "16%", "17%", "17%"],
+      "Other Income": [2, 0, 0, 0, 1, 2, 1, 2, 3, 2, 27, 12, 10],
+      "Interest": [16, 18, 17, 20, 22, 25, 28, 37, 37, 33, 44, 52, 54],
+      "Depreciation": [20, 24, 22, 25, 29, 35, 36, 48, 52, 55, 61, 68, 72],
+      "Profit before tax": [20, 20, 43, 55, 46, 27, 42, 42, 48, 70, 158, 141, 155],
+      "Tax %": ["34%", "37%", "25%", "31%", "30%", "25%", "31%", "14%", "29%", "30%", "26%", "24%", "20%"],
+      "Net Profit": [14, 12, 32, 38, 32, 20, 29, 37, 34, 49, 118, 107, 118],
+      "EPS in Rs": [15.53, 14.37, 37.00, 44.00, 37.32, 22.22, 31.81, 40.13, 37.08, 54.13, 129.16, 117.08, 129.32]
+    },
+    "Sales Growth": {
+      "10 Years": "14%",
+      "5 Years": "13%",
+      "3 Years": "18%",
+      "TTM": "5%"
+    },
+    "Profit Growth": {
+      "10 Years": "24%",
+      "5 Years": "30%",
+      "3 Years": "47%",
+      "TTM": "10%"
+    },
+    "Stock Price CAGR": {
+      "10 Years": "23%",
+      "5 Years": "66%",
+      "3 Years": "84%",
+      "1 Year": "48%"
+    }
+  },
+  "Ratios": {
+    "ROCE %": [17, 16, 22, 22, 16, 11, 13, 13, 14, 15, 22, 20],
+    "Debtor Days": [69, 68, 60, 60, 61, 69, 66, 66, 72, 78, 74, 84],
+    "Inventory Days": [76, 76, 76, 76, 109, 98, 92, 94, 101, 98, 96, 82],
+    "Days Payable": [61, 70, 79, 61, 84, 67, 65, 62, 98, 88, 66, 74],
+    "Cash Conversion Cycle": [84, 75, 58, 74, 86, 100, 93, 98, 74, 87, 105, 92],
+    "Working Capital Days": [44, 38, 28, 34, 48, 59, 56, 64, 73, 83, 88, 85]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Garware Hi Tech", "CMP": 5001.15, "P/E": 37.93, "Mar Cap": 11618.87, "Div Yld": 0.20, "NP Qtr": 104.26, "Qtr Profit Var": 127.10, "Sales Qtr": 620.58, "Qtr Sales Var": 56.27, "ROCE": 13.96},
+      {"Name": "Inox India", "CMP": 1092.40, "P/E": 50.90, "Mar Cap": 9915.00, "Div Yld": 0.00, "NP Qtr": 49.49, "Qtr Profit Var": 7.01, "Sales Qtr": 306.56, "Qtr Sales Var": 18.98, "ROCE": 43.06},
+      {"Name": "EPL Ltd", "CMP": 265.25, "P/E": 29.22, "Mar Cap": 8453.10, "Div Yld": 1.68, "NP Qtr": 88.30, "Qtr Profit Var": 72.28, "Sales Qtr": 1086.20, "Qtr Sales Var": 8.45, "ROCE": 15.09},
+      {"Name": "AGI Greenpac", "CMP": 1239.95, "P/E": 30.04, "Mar Cap": 8022.15, "Div Yld": 0.48, "NP Qtr": 72.08, "Qtr Profit Var": 28.39, "Sales Qtr": 599.18, "Qtr Sales Var": -2.55, "ROCE": 17.73},
+      {"Name": "Polyplex Corpn", "CMP": 1298.90, "P/E": 26.42, "Mar Cap": 4077.57, "Div Yld": 0.69, "NP Qtr": 164.11, "Qtr Profit Var": 214.39, "Sales Qtr": 1738.86, "Qtr Sales Var": 10.61, "ROCE": 1.81},
+      {"Name": "Uflex", "CMP": 532.65, "P/E": 25.12, "Mar Cap": 3846.34, "Div Yld": 0.19, "NP Qtr": -64.58, "Qtr Profit Var": -108.72, "Sales Qtr": 3833.38, "Qtr Sales Var": 13.77, "ROCE": 6.50},
+      {"Name": "XPRO India", "CMP": 1542.70, "P/E": 70.56, "Mar Cap": 3428.71, "Div Yld": 0.13, "NP Qtr": 9.94, "Qtr Profit Var": 4.85, "Sales Qtr": 133.98, "Qtr Sales Var": 21.83, "ROCE": 15.41},
+      {"Name": "TCPL Packaging", "CMP": 3151.55, "P/E": 24.37, "Mar Cap": 2867.91, "Div Yld": 0.70, "NP Qtr": 35.81, "Qtr Profit Var": 24.47, "Sales Qtr": 438.51, "Qtr Sales Var": 12.21, "ROCE": 20.07}
+    ],
+    "Median": {
+      "CMP": 164.82,
+      "P/E": 28.2,
+      "Mar Cap": 303.43,
+      "Div Yld": 0.05,
+      "NP Qtr": 4.13,
+      "Qtr Profit Var": 15.93,
+      "Sales Qtr": 98.98,
+      "Qtr Sales Var": 13.6,
+      "ROCE": 12.16
+    }
+  },
+  "Shareholding Pattern": {
+    "Promoters": "55.74%",
+    "FIIs": "0.93%",
+    "DIIs": "11.35%",
+    "Public": "31.75%",
+    "Others": "0.23%"
+  },
+  "Other Insights": {
+    "Pros": "Company has delivered good profit growth of 29.7% CAGR over last 5 years. Company has been maintaining a healthy dividend payout of 17.6%.",
+    "Cons": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Notes on Shareholding Data": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "2d", "Description": "Transfer of 162 shares by TCPL ESOP Trust."},
+      {"Date": "10 Dec", "Description": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate"},
+      {"Date": "4 Dec", "Description": "Disclosures under Reg. 29(2) of SEBI (SAST) Regulations, 2011"},
+      {"Date": "3 Dec", "Description": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate - Intimation of loss of share certificate by shareholder."},
+      {"Date": "2 Dec", "Description": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate - Intimation of loss/misplacement of share certificate."}
+    ],
+    "Annual Reports": [
+      "Financial Year 2024",
+      "Financial Year 2023",
+      "Financial Year 2022",
+      "Financial Year 2021",
+      "Financial Year 2020",
+      "Financial Year 2019",
+      "Financial Year 2018",
+      "Financial Year 2017",
+      "Financial Year 2016",
+      "Financial Year 2015",
+      "Financial Year 2014",
+      "Financial Year 2013",
+      "Financial Year 2012",
+      "Financial Year 2011",
+      "Financial Year 2010"
+    ],
+    "Credit Ratings": [
+      {"Date": "1 Aug", "Agency": "crisil"},
+      {"Date": "9 Jul", "Agency": "crisil"},
+      {"Date": "14 Jun", "Agency": "crisil"},
+      {"Date": "27 May", "Agency": "icra"},
+      {"Date": "31 May 2023", "Agency": "crisil"},
+      {"Date": "18 Apr 2023", "Agency": "crisil"}
+    ],
+    "Concalls": [
+      "Nov 2024", "Aug 2024", "Jun 2024", "Feb 2024", "Dec 2023", "Nov 2023", "Aug 2023", "May 2023", "Apr 2023", "Feb 2023", "Nov 2022", "Aug 2022", "May 2022", "Feb 2022", "Nov 2021", "Aug 2021", "Jul 2021", "Feb 2021", "Aug 2020", "Aug 2020", "Jun 2020", "Feb 2020", "Aug 2019"
+    ]
+  }
+}

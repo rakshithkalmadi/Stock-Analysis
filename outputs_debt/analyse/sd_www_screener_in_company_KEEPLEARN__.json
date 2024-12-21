@@ -1,0 +1,162 @@
+
+{
+  "Company Overview": {
+    "Name": "DSJ Keep Learning Ltd",
+    "Sector": "Education",
+    "Industry": "Miscellaneous",
+    "Business Description": "Incorporated in 1989, DSJ Keep Learning Ltd is an Educational Services Provider in India. Company works towards two key business verticals viz, higher education and continuing education. Some of the common functions it outsources are admissions, placements, university IT and academic delivery. Company's outsourcing business is keeplearning campus platform, a fully serviced Platform-as-a-Service (PaaS) that is designed to manage and run all university functions on it. Company's keeplearning platform is focused on the employment side of continuing education, where the company is building programs by working top-down from corporate requirements to developing programs like Industry Readiness Program to teach relevant competencies and skills for the targeted job profile and employment testing platform to measure professionals for relevant competencies and skills.",
+    "Market Position": "Not explicitly stated in the provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 81.6 Cr.",
+    "Current Price": "₹ 5.24",
+    "High/Low": "₹ 7.53 / ₹ 2.15",
+    "Stock P/E": 221,
+    "Book Value": "₹ 0.45",
+    "Dividend Yield": "0.00%",
+    "ROCE": "23.0%",
+    "ROE": "221%",
+    "Face Value": "₹ 1.00",
+    "Debt-to-Equity Ratio": "Not explicitly stated, but implied to be low based on 'Company is almost debt free' note."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [1.34, 1.68, 1.11, 1.59, 1.49, 1.56, 1.40, 1.63, 1.42, 1.87, 2.56, 2.00], 
+      "Expenses": [0.88, 1.38, 1.00, 1.39, 1.16, 1.41, 1.30, 1.24, 1.23, 1.75, 2.33, 1.83],
+      "Operating Profit": [0.46, 0.30, 0.11, 0.20, 0.33, 0.15, 0.10, 0.39, 0.19, 0.12, 0.23, 0.17],
+      "OPM %": [34.33, 17.86, 9.91, 12.58, 22.15, 9.62, 7.14, 23.93, 13.38, 6.42, 8.98, 8.50],
+      "Other Income": [0.01, 0.07, 0.00, 0.00, 0.00, 0.00, 0.03, 0.01, 0.00, 0.14, 0.06, 0.07],
+      "Interest": [0.09, 0.11, 0.06, 0.07, 0.06, 0.06, 0.06, 0.06, 0.05, 0.05, 0.06, 0.01],
+      "Depreciation": [0.01, 0.04, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.05, 0.08, 0.08, 0.08],
+      "Profit before tax": [0.37, 0.22, 0.00, 0.08, 0.22, 0.04, 0.02, 0.29, 0.09, 0.13, 0.15, 0.15],
+      "Tax %": [-2.70, -136.36, -62.50, 18.18, 0.00, 350.00, 24.14, 33.33, 38.46, 26.67, 20.00],
+      "Net Profit": [0.37, 0.52, -0.28, 0.14, 0.17, 0.03, -0.04, 0.22, 0.06, 0.08, 0.11, 0.12],
+      "EPS in Rs": [0.03, 0.04, -0.02, 0.01, 0.01, 0.00, -0.00, 0.01, 0.00, 0.01, 0.01, 0.01]
+    },
+    "Annual Results": {
+      "Sales": [0.00, 0.00, 0.00, 0.00, 0.09, 0.06, 0.10, 0.12, 0.18, 4.82, 5.75, 6.32, 7.85],
+      "Expenses": [0.10, 0.18, 0.38, 0.18, 0.21, 0.14, 0.22, 0.73, 4.12, 3.59, 4.96, 5.51, 7.14],
+      "Operating Profit": [-0.10, -0.18, -0.38, -0.18, -0.12, -0.08, -0.12, -0.61, -3.94, 1.23, 0.79, 0.81, 0.71],
+      "OPM %": [-133.33, -133.33, -120.00, -508.33, -2188.89, 25.52, 13.74, 12.82, 9.04],
+      "Other Income": [0.00, 0.00, 0.00, 0.00, 0.01, 0.03, 0.00, 0.29, 0.18, 0.13, 0.00, 0.17, 0.27],
+      "Interest": [0.00, 0.00, 0.00, 0.04, 0.05, 0.06, 0.08, 0.02, 0.31, 0.33, 0.25, 0.22, 0.17],
+      "Depreciation": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.05, 0.20, 0.23, 0.29],
+      "Profit before tax": [-0.10, -0.18, -0.38, -0.22, -0.16, -0.11, -0.20, -0.34, -4.07, 0.98, 0.34, 0.53, 0.52],
+      "Tax %": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.25, -30.61, 85.29, 39.62],
+      "Net Profit": [-0.10, -0.18, -0.38, -0.22, -0.16, -0.11, -0.20, -0.34, -4.08, 1.27, 0.06, 0.32, 0.37],
+      "EPS in Rs": [-0.01, -0.01, -0.03, -0.02, -0.01, -0.01, -0.01, -0.02, -0.29, 0.09, 0.00, 0.02, 0.03]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": "129%",
+        "3 Years": "227%",
+        "TTM": "29%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "14%",
+        "5 Years": "29%",
+        "3 Years": "28%",
+        "TTM": "-3%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "35%",
+        "5 Years": null,
+        "3 Years": "73%",
+        "1 Year": "33%"
+      },
+      "Return on Equity": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "Last Year": "221%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [365.00, 851.67, 912.50, 273.75, 304.17, 198.40, 111.72, 125.90],
+      "Inventory Days": null,
+      "Days Payable": null,
+      "Cash Conversion Cycle": [365.00, 851.67, 912.50, 273.75, 304.17, 198.40, 111.72, 125.90],
+      "Working Capital Days": [-2717.22, 121.67, 365.00, -182.50, 0.00, 99.20, 100.93, 74.50]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [-2.36, -4.28, -9.03, -4.28, -2.64, -1.19, -2.81, -8.21, -207.16, 89.73, 20.21, 22.97]
+    },
+    "Valuation Ratios": {
+      "Price to Book": null,
+      "Market Cap / Sales": null,
+      "EV / EBITDA": null
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Vantage Knowledg", "CMP": 232.15, "P/E": 1289.00, "Mar Cap": 2642.45, "Div Yld": 0.00, "NP Qtr": 0.86, "Qtr Profit Var": 207.14, "Sales Qtr": 1.17, "Qtr Sales Var": 67.14, "ROCE": 20.51},
+      {"Name": "Shanti Educat.", "CMP": 162.75, "P/E": 534.75, "Mar Cap": 2620.28, "Div Yld": 0.00, "NP Qtr": 2.70, "Qtr Profit Var": 92.86, "Sales Qtr": 6.29, "Qtr Sales Var": 116.15, "ROCE": 7.43},
+      {"Name": "Veranda Learning", "CMP": 242.73, "P/E": 1732.67, "Mar Cap": null, "Div Yld": 0.00, "NP Qtr": -30.37, "Qtr Profit Var": -1866.67, "Sales Qtr": 138.62, "Qtr Sales Var": 40.92, "ROCE": -0.33},
+      {"Name": "Lucent Industrie", "CMP": 564.15, "P/E": 846.23, "Mar Cap": null, "Div Yld": 0.00, "NP Qtr": -0.13, "Qtr Profit Var": -1200.00, "Sales Qtr": 0.00, "Qtr Sales Var": -0.64},
+      {"Name": "Career Point", "CMP": 394.80, "P/E": 11.57, "Mar Cap": 718.26, "Div Yld": 0.76, "NP Qtr": 12.94, "Qtr Profit Var": 12.15, "Sales Qtr": 26.41, "Qtr Sales Var": 29.21, "ROCE": 13.36},
+      {"Name": "CL Educate", "CMP": 118.74, "P/E": 60.55, "Mar Cap": 642.36, "Div Yld": 0.00, "NP Qtr": 3.38, "Qtr Profit Var": -38.32, "Sales Qtr": 98.68, "Qtr Sales Var": 10.83, "ROCE": 7.62},
+      {"Name": "Addictive Learn", "CMP": 374.50, "P/E": 68.88, "Mar Cap": 595.82, "Div Yld": 0.00, "NP Qtr": 5.86, "Qtr Profit Var": 40.88, "Sales Qtr": 32.00, "Qtr Sales Var": 40.13, "ROCE": null},
+      {"Name": "DSJ Keep Learn", "CMP": 5.24, "P/E": 220.51, "Mar Cap": 81.59, "Div Yld": 0.00, "NP Qtr": 0.12, "Qtr Profit Var": -45.45, "Sales Qtr": 2.00, "Qtr Sales Var": 22.70, "ROCE": 22.97}
+    ],
+    "Median": {
+      "CMP": 197.43,
+      "P/E": 59.09,
+      "Mar Cap": 520.08,
+      "Div Yld": 0.0,
+      "NP Qtr": 1.31,
+      "Qtr Profit Var": -14.27,
+      "Sales Qtr": 14.29,
+      "Qtr Sales Var": 30.61,
+      "ROCE": 10.38
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free."
+    ],
+    "Cons": [
+      "Stock is trading at 11.7 times its book value",
+      "Company's cost of borrowing seems high"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis." ,
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Balance Sheet": {
+    "Equity Capital": [7.33, 7.33, 7.33, 7.33, 7.33, 7.33, 7.33, 7.33, 7.33, 7.74, 8.18, 8.76, 15.57],
+    "Reserves": [-3.76, -3.93, -4.31, -4.53, -4.73, -4.84, -5.04, -5.39, -9.47, -8.19, -8.13, -8.52, -8.58],
+    "Borrowings": [0.64, 0.81, 1.19, 1.40, 1.53, 1.75, 2.00, 1.57, 2.26, 3.25, 2.99, 3.25, 0.50],
+    "Other Liabilities": [0.63, 0.63, 0.63, 0.63, 0.74, 0.12, 0.13, 0.16, 0.18, 1.99, 1.38, 2.02, 1.74],
+    "Total Liabilities": [4.84, 4.84, 4.84, 4.83, 4.87, 4.36, 4.42, 3.67, 0.30, 4.79, 4.42, 5.51, 9.23],
+    "Fixed Assets": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.37, 0.61, 1.04, 3.41],
+    "CWIP": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.35, 0.56, 1.08, 0.00],
+    "Investments": [0.79, 0.79, 0.79, 0.79, 0.75, 0.19, 0.14, 0.05, 0.12, 0.23, 0.15, 0.16, 0.25],
+    "Other Assets": [4.05, 4.05, 4.05, 4.04, 4.12, 4.17, 4.28, 3.62, 0.18, 3.84, 3.10, 3.23, 5.57],
+    "Total Assets": [4.84, 4.84, 4.84, 4.83, 4.87, 4.36, 4.42, 3.67, 0.30, 4.79, 4.42, 5.51, 9.23]
+  },
+  "Cash Flows": {
+    "Cash from Operating Activity": [-0.07, -0.16, -0.37, -0.22, -0.14, -0.22, -0.24, -0.37, -0.39, -0.07, 0.63, 1.17],
+    "Cash from Investing Activity": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, -0.36, -0.62, -1.04],
+    "Cash from Financing Activity": [0.07, 0.16, 0.37, 0.21, 0.13, 0.22, 0.25, 0.39, 0.38, 0.70, -0.15, -0.10],
+    "Net Cash Flow": [0.00, 0.00, 0.00, -0.01, 0.00, 0.00, 0.00, 0.02, -0.01, 0.27, -0.14, 0.03]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [36.85, 39.99, 39.99, 39.99, 42.98, 42.98, 42.98, 42.98, 42.21, 42.19, 57.17, 56.92],
+      "DIIs": [1.57, 1.49, 1.49, 1.49, 1.42, 1.42, 1.42, 1.42, 1.42, 1.42, 0.80, 0.80],
+      "Public": [61.59, 58.52, 58.52, 58.51, 55.60, 55.61, 55.62, 55.61, 56.38, 56.39, 42.04, 42.29]
+    },
+    "Yearly": {
+      "Promoters": [36.85, 36.85, 36.85, 36.85, 36.85, 39.99, 42.98, 42.19, 56.92],
+      "DIIs": [2.84, 1.57, 1.57, 1.57, 1.57, 1.49, 1.42, 1.42, 0.80],
+      "Public": [60.31, 61.59, 61.59, 61.59, 61.59, 58.52, 55.61, 56.39, 42.29]
+    },
+    "No. of Shareholders": [18694, 18661, 18599, 20877, 21647, 22103, 21973, 21826, 21711, 21702, 22218, 23176]
+  },
+  "Website": "dsjcommunication.com",
+  "BSE": "526677",
+  "NSE": "KEEPLEARN"
+}

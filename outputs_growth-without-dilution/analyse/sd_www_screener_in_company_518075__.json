@@ -1,0 +1,195 @@
+
+{
+  "Company Overview": {
+    "Name": "Suraj Products Ltd",
+    "Sector": "Steel",
+    "Industry": "Steel - Medium / Small",
+    "Business Description": "Manufactures finished products from Iron Ore. Does production of Sponge Iron by direct reduction of Iron Ore, Pig Iron, Ingots/Billet, TMT Bars & Generation of Power. It is a secondary steel producer and derives the major portion of its revenue from semi-urban and rural areas.",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 544 Cr.",
+    "Current Price": "₹ 477",
+    "High / Low": "₹ 951 / ₹ 363",
+    "Stock P/E": "20.6",
+    "Book Value": "₹ 124",
+    "Dividend Yield": "0.42 %",
+    "ROCE": "26.0 %",
+    "ROE": "24.8 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly available in provided HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [51.64, 54.81, 59.89, 74.95, 60.82, 46.54, 102.67, 111.21, 67.78, 73.59, 92.09, 92.64, 75.68],
+      "Expenses": [41.61, 43.69, 50.15, 64.55, 48.58, 35.07, 88.42, 96.77, 55.41, 60.47, 81.16, 81.74, 65.13],
+      "Operating Profit": [10.03, 11.12, 9.74, 10.40, 12.24, 11.47, 14.25, 14.44, 12.37, 13.12, 10.93, 10.90, 10.55],
+      "OPM %": ["19.42%", "20.29%", "16.26%", "13.88%", "20.12%", "24.65%", "13.88%", "12.98%", "18.25%", "17.83%", "11.87%", "11.77%", "13.94%"],
+      "Other Income": [0.07, 0.03, 0.09, 0.11, 0.04, 0.03, 0.15, 0.19, 0.04, 0.25, 0.29, 0.06, 0.08],
+      "Interest": [1.07, 0.99, 1.18, 1.08, 0.80, 1.00, 1.15, 0.97, 0.77, 0.87, 0.87, 0.60, 0.66],
+      "Depreciation": [2.11, 2.11, 2.26, 1.83, 2.37, 2.29, 2.45, 2.23, 2.23, 2.23, 2.25, 1.92, 1.99],
+      "Profit before tax": [6.92, 8.05, 6.39, 7.60, 9.11, 8.21, 10.80, 11.43, 9.41, 10.27, 8.10, 8.44, 7.98],
+      "Tax %": ["20.38%", "18.51%", "26.29%", "17.24%", "28.21%", "32.16%", "29.54%", "26.60%", "22.32%", "27.85%", "28.15%", "20.62%", "18.67%"],
+      "Net Profit": [5.51, 6.56, 4.70, 6.29, 6.54, 5.57, 7.61, 8.39, 7.31, 7.41, 5.82, 6.71, 6.49],
+      "EPS in Rs": [4.83, 5.75, 4.12, 5.52, 5.74, 4.89, 6.68, 7.36, 6.41, 6.50, 5.11, 5.89, 5.69]
+    },
+    "Annual Results": {
+      "Sales": [74, 88, 93, 56, 60, 70, 116, 118, 218, 237, 285, 345, 334],
+      "Expenses": [66, 80, 84, 51, 55, 58, 102, 101, 187, 193, 237, 294, 288],
+      "Operating Profit": [8, 8, 9, 5, 5, 12, 14, 17, 31, 44, 48, 51, 46],
+      "OPM %": ["11%", "9%", "9%", "8%", "9%", "16%", "12%", "14%", "14%", "18%", "17%", "15%", "14%"],
+      "Other Income": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1],
+      "Interest": [4, 4, 2, 2, 3, 5, 4, 6, 7, 4, 4, 3, 3],
+      "Depreciation": [3, 3, 3, 2, 2, 4, 4, 7, 9, 9, 9, 9, 8],
+      "Profit before tax": [1, 2, 4, 1, 1, 3, 6, 4, 15, 31, 36, 39, 35],
+      "Tax %": ["39%", "33%", "33%", "28%", "-8%", "-7%", "1%", "-42%", "37%", "24%", "27%", "26%"],
+      "Net Profit": [1, 1, 3, 0, 1, 4, 6, 5, 9, 24, 26, 29, 26],
+      "EPS in Rs": [1.34, 1.01, 2.22, 0.38, 0.84, 3.14, 5.53, 4.74, 8.04, 20.68, 22.82, 25.38, 23.19]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "15%",
+        "5 Years": "24%",
+        "3 Years": "17%",
+        "TTM": "2%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "38%",
+        "5 Years": "37%",
+        "3 Years": "47%",
+        "TTM": "-8%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": "41%",
+        "5 Years": "97%",
+        "3 Years": "60%",
+        "1 Year": "12%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Information not explicitly available in provided HTML.": null
+    },
+    "Profitability Ratios": {
+      "Return on Equity": {
+        "10 Years": "20%",
+        "5 Years": "25%",
+        "3 Years": "29%",
+        "Last Year": "25%"
+      },
+      "ROCE %": ["11%", "9%", "11%", "5%", "6%", "10%", "11%", "8%", "17%", "27%", "27%", "26%"]
+    },
+    "Valuation Ratios": {
+      "Information not explicitly available in provided HTML.": null
+    },
+    "Other Ratios": {
+      "Debtor Days": [17, 21, 20, 24, 21, 15, 8, 19, 12, 10, 15, 8],
+      "Inventory Days": [222, 165, 88, 246, 207, 197, 114, 221, 83, 120, 66, 74],
+      "Days Payable": [25, 12, 15, 20, 16, 11, 16, 61, 10, 5, 6, 6],
+      "Cash Conversion Cycle": [214, 175, 92, 250, 212, 201, 106, 178, 86, 125, 75, 76],
+      "Working Capital Days": [191, 153, 90, 212, 190, 161, 75, 115, 61, 91, 83, 79]
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Ratnamani Metals", "CMP": "3297.65", "P/E": "43.66", "Mar Cap": "23113.89", "Div Yld": "0.42", "NP Qtr": "99.35", "Qtr Profit Var": "-39.38", "Sales Qtr": "971.33", "Qtr Sales Var": "-14.13", "ROCE": "27.72"},
+      {"Name": "Sarda Energy", "CMP": "469.60", "P/E": "27.67", "Mar Cap": "16547.82", "Div Yld": "0.21", "NP Qtr": "203.49", "Qtr Profit Var": "38.93", "Sales Qtr": "1158.66", "Qtr Sales Var": "15.71", "ROCE": "15.28"},
+      {"Name": "NMDC Steel", "CMP": "43.14", "P/E": null, "Mar Cap": "12642.63", "Div Yld": "0.00", "NP Qtr": "-595.37", "Qtr Profit Var": "-354.13", "Sales Qtr": "1522.35", "Qtr Sales Var": "448.77", "ROCE": "-8.69"},
+      {"Name": "Usha Martin", "CMP": "371.85", "P/E": "26.54", "Mar Cap": "11331.82", "Div Yld": "0.74", "NP Qtr": "109.31", "Qtr Profit Var": "-0.15", "Sales Qtr": "891.17", "Qtr Sales Var": "13.57", "ROCE": "22.08"},
+      {"Name": "Mah. Seamless", "CMP": "709.85", "P/E": "11.28", "Mar Cap": "9511.40", "Div Yld": "1.41", "NP Qtr": "220.16", "Qtr Profit Var": "-12.13", "Sales Qtr": "1291.81", "Qtr Sales Var": "-15.85", "ROCE": "22.92"},
+      {"Name": "Gallantt Ispat L", "CMP": "338.75", "P/E": "25.69", "Mar Cap": "8173.39", "Div Yld": "0.30", "NP Qtr": "48.89", "Qtr Profit Var": "3.45", "Sales Qtr": "942.57", "Qtr Sales Var": "-0.77", "ROCE": "11.96"},
+      {"Name": "Bansal Wire Inds", "CMP": "441.90", "P/E": "104.69", "Mar Cap": "6918.21", "Div Yld": "0.00", "NP Qtr": "33.43", "Qtr Profit Var": "103.47", "Sales Qtr": "700.61", "Qtr Sales Var": "16.10", "ROCE": "14.27"},
+      {"Name": "Suraj Products", "CMP": "477.20", "P/E": "20.58", "Mar Cap": "544.01", "Div Yld": "0.42", "NP Qtr": "6.49", "Qtr Profit Var": "-11.22", "Sales Qtr": "75.68", "Qtr Sales Var": "11.66", "ROCE": "25.99"}
+    ],
+    "Median": {
+      "CMP": "186.48",
+      "P/E": "28.05",
+      "Mar Cap": "808.26",
+      "Div Yld": "0.0",
+      "NP Qtr": "6.24",
+      "Qtr Profit Var": "4.84",
+      "Sales Qtr": "163.26",
+      "Qtr Sales Var": "0.78",
+      "ROCE": "14.93"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 36.8% CAGR over last 5 years",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 28.6%"
+    ],
+    "Cons": [
+      "Company might be capitalizing the interest cost"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Balance Sheet": {
+    "data": [
+      {"date": "Mar 2013", "Equity Capital": 6, "Reserves": 10, "Borrowings": 45, "Other Liabilities": 7, "Total Liabilities": 68, "Fixed Assets": 18, "CWIP": 0, "Investments": 0, "Other Assets": 50, "Total Assets": 68},
+      {"date": "Mar 2014", "Equity Capital": 11, "Reserves": 16, "Borrowings": 34, "Other Liabilities": 5, "Total Liabilities": 67, "Fixed Assets": 22, "CWIP": 0, "Investments": 0, "Other Assets": 45, "Total Assets": 67},
+      {"date": "Mar 2015", "Equity Capital": 11, "Reserves": 18, "Borrowings": 18, "Other Liabilities": 6, "Total Liabilities": 53, "Fixed Assets": 21, "CWIP": 0, "Investments": 0, "Other Assets": 32, "Total Assets": 53},
+      {"date": "Mar 2016", "Equity Capital": 11, "Reserves": 18, "Borrowings": 25, "Other Liabilities": 4, "Total Liabilities": 59, "Fixed Assets": 20, "CWIP": 0, "Investments": 0, "Other Assets": 39, "Total Assets": 59},
+      {"date": "Mar 2017", "Equity Capital": 11, "Reserves": 19, "Borrowings": 45, "Other Liabilities": 4, "Total Liabilities": 79, "Fixed Assets": 39, "CWIP": 0, "Investments": 0, "Other Assets": 40, "Total Assets": 79},
+      {"date": "Mar 2018", "Equity Capital": 11, "Reserves": 22, "Borrowings": 51, "Other Liabilities": 4, "Total Liabilities": 89, "Fixed Assets": 41, "CWIP": 6, "Investments": 0, "Other Assets": 41, "Total Assets": 89},
+      {"date": "Mar 2019", "Equity Capital": 11, "Reserves": 29, "Borrowings": 64, "Other Liabilities": 7, "Total Liabilities": 111, "Fixed Assets": 57, "CWIP": 13, "Investments": 0, "Other Assets": 40, "Total Assets": 111},
+      {"date": "Mar 2020", "Equity Capital": 11, "Reserves": 34, "Borrowings": 87, "Other Liabilities": 17, "Total Liabilities": 149, "Fixed Assets": 82, "CWIP": 0, "Investments": 0, "Other Assets": 67, "Total Assets": 149},
+      {"date": "Mar 2021", "Equity Capital": 11, "Reserves": 43, "Borrowings": 66, "Other Liabilities": 9, "Total Liabilities": 130, "Fixed Assets": 75, "CWIP": 0, "Investments": 0, "Other Assets": 54, "Total Assets": 130},
+      {"date": "Mar 2022", "Equity Capital": 11, "Reserves": 67, "Borrowings": 61, "Other Liabilities": 5, "Total Liabilities": 145, "Fixed Assets": 74, "CWIP": 0, "Investments": 0, "Other Assets": 71, "Total Assets": 145},
+      {"date": "Mar 2023", "Equity Capital": 11, "Reserves": 92, "Borrowings": 54, "Other Liabilities": 15, "Total Liabilities": 172, "Fixed Assets": 84, "CWIP": 0, "Investments": 0, "Other Assets": 88, "Total Assets": 172},
+      {"date": "Mar 2024", "Equity Capital": 11, "Reserves": 119, "Borrowings": 41, "Other Liabilities": 14, "Total Liabilities": 186, "Fixed Assets": 75, "CWIP": 1, "Investments": 0, "Other Assets": 110, "Total Assets": 186},
+      {"date": "Sep 2024", "Equity Capital": 11, "Reserves": 130, "Borrowings": 50, "Other Liabilities": 16, "Total Liabilities": 208, "Fixed Assets": 73, "CWIP": 2, "Investments": 0, "Other Assets": 133, "Total Assets": 208}
+    ]
+  },
+  "Cash Flows": {
+    "data": [
+      {"date": "Mar 2013", "Cash from Operating Activity": -4, "Cash from Investing Activity": -1, "Cash from Financing Activity": 5, "Net Cash Flow": 0},
+      {"date": "Mar 2014", "Cash from Operating Activity": 10, "Cash from Investing Activity": -6, "Cash from Financing Activity": -4, "Net Cash Flow": -1},
+      {"date": "Mar 2015", "Cash from Operating Activity": 22, "Cash from Investing Activity": -2, "Cash from Financing Activity": -19, "Net Cash Flow": 1},
+      {"date": "Mar 2016", "Cash from Operating Activity": -4, "Cash from Investing Activity": -1, "Cash from Financing Activity": 4, "Net Cash Flow": -1},
+      {"date": "Mar 2017", "Cash from Operating Activity": 7, "Cash from Investing Activity": -21, "Cash from Financing Activity": 17, "Net Cash Flow": 2},
+      {"date": "Mar 2018", "Cash from Operating Activity": 8, "Cash from Investing Activity": -12, "Cash from Financing Activity": 1, "Net Cash Flow": -2},
+      {"date": "Mar 2019", "Cash from Operating Activity": 20, "Cash from Investing Activity": -28, "Cash from Financing Activity": 8, "Net Cash Flow": 0},
+      {"date": "Mar 2020", "Cash from Operating Activity": -0, "Cash from Investing Activity": -16, "Cash from Financing Activity": 16, "Net Cash Flow": -0},
+      {"date": "Mar 2021", "Cash from Operating Activity": 33, "Cash from Investing Activity": -2, "Cash from Financing Activity": -28, "Net Cash Flow": 2},
+      {"date": "Mar 2022", "Cash from Operating Activity": 13, "Cash from Investing Activity": -7, "Cash from Financing Activity": -9, "Net Cash Flow": -3},
+      {"date": "Mar 2023", "Cash from Operating Activity": 33, "Cash from Investing Activity": -19, "Cash from Financing Activity": -13, "Net Cash Flow": 1},
+      {"date": "Mar 2024", "Cash from Operating Activity": 32, "Cash from Investing Activity": -1, "Cash from Financing Activity": -18, "Net Cash Flow": 13}
+    ]
+  },
+  "Documents": {
+    "Announcements": [
+      {"date": "4 Dec", "title": "Intimation of lost share certificates by shareholders."},
+      {"date": "2 Dec", "title": "Suspension of Micro Blast Furnace operations for maintenance."},
+      {"date": "29 Nov", "title": "Intimation of duplicate share certificates issued."},
+      {"date": "19 Nov", "title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate"},
+      {"date": "13 Nov", "title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate"}
+    ],
+    "Annual Reports": [
+      {"year": 2024, "source": "bse"},
+      {"year": 2023, "source": "bse"},
+      {"year": 2022, "source": "bse"},
+      {"year": 2021, "source": "bse"},
+      {"year": 2020, "source": "bse"},
+      {"year": 2019, "source": "bse"},
+      {"year": 2018, "source": "bse"},
+      {"year": 2017, "source": "bse"},
+      {"year": 2016, "source": "bse"},
+      {"year": 2015, "source": "bse"},
+      {"year": 2014, "source": "bse"},
+      {"year": 2013, "source": "bse"},
+      {"year": 2012, "source": "bse"},
+      {"year": 2011, "source": "bse"},
+      {"year": 2010, "source": "bse"}
+    ],
+    "Credit Ratings": [
+      {"date": "29 Nov", "agency": "crisil"},
+      {"date": "26 Feb", "agency": "icra"},
+      {"date": "28 Sep 2023", "agency": "crisil"},
+      {"date": "30 Nov 2022", "agency": "icra"},
+      {"date": "30 Jul 2022", "agency": "crisil"},
+      {"date": "12 Aug 2021", "agency": "icra"}
+    ]
+  }
+}

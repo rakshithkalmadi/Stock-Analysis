@@ -1,0 +1,317 @@
+
+{
+  "Company Overview": {
+    "Name": "Bansal Wire Industries Ltd",
+    "Sector": "Steel",
+    "Industry": "Steel - Medium / Small",
+    "Business Description": "Manufactures and sells wires of multiple varieties.  Flagship company of the Bansal group. Largest Stainless Steel Wire manufacturer and 2nd Largest Steel Wire manufacturer in India by volume.  Has ~3,000+ SKUs and ~5,000+ customers across various industries, exporting to ~50+ countries.",
+    "Market Position": "Largest Stainless Steel Wire manufacturer and 2nd Largest Steel Wire manufacturer in India by volume."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 6,918 Cr.",
+    "Current Price": "₹ 442",
+    "High / Low": "₹ 504 / ₹ 325",
+    "Stock P/E": 105,
+    "Book Value": "₹ 71.2",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "14.3 %",
+    "ROE": "20.6 %",
+    "Face Value": "₹ 5.00",
+    "BSE Code": 544209,
+    "NSE Code": "BANSALWIRE"
+  },
+  "Performance Trends": {
+    "Quarterly Results (Standalone, Rs. Crores)": {
+      "Jun 2023": {
+        "Sales": 548,
+        "Expenses": 522,
+        "Operating Profit": 26,
+        "OPM %": "5%",
+        "Other Income": 1,
+        "Interest": 6,
+        "Depreciation": 2,
+        "Profit before tax": 19,
+        "Tax %": "9%",
+        "Net Profit": 17,
+        "EPS in Rs": 19.00
+      },
+      "Sep 2023": {
+        "Sales": 603,
+        "Expenses": 567,
+        "Operating Profit": 36,
+        "OPM %": "6%",
+        "Other Income": 5,
+        "Interest": 6,
+        "Depreciation": 2,
+        "Profit before tax": 32,
+        "Tax %": "44%",
+        "Net Profit": 18,
+        "EPS in Rs": 19.94
+      },
+      "Mar 2024": {
+        "Sales": 571,
+        "Expenses": 540,
+        "Operating Profit": 31,
+        "OPM %": "5%",
+        "Other Income": 1,
+        "Interest": 7,
+        "Depreciation": 3,
+        "Profit before tax": 22,
+        "Tax %": "10%",
+        "Net Profit": 20,
+        "EPS in Rs": 1.56
+      },
+      "Jun 2024": {
+        "Sales": 677,
+        "Expenses": 631,
+        "Operating Profit": 45,
+        "OPM %": "7%",
+        "Other Income": 1,
+        "Interest": 9,
+        "Depreciation": 3,
+        "Profit before tax": 35,
+        "Tax %": "25%",
+        "Net Profit": 26,
+        "EPS in Rs": 2.04
+      },
+      "Sep 2024": {
+        "Sales": 701,
+        "Expenses": 654,
+        "Operating Profit": 47,
+        "OPM %": "7%",
+        "Other Income": 5,
+        "Interest": 4,
+        "Depreciation": 3,
+        "Profit before tax": 45,
+        "Tax %": "26%",
+        "Net Profit": 33,
+        "EPS in Rs": 2.14
+      }
+    },
+    "Yearly Results (Standalone, Rs. Crores)": {
+      "Mar 2019": {
+        "Sales": 1372,
+        "Expenses": 1322,
+        "Operating Profit": 51,
+        "OPM %": "4%",
+        "Other Income": 3,
+        "Interest": 20,
+        "Depreciation": 6,
+        "Profit before tax": 27,
+        "Tax %": "33%",
+        "Net Profit": 18,
+        "EPS in Rs": 47.61,
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2020": {
+        "Sales": 1403,
+        "Expenses": 1339,
+        "Operating Profit": 64,
+        "OPM %": "5%",
+        "Other Income": 2,
+        "Interest": 22,
+        "Depreciation": 7,
+        "Profit before tax": 38,
+        "Tax %": "30%",
+        "Net Profit": 26,
+        "EPS in Rs": 68.91,
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2021": {
+        "Sales": 1477,
+        "Expenses": 1395,
+        "Operating Profit": 82,
+        "OPM %": "6%",
+        "Other Income": 3,
+        "Interest": 21,
+        "Depreciation": 8,
+        "Profit before tax": 56,
+        "Tax %": "28%",
+        "Net Profit": 40,
+        "EPS in Rs": 136.24,
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2022": {
+        "Sales": 2197,
+        "Expenses": 2091,
+        "Operating Profit": 106,
+        "OPM %": "5%",
+        "Other Income": 7,
+        "Interest": 27,
+        "Depreciation": 8,
+        "Profit before tax": 78,
+        "Tax %": "27%",
+        "Net Profit": 57,
+        "EPS in Rs": 62.93,
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2023": {
+        "Sales": 2412,
+        "Expenses": 2307,
+        "Operating Profit": 105,
+        "OPM %": "4%",
+        "Other Income": 9,
+        "Interest": 24,
+        "Depreciation": 9,
+        "Profit before tax": 82,
+        "Tax %": "26%",
+        "Net Profit": 60,
+        "EPS in Rs": 65.89,
+        "Dividend Payout %": "0%"
+      },
+      "Mar 2024": {
+        "Sales": 2284,
+        "Expenses": 2160,
+        "Operating Profit": 125,
+        "OPM %": "5%",
+        "Other Income": 7,
+        "Interest": 25,
+        "Depreciation": 10,
+        "Profit before tax": 97,
+        "Tax %": "29%",
+        "Net Profit": 68,
+        "EPS in Rs": 5.37,
+        "Dividend Payout %": "0%"
+      }
+    },
+    "Growth Rates": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": "11%",
+        "3 Years": "16%",
+        "TTM": "-5%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": "31%",
+        "3 Years": "18%",
+        "TTM": "10%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": null
+      },
+      "Return on Equity": {
+        "10 Years": null,
+        "5 Years": "24%",
+        "3 Years": "24%",
+        "Last Year": "21%"
+      }
+    }
+  },
+  "Ratios": {
+    "Yearly Ratios (Standalone, Rs. Crores)": {
+      "Mar 2019": {
+        "Debtor Days": 39,
+        "Inventory Days": 35,
+        "Days Payable": 0,
+        "Cash Conversion Cycle": 74,
+        "Working Capital Days": 61,
+        "ROCE %": "17%"
+      },
+      "Mar 2020": {
+        "Debtor Days": 44,
+        "Inventory Days": 45,
+        "Days Payable": 1,
+        "Cash Conversion Cycle": 88,
+        "Working Capital Days": 78,
+        "ROCE %": "17%"
+      },
+      "Mar 2021": {
+        "Debtor Days": 51,
+        "Inventory Days": 65,
+        "Days Payable": 6,
+        "Cash Conversion Cycle": 111,
+        "Working Capital Days": 104,
+        "ROCE %": "18%"
+      },
+      "Mar 2022": {
+        "Debtor Days": 41,
+        "Inventory Days": 55,
+        "Days Payable": 4,
+        "Cash Conversion Cycle": 92,
+        "Working Capital Days": 83,
+        "ROCE %": "16%"
+      },
+      "Mar 2023": {
+        "Debtor Days": 38,
+        "Inventory Days": 45,
+        "Days Payable": 3,
+        "Cash Conversion Cycle": 81,
+        "Working Capital Days": 74,
+        "ROCE %": "14%"
+      },
+      "Mar 2024": {
+        "Debtor Days": 44,
+        "Inventory Days": 51,
+        "Days Payable": 9,
+        "Cash Conversion Cycle": 85,
+        "Working Capital Days": 82,
+        "ROCE %": null
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Ratnamani Metals", "CMP": 3297.65, "P/E": 43.66, "Mar Cap": 23113.89, "Div Yld": 0.42, "NP Qtr": 99.35, "Qtr Profit Var": -39.38, "Sales Qtr": 971.33, "Qtr Sales Var": -14.13, "ROCE": 27.72},
+      {"Name": "Sarda Energy", "CMP": 469.60, "P/E": 27.67, "Mar Cap": 16547.82, "Div Yld": 0.21, "NP Qtr": 203.49, "Qtr Profit Var": 38.93, "Sales Qtr": 1158.66, "Qtr Sales Var": 15.71, "ROCE": 15.28},
+      {"Name": "NMDC Steel", "CMP": 43.14, "P/E": null, "Mar Cap": 12642.63, "Div Yld": 0.00, "NP Qtr": -595.37, "Qtr Profit Var": -354.13, "Sales Qtr": 1522.35, "Qtr Sales Var": 448.77, "ROCE": -8.69},
+      {"Name": "Usha Martin", "CMP": 371.85, "P/E": 26.54, "Mar Cap": 11331.82, "Div Yld": 0.74, "NP Qtr": 109.31, "Qtr Profit Var": -0.15, "Sales Qtr": 891.17, "Qtr Sales Var": 13.57, "ROCE": 22.08},
+      {"Name": "Mah. Seamless", "CMP": 709.85, "P/E": 11.28, "Mar Cap": 9511.40, "Div Yld": 1.41, "NP Qtr": 220.16, "Qtr Profit Var": -12.13, "Sales Qtr": 1291.81, "Qtr Sales Var": -15.85, "ROCE": 22.92},
+      {"Name": "Gallantt Ispat L", "CMP": 338.75, "P/E": 25.69, "Mar Cap": 8173.39, "Div Yld": 0.30, "NP Qtr": 48.89, "Qtr Profit Var": 3.45, "Sales Qtr": 942.57, "Qtr Sales Var": -0.77, "ROCE": 11.96},
+      {"Name": "Bansal Wire Inds", "CMP": 441.90, "P/E": 104.69, "Mar Cap": 6918.21, "Div Yld": 0.00, "NP Qtr": 33.43, "Qtr Profit Var": 103.47, "Sales Qtr": 700.61, "Qtr Sales Var": 16.10, "ROCE": 14.27}
+    ],
+    "Median": {
+      "CMP": 186.48,
+      "P/E": 28.05,
+      "Mar Cap": 808.26,
+      "Div Yld": 0.0,
+      "NP Qtr": 6.24,
+      "Qtr Profit Var": 4.84,
+      "Sales Qtr": 163.26,
+      "Qtr Sales Var": 0.78,
+      "ROCE": 14.93
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has reduced debt.",
+    "Cons": "Though the company is reporting repeated profits, it is not paying out dividend",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern (Quarterly & Yearly, Percentages)": {
+      "Jun 2024": {
+        "Promoters": "77.97%",
+        "FIIs": "2.30%",
+        "DIIs": "13.07%",
+        "Public": "6.67%",
+        "No. of Shareholders": 100218
+      },
+      "Sep 2024": {
+        "Promoters": "77.99%",
+        "FIIs": "2.91%",
+        "DIIs": "14.92%",
+        "Public": "4.18%",
+        "No. of Shareholders": 62839
+      },
+      "Disclaimer": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+    },
+    "Balance Sheet (Standalone, Rs. Crores)": {
+      "Mar 2019": {"Equity Capital": 4, "Reserves": 102, "Borrowings": 211, "Other Liabilities": 38, "Total Liabilities": 355, "Fixed Assets": 86, "CWIP": 0, "Investments": 0, "Other Assets": 269, "Total Assets": 355},
+      "Mar 2020": {"Equity Capital": 4, "Reserves": 128, "Borrowings": 263, "Other Liabilities": 41, "Total Liabilities": 436, "Fixed Assets": 99, "CWIP": 0, "Investments": 0, "Other Assets": 337, "Total Assets": 436},
+      "Mar 2021": {"Equity Capital": 3, "Reserves": 157, "Borrowings": 362, "Other Liabilities": 48, "Total Liabilities": 570, "Fixed Assets": 106, "CWIP": 0, "Investments": 0, "Other Assets": 465, "Total Assets": 570},
+      "Mar 2022": {"Equity Capital": 9, "Reserves": 214, "Borrowings": 413, "Other Liabilities": 59, "Total Liabilities": 695, "Fixed Assets": 116, "CWIP": 0, "Investments": 23, "Other Assets": 557, "Total Assets": 695},
+      "Mar 2023": {"Equity Capital": 9, "Reserves": 277, "Borrowings": 422, "Other Liabilities": 44, "Total Liabilities": 753, "Fixed Assets": 116, "CWIP": 38, "Investments": 23, "Other Assets": 577, "Total Assets": 753},
+      "Mar 2024": {"Equity Capital": 64, "Reserves": 290, "Borrowings": 603, "Other Liabilities": 95, "Total Liabilities": 1052, "Fixed Assets": 142, "CWIP": 202, "Investments": 55, "Other Assets": 653, "Total Assets": 1052},
+      "Sep 2024": {"Equity Capital": 78, "Reserves": 1036, "Borrowings": 220, "Other Liabilities": 209, "Total Liabilities": 1543, "Fixed Assets": 200, "CWIP": 283, "Investments": 98, "Other Assets": 963, "Total Assets": 1543}
+    },
+    "Cash Flows (Standalone, Rs. Crores)": {
+      "Mar 2019": {"Cash from Operating Activity": 20, "Cash from Investing Activity": -8, "Cash from Financing Activity": -11, "Net Cash Flow": 0},
+      "Mar 2020": {"Cash from Operating Activity": -10, "Cash from Investing Activity": -21, "Cash from Financing Activity": 31, "Net Cash Flow": 0},
+      "Mar 2021": {"Cash from Operating Activity": -37, "Cash from Investing Activity": -33, "Cash from Financing Activity": 70, "Net Cash Flow": 0},
+      "Mar 2022": {"Cash from Operating Activity": -12, "Cash from Investing Activity": -19, "Cash from Financing Activity": 30, "Net Cash Flow": -0},
+      "Mar 2023": {"Cash from Operating Activity": 102, "Cash from Investing Activity": -87, "Cash from Financing Activity": -15, "Net Cash Flow": 0},
+      "Mar 2024": {"Cash from Operating Activity": 74, "Cash from Investing Activity": -229, "Cash from Financing Activity": 156, "Net Cash Flow": 1}
+    }
+  }
+}

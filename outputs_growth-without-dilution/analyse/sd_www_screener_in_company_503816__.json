@@ -1,0 +1,103 @@
+
+{
+  "Company Overview": {
+    "Name": "Swadeshi Polytex Ltd",
+    "Sector": "Realty",
+    "Industry": "Construction",
+    "Business Description": "Incorporated in 1970, Swadeshi Polytex Ltd is in the business of real estate development. Company is engaged in the business of owning, purchasing, selling, leasing and developing real estate including land, plot, buildings, factories, warehouses, residential, commercial, agricultural and industrial infrastructures. Company also deals in immovable properties and other related assets as owners, advisors, developers, service providers and brokers.",
+    "Market Position": "Information not explicitly available in provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 406 Cr.",
+    "Current Price": "₹ 104",
+    "High/Low": "₹ 413 / ₹ 81.5",
+    "Stock P/E": "8.55",
+    "Book Value": "₹ 28.3",
+    "Dividend Yield": "0.00%",
+    "ROCE": "147%",
+    "ROE": "122%",
+    "Face Value": "₹ 1.00",
+    "Debt-to-Equity Ratio": "Information not explicitly available in provided HTML." 
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [0.00, 0.00, 36.23, 13.69, 4.48, 9.95, 16.21, 4.54, 40.17, 54.55, 0.00, 0.00, 0.00],
+      "Expenses": [0.46, 0.39, 1.65, 0.81, 0.50, 0.87, 1.36, 0.65, 1.81, 2.67, 1.69, 0.63, 0.70],
+      "Operating Profit": [-0.46, -0.39, 34.58, 12.88, 3.98, 9.08, 14.85, 3.89, 38.36, 51.88, -1.69, -0.63, -0.70],
+      "Other Income": [0.04, 0.04, 0.31, 0.35, 0.43, 0.66, 1.00, 1.21, 1.82, 1.85, 1.65, 1.87, 1.92],
+      "Interest": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00],
+      "Depreciation": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.04, 0.04, 0.04],
+      "Profit before tax": [-0.42, -0.35, 34.89, 13.23, 4.41, 9.74, 15.85, 5.10, 40.18, 53.73, -0.08, 1.20, 1.18],
+      "Tax %": [611.90, -28.57, 17.08, 19.73, 17.46, 19.20, 19.68, 23.14, 18.89, 14.83, -225.00, 32.50, 33.05],
+      "Net Profit": [-2.99, -0.25, 28.94, 10.62, 3.64, 7.88, 12.71, 3.91, 32.59, 45.75, 0.10, 0.81, 0.79],
+      "EPS in Rs": [-0.77, -0.06, 7.42, 2.72, 0.93, 2.02, 3.26, 1.00, 8.36, 11.73, 0.03, 0.21, 0.20]
+    },
+    "Annual Results": {
+      "Sales": [14, 6, 7, 2, 2, 3, 13, 16, 0, 36, 44, 99, 55],
+      "Expenses": [2, 2, 2, 2, 2, 2, 3, 4, 2, 3, 4, 7, 6],
+      "Operating Profit": [12, 4, 5, -1, -0, 1, 10, 12, -2, 33, 41, 92, 49],
+      "Other Income": [0, 1, 1, 2, 6, 3, 2, 2, 0, 1, 2, 7, 7],
+      "Interest": [12, 4, 5, 3, 3, 4, 3, 1, 0, 0, 0, 0, 0],
+      "Depreciation": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Profit before tax": [0, 1, 0, -2, 2, 0, 9, 14, -2, 34, 43, 99, 56],
+      "Tax %": [-900, -115, 74, 291, 45, 409, 12, 15, -18, 25, 19, 17],
+      "Net Profit": [1, 3, 0, -7, 1, -0, 8, 12, -2, 26, 35, 82, 47],
+      "EPS in Rs": [0.35, 0.82, 0.02, -1.76, 0.29, -0.09, 2.05, 3.04, -0.42, 6.55, 8.94, 21.12, 12.17]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+      "Reserves": [-53, -50, -50, -57, -56, -56, -48, -36, -38, -12, 22, 105, 106],
+      "Borrowings": [61, 51, 26, 25, 25, 25, 16, 2, 2, 0, 0, 0, 0],
+      "Other Liabilities": [18, 18, 40, 42, 40, 40, 41, 48, 47, 42, 39, 3, 3],
+      "Total Liabilities": [30, 23, 20, 15, 13, 13, 13, 17, 15, 34, 65, 112, 113],
+      "Fixed Assets": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5],
+      "CWIP": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Investments": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "Other Assets": [30, 23, 20, 15, 13, 13, 13, 17, 15, 34, 65, 107, 108],
+      "Total Assets": [30, 23, 20, 15, 13, 13, 13, 17, 15, 34, 65, 112, 113]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [-1, 27, 25, 0, -3, -1, 19, 17, -2, 26, 32, 44],
+      "Cash from Investing Activity": [0, 1, 2, 2, 6, 3, 0, 0, 0, -22, -34, -44],
+      "Cash from Financing Activity": [-1, -25, -29, -2, -3, -1, -20, -16, 0, -2, 0, 0],
+      "Net Cash Flow": [-2, 3, -2, 1, -1, 1, -0, 2, -2, 2, -3, 0]
+    }
+  },
+  "Ratios": {
+    "ROCE %": [108, 61, 482, 147],
+    "Debtor Days": [331, 52, 26, 0, 0, 0, 0, 0, 0, 0, 0],
+    "Inventory Days": [6168],
+    "Days Payable": [271],
+    "Cash Conversion Cycle": [331, 5948, 26, 0, 0, 0, 0, 0, 0, 0, 0],
+    "Working Capital Days": [116, -428, -1463, -6703, -5328, -3458, -864, -886, -334, -248, 4]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "DLF", "CMP": 830.70, "P/E": 57.10, "Mar Cap": 205624.14, "Div Yld": 0.60, "NP Qtr": 1381.22, "Qtr Profit Var": 122.08, "Sales Qtr": 1975.02, "Qtr Sales Var": 46.55, "ROCE": 5.74},
+      {"Name": "Macrotech Devel.", "CMP": 1400.70, "P/E": 64.99, "Mar Cap": 139626.64, "Div Yld": 0.16, "NP Qtr": 423.10, "Qtr Profit Var": 109.46, "Sales Qtr": 2625.70, "Qtr Sales Var": 50.07, "ROCE": 11.06},
+      {"Name": "Godrej Propert.", "CMP": 2855.95, "P/E": 62.06, "Mar Cap": 86016.50, "Div Yld": 0.00, "NP Qtr": 333.79, "Qtr Profit Var": 399.69, "Sales Qtr": 1093.23, "Qtr Sales Var": 218.73, "ROCE": 5.74},
+      {"Name": "Oberoi Realty", "CMP": 2247.80, "P/E": 35.20, "Mar Cap": 81730.51, "Div Yld": 0.36, "NP Qtr": 589.44, "Qtr Profit Var": 29.05, "Sales Qtr": 1319.89, "Qtr Sales Var": 8.42, "ROCE": 15.24},
+      {"Name": "Prestige Estates", "CMP": 1794.50, "P/E": 113.48, "Mar Cap": 77294.54, "Div Yld": 0.10, "NP Qtr": 234.60, "Qtr Profit Var": -77.41, "Sales Qtr": 2304.40, "Qtr Sales Var": 3.04, "ROCE": 14.86},
+      {"Name": "Phoenix Mills", "CMP": 1591.05, "P/E": 53.81, "Mar Cap": 56880.07, "Div Yld": 0.16, "NP Qtr": 292.16, "Qtr Profit Var": -13.66, "Sales Qtr": 917.97, "Qtr Sales Var": 4.91, "ROCE": 12.44},
+      {"Name": "Brigade Enterpr.", "CMP": 1236.70, "P/E": 66.03, "Mar Cap": 30206.67, "Div Yld": 0.16, "NP Qtr": 115.08, "Qtr Profit Var": 2.29, "Sales Qtr": 1072.16, "Qtr Sales Var": -21.54, "ROCE": 12.66},
+      {"Name": "Swadeshi Polytex", "CMP": 104.21, "P/E": 8.55, "Mar Cap": 406.42, "Div Yld": 0.00, "NP Qtr": 0.79, "Qtr Profit Var": -97.73, "Sales Qtr": 0.00, "Qtr Sales Var": -100.00, "ROCE": 146.60}
+    ],
+    "Median": {
+      "CMP": 92,
+      "P/E": 35.42,
+      "Mar Cap": 904.55,
+      "Div Yld": 0.0,
+      "NP Qtr": 3.68,
+      "Qtr Profit Var": 24.69,
+      "Sales Qtr": 34.27,
+      "Qtr Sales Var": 16.22,
+      "ROCE": 7.92
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company is almost debt free. Company has delivered good profit growth of 59.5% CAGR over last 5 years",
+    "Cons": "Though the company is reporting repeated profits, it is not paying out dividend",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}

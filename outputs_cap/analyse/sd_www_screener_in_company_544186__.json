@@ -1,0 +1,271 @@
+
+{
+  "Company Overview": {
+    "Name": "Forbes Precision Tools & Machine Parts Ltd",
+    "Sector": "Capital Goods-Non Electrical Equipment",
+    "Industry": "Engineering",
+    "Business Description": "Manufactures, trades & services engineering and related products and Machine & Machine parts. Part of Shapoorji Pallonji & Co. Ltd., manufactures precision engineering and cutting tools for threading, milling, drilling, and deburring for industrial applications. It has the largest distribution network in the country under the Totem brand.",
+    "MarketPosition": "Largest distribution network in the country under the Totem brand."
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 1,472 Cr.",
+    "CurrentPrice": "₹ 285",
+    "HighLow": "₹ 417 / ₹ 209",
+    "StockPE": 54.1,
+    "BookValue": "₹ 29.0",
+    "DividendYield": "0.00 %",
+    "ROCE": "55.9 %",
+    "ROE": "43.1 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": null //Not explicitly provided, needs further calculation from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": [0.00, 47.64, 54.45, 60.27, 66.14, 51.77, 57.54],
+      "Expenses": [0.01, 39.37, 42.21, 48.02, 47.52, 42.08, 46.04],
+      "OperatingProfit": [-0.01, 8.27, 12.24, 12.25, 18.62, 9.69, 11.50],
+      "OPM%": ["17.36%", "22.48%", "20.33%", "28.15%", "18.72%", "19.99%"],
+      "OtherIncome": [0.00, 0.15, 0.50, 0.18, 0.23, 0.21, 1.98],
+      "Interest": [0.00, 0.38, 0.30, 0.21, 0.27, 0.25, 0.13],
+      "Depreciation": [0.00, 2.92, 2.87, 2.83, 2.83, 3.14, 3.39],
+      "ProfitBeforeTax": [-0.01, 5.12, 9.57, 9.39, 15.75, 6.51, 9.96],
+      "Tax%": ["0.00%", "0.00%", "25.39%", "55.06%", "31.43%", "25.81%", "26.20%"],
+      "NetProfit": [-0.01, 5.12, 7.14, 4.22, 10.80, 4.83, 7.35],
+      "EPSinRs": [0.94, 1.42] 
+    },
+    "YearlyResults": {
+      "Sales": [0, 228, 236],
+      "Expenses": [0, 177, 184],
+      "OperatingProfit": [0, 51, 52],
+      "OPM%": ["22%", "22%"],
+      "OtherIncome": [0, 1, 3],
+      "Interest": [0, 1, 1],
+      "Depreciation": [0, 11, 12],
+      "ProfitBeforeTax": [0, 40, 42],
+      "Tax%": ["0%", "25%"],
+      "NetProfit": [0, 30, 27],
+      "EPSinRs": []
+    },
+    "CompoundedGrowth": {
+      "Sales": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "TTM": null
+      },
+      "Profit": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "TTM": "296900%"
+      },
+      "StockPrice": {
+        "10Years": null,
+        "5Years": null,
+        "3Years": null,
+        "1Year": null
+      }
+    },
+    "ReturnOnEquity": {
+      "10Years": null,
+      "5Years": null,
+      "3Years": null,
+      "LastYear": "43%"
+    }
+  },
+  "Ratios": {
+    "Mar2023": {
+      "DebtorDays": 47,
+      "InventoryDays": 176,
+      "DaysPayable": 99,
+      "CashConversionCycle": 124,
+      "WorkingCapitalDays": 53,
+      "ROCE%": "56%"
+    },
+    "Mar2024": {
+      "DebtorDays": null,
+      "InventoryDays": null,
+      "DaysPayable": null,
+      "CashConversionCycle": null,
+      "WorkingCapitalDays": null,
+      "ROCE%": null
+    }
+  },
+  "PeerComparison": [
+    {
+      "Name": "Jyoti CNC Auto.",
+      "CMP": 1331.85,
+      "PE": 110.35,
+      "MarCap": 30289.35,
+      "DivYld": 0.00,
+      "NPQtr": 75.88,
+      "QtrProfitVar": 352.74,
+      "SalesQtr": 430.67,
+      "QtrSalesVar": 42.47,
+      "ROCE": 21.22
+    },
+    {
+      "Name": "Jupiter Wagons",
+      "CMP": 540.80,
+      "PE": 62.81,
+      "MarCap": 22956.85,
+      "DivYld": 0.18,
+      "NPQtr": 88.62,
+      "QtrProfitVar": 8.63,
+      "SalesQtr": 973.63,
+      "QtrSalesVar": 10.73,
+      "ROCE": 31.67
+    },
+    {
+      "Name": "Action Const.Eq.",
+      "CMP": 1491.40,
+      "PE": 48.57,
+      "MarCap": 17760.07,
+      "DivYld": 0.13,
+      "NPQtr": 94.82,
+      "QtrProfitVar": 28.25,
+      "SalesQtr": 756.69,
+      "QtrSalesVar": 12.40,
+      "ROCE": 42.30
+    },
+    {
+      "Name": "Titagarh Rail",
+      "CMP": 1310.55,
+      "PE": 58.02,
+      "MarCap": 17649.67,
+      "DivYld": 0.06,
+      "NPQtr": 80.69,
+      "QtrProfitVar": 15.01,
+      "SalesQtr": 1056.95,
+      "QtrSalesVar": 12.99,
+      "ROCE": 24.97
+    },
+    {
+      "Name": "Praj Industries",
+      "CMP": 810.15,
+      "PE": 53.53,
+      "MarCap": 14891.62,
+      "DivYld": 0.74,
+      "NPQtr": 53.83,
+      "QtrProfitVar": -13.69,
+      "SalesQtr": 816.19,
+      "QtrSalesVar": -7.50,
+      "ROCE": 29.29
+    },
+    {
+      "Name": "Elecon Engg.Co",
+      "CMP": 601.75,
+      "PE": 38.02,
+      "MarCap": 13503.27,
+      "DivYld": 0.25,
+      "NPQtr": 87.72,
+      "QtrProfitVar": -0.96,
+      "SalesQtr": 508.14,
+      "QtrSalesVar": 4.79,
+      "ROCE": 31.32
+    },
+    {
+      "Name": "Lloyds Engineeri",
+      "CMP": 77.15,
+      "PE": 92.08,
+      "MarCap": 8966.64,
+      "DivYld": 0.26,
+      "NPQtr": 27.95,
+      "QtrProfitVar": 48.75,
+      "SalesQtr": 212.15,
+      "QtrSalesVar": 74.21,
+      "ROCE": 28.33
+    },
+    {
+      "Name": "Forbes Precision",
+      "CMP": 285.35,
+      "PE": 54.13,
+      "MarCap": 1472.25,
+      "DivYld": 0.00,
+      "NPQtr": 7.35,
+      "QtrProfitVar": 2.94,
+      "SalesQtr": 57.54,
+      "QtrSalesVar": 5.67,
+      "ROCE": 55.86
+    }
+  ],
+  "OtherInsights": {
+    "Pros": "Company is almost debt free.",
+    "Cons": "Stock is trading at 9.85 times its book value. Promoters have pledged 98.2% of their holding.",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPattern": {
+      "Quarterly": {
+        "Mar2024": {
+          "Promoters": "73.85%",
+          "FIIs": "11.71%",
+          "DIIs": "0.09%",
+          "Government": "0.24%",
+          "Public": "14.12%",
+          "NoofShareholders": 10542
+        },
+        "Jun2024": {
+          "Promoters": "73.85%",
+          "FIIs": "11.56%",
+          "DIIs": "0.09%",
+          "Government": "0.24%",
+          "Public": "14.25%",
+          "NoofShareholders": 11944
+        },
+        "Sep2024": {
+          "Promoters": "73.85%",
+          "FIIs": "11.56%",
+          "DIIs": "0.29%",
+          "Government": "0.24%",
+          "Public": "14.07%",
+          "NoofShareholders": 13388
+        }
+      },
+      "Yearly": {
+        "Mar2024": {
+          "Promoters": "73.85%",
+          "FIIs": "11.71%",
+          "DIIs": "0.09%",
+          "Government": "0.24%",
+          "Public": "14.12%",
+          "NoofShareholders": 10542
+        },
+        "Sep2024": {
+          "Promoters": "73.85%",
+          "FIIs": "11.56%",
+          "DIIs": "0.29%",
+          "Government": "0.24%",
+          "Public": "14.07%",
+          "NoofShareholders": 13388
+        }
+      },
+      "Disclaimer": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+    },
+    "Documents": [
+      {
+        "Title": "Announcement under Regulation 30 (LODR)-Credit Rating",
+        "Date": "5 Dec",
+        "Description": "Credit rating assigned to bank facilities by Infomerics."
+      },
+      {
+        "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication",
+        "Date": "25 Oct",
+        "Description": "Submission of newspaper clipping for unaudited financial results for the quarter and half year ended September 30, 2024"
+      },
+      {
+        "Title": "Announcement under Regulation 30 (LODR)-Change in Management",
+        "Date": "24 Oct",
+        "Description": "Resignation of HR Manager effective October 31, 2024."
+      },
+      {
+        "Title": "Board Meeting Outcome for Outcome Of Board Meeting Dated October 24, 2024",
+        "Date": "24 Oct",
+        "Description": "Board approved unaudited financial results for Q2 2024."
+      },
+      {
+        "Title": "Unaudited Financial Result For The Quarter And Half Year Ended September 30, 2024",
+        "Date": "24 Oct",
+        "Description": "Board approved unaudited financial results for Q2 2024."
+      }
+    ]
+  }
+}

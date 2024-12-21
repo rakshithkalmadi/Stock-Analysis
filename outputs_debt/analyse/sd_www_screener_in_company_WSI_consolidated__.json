@@ -1,0 +1,165 @@
+
+{
+  "Company Overview": {
+    "Name": "W S Industries (India) Ltd",
+    "Sector": "Infrastructure Developers & Operators",
+    "Industry": "Construction",
+    "Business Description": "WSIL is a globally focused Infrastructure Development, EPC project, and electrical project handling company dealing in: a) Large-scale Infrastructure Projects for Govt Sector b) Commercial buildings, hospitals, educational institutions etc. c) Global Infrastructure projects d) Electrical Substation and Transmission projects",
+    "MarketPosition": null 
+  },
+  "Financial Metrics": {
+    "MarketCap": "₹ 752 Cr.",
+    "CurrentPrice": "₹ 119",
+    "High/Low": "₹ 194 / ₹ 105",
+    "StockPE": 18.8,
+    "BookValue": "₹ 35.3",
+    "DividendYield": "0.00 %",
+    "ROCE": "25.2 %",
+    "ROE": "46.9 %",
+    "FaceValue": "₹ 10.0",
+    "DebtToEquityRatio": null
+  },
+  "Performance Trends": {
+    "QuarterlyResults": {
+      "Sales": [0.00, 0.00, 0.00, 0.22, 3.81, 24.94, 50.70, 45.83, 81.05, 110.39, 89.12, 71.71, 62.07],
+      "Expenses": [0.03, 0.14, 0.25, 0.42, 5.52, 21.09, 52.65, 40.75, 68.29, 94.91, 81.24, 64.42, 55.83],
+      "OperatingProfit": [-0.03, -0.14, -0.25, -0.20, -1.71, 3.85, -1.95, 5.08, 12.76, 15.48, 7.88, 7.29, 6.24],
+      "OPM%": [-90.91, -44.88, 15.44, -3.85, 11.08, 15.74, 14.02, 8.84, 10.17, 10.05, null, null, null],
+      "OtherIncome": [-10.63, -47.33, 4.53, 16.47, 0.84, 3.17, 3.55, 1.49, 0.17, 0.14, 0.04, 0.68, 0.83],
+      "Interest": [1.75, 1.75, 0.00, 0.00, 1.28, 0.98, 1.91, 1.52, 1.31, 1.51, 1.63, 1.66, 1.88],
+      "Depreciation": [0.00, 0.00, 0.00, 0.00, 0.01, 0.11, 0.08, 0.08, 0.19, 0.20, 0.26, 0.36, 0.55],
+      "ProfitBeforeTax": [-12.41, -49.22, 4.28, 16.27, -2.16, 5.93, -0.39, 4.97, 11.43, 13.91, 6.03, 5.95, 4.64],
+      "Tax%": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, -175.95, 37.82, 16.59],
+      "NetProfit": [-12.41, -49.23, 4.28, 16.27, -2.16, 5.92, -0.40, 4.97, 11.43, 13.91, 16.64, 3.70, 3.87],
+      "EPSinRs": [-4.73, -18.75, 1.63, 5.27, -0.70, 1.68, -0.10, 1.11, 2.43, 2.96, 3.31, 0.61, 0.61]
+    },
+    "AnnualResults": {
+      "Sales": [207, 118, 13, 7, 2, 2, 0, 0, 0, 0, 80, 326, 333],
+      "Expenses": [256, 160, 30, 30, 22, 1, 220, 57, 7, 1, 79, 285, 296],
+      "OperatingProfit": [-49, -42, -16, -23, -20, 2, -219, -57, -7, -1, 0, 41, 37],
+      "OPM%": [-24, -35, -120, -328, -1014, 68, -66503, -26919, 0, 13, 11, null, null],
+      "OtherIncome": [134, -1, 1, -4, 24, 40, 9, 0, -2, -55, 24, 2, 2],
+      "Interest": [66, 48, 25, 5, 4, 0, 5, 0, 0, 4, 4, 6, 7],
+      "Depreciation": [16, 10, 6, 12, 9, 9, 9, 4, 0, 0, 0, 1, 1],
+      "ProfitBeforeTax": [3, -101, -47, -44, -9, 32, -224, -61, -8, -59, 20, 36, 31],
+      "Tax%": [358, -1, -2, 1, 1, 0, 0, 0, 0, 0, 0, -29, null],
+      "NetProfit": [-7, -101, -46, -45, -9, 32, -224, -61, -8, -59, 20, 47, 38],
+      "EPSinRs": [-3.96, -47.90, -22.10, -20.62, -4.41, 15.12, -85.38, -23.14, -3.19, -22.62, 4.70, 9.33, 7.49]
+    },
+    "BalanceSheetHighlights": {
+      "EquityCapital": [21, 21, 21, 21, 21, 21, 26, 26, 26, 26, 42, 50, 63],
+      "Reserves": [-50, -85, -140, -183, -194, -161, -107, -111, -120, -49, 23, 87, 160],
+      "Borrowings": [283, 296, 331, 330, 306, 306, 497, 114, 128, 87, 64, 74, 94],
+      "OtherLiabilities": [125, 184, 181, 187, 168, 91, 59, 45, 38, 17, 110, 138, 126],
+      "TotalLiabilities": [379, 416, 393, 355, 302, 257, 476, 73, 73, 82, 239, 349, 444],
+      "FixedAssets": [149, 201, 186, 170, 93, 84, 426, 0, 0, 0, 25, 151, 156],
+      "CWIP": [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0],
+      "Investments": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "OtherAssets": [228, 214, 206, 184, 208, 172, 49, 73, 73, 82, 215, 198, 288],
+      "TotalAssets": [379, 416, 393, 355, 302, 257, 476, 73, 73, 82, 239, 349, 444]
+    },
+    "CashFlowSummaries": {
+      "CashFromOperatingActivity": [-123, 30, -24, -6, 6, -15, -118, -12, -7, -16, -105, 113, null],
+      "CashFromInvestingActivity": [135, 4, 0, 1, 3, 0, -35, 0, -7, 142, 21, -127, null],
+      "CashFromFinancingActivity": [-12, -25, 24, -4, -4, 10, 153, 10, 14, -103, 62, 50, null],
+      "NetCashFlow": [0, 9, 0, -10, 5, -5, 1, -2, 0, 22, -21, 36, null]
+    }
+  },
+  "Ratios": {
+    "GrowthRatios": {
+      "CompoundedSalesGrowth10Years": "5%",
+      "CompoundedSalesGrowth5Years": "297%",
+      "CompoundedSalesGrowth3Years": null,
+      "CompoundedSalesGrowthTTM": "65%",
+      "CompoundedProfitGrowth10Years": "9%",
+      "CompoundedProfitGrowth5Years": "17%",
+      "CompoundedProfitGrowth3Years": "110%",
+      "CompoundedProfitGrowthTTM": "138%",
+      "StockPriceCAGR10Years": "24%",
+      "StockPriceCAGR5Years": "169%",
+      "StockPriceCAGR3Years": "125%",
+      "StockPriceCAGR1Year": "8%"
+    },
+    "LiquidityRatios": null,
+    "ProfitabilityRatios": {
+      "ROCE": [-20, -19, -8, -16, -3, 21, -75, -27, -21, -1, 1, 25]
+    },
+    "ValuationRatios": null,
+    "OtherRatios": {
+      "DebtorDays": [87, 147, 1204, 1863, 5898, 459, 9368, 14930, 386, 95, null, null, null],
+      "InventoryDays": [196, 163, 1567, 12708, 39, 3229, 25, 41, null, null, null, null, null],
+      "DaysPayable": [80, 209, 1894, 14904, 1216, 79065, 192, 100, null, null, null, null, null],
+      "CashConversionCycle": [203, 101, 877, -333, 4720, -75377, 9368, 14930, 219, 36, null, null, null],
+      "WorkingCapitalDays": [59, -211, -3354, -14054, -59894, -42699, -125505, -45190, -50, 18, null, null, null]
+    }
+  },
+  "PeerComparison": {
+    "Peers": [
+      {"Name": "Rail Vikas", "CMP": 433.25, "PE": 70.59, "MarCap": 90333.50, "DivYld": 0.49, "NPQtr": 302.51, "QtrProfitVar": -18.26, "SalesQtr": 4869.22, "QtrSalesVar": -0.83, "ROCE": 18.70},
+      {"Name": "IRB Infra.Devl.", "CMP": 55.09, "PE": 53.99, "MarCap": 33268.85, "DivYld": 0.54, "NPQtr": 99.87, "QtrProfitVar": 4.30, "SalesQtr": 1585.84, "QtrSalesVar": -9.12, "ROCE": 8.96},
+      {"Name": "Ircon Intl.", "CMP": 218.27, "PE": 22.28, "MarCap": 20528.64, "DivYld": 1.42, "NPQtr": 205.92, "QtrProfitVar": -17.87, "SalesQtr": 2447.52, "QtrSalesVar": -18.06, "ROCE": 18.15},
+      {"Name": "Afcons Infrastr.", "CMP": 520.25, "PE": 41.77, "MarCap": 19134.00, "DivYld": 0.00, "NPQtr": 135.43, "QtrProfitVar": 30.01, "SalesQtr": 2959.69, "QtrSalesVar": -11.23, "ROCE": 23.13},
+      {"Name": "G R Infraproject", "CMP": 1529.80, "PE": 16.09, "MarCap": 14799.33, "DivYld": 0.00, "NPQtr": 193.57, "QtrProfitVar": -16.22, "SalesQtr": 1394.33, "QtrSalesVar": -25.94, "ROCE": 16.89},
+      {"Name": "H.G. Infra Engg.", "CMP": 1432.80, "PE": 17.82, "MarCap": 9337.72, "DivYld": 0.10, "NPQtr": 80.72, "QtrProfitVar": -16.02, "SalesQtr": 902.41, "QtrSalesVar": -5.46, "ROCE": 24.12},
+      {"Name": "KNR Construct.", "CMP": 325.20, "PE": 8.36, "MarCap": 9145.75, "DivYld": 0.08, "NPQtr": 580.02, "QtrProfitVar": 216.20, "SalesQtr": 1944.86, "QtrSalesVar": 87.28, "ROCE": 25.74},
+      {"Name": "W S Inds.", "CMP": 118.72, "PE": 18.80, "MarCap": 752.49, "DivYld": 0.00, "NPQtr": 3.87, "QtrProfitVar": -66.14, "SalesQtr": 62.07, "QtrSalesVar": -23.42, "ROCE": 25.24}
+    ],
+    "Median": {
+      "CMP": 223.2,
+      "PE": 26.34,
+      "MarCap": 994.28,
+      "DivYld": 0.0,
+      "NPQtr": 13.06,
+      "QtrProfitVar": 9.65,
+      "SalesQtr": 153.08,
+      "QtrSalesVar": 5.05,
+      "ROCE": 19.75
+    }
+  },
+  "OtherInsights": {
+    "Pros": [
+      "Company is expected to give good quarter",
+      "Debtor days have improved from 240 to 94.7 days."
+    ],
+    "Cons": [
+      "Stock is trading at 3.36 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Promoter holding has decreased over last quarter: -2.51%",
+      "Tax rate seems low",
+      "Company might be capitalizing the interest cost"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "ShareholdingPatternNotes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "13 Dec", "Title": "Appointment of CFO and approval for related party transaction."},
+      {"Date": "13 Nov", "Title": "Statement of deviation in fund utilization as of 30.09.2024."},
+      {"Date": "13 Nov", "Title": "Outcome of Board Meeting and financial results approval."},
+      {"Date": "8 Nov", "Title": "Board meeting on 13th Nov to review financial statements."},
+      {"Date": "2 Nov", "Title": "Compliances-Reg. 39 (3) - Details of Loss of Certificate / Duplicate Certificate"}
+    ],
+    "AnnualReports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "nse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "nse"},
+      {"Year": 2012, "Source": "bse"}
+    ],
+    "CreditRatings": [
+      {"Date": "4 Nov 2015", "Source": "icra"}
+    ],
+    "Concalls": [
+      {"Date": "Jun 2023", "Type": "Transcript"}
+    ]
+  }
+}

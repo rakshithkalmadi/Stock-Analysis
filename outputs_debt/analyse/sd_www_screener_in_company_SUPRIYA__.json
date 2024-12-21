@@ -1,0 +1,162 @@
+
+{
+  "Company Overview": {
+    "Name": "Supriya Lifescience Ltd",
+    "Sector": "Pharmaceuticals",
+    "Industry": "Pharmaceuticals - Indian - Bulk Drugs & Formln",
+    "Business Description": "Supriya Lifescience is engaged in the manufacturing of Active pharmaceutical ingredients (APIs). As of March 31, 2021, the company produces 38 APIs focused on diverse therapeutic segments such as antihistamine, analgesic, anaesthetic, vitamin, anti-asthmatic and anti-allergic.  Supriya Lifescience Limited is a generic pharmaceutical company dedicated to developing, and commercializing APIs & FDFs to treat patients with various diseases and infections, backed by strong R&D, 14 active USDMFs, 8 active CEPs & Worldwide compliant facilities (EMA, US FDA, WHO, PMDA, TGA, KFDA, ANVISA). Its focus is to develop APIs and Intermediates for both Innovators and generic companies and it also partners exclusively as CMO.",
+    "Market Position": "Part of BSE SmallCap, BSE Allcap, Nifty Microcap 250, Nifty Total Market, BSE Healthcare"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 5,874 Cr.",
+    "Current Price": "₹ 730",
+    "High / Low": "₹ 835 / ₹ 289",
+    "Stock P/E": "37.3",
+    "Book Value": "₹ 113",
+    "Dividend Yield": "0.11 %",
+    "ROCE": "22.2 %",
+    "ROE": "15.7 %",
+    "Face Value": "₹ 2.00"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [150, 117, 181, 101, 112, 105, 142, 132, 140, 140, 158, 161, 166],
+      "Expenses": [70, 79, 106, 70, 84, 91, 87, 88, 108, 99, 103, 98, 101],
+      "Operating Profit": [80, 38, 75, 31, 29, 14, 55, 44, 32, 41, 56, 63, 65],
+      "OPM %": ["53%", "33%", "42%", "31%", "25%", "13%", "39%", "34%", "23%", "30%", "35%", "39%", "39%"],
+      "Other Income": [1, 5, 4, 2, 3, 3, 2, 3, 2, 3, 2, 2, 3],
+      "Interest": [1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0],
+      "Depreciation": [2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5],
+      "Profit before tax": [78, 40, 75, 30, 27, 13, 53, 43, 30, 40, 53, 60, 62],
+      "Tax %": ["25%", "1%", "39%", "16%", "39%", "25%", "28%", "33%", "20%", "26%", "31%", "25%", "26%"],
+      "Net Profit": [58, 40, 46, 25, 17, 10, 38, 29, 24, 30, 37, 45, 46],
+      "EPS in Rs": [7.96, 4.93, 5.74, 3.14, 2.09, 1.18, 4.75, 3.54, 2.97, 3.70, 4.59, 5.55, 5.73]
+    },
+    "Annual Results": {
+      "Profit & Loss": {
+        "Sales": [184, 213, 278, 312, 391, 530, 461, 570, 625],
+        "Expenses": [166, 191, 213, 213, 218, 316, 332, 394, 401],
+        "Operating Profit": [17, 22, 65, 98, 173, 214, 129, 176, 224],
+        "OPM %": ["9%", "10%", "23%", "32%", "44%", "40%", "28%", "31%", "36%"],
+        "Other Income": [7, 9, 8, 11, 5, 8, 9, 11, 10],
+        "Interest": [12, 11, 10, 7, 4, 4, 3, 5, 2],
+        "Depreciation": [5, 5, 5, 6, 7, 10, 12, 16, 17],
+        "Profit before tax": [8, 14, 57, 96, 167, 207, 123, 166, 215],
+        "Tax %": ["30%", "40%", "31%", "24%", "26%", "27%", "27%", "28%", "28%"],
+        "Net Profit": [6, 9, 39, 73, 124, 152, 90, 119, 158],
+        "EPS in Rs": [3.87, 5.96, 26.93, 50.11, 16.89, 18.86, 11.17, 14.80, 19.57]
+      },
+      "Balance Sheet": {
+        "Equity Capital": [15, 15, 15, 15, 15, 16, 16, 16, 16],
+        "Reserves": [31, 40, 79, 134, 254, 600, 683, 799, 890],
+        "Borrowings": [140, 130, 90, 82, 72, 27, 22, 5, 6],
+        "Other Liabilities": [55, 60, 69, 105, 105, 92, 98, 100, 101],
+        "Total Liabilities": [241, 245, 253, 336, 445, 735, 820, 921, 1012],
+        "Fixed Assets": [89, 91, 85, 99, 100, 190, 262, 310, 308],
+        "CWIP": [36, 34, 35, 40, 79, 43, 68, 149, 218],
+        "Investments": [0, 0, 0, 0, 0, 0, 25, 64, 72],
+        "Other Assets": [117, 120, 133, 197, 267, 502, 466, 398, 415],
+        "Total Assets": [241, 245, 253, 336, 445, 735, 820, 921, 1012]
+      },
+      "Cash Flows": {
+        "Cash from Operating Activity": [27, 28, 49, 117, 76, 49, 64, 113],
+        "Cash from Investing Activity": [-27, -5, 5, -25, -47, -60, -124, -174],
+        "Cash from Financing Activity": [-2, -20, -50, -29, -15, 150, -10, -22],
+        "Net Cash Flow": [-2, 3, 4, 62, 15, 139, -70, -83]
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null,
+        "5 Years": "15%",
+        "3 Years": "13%",
+        "TTM": "20%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": "25%",
+        "3 Years": "-1%",
+        "TTM": "57%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": "146%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [99, 92, 79, 60, 69, 79, 67, 71],
+      "Inventory Days": [113, 85, 77, 130, 206, 172, 234, 140],
+      "Days Payable": [121, 112, 110, 130, 145, 91, 130, 98],
+      "Cash Conversion Cycle": [91, 64, 45, 61, 130, 160, 171, 114],
+      "Working Capital Days": [119, 97, 96, 49, 94, 132, 181, 158]
+    },
+    "Profitability Ratios": {
+      "ROCE %": ["14%", "37%", "50%", "60%", "43%", "19%", "22%"],
+      "ROE": {
+        "10 Years": null,
+        "5 Years": "26%",
+        "3 Years": "19%",
+        "Last Year": "16%"
+      }
+    },
+    "Valuation Ratios": {}
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Sun Pharma.Inds.", "CMP": 1808.85, "P/E": 38.73, "Mar Cap": 434003.71, "Div Yld": 0.75, "NP Qtr": 3037.33, "Qtr Profit Var": 27.86, "Sales Qtr": 13291.39, "Qtr Sales Var": 9.01, "ROCE": 17.32},
+      {"Name": "Cipla", "CMP": 1472.05, "P/E": 25.81, "Mar Cap": 118884.82, "Div Yld": 0.88, "NP Qtr": 1305.01, "Qtr Profit Var": 15.18, "Sales Qtr": 7051.02, "Qtr Sales Var": 5.58, "ROCE": 22.80},
+      {"Name": "Mankind Pharma", "CMP": 2805.20, "P/E": 56.07, "Mar Cap": 112393.74, "Div Yld": 0.00, "NP Qtr": 634.43, "Qtr Profit Var": 34.84, "Sales Qtr": 2529.74, "Qtr Sales Var": 11.91, "ROCE": 24.57},
+      {"Name": "Dr Reddy's Labs", "CMP": 1343.65, "P/E": 21.00, "Mar Cap": 112115.62, "Div Yld": 0.60, "NP Qtr": 1341.90, "Qtr Profit Var": -15.28, "Sales Qtr": 8038.20, "Qtr Sales Var": 16.45, "ROCE": 26.53},
+      {"Name": "Lupin", "CMP": 2150.70, "P/E": 37.36, "Mar Cap": 98114.41, "Div Yld": 0.37, "NP Qtr": 859.48, "Qtr Profit Var": 74.12, "Sales Qtr": 5672.73, "Qtr Sales Var": 12.59, "ROCE": 15.72},
+      {"Name": "Zydus Lifesci.", "CMP": 973.50, "P/E": 22.90, "Mar Cap": 97956.88, "Div Yld": 0.31, "NP Qtr": 920.20, "Qtr Profit Var": 13.62, "Sales Qtr": 5237.00, "Qtr Sales Var": 19.87, "ROCE": 22.34},
+      {"Name": "Aurobindo Pharma", "CMP": 1241.70, "P/E": 19.96, "Mar Cap": 72756.00, "Div Yld": 0.36, "NP Qtr": 816.95, "Qtr Profit Var": 8.65, "Sales Qtr": 7796.07, "Qtr Sales Var": 7.99, "ROCE": 14.10},
+      {"Name": "Supriya Lifesci.", "CMP": 729.80, "P/E": 37.29, "Mar Cap": 5873.63, "Div Yld": 0.11, "NP Qtr": 46.15, "Qtr Profit Var": 93.26, "Sales Qtr": 166.10, "Qtr Sales Var": 18.56, "ROCE": 22.15}
+    ],
+    "Median": {
+      "CMP": 512.7,
+      "P/E": 33.34,
+      "Mar Cap": 2869.55,
+      "Div Yld": 0.05,
+      "NP Qtr": 17.27,
+      "Qtr Profit Var": 19.36,
+      "Sales Qtr": 188.19,
+      "Qtr Sales Var": 9.43,
+      "ROCE": 14.1
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 19.4%"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Notes on Shareholding Pattern": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes.",
+      "Click on the line-items to see the names of individual entities."
+    ]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [68.24, 68.24, 68.24, 68.24, 68.24, 68.28, 68.30, 68.30, 68.30, 68.30, 68.30, 68.30],
+      "FIIs": [10.30, 7.13, 5.99, 6.79, 6.24, 5.66, 5.73, 5.35, 4.56, 5.37, 4.95, 6.03],
+      "DIIs": [7.90, 7.73, 10.33, 8.88, 7.89, 7.65, 7.54, 7.17, 5.39, 5.30, 5.48, 5.45],
+      "Public": [13.56, 16.90, 15.44, 16.09, 17.62, 18.43, 18.43, 19.19, 21.77, 21.04, 21.27, 20.22]
+    },
+    "Yearly": {
+      "Promoters": [68.24, 68.28, 68.30, 68.30],
+      "FIIs": [7.13, 5.66, 5.37, 6.03],
+      "DIIs": [7.73, 7.65, 5.30, 5.45],
+      "Public": [16.90, 18.43, 21.04, 20.22]
+    }
+  }
+}

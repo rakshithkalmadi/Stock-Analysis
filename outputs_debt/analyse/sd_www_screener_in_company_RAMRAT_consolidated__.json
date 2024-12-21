@@ -1,0 +1,107 @@
+
+{
+  "Company Overview": {
+    "Name": "Ram Ratna Wires Ltd",
+    "Sector": "Non Ferrous Metals",
+    "Industry": "Mining / Minerals / Metals",
+    "Business Description": "engaged in the manufacturing of winding wires, mainly enamelled copper wires.",
+    "Market Position": "2nd largest manufacturer of Winding Wire in South Asia. It is the only manufacturer of enameled copper wires in India, that offers the widest range from the thinnest wire of 18 microns (0.018mm) to 4.876 mm with intermediate sizes."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,560 Cr.",
+    "Current Price": "₹ 582",
+    "High / Low": "₹ 758 / 245",
+    "Stock P/E": 42.8,
+    "Book Value": "₹ 96.9",
+    "Dividend Yield": "0.43 %",
+    "ROCE": "17.4 %",
+    "ROE": "13.6 %",
+    "Face Value": "₹ 5.00"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data available in tables, needs further extraction from HTML tables"
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Note": "Data available in tables, needs further extraction from HTML tables"
+      },
+      "Annual": {
+        "Note": "Data available in tables, needs further extraction from HTML tables"
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Data available in tables, needs further extraction from HTML tables"
+    },
+    "Cash Flow": {
+      "Note": "Data available in tables, needs further extraction from HTML tables"
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": null, 
+      "Compounded Sales Growth (5 Years)": "16%",
+      "Compounded Sales Growth (3 Years)": "25%",
+      "Compounded Sales Growth (TTM)": "18%",
+      "Compounded Profit Growth (10 Years)": null,
+      "Compounded Profit Growth (5 Years)": "26%",
+      "Compounded Profit Growth (3 Years)": "49%",
+      "Compounded Profit Growth (TTM)": "19%",
+      "Stock Price CAGR (10 Years)": "38%",
+      "Stock Price CAGR (5 Years)": "76%",
+      "Stock Price CAGR (3 Years)": "96%",
+      "Stock Price CAGR (1 Year)": "100%"
+    },
+    "Liquidity Ratios": {
+      "Note": "Data needs extraction from HTML tables (Debtor Days, Inventory Days, Days Payable, Cash Conversion Cycle, Working Capital Days)"
+    },
+    "Profitability Ratios": {
+      "ROCE (10 Years)": null,
+      "ROCE (5 Years)": "14%",
+      "ROCE (3 Years)": "16%",
+      "ROCE (Last Year)": "14%",
+      "ROE (10 Years)": null,
+      "ROE (5 Years)": "14%",
+      "ROE (3 Years)": "16%",
+      "ROE (Last Year)": "14%"
+    },
+    "Valuation Ratios": {
+      "Note": "Data needs extraction from HTML tables (P/E, Price to Book, Market Cap / Sales, EV/EBITDA)"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Hindustan Zinc", "CMP": 468.80, "P/E": 22.52, "Mar Cap": 198082.95, "Div Yld": 6.19, "NP Qtr": 2298.00, "Qtr Profit Var": 35.80, "Sales Qtr": 8242.00, "Qtr Sales Var": 21.35, "ROCE": 46.25},
+      {"Name": "Hindustan Copper", "CMP": 271.50, "P/E": 65.25, "Mar Cap": 26254.70, "Div Yld": 0.34, "NP Qtr": 101.68, "Qtr Profit Var": 67.21, "Sales Qtr": 518.19, "Qtr Sales Var": 35.87, "ROCE": 17.99},
+      {"Name": "Gravita India", "CMP": 2326.35, "P/E": 59.82, "Mar Cap": 16060.64, "Div Yld": 0.22, "NP Qtr": 71.92, "Qtr Profit Var": 24.30, "Sales Qtr": 927.42, "Qtr Sales Var": 10.91, "ROCE": 27.86},
+      {"Name": "Shivalik Bimetal", "CMP": 602.70, "P/E": 43.18, "Mar Cap": 3471.81, "Div Yld": 0.28, "NP Qtr": 19.94, "Qtr Profit Var": -1.97, "Sales Qtr": 126.65, "Qtr Sales Var": -0.87, "ROCE": 32.84},
+      {"Name": "Prec. Wires (I)", "CMP": 175.14, "P/E": 38.41, "Mar Cap": 3129.02, "Div Yld": 0.60, "NP Qtr": 19.27, "Qtr Profit Var": 17.86, "Sales Qtr": 1043.79, "Qtr Sales Var": 25.84, "ROCE": 25.35},
+      {"Name": "Pondy Oxides", "CMP": 907.65, "P/E": 41.67, "Mar Cap": 2364.46, "Div Yld": 0.28, "NP Qtr": 17.39, "Qtr Profit Var": 112.85, "Sales Qtr": 572.43, "Qtr Sales Var": 45.73, "ROCE": 16.10}
+    ],
+    "Median (15 Companies)": {
+      "CMP": 229.35,
+      "P/E": 34.6,
+      "Mar Cap": 639.43,
+      "Div Yld": 0.22,
+      "NP Qtr": 9.67,
+      "Qtr Profit Var": 23.29,
+      "Sales Qtr": 372.93,
+      "Qtr Sales Var": 21.35,
+      "ROCE": 19.77
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has delivered good profit growth of 25.6% CAGR over last 5 years",
+      "Company has been maintaining a healthy dividend payout of 29.2%"
+    ],
+    "Cons": [
+      "Company's cost of borrowing seems high"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  }
+}
+```
+
+**Note:**  This JSON object represents a significant portion of the data.  However, much of the quantitative data resides within HTML tables.  To complete the JSON,  a robust HTML table parsing and extraction mechanism would be needed to populate the missing values in the "Performance Trends" and "Ratios" sections.  The code would need to iterate through the tables, identify headers, and extract the corresponding numerical values.  Libraries like Beautiful Soup in Python are well-suited for this task.

@@ -1,0 +1,252 @@
+
+{
+  "Company Overview": {
+    "Name": "Master Components Ltd",
+    "Sector": "Plastic products",
+    "Industry": "Plastics Products",
+    "Business Description": "Incorporated in 1999, Master Components Limited is engaged in manufacturing plastic engineering components and sub-assemblies. The company's primary activity is molding materials to produce new components for Electrical, Medical, Industrial, and Automotive sectors.",
+    "Market Position": "Information not explicitly provided, but peer comparison data suggests a relatively smaller market cap compared to competitors."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 124 Cr.",
+    "Current Price": "₹ 310",
+    "High/Low": "₹ 380 / ₹ 130",
+    "Stock P/E": "37.1",
+    "Book Value": "₹ 61.7",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "20.4 %",
+    "ROE": "15.5 %",
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": "Information not explicitly provided, but mentioned as 'almost debt free' in pros."
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sep 2022": {
+        "Sales": "10.04",
+        "Net Profit": "0.85",
+        "EPS": "28.33"
+      },
+      "Sep 2023": {
+        "Sales": "11.49",
+        "Net Profit": "1.00",
+        "EPS": "2.50"
+      },
+      "Mar 2024": {
+        "Sales": "13.80",
+        "Net Profit": "1.67",
+        "EPS": "4.18"
+      },
+      "Sep 2024": {
+        "Sales": "17.73",
+        "Net Profit": "1.67",
+        "EPS": "4.18"
+      }
+    },
+    "Annual Results": {
+      "Mar 2020": {
+        "Sales": "15.02",
+        "Net Profit": "1.32",
+        "EPS": "44.00"
+      },
+      "Mar 2021": {
+        "Sales": "13.22",
+        "Net Profit": "0.76",
+        "EPS": "25.33"
+      },
+      "Mar 2022": {
+        "Sales": "18.22",
+        "Net Profit": "0.94",
+        "EPS": "31.33"
+      },
+      "Mar 2023": {
+        "Sales": "20.69",
+        "Net Profit": "1.71",
+        "EPS": "5.18"
+      },
+      "Mar 2024": {
+        "Sales": "25.24",
+        "Net Profit": "2.68",
+        "EPS": "6.70"
+      },
+      "TTM": {
+        "Sales": "31.53",
+        "Net Profit": "3.34",
+        "EPS": "8.36"
+      }
+    },
+    "Profit & Loss Trends": {
+      "Compounded Sales Growth (3 Years)": "24%",
+      "Compounded Sales Growth (TTM)": "22%",
+      "Compounded Profit Growth (3 Years)": "52%",
+      "Compounded Profit Growth (TTM)": "57%"
+    },
+    "Balance Sheet Highlights": {
+      "Mar 2020": {
+        "Equity Capital": "0.30",
+        "Reserves": "7.95",
+        "Borrowings": "3.77",
+        "Other Liabilities": "2.58",
+        "Total Liabilities": "14.60",
+        "Fixed Assets": "7.98",
+        "CWIP": "0.00",
+        "Investments": "0.00",
+        "Other Assets": "6.62",
+        "Total Assets": "14.60"
+      },
+      "Mar 2024": {
+        "Equity Capital": "4.00",
+        "Reserves": "19.00",
+        "Borrowings": "-0.14",
+        "Other Liabilities": "3.45",
+        "Total Liabilities": "26.31",
+        "Fixed Assets": "10.16",
+        "CWIP": "0.61",
+        "Investments": "0.00",
+        "Other Assets": "15.54",
+        "Total Assets": "26.31"
+      },
+      "Sep 2024": {
+        "Equity Capital": "4.00",
+        "Reserves": "20.67",
+        "Borrowings": "1.51",
+        "Other Liabilities": "8.14",
+        "Total Liabilities": "34.32",
+        "Fixed Assets": "16.06",
+        "CWIP": "3.60",
+        "Investments": "0.00",
+        "Other Assets": "14.66",
+        "Total Assets": "34.32"
+      }
+    },
+    "Cash Flow Summaries": {
+      "Mar 2020": {
+        "Cash from Operating Activity": "2.03",
+        "Cash from Investing Activity": "-0.71",
+        "Cash from Financing Activity": "-1.86",
+        "Net Cash Flow": "-0.54"
+      },
+      "Mar 2024": {
+        "Cash from Operating Activity": "2.08",
+        "Cash from Investing Activity": "-3.73",
+        "Cash from Financing Activity": "7.58",
+        "Net Cash Flow": "5.94"
+      }
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (3 Years)": "24%",
+      "Compounded Sales Growth (TTM)": "22%",
+      "Compounded Profit Growth (3 Years)": "52%",
+      "Compounded Profit Growth (TTM)": "57%",
+      "Stock Price CAGR (1 Year)": "120%"
+    },
+    "Liquidity Ratios": {
+      "Current Ratio": "Information not provided",
+      "Quick Ratio": "Information not provided"
+    },
+    "Profitability Ratios": {
+      "ROCE (Mar 2024)": "20.42%",
+      "ROE (Last Year)": "15%",
+      "OPM (Sep 2024)": "16.75%"
+    },
+    "Valuation Ratios": {
+      "P/E": "37.1",
+      "Price to Book": "Information not explicitly provided but can be calculated from Current Price and Book Value"
+    },
+    "Other Ratios": {
+      "Debtor Days (Mar 2024)": "79.68",
+      "Inventory Days (Mar 2024)": "52.35",
+      "Days Payable (Mar 2024)": "42.12",
+      "Cash Conversion Cycle (Mar 2024)": "89.91",
+      "Working Capital Days (Mar 2024)": "91.54"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Supreme Inds.", "CMP": "4839.80", "P/E": "56.35", "Mar Cap": "61478.46", "Div Yld": "0.62", "NP Qtr": "206.60", "Qtr Profit Var": "-15.05", "Sales Qtr": "2272.95", "Qtr Sales Var": "-1.55", "ROCE": "28.56"},
+      {"Name": "Astral", "CMP": "1734.60", "P/E": "89.13", "Mar Cap": "46597.38", "Div Yld": "0.22", "NP Qtr": "108.70", "Qtr Profit Var": "-17.15", "Sales Qtr": "1370.40", "Qtr Sales Var": "0.54", "ROCE": "23.16"},
+      {"Name": "Finolex Inds.", "CMP": "238.50", "P/E": "30.76", "Mar Cap": "14798.37", "Div Yld": "1.05", "NP Qtr": "51.44", "Qtr Profit Var": "-45.15", "Sales Qtr": "828.43", "Qtr Sales Var": "-6.20", "ROCE": "10.42"},
+      {"Name": "Time Technoplast", "CMP": "467.20", "P/E": "29.32", "Mar Cap": "10602.13", "Div Yld": "0.43", "NP Qtr": "99.79", "Qtr Profit Var": "39.72", "Sales Qtr": "1370.52", "Qtr Sales Var": "14.76", "ROCE": "15.62"},
+      {"Name": "Responsive Ind", "CMP": "252.15", "P/E": "35.71", "Mar Cap": "6722.53", "Div Yld": "0.04", "NP Qtr": "49.28", "Qtr Profit Var": "21.17", "Sales Qtr": "349.52", "Qtr Sales Var": "30.25", "ROCE": "15.16"},
+      {"Name": "Shaily Engineer.", "CMP": "1447.95", "P/E": "90.91", "Mar Cap": "6653.72", "Div Yld": "0.07", "NP Qtr": "21.92", "Qtr Profit Var": "102.40", "Sales Qtr": "192.00", "Qtr Sales Var": "21.85", "ROCE": "14.12"},
+      {"Name": "Jai Corp", "CMP": "317.25", "P/E": "85.03", "Mar Cap": "5661.31", "Div Yld": "0.16", "NP Qtr": "17.11", "Qtr Profit Var": "47.76", "Sales Qtr": "135.37", "Qtr Sales Var": "14.84", "ROCE": "3.85"}
+    ],
+    "Median": {
+      "CMP": "189.98",
+      "P/E": "35.27",
+      "Mar Cap": "493.37",
+      "Div Yld": "0.07",
+      "NP Qtr": "3.62",
+      "Qtr Profit Var": "17.8",
+      "Sales Qtr": "70.5",
+      "Qtr Sales Var": "6.7",
+      "ROCE": "15.35"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company is almost debt free.",
+    "Cons": "Though the company is reporting repeated profits, it is not paying out dividend",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Sep 2023": {
+        "Promoters": "72.45%",
+        "Public": "27.54%",
+        "No. of Shareholders": "860"
+      },
+      "Mar 2024": {
+        "Promoters": "72.45%",
+        "Public": "27.55%",
+        "No. of Shareholders": "213"
+      },
+      "Sep 2024": {
+        "Promoters": "72.45%",
+        "Public": "27.55%",
+        "No. of Shareholders": "247"
+      }
+    },
+    "Yearly": {
+      "Mar 2024": {
+        "Promoters": "72.45%",
+        "Public": "27.55%",
+        "No. of Shareholders": "213"
+      },
+      "Sep 2024": {
+        "Promoters": "72.45%",
+        "Public": "27.55%",
+        "No. of Shareholders": "247"
+      }
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {
+        "Title": "Clarification - Financial Results",
+        "Date": "13 December 2024",
+        "Description": "Exchange has sought clarification from Master Components Limited for the quarter ended 30-Sep-2024 with respect to Regulation 33 of the SEBI (LODR) Regulations, 2015."
+      },
+      {
+        "Title": "Bagging/Receiving of orders/contracts",
+        "Date": "5 December 2024",
+        "Description": "Master Components Limited has informed about Bagging/Receiving of orders/contracts"
+      },
+      {
+        "Title": "Related Party Transactions",
+        "Date": "5 November 2024",
+        "Description": "Master Components Limited has informed about Non-applicability of related Party Transactions Disclosure"
+      },
+      {
+        "Title": "Outcome of Board Meeting",
+        "Date": "5 November 2024",
+        "Description": "Master Components Limited has informed regarding Board meeting held on November 05, 2024."
+      },
+      {
+        "Title": "Financial Result Updates",
+        "Date": "5 November 2024",
+        "Description": "Master Components Limited has submitted to the Exchange, the financial results for the period ended September 30, 2024."
+      }
+    ]
+  }
+}

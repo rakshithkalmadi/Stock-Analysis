@@ -1,0 +1,114 @@
+
+{
+  "Company Overview": {
+    "Name": "Insecticides India Ltd",
+    "Sector": "Agro Chemicals",
+    "Industry": "Pesticides / Agrochemicals - Indian",
+    "Business Description": "Manufacturing of agrochemicals (technicals and formulations) and biological and household products. They cater to the Indian market, selling directly to consumers and supplying technicals/formulations to other formulation companies.  They also export to over 22 countries.",
+    "Market Position": "Has a wide dealer and distribution network with 380 SKUs, 6,000+ distributor connections, and 70,000+ dealer and retailer connections.  Recently launched four new products (Hachiman, Oxim, Tory, and Shinwa) to bolster market share.  Has six formulation plants, two technical synthesis plants, and one biological manufacturing plant."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,171 Cr.",
+    "Current Price": "₹ 734",
+    "High/Low": "₹ 1,085 / ₹ 460",
+    "Stock P/E": 16.6,
+    "Book Value": "₹ 377",
+    "Dividend Yield": "0.41 %",
+    "ROCE": "13.0 %",
+    "ROE": "10.5 %",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Detailed quarterly and annual sales and profit data is available in the provided HTML but requires significant parsing and structuring to be included here.  This would involve extracting data from multiple tables."
+    },
+    "Profit & Loss": {
+      "Note": "Detailed quarterly and annual Profit & Loss data is available in the provided HTML but requires significant parsing and structuring to be included here.  This would involve extracting data from multiple tables."
+    },
+    "Balance Sheet": {
+      "Note": "Detailed quarterly and annual Balance Sheet data is available in the provided HTML but requires significant parsing and structuring to be included here.  This would involve extracting data from multiple tables."
+    },
+    "Cash Flow": {
+      "Note": "Detailed quarterly and annual Cash Flow data is available in the provided HTML but requires significant parsing and structuring to be included here.  This would involve extracting data from multiple tables."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "9%",
+      "Compounded Sales Growth (5 Years)": "11%",
+      "Compounded Sales Growth (3 Years)": "11%",
+      "Compounded Sales Growth (TTM)": "-4%",
+      "Compounded Profit Growth (10 Years)": "10%",
+      "Compounded Profit Growth (5 Years)": "-4%",
+      "Compounded Profit Growth (3 Years)": "0%",
+      "Compounded Profit Growth (TTM)": "109%",
+      "Stock Price CAGR (10 Years)": "7%",
+      "Stock Price CAGR (5 Years)": "19%",
+      "Stock Price CAGR (3 Years)": "21%",
+      "Stock Price CAGR (1 Year)": "6%"
+
+    },
+    "Liquidity Ratios": {
+      "Note": "Data needs to be extracted from the 'Ratios' section of the HTML, specifically the 'Debtor Days', 'Inventory Days', 'Days Payable', 'Cash Conversion Cycle', and 'Working Capital Days' tables."
+    },
+    "Profitability Ratios": {
+      "ROCE (10 Years)": "13%",
+      "ROCE (5 Years)": "11%",
+      "ROCE (3 Years)": "10%",
+      "ROCE (Last Year)": "11%",
+      "ROE (10 Years)": "13%",
+      "ROE (5 Years)": "11%",
+      "ROE (3 Years)": "10%",
+      "ROE (Last Year)": "11%"
+    },
+    "Valuation Ratios": {
+      "Note": "P/E ratio is already extracted in the 'Financial Metrics' section.  Other valuation ratios need to be extracted from the HTML."
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "P I Industries", "CMP": 3813.75, "P/E": 32.60, "Mar Cap": 57861.50, "Div Yld": 0.39, "NP Qtr": 508.20, "Qtr Profit Var": 5.76, "Sales Qtr": 2221.00, "Qtr Sales Var": 4.92, "ROCE": 24.00},
+      {"Name": "UPL", "CMP": 504.50, "P/E": 42601.67, "Mar Cap": null, "Div Yld": 0.20, "NP Qtr": -585.00, "Qtr Profit Var": -152.09, "Sales Qtr": 11090.00, "Qtr Sales Var": 9.05, "ROCE": 3.29},
+      {"Name": "Sumitomo Chemi.", "CMP": 525.70, "P/E": 54.28, "Mar Cap": 26240.09, "Div Yld": 0.17, "NP Qtr": 190.84, "Qtr Profit Var": 32.82, "Sales Qtr": 971.35, "Qtr Sales Var": 7.51, "ROCE": 20.83},
+      {"Name": "Sharda Cropchem", "CMP": 791.70, "P/E": 32.80, "Mar Cap": 7142.76, "Div Yld": 0.38, "NP Qtr": 42.42, "Qtr Profit Var": 253.77, "Sales Qtr": 776.89, "Qtr Sales Var": 33.77, "ROCE": 4.27},
+      {"Name": "Dhanuka Agritech", "CMP": 1510.15, "P/E": 25.42, "Mar Cap": 6883.01, "Div Yld": 0.93, "NP Qtr": 117.52, "Qtr Profit Var": 15.48, "Sales Qtr": 654.28, "Qtr Sales Var": 5.88, "ROCE": 26.93},
+      {"Name": "Rallis India", "CMP": 295.65, "P/E": 38.59, "Mar Cap": 5749.47, "Div Yld": 0.85, "NP Qtr": 98.00, "Qtr Profit Var": 20.62, "Sales Qtr": 928.00, "Qtr Sales Var": 11.54, "ROCE": 11.20},
+      {"Name": "Bharat Rasayan", "CMP": 10440.95, "P/E": 30.96, "Mar Cap": 4338.49, "Div Yld": 0.01, "NP Qtr": 40.15, "Qtr Profit Var": 421.43, "Sales Qtr": 327.87, "Qtr Sales Var": 24.73, "ROCE": 11.14},
+      {"Name": "Insecticid.India", "CMP": 733.60, "P/E": 16.56, "Mar Cap": 2171.30, "Div Yld": 0.41, "NP Qtr": 61.60, "Qtr Profit Var": 15.70, "Sales Qtr": 627.21, "Qtr Sales Var": -9.88, "ROCE": 13.02}
+    ],
+    "Median": {
+      "CMP": 525.7,
+      "P/E": 32.8,
+      "Mar Cap": 2106.8,
+      "Div Yld": 0.2,
+      "NP Qtr": 26.48,
+      "Qtr Profit Var": 25.12,
+      "Sales Qtr": 437.42,
+      "Qtr Sales Var": 6.7,
+      "ROCE": 11.14
+    }
+  },
+  "Other Insights": {
+    "Key Points": [
+      "Product Wise Revenue Mix (FY22 vs FY21): Insecticides (53% vs 58%), Herbicides (33% vs 31%), Fungicides (11% vs 9%), PGR/Biologicals (3% vs 2%)",
+      "55% of revenue from Maharatna products, 45% from other branded products",
+      "Segment-wise Revenue Split (FY22): B2C (65%), B2B (26%)",
+      "Geography Wise Revenue Split (FY22): South (36%), East (22%), West (21%), North (21%)",
+      "Key brands: Pulsor, Green Label, Hercules, Kunoichi, Dominant, Lethal Gold, and KK Pro. Brand ambassadors: Suniel Shetty and Ajay Devgn.",
+      "Export revenue: 9% in FY22 (vs 4% in FY21)",
+      "JV with OAT Agrio Company Limited (Japan) for innovation and marketing.",
+      "Tie-ups with Nissan Chemical Corporation (Japan), Momentive (USA), and Nihon Nohyaku Company Limited (Japan).",
+      "Ban on four pesticides in August 2018 (mitigated by new product additions).",
+      "R&D as a percentage of revenue: <1% in FY22.",
+      "30 patents filed, 18 received.",
+      "Company has reduced debt and is almost debt-free.",
+      "Poor sales growth of 10.5% over the past five years.",
+      "Low return on equity of 10.1% over the last 3 years.",
+      "Low dividend payout of 9.43% of profits over the last 3 years."
+    ],
+    "Notes": [
+      "Pros and cons are machine-generated and should be used with caution.",
+      "Shareholding pattern data is available but requires further parsing."
+    ]
+  }
+}

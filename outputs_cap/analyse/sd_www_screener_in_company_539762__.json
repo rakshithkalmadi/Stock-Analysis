@@ -1,0 +1,181 @@
+
+{
+  "Company Overview": {
+    "Name": "Modern Engineering and Projects Ltd",
+    "Sector": "Infrastructure Developers & Operators",
+    "Industry": "Construction",
+    "Business Description": "The main object of business is to cultivate & manufacture tea, coffee, rubber, chincona and buyers of every kind of vegetable, mineral or other product of the soil, to render marketable any such produce either in its prepared, manufactured or raw state and either by whole sale and retail and also have some other object such as to carry on the business of lending , borrowing or raising ,the lending or advancing money on securities and property and grant loan on mortgage , the buying, selling and dealing with stock, funds, share, bonds, obligation and other securities.",
+    "Market Position": "Not explicitly stated in the provided HTML."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 65.4 Cr.",
+    "Current Price": "₹ 42.4",
+    "High/Low": "₹ 87.3 / ₹ 13.0",
+    "Stock P/E": "20.6",
+    "Book Value": "₹ 32.5",
+    "Dividend Yield": "0.00%",
+    "ROCE": "98.7%",
+    "ROE": null, 
+    "Face Value": "₹ 10.0",
+    "Debt-to-Equity Ratio": null //Not explicitly provided, needs calculation from Balance Sheet data.
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [0.47, 0.37, 0.50, 1.47, 0.09, 0.09, 67.62, 14.29, 16.61, 19.86, 40.74, 14.49, 16.25],
+      "Expenses": [1.64, 0.96, 0.55, 1.08, 0.76, 0.65, 68.06, 14.23, 14.09, 19.00, 36.06, 13.99, 17.70],
+      "Operating Profit": [-1.17, -0.59, -0.05, 0.39, -0.67, -0.56, -0.44, 0.06, 2.52, 0.86, 4.68, 0.50, -1.45],
+      "OPM %": [-248.94, -159.46, -10.00, 26.53, -744.44, -622.22, -0.65, 0.42, 15.17, 4.33, 11.49, 3.45, -8.92],
+      "Other Income": [0.00, 0.00, 0.06, 0.04, 0.00, 0.00, 0.13, 2.34, 0.04, 0.00, 0.00, 1.36, 0.64],
+      "Interest": [0.00, 0.00, 0.10, 0.08, 0.08, 0.08, 0.08, 0.15, 0.37, 0.10, 0.35, 0.10, 0.11],
+      "Depreciation": [0.04, 0.05, 0.84, 0.26, 0.28, 0.29, 0.54, 0.53, 0.92, 0.65, 0.73, 0.41, 0.41],
+      "Profit before tax": [-1.21, -0.64, -0.93, 0.09, -1.03, -0.93, -0.93, 1.72, 1.27, 0.11, 3.60, 1.35, -1.33],
+      "Tax %": [0.00, 0.00, 0.00, 0.00, -4.85, -5.38, -6.45, 25.00, 43.31, 90.91, 54.72, 17.78, -131.58],
+      "Net Profit": [-1.21, -0.64, -0.93, 0.09, -0.98, -0.88, -0.88, 1.28, 0.72, 0.01, 1.63, 1.11, 0.42],
+      "EPS in Rs": [-0.78, -0.41, -0.60, 0.06, -0.63, -0.57, -0.57, 0.83, 0.46, 0.01, 1.05, 0.72, 0.27]
+    },
+    "Annual Results": {
+      "Sales": [0.02, 0.10, 1.38, 0.33, 0.09, 2.17, 0.01, 0.06, 0.08, 1.34, 67.80, 93.22, 91.34],
+      "Expenses": [0.08, 0.11, 1.38, 0.59, 0.11, 2.54, 0.16, 0.21, 0.13, 3.16, 70.54, 83.35, 86.75],
+      "Operating Profit": [-0.06, -0.01, 0.00, -0.26, -0.02, -0.37, -0.15, -0.15, -0.05, -1.82, -2.74, 9.87, 4.59],
+      "OPM %": [-300.00, -10.00, 0.00, -78.79, -22.22, -17.05, -1500.00, -250.00, -62.50, -135.82, -4.04, 10.59, 5.03],
+      "Other Income": [0.02, 0.02, 0.04, 0.08, 0.12, 0.17, 0.00, 0.00, 0.00, 0.07, 1.63, 0.62, 2.00],
+      "Interest": [0.00, 0.00, 0.01, 0.02, 0.00, 0.00, 0.00, 0.00, 0.00, 0.36, 0.32, 0.96, 0.66],
+      "Depreciation": [0.01, 0.00, 0.02, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.97, 1.38, 2.84, 2.20],
+      "Profit before tax": [-0.05, 0.01, 0.01, -0.20, 0.10, -0.20, -0.15, -0.15, -0.05, -3.08, -2.81, 6.69, 3.73],
+      "Tax %": [0.00, 0.00, 100.00, 0.00, 20.00, 0.00, 0.00, 0.00, 0.00, -2.92, -5.69, 45.59],
+      "Net Profit": [-0.05, 0.00, 0.00, -0.20, 0.08, -0.20, -0.15, -0.15, -0.05, -2.99, -2.65, 3.65, 3.17],
+      "EPS in Rs": [-1.00, 0.00, 0.00, -0.13, 0.05, -0.13, -0.10, -0.10, -0.03, -1.93, -1.71, 2.35, 2.05]
+    },
+    "Balance Sheet Highlights": {
+      "Equity Capital": [0.09, 0.09, 3.09, 3.09, 3.09, 3.09, 3.09, 3.09, 3.09, 3.09, 3.09, 3.09, 15.47],
+      "Reserves": [0.68, 0.68, 0.69, 0.50, 0.58, 0.38, 0.23, 0.08, -0.02, -3.02, -7.46, -3.83, 34.78],
+      "Borrowings": [0.00, 0.00, 0.00, 0.73, 0.00, 0.00, 0.00, 0.00, 0.00, 9.19, 8.67, 11.94, 2.62],
+      "Other Liabilities": [0.03, 0.04, 1.12, 0.24, 0.03, 0.01, 0.01, 0.01, 0.01, 0.61, 32.33, 36.75, 40.19],
+      "Total Liabilities": [0.80, 0.81, 4.90, 4.56, 3.70, 3.48, 3.33, 3.18, 3.08, 9.87, 36.63, 47.95, 93.06],
+      "Fixed Assets": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 4.05, 14.05, 17.88, 14.42],
+      "CWIP": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00],
+      "Investments": [0.62, 0.59, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.74, 0.00, 0.00, 0.00],
+      "Other Assets": [0.18, 0.22, 4.90, 4.56, 3.70, 3.48, 3.33, 3.18, 3.08, 5.08, 22.58, 30.07, 78.64],
+      "Total Assets": [0.80, 0.81, 4.90, 4.56, 3.70, 3.48, 3.33, 3.18, 3.08, 9.87, 36.63, 47.95, 93.06]
+    },
+    "Cash Flow Summaries": {
+      "Cash from Operating Activity": [-0.01, 0.02, -2.89, -0.84, 0.26, 2.77, -0.06, -0.03, 0.02, -2.91, 15.13, 5.28],
+      "Cash from Investing Activity": [0.00, -0.01, 0.41, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, -2.68, -12.92, -6.67],
+      "Cash from Financing Activity": [0.00, 0.00, 2.71, 0.58, 0.09, -3.04, 0.00, 0.00, 0.00, 5.60, -0.67, 2.30],
+      "Net Cash Flow": [-0.01, 0.01, 0.24, -0.25, 0.35, -0.27, -0.05, -0.03, 0.02, 0.01, 1.54, 0.91]
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth (10 Years)": "98%",
+      "Compounded Sales Growth (5 Years)": "522%",
+      "Compounded Sales Growth (3 Years)": "952%",
+      "Compounded Sales Growth (TTM)": "-7%",
+      "Compounded Profit Growth (10 Years)": null,
+      "Compounded Profit Growth (5 Years)": "92%",
+      "Compounded Profit Growth (3 Years)": "322%",
+      "Compounded Profit Growth (TTM)": "1221%",
+      "Stock Price CAGR (10 Years)": null,
+      "Stock Price CAGR (5 Years)": "53%",
+      "Stock Price CAGR (3 Years)": null,
+      "Stock Price CAGR (1 Year)": "243%"
+    },
+    "Liquidity Ratios": {
+      "Debtor Days": [0.00, 109.50, 325.33, 4346.82, 13018.33, 1.68, 0.00, 0.00, 0.00, 408.58, 19.43, 87.98],
+      "Inventory Days": [486.67, 265.45, 0.00, 60.83, 547.50, 41.23, 530.91, 121.67, 0.00],
+      "Days Payable": [0.00, 0.00, 365.00, 0.00, 0.00, 0.00, 0.00],
+      "Cash Conversion Cycle": [486.67, 374.95, 325.33, 4042.65, 13565.83, 42.92, 530.91, 121.67, 0.00, 408.58, 19.43, 87.98],
+      "Working Capital Days": [1460.00, 365.00, 822.57, 4767.12, 13423.89, 568.53, 119720.00, 19223.33, 13276.88, 896.16, -66.11, -47.93]
+    },
+    "Profitability Ratios": {
+      "ROCE %": [-7.55, 1.30, 0.88, -4.44, 2.50, -5.60, -4.42, -4.62, -1.60, -44.12, -36.73, 98.71],
+      "Return on Equity (10 Years)": null,
+      "Return on Equity (5 Years)": null,
+      "Return on Equity (3 Years)": null,
+      "Return on Equity (Last Year)": null
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": "20.6",
+      "Price to Book": null // Needs calculation
+      
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Rail Vikas", "CMP": "433.25", "P/E": "70.59", "Mar Cap": "90333.50", "Div Yld": "0.49", "NP Qtr": "302.51", "Qtr Profit Var": "-18.26", "Sales Qtr": "4869.22", "Qtr Sales Var": "-0.83", "ROCE": "18.70"},
+      {"Name": "IRB Infra.Devl.", "CMP": "55.09", "P/E": "53.99", "Mar Cap": "33268.85", "Div Yld": "0.54", "NP Qtr": "99.87", "Qtr Profit Var": "4.30", "Sales Qtr": "1585.84", "Qtr Sales Var": "-9.12", "ROCE": "8.96"},
+      {"Name": "Ircon Intl.", "CMP": "218.27", "P/E": "22.28", "Mar Cap": "20528.64", "Div Yld": "1.42", "NP Qtr": "205.92", "Qtr Profit Var": "-17.87", "Sales Qtr": "2447.52", "Qtr Sales Var": "-18.06", "ROCE": "18.15"},
+      {"Name": "Afcons Infrastr.", "CMP": "520.25", "P/E": "41.77", "Mar Cap": "19134.00", "Div Yld": "0.00", "NP Qtr": "135.43", "Qtr Profit Var": "30.01", "Sales Qtr": "2959.69", "Qtr Sales Var": "-11.23", "ROCE": "23.13"},
+      {"Name": "G R Infraproject", "CMP": "1529.80", "P/E": "16.09", "Mar Cap": "14799.33", "Div Yld": "0.00", "NP Qtr": "193.57", "Qtr Profit Var": "-16.22", "Sales Qtr": "1394.33", "Qtr Sales Var": "-25.94", "ROCE": "16.89"},
+      {"Name": "H.G. Infra Engg.", "CMP": "1432.80", "P/E": "17.82", "Mar Cap": "9337.72", "Div Yld": "0.10", "NP Qtr": "80.72", "Qtr Profit Var": "-16.02", "Sales Qtr": "902.41", "Qtr Sales Var": "-5.46", "ROCE": "24.12"},
+      {"Name": "KNR Construct.", "CMP": "325.20", "P/E": "8.36", "Mar Cap": "9145.75", "Div Yld": "0.08", "NP Qtr": "580.02", "Qtr Profit Var": "216.20", "Sales Qtr": "1944.86", "Qtr Sales Var": "87.28", "ROCE": "25.74"},
+      {"Name": "Modern Engineer.", "CMP": "42.36", "P/E": "20.65", "Mar Cap": "65.45", "Div Yld": "0.00", "NP Qtr": "0.42", "Qtr Profit Var": "-41.67", "Sales Qtr": "16.25", "Qtr Sales Var": "-2.17", "ROCE": "98.71"}
+    ],
+    "Median": {
+      "CMP": "223.2",
+      "P/E": "26.34",
+      "Mar Cap": "994.28",
+      "Div Yld": "0.0",
+      "NP Qtr": "13.06",
+      "Qtr Profit Var": "9.65",
+      "Sales Qtr": "153.08",
+      "Qtr Sales Var": "5.05",
+      "ROCE": "19.75"
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company has reduced debt.",
+      "Company is almost debt free.",
+      "Debtor days have improved from 172 to 88.0 days."
+    ],
+    "Cons": [
+      "Promoter holding has decreased over last quarter: -29.6%",
+      "Promoter holding is low: 33.3%",
+      "Earnings include an other income of Rs.2.00 Cr."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Data Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ]
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [62.86, 62.86, 62.86, 62.85, 62.85, 62.85, 62.85, 62.85, 62.85, 62.85, 62.85, 33.29],
+      "FIIs": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 1.74, 6.45],
+      "Public": [37.14, 37.14, 37.14, 37.14, 37.14, 37.14, 37.14, 37.14, 37.14, 37.14, 35.41, 60.26],
+      "No. of Shareholders": [243, 244, 243, 243, 242, 241, 242, 243, 249, 388, 515, 1350]
+    },
+    "Yearly": {
+      "Promoters": [2.17, 2.17, 2.17, 2.17, 2.17, 62.86, 62.85, 62.85, 33.29],
+      "FIIs": [0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 6.45],
+      "Public": [97.83, 97.83, 97.83, 97.83, 97.83, 37.14, 37.14, 37.14, 60.26],
+      "No. of Shareholders": [541, 514, 181, 180, 280, 244, 241, 388, 1350]
+    }
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "17 Dec", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication"},
+      {"Date": "16 Dec", "Title": "Shareholder Meeting / Postal Ballot-Notice of Postal Ballot"},
+      {"Date": "13 Dec", "Title": "Announcement under Regulation 30 (LODR)-Resignation of Managing Director"},
+      {"Date": "13 Dec", "Title": "Authorization Under Regulation 30(5) Of The SEBI (LODR) Regulation, 2015"},
+      {"Date": "13 Dec", "Title": "Appointment Of M/S. Raj Jain & Associates, Chartered Accountants As An Internal Auditor"}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2012, "Source": "bse"}
+    ]
+  }
+}

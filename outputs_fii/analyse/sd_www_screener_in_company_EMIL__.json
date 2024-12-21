@@ -1,0 +1,147 @@
+
+{
+  "Company Overview": {
+    "Name": "Electronics Mart India Ltd",
+    "Sector": "Retail",
+    "Industry": "Trading",
+    "Business Description": "4th largest consumer durable and electronics retailer in India. Offers a diversified range of products with a focus on large appliances (air conditioners, televisions, washing machines, and refrigerators), mobiles and small appliances, IT, and others.  Includes more than 6,000 SKUs across product categories from more than 70 consumer durable and electronic brands.",
+    "Market Position": "Largest consumer durables and electronics retailer in the Southern region, particularly dominant in Telangana and Andhra Pradesh."
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 6,554 Cr.",
+    "Current Price": "₹ 170",
+    "High/Low": "₹ 262 / ₹ 154",
+    "P/E Ratio": 35.7,
+    "Book Value": "₹ 38.2",
+    "Dividend Yield": "0.00 %",
+    "ROCE": "12.7 %",
+    "ROE": "14.4 %",
+    "Face Value": "₹ 10.0",
+    "BSE Code": "543626",
+    "NSE Code": "EMIL"
+  },
+  "Performance Trends": {
+    "Sales & Margin": {
+      "Note": "Data needs to be extracted from tables in the HTML"
+    },
+    "Profit & Loss": {
+      "Quarterly": {
+        "Note": "Data needs to be extracted from tables in the HTML.  Includes Sales, Expenses, Operating Profit, OPM %, Other Income, Interest, Depreciation, Profit before tax, Tax %, Net Profit, and EPS."
+      },
+      "Annual": {
+        "Note": "Data needs to be extracted from tables in the HTML. Includes Sales, Expenses, Operating Profit, OPM %, Other Income, Interest, Depreciation, Profit before tax, Tax %, Net Profit, and EPS."
+      }
+    },
+    "Balance Sheet": {
+      "Note": "Data needs to be extracted from tables in the HTML. Includes Equity Capital, Reserves, Borrowings, Other Liabilities, Total Liabilities, Fixed Assets, CWIP, Investments, Other Assets, and Total Assets."
+    },
+    "Cash Flow": {
+      "Note": "Data needs to be extracted from tables in the HTML. Includes Cash from Operating Activity, Cash from Investing Activity, Cash from Financing Activity, and Net Cash Flow."
+    }
+  },
+  "Ratios": {
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": null, 
+        "5 Years": "31%",
+        "3 Years": "25%",
+        "TTM": "15%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": null,
+        "5 Years": "31%",
+        "3 Years": "46%",
+        "TTM": "18%"
+      },
+      "Stock Price CAGR": {
+        "10 Years": null,
+        "5 Years": null,
+        "3 Years": null,
+        "1 Year": "-17%"
+      }
+    },
+    "Liquidity Ratios": {
+      "Note": "Data needs to be extracted from tables in the HTML.  Potentially includes Debtor Days, Inventory Days, Days Payable, Cash Conversion Cycle, and Working Capital Days."
+    },
+    "Profitability Ratios": {
+      "ROCE": {
+        "Note": "Data needs to be extracted from tables in the HTML."
+      },
+      "ROE": {
+        "Note": "Data needs to be extracted from tables in the HTML."
+      },
+      "OPM": {
+        "Note": "Data needs to be extracted from tables in the HTML."
+      }
+    },
+    "Valuation Ratios": {
+      "P/E Ratio": {
+        "Note": "Data needs to be extracted from tables in the HTML."
+      },
+      "Price to Book": {
+        "Note": "Data needs to be extracted from tables in the HTML."
+      },
+      "Market Cap / Sales": {
+        "Note": "Data needs to be extracted from tables in the HTML."
+      },
+      "EV/EBITDA": {
+        "Note": "Data needs to be extracted from tables in the HTML."
+      }
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Trent", "CMP": 6831.55, "P/E": 178.61, "Mar Cap": 242853.04, "Div Yld": 0.05, "NP Qtr": 335.06, "Qtr Profit Var": 46.92, "Sales Qtr": 4156.67, "Qtr Sales Var": 39.37, "ROCE": 23.79},
+      {"Name": "Avenue Super.", "CMP": 3408.30, "P/E": 82.55, "Mar Cap": 221789.35, "Div Yld": 0.00, "NP Qtr": 659.44, "Qtr Profit Var": 5.79, "Sales Qtr": 14444.50, "Qtr Sales Var": 14.42, "ROCE": 19.41},
+      {"Name": "Brainbees Solut.", "CMP": 638.75, "P/E": 33162.89, "Mar Cap": null, "Div Yld": 0.00, "NP Qtr": -62.86, "Qtr Profit Var": 50.76, "Sales Qtr": 1904.92, "Qtr Sales Var": 26.41, "ROCE": -4.00},
+      {"Name": "Redtape", "CMP": 855.85, "P/E": 75.10, "Mar Cap": 11828.01, "Div Yld": 0.00, "NP Qtr": 25.07, "Qtr Profit Var": -9.63, "Sales Qtr": 415.80, "Qtr Sales Var": 28.05, "ROCE": 29.27},
+      {"Name": "Medplus Health", "CMP": 848.05, "P/E": 101.23, "Mar Cap": 10138.20, "Div Yld": 0.00, "NP Qtr": 38.70, "Qtr Profit Var": 166.16, "Sales Qtr": 1576.17, "Qtr Sales Var": 11.90, "ROCE": 6.66},
+      {"Name": "Ethos Ltd", "CMP": 3101.45, "P/E": 83.80, "Mar Cap": 7592.49, "Div Yld": 0.00, "NP Qtr": 21.25, "Qtr Profit Var": 14.31, "Sales Qtr": 297.13, "Qtr Sales Var": 26.32, "ROCE": 14.91},
+      {"Name": "V-Mart Retail", "CMP": 3780.30, "P/E": 7483.87, "Mar Cap": null, "Div Yld": 0.00, "NP Qtr": -56.51, "Qtr Profit Var": 11.87, "Sales Qtr": 660.97, "Qtr Sales Var": 20.30, "ROCE": 0.54},
+      {"Name": "Electronics Mart", "CMP": 170.35, "P/E": 35.74, "Mar Cap": 6554.20, "Div Yld": 0.00, "NP Qtr": 24.55, "Qtr Profit Var": -34.32, "Sales Qtr": 1386.10, "Qtr Sales Var": 5.55, "ROCE": 12.74}
+    ],
+    "Median": {
+      "CMP": 229.9,
+      "P/E": 56.92,
+      "Mar Cap": 1343.11,
+      "Div Yld": 0.0,
+      "NP Qtr": 3.29,
+      "Qtr Profit Var": 13.09,
+      "Sales Qtr": 328.59,
+      "Qtr Sales Var": 17.72,
+      "ROCE": 13.52
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company has delivered good profit growth of 30.8% CAGR over last 5 years",
+    "Cons": [
+      "Stock is trading at 4.46 times its book value",
+      "Though the company is reporting repeated profits, it is not paying out dividend",
+      "Promoter holding has decreased over last quarter: -7.80%",
+      "Company might be capitalizing the interest cost"
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Announcements": [
+    {"Date": "16 Dec", "Title": "Electronics Mart India launched a new Bajaj Electronics store."},
+    {"Date": "11 Dec", "Title": "Electronics Mart India launched a new Bajaj Electronics store."},
+    {"Date": "9 Dec", "Title": "The Company officials will be meeting the investors at 10:00 am on 13th December 2024 at Trident, BKC, Mumbai."},
+    {"Date": "5 Dec", "Title": "Electronics Mart India launched a new Bajaj Electronics store."},
+    {"Date": "15 Nov", "Title": "The Company officials will be meeting the investors virtually at 02:00 PM on the 28th November 2024."}
+  ],
+  "Documents": {
+    "Annual Reports": ["Financial Year 2024", "Financial Year 2023"],
+    "DRHP": null,
+    "Credit Ratings": [
+      {"Date": "12 Sep", "Source": "fitch"},
+      {"Date": "22 Sep 2023", "Source": "fitch"},
+      {"Date": "15 Jul 2022", "Source": "fitch"},
+      {"Date": "1 Jul 2022", "Source": "fitch"},
+      {"Date": "10 May 2021", "Source": "fitch"}
+    ],
+    "Concalls": {
+      "Note": "Multiple concall transcripts, notes, and PPTs are listed, but specific data needs to be extracted."
+    }
+  }
+}

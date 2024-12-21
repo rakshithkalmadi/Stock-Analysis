@@ -1,0 +1,137 @@
+
+{
+  "Company Overview": {
+    "Name": "Shipping Corporation of India Ltd",
+    "Sector": "Shipping",
+    "Industry": "Shipping",
+    "Business Description": "Shipping Corporation of India is engaged involved in business of transporting goods and passengers.  It is the largest Indian shipping company in terms of capacity with a diversified fleet profile. Its owned fleet includes Bulk carriers, Crude oil tankers, Product tankers, Container vessels, Passenger-cum-Cargo vessels, LPG carriers and Offshore Supply Vessels. It also manages a large number of vessels on behalf of various government departments and organizations.",
+    "Market Position": "Largest Indian shipping company in terms of capacity."
+  },
+  "Financial Metrics": {
+    "Market Cap": "9,855 Cr.",
+    "Current Price": 212,
+    "High/Low": "385 / 159",
+    "Stock P/E": 9.84,
+    "Book Value": 161,
+    "Dividend Yield": "0.24 %",
+    "ROCE": "7.43 %",
+    "ROE": "8.49 %",
+    "Face Value": 10.0
+  },
+  "Performance Trends": {
+    "Sales Growth (5 years)": "5.43%",
+    "Return on Equity (3 years)": "11.1%",
+    "Quarterly Results": {
+      "Sales": [1221, 1431, 1309, 1462, 1420, 1496, 1418, 1200, 1093, 1341, 1412, 1514, 1451],
+      "Expenses": [822, 966, 982, 1163, 1098, 1027, 953, 837, 857, 923, 1005, 1004, 917],
+      "Operating Profit": [399, 465, 327, 299, 322, 469, 465, 363, 236, 417, 407, 510, 534],
+      "OPM %": ["33%", "33%", "25%", "20%", "23%", "31%", "33%", "30%", "22%", "31%", "29%", "34%", "37%"],
+      "Other Income": [8, 25, 46, 28, 38, 25, 34, 27, 69, 22, 98, 44, 40],
+      "Interest": [13, 17, 76, 50, 47, 38, 50, 35, 56, 40, 40, 40, 43],
+      "Depreciation": [161, 159, 160, 172, 190, 195, 196, 197, 200, 251, 241, 220, 234],
+      "Profit before tax": [233, 315, 137, 105, 123, 262, 254, 157, 49, 149, 224, 294, 297],
+      "Tax %": ["2%", "8%", "8%", "11%", "10%", "6%", "-42%", "6%", "16%", "11%", "-30%", "2%", "2%"],
+      "Net Profit": [228, 290, 127, 94, 111, 246, 360, 147, 41, 132, 292, 287, 290],
+      "EPS in Rs": [4.90, 6.23, 2.72, 2.01, 2.38, 5.28, 7.72, 3.16, 0.87, 2.83, 6.27, 6.16, 6.23]
+    },
+    "Annual Results (Summary)": {
+      "Sales Growth (10 years)": "2%",
+      "Sales Growth (5 years)": "5%",
+      "Sales Growth (3 years)": "11%",
+      "Sales Growth (TTM)": "10%",
+      "Profit Growth (10 years)": "14%",
+      "Profit Growth (5 years)": "40%",
+      "Profit Growth (3 years)": "-3%",
+      "Profit Growth (TTM)": "26%",
+      "Stock Price CAGR (10 years)": "16%",
+      "Stock Price CAGR (5 years)": "34%",
+      "Stock Price CAGR (3 years)": "27%",
+      "Stock Price CAGR (1 year)": "29%",
+      "Return on Equity (10 years)": "6%",
+      "Return on Equity (5 years)": "9%",
+      "Return on Equity (3 years)": "11%",
+      "Return on Equity (Last Year)": "8%"
+    }
+  },
+  "Ratios": {
+    "Debtor Days": [77, 91, 69, 61, 70, 70, 56, 50, 62, 47, 64, 102],
+    "Inventory Days": [],
+    "Days Payable": [],
+    "Cash Conversion Cycle": [77, 91, 69, 61, 70, 70, 56, 50, 62, 47, 64, 102],
+    "Working Capital Days": [-68, -95, -133, -143, -187, -102, -114, -91, -17, 10, 17, 54],
+    "ROCE %": [-3, 0, 2, 7, 3, 1, 1, 5, 6, 10, 10, 7]
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "GE Shipping Co", "CMP": 993.30, "P/E": 5.01, "Mar Cap": 14181.06, "Div Yld": 2.90, "NP Qtr": 575.57, "Qtr Profit Var": -3.21, "Sales Qtr": 1354.40, "Qtr Sales Var": 10.20, "ROCE": 18.51},
+      {"Name": "S C I", "CMP": 211.57, "P/E": 9.84, "Mar Cap": 9854.93, "Div Yld": 0.24, "NP Qtr": 290.22, "Qtr Profit Var": 613.25, "Sales Qtr": 1450.63, "Qtr Sales Var": 32.71, "ROCE": 7.43},
+      {"Name": "Transworld Shipp", "CMP": 428.20, "P/E": 152.90, "Mar Cap": 940.33, "Div Yld": 0.00, "NP Qtr": 21.28, "Qtr Profit Var": 160.97, "Sales Qtr": 124.72, "Qtr Sales Var": 147.80, "ROCE": -3.91},
+      {"Name": "Essar Shipping", "CMP": 38.64, "P/E": 799.76, "Mar Cap": 0.00, "Div Yld": 0.00, "NP Qtr": 642.13, "Qtr Profit Var": 308.73, "Sales Qtr": 147.81, "Qtr Sales Var": 1155.82, "ROCE": -207.89},
+      {"Name": "ABS Marine", "CMP": 208.50, "P/E": 21.10, "Mar Cap": 511.87, "Div Yld": 0.00, "NP Qtr": 8.10, "Qtr Profit Var": 80.05, "Sales Qtr": 20.01, "Qtr Sales Var": 6.00, "ROCE": null},
+      {"Name": "Global Offshore", "CMP": 118.40, "P/E": 301.77, "Mar Cap": 0.00, "Div Yld": 0.00, "NP Qtr": -2.08, "Qtr Profit Var": -454.79, "Sales Qtr": 7.26, "Qtr Sales Var": -32.47, "ROCE": -5.54},
+      {"Name": "Sadhav", "CMP": 145.05, "P/E": 21.62, "Mar Cap": 208.18, "Div Yld": 0.00, "NP Qtr": 4.55, "Qtr Profit Var": 37.58, "Sales Qtr": 11.55, "Qtr Sales Var": 14.15, "ROCE": null}
+    ],
+    "Median (10 Co.)": {
+      "CMP": 131.73,
+      "P/E": 21.36,
+      "Mar Cap": 406.82,
+      "Div Yld": 0.0,
+      "NP Qtr": 7.55,
+      "Qtr Profit Var": 39.44,
+      "Sales Qtr": 102.38,
+      "Qtr Sales Var": 29.87,
+      "ROCE": 12.21
+    }
+  },
+  "Other Insights": {
+    "Pros": [
+      "Largest Shipping Company"
+    ],
+    "Cons": [
+      "The company has delivered a poor sales growth of 5.43% over past five years.",
+      "Tax rate seems low",
+      "Company has a low return on equity of 11.1% over last 3 years.",
+      "Contingent liabilities of Rs.5,241 Cr.",
+      "Company might be capitalizing the interest cost",
+      "Dividend payout has been low at 2.77% of profits over last 3 years",
+      "Debtor days have increased from 70.9 to 102 days."
+    ],
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis.",
+    "Shareholding Pattern Notes": "* The classifications might have changed from Sep'2022 onwards. The new XBRL format added more details from Sep'22 onwards. Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes. Click on the line-items to see the names of individual entities."
+  },
+  "Documents": {
+    "Announcements": [
+      {"Date": "1 Dec", "Title": "Announcement under Regulation 30 (LODR)-Change in Management"},
+      {"Date": "22 Nov", "Title": "Announcement under Regulation 30 (LODR)-Change in Directorate"},
+      {"Date": "22 Nov", "Title": "Disclosure Under Regulation 30 Of SEBI (LODR) Regulations, 2015"},
+      {"Date": "13 Nov", "Title": "Announcement under Regulation 30 (LODR)-Change in Directorate"},
+      {"Date": "11 Nov", "Title": "Announcement under Regulation 30 (LODR)-Newspaper Publication"}
+    ],
+    "Annual Reports": [
+      {"Year": 2024, "Source": "bse"},
+      {"Year": 2023, "Source": "bse"},
+      {"Year": 2022, "Source": "bse"},
+      {"Year": 2021, "Source": "bse"},
+      {"Year": 2020, "Source": "bse"},
+      {"Year": 2019, "Source": "bse"},
+      {"Year": 2018, "Source": "bse"},
+      {"Year": 2017, "Source": "bse"},
+      {"Year": 2016, "Source": "bse"},
+      {"Year": 2015, "Source": "bse"},
+      {"Year": 2014, "Source": "bse"},
+      {"Year": 2013, "Source": "bse"},
+      {"Year": 2013, "Source": "nse"},
+      {"Year": 2012, "Source": "nse"},
+      {"Year": 2012, "Source": "bse"}
+    ],
+    "DRHP": [],
+    "Credit Ratings": [
+      {"Date": "18 Oct", "Source": "smera"},
+      {"Date": "29 May", "Source": "smera"},
+      {"Date": "18 Jul 2023", "Source": "smera"},
+      {"Date": "19 Jun 2023", "Source": "smera"},
+      {"Date": "21 Mar 2022", "Source": "smera"},
+      {"Date": "12 Feb 2021", "Source": "icra"}
+    ]
+  }
+}

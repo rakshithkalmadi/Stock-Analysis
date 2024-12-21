@@ -1,0 +1,120 @@
+
+{
+  "Company Overview": {
+    "Name": "Coal India Ltd",
+    "Sector": "Mining & Mineral products",
+    "Industry": "Mining / Minerals / Metals",
+    "Business Description": "Coal India Ltd is mainly engaged in mining and production of Coal and also operates Coal washeries. The major consumers of the company are power and steel sectors. Consumers from other sectors include cement, fertilizers, brick kilns etc.",
+    "Market Position": "Maharatna company under the Ministry of Coal, Government of India. Part of Nifty 50, BSE 500, BSE 100, BSE 200, BSE Dollex 200, BSE PSU, Nifty 500, BSE Metal, Nifty Energy, Nifty 100, Nifty PSE, Nifty 200, Nifty Commodities, Nifty Dividend Opportunities 50, Nifty 100 Liquid 15, Nifty CPSE, Nifty50 Value 20, BSE CPSE, Nifty 100 Equal Weight, BSE Allcap, BSE LargeCap, BSE Energy, BSE India Manufacturing Index, BSE SENSEX 50, Nifty100 Quality 30, BSE Bharat 22 Index, BSE 250 LargeMidCap Index, BSE Dividend Stability Index, BSE Momentum Index, BSE Quality Index, Nifty 50 Equal Weight, BSE 100 LargeCap TMC Index, Nifty200 Momentum 30, Nifty LargeMidcap 250, Nifty 500 Multicap 50:25:25, Nifty200 Quality 30, Nifty100 ESG, Nifty Total Market, Nifty200 Alpha30"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 2,35,416 Cr.",
+    "Current Price": "₹ 382",
+    "High/Low": "₹ 545 / ₹ 362",
+    "P/E Ratio": "6.54",
+    "Book Value": "₹ 156",
+    "Dividend Yield": "6.68%",
+    "ROCE": "63.6%",
+    "ROE": "52.0%",
+    "Face Value": "₹ 10.0"
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": {
+        "Sep 2021": "23,291",
+        "Dec 2021": "28,434",
+        "Mar 2022": "32,709",
+        "Jun 2022": "35,092",
+        "Sep 2022": "29,838",
+        "Dec 2022": "35,169",
+        "Mar 2023": "38,152",
+        "Jun 2023": "35,983",
+        "Sep 2023": "30,673"
+      },
+      "Net Profit": {
+        "Sep 2021": "2,933",
+        "Dec 2021": "4,557",
+        "Mar 2022": "6,715",
+        "Jun 2022": "8,834",
+        "Sep 2022": "6,044",
+        "Dec 2022": "7,719",
+        "Mar 2023": "6,869",
+        "Jun 2023": "10,498",
+        "Sep 2023": "6,275"
+      }
+    },
+    "Annual Results": {
+      "Sales": {
+        "Mar 2013": "68,303",
+        "Mar 2014": "70,608",
+        "Mar 2015": "74,120",
+        "Mar 2016": "77,861",
+        "Mar 2017": "78,164",
+        "Mar 2018": "85,244",
+        "Mar 2019": "99,586",
+        "Mar 2020": "96,080",
+        "Mar 2021": "90,026",
+        "Mar 2022": "109,715",
+        "Mar 2023": "138,252",
+        "TTM": "140,702"
+      },
+      "Net Profit": {
+        "Mar 2013": "17,356",
+        "Mar 2014": "15,112",
+        "Mar 2015": "13,727",
+        "Mar 2016": "14,267",
+        "Mar 2017": "9,280",
+        "Mar 2018": "7,038",
+        "Mar 2019": "17,464",
+        "Mar 2020": "16,700",
+        "Mar 2021": "12,702",
+        "Mar 2022": "17,378",
+        "Mar 2023": "31,723",
+        "TTM": "36,013"
+      }
+    }
+  },
+  "Ratios": {
+    "ROCE": {
+      "Mar 2013": "54%",
+      "Mar 2014": "50%",
+      "Mar 2015": "52%",
+      "Mar 2016": "57%",
+      "Mar 2017": "46%",
+      "Mar 2018": "45%",
+      "Mar 2019": "107%",
+      "Mar 2020": "72%",
+      "Mar 2021": "46%",
+      "Mar 2022": "54%",
+      "Mar 2023": "78%",
+      "Mar 2024": "64%"
+    }
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "Vedanta", "CMP": "477.25", "P/E": "18.04", "Mar Cap": "186623.27", "Div Yld": "9.11", "NP Qtr": "5603.00", "Qtr Profit Var": "522.41", "Sales Qtr": "37634.00", "Qtr Sales Var": "-3.37", "ROCE": "20.91"},
+      {"Name": "NMDC", "CMP": "213.15", "P/E": "9.96", "Mar Cap": "62465.86", "Div Yld": "3.40", "NP Qtr": "1205.30", "Qtr Profit Var": "17.47", "Sales Qtr": "4918.91", "Qtr Sales Var": "22.54", "ROCE": "30.91"},
+      {"Name": "Lloyds Metals", "CMP": "1135.00", "P/E": "40.43", "Mar Cap": "59339.12", "Div Yld": "0.09", "NP Qtr": "301.44", "Qtr Profit Var": "30.35", "Sales Qtr": "1364.43", "Qtr Sales Var": "25.03", "ROCE": "78.27"},
+      {"Name": "KIOCL", "CMP": "361.20", "P/E": null, "Mar Cap": "21951.97", "Div Yld": "0.00", "NP Qtr": "-69.21", "Qtr Profit Var": "-223.56", "Sales Qtr": "16.14", "Qtr Sales Var": "-96.26", "ROCE": "-2.18"},
+      {"Name": "G M D C", "CMP": "326.00", "P/E": "16.30", "Mar Cap": "10366.80", "Div Yld": "2.93", "NP Qtr": "127.86", "Qtr Profit Var": "71.44", "Sales Qtr": "593.01", "Qtr Sales Var": "54.94", "ROCE": "13.78"},
+      {"Name": "MOIL", "CMP": "336.50", "P/E": "19.70", "Mar Cap": "6847.28", "Div Yld": "1.80", "NP Qtr": "49.96", "Qtr Profit Var": "-18.79", "Sales Qtr": "291.89", "Qtr Sales Var": "-16.01", "ROCE": "16.11"}
+    ]
+  },
+  "Other Insights": {
+    "Pros": [
+      "Company is almost debt free.",
+      "Stock is providing a good dividend yield of 6.68%.",
+      "Company has a good return on equity (ROE) track record: 3 Years ROE 52.8%",
+      "Company has been maintaining a healthy dividend payout of 49.8%"
+    ],
+    "Cons": [
+      "The pros and cons are machine generated.",
+      "Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+    ],
+    "Shareholding Pattern Notes": [
+      "The classifications might have changed from Sep'2022 onwards.",
+      "The new XBRL format added more details from Sep'22 onwards.",
+      "Classifications such as banks and foreign portfolio investors were not available earlier. The sudden changes in FII or DII can be because of these changes."
+    ]
+  }
+}

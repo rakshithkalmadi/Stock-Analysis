@@ -1,0 +1,197 @@
+
+{
+  "Company Overview": {
+    "Name": "HCL Technologies Ltd",
+    "Sector": "IT - Software",
+    "Industry": "Computers - Software - Large",
+    "Business Description": "HCL Tech is a leading global IT services company, which is ranked amongst the top five Indian IT services companies in terms of revenues. Since its inception into the global landscape after its IPO in 1999, HCL Tech has focused on transformational outsourcing, and offers an integrated portfolio of services including software-led IT solutions, remote infrastructure management, engineering and R&D services and BPO. The company leverages its extensive global offshore infrastructure and network of offices in 46 countries to provide multi-service delivery in key industry verticals.",
+    "Market Position": "Top five Indian IT services companies in terms of revenues"
+  },
+  "Financial Metrics": {
+    "Market Cap": "₹ 5,18,676 Cr.",
+    "Current Price": "₹ 1,911",
+    "High/Low": "₹ 1,980 / ₹ 1,235",
+    "P/E Ratio": "30.8",
+    "Book Value": "₹ 254",
+    "Dividend Yield": "2.72%",
+    "ROCE": "29.6%",
+    "ROE": "23.3%",
+    "Face Value": "₹ 2.00",
+    "Debt-to-Equity Ratio": null //Not explicitly provided in the HTML
+  },
+  "Performance Trends": {
+    "Quarterly Results": {
+      "Sales": [
+        {"period": "Sep 2021", "value": "20,655"},
+        {"period": "Dec 2021", "value": "22,331"},
+        {"period": "Mar 2022", "value": "22,597"},
+        {"period": "Jun 2022", "value": "23,464"},
+        {"period": "Sep 2022", "value": "24,686"},
+        {"period": "Dec 2022", "value": "26,700"},
+        {"period": "Mar 2023", "value": "26,606"},
+        {"period": "Jun 2023", "value": "26,296"},
+        {"period": "Sep 2023", "value": "28,862"}
+      ],
+      "Net Profit": [
+        {"period": "Sep 2021", "value": "3,263"},
+        {"period": "Dec 2021", "value": "3,448"},
+        {"period": "Mar 2022", "value": "3,599"},
+        {"period": "Jun 2022", "value": "3,281"},
+        {"period": "Sep 2022", "value": "3,487"},
+        {"period": "Dec 2022", "value": "4,096"},
+        {"period": "Mar 2023", "value": "3,981"},
+        {"period": "Jun 2023", "value": "3,531"},
+        {"period": "Sep 2023", "value": "4,237"}
+
+      ]
+    },
+    "Annual Results": {
+      "Sales": [
+        {"year": "Jun 2013", "value": "25,581"},
+        {"year": "Jun 2014", "value": "32,144"},
+        {"year": "Jun 2015", "value": "36,701"},
+        {"year": "Mar 2016", "value": "31,136"},
+        {"year": "Mar 2017", "value": "47,568"},
+        {"year": "Mar 2018", "value": "50,569"},
+        {"year": "Mar 2019", "value": "60,427"},
+        {"year": "Mar 2020", "value": "70,676"},
+        {"year": "Mar 2021", "value": "75,379"},
+        {"year": "Mar 2022", "value": "85,651"},
+        {"year": "Mar 2023", "value": "109,913"}
+      ],
+      "Net Profit": [
+        {"year": "Jun 2013", "value": "4,040"},
+        {"year": "Jun 2014", "value": "6,528"},
+        {"year": "Jun 2015", "value": "7,342"},
+        {"year": "Mar 2016", "value": "5,602"},
+        {"year": "Mar 2017", "value": "8,606"},
+        {"year": "Mar 2018", "value": "8,722"},
+        {"year": "Mar 2019", "value": "10,120"},
+        {"year": "Mar 2020", "value": "11,057"},
+        {"year": "Mar 2021", "value": "11,169"},
+        {"year": "Mar 2022", "value": "13,523"},
+        {"year": "Mar 2023", "value": "15,710"}
+      ]
+    }
+  },
+  "Ratios": {
+    "ROCE": {
+      "10 Years": "24%",
+      "5 Years": "22%",
+      "3 Years": "23%",
+      "Last Year": "23%"
+    },
+    "Growth Ratios": {
+      "Compounded Sales Growth": {
+        "10 Years": "16%",
+        "5 Years": "13%",
+        "3 Years": "13%",
+        "TTM": "7%"
+      },
+      "Compounded Profit Growth": {
+        "10 Years": "15%",
+        "5 Years": "9%",
+        "3 Years": "12%",
+        "TTM": "9%"
+      }
+    },
+    "Other Ratios": {
+      "Stock Price CAGR": {
+        "10 Years": "17%",
+        "5 Years": "27%",
+        "3 Years": "16%",
+        "1 Year": "31%"
+      }
+    }
+
+  },
+  "Peer Comparison": {
+    "Peers": [
+      {"Name": "TCS", "CMP": "4170.30", "P/E": "31.33", "Mar Cap": "1508851.04", "Div Yld": "1.32", "NP Qtr": "11955.00", "Qtr Profit Var": "5.00", "Sales Qtr": "64259.00", "Qtr Sales Var": "7.65", "ROCE": "64.28"},
+      {"Name": "Infosys", "CMP": "1922.15", "P/E": "29.62", "Mar Cap": "798128.42", "Div Yld": "1.98", "NP Qtr": "6516.00", "Qtr Profit Var": "4.73", "Sales Qtr": "40986.00", "Qtr Sales Var": "5.11", "ROCE": "39.99"},
+      {"Name": "Wipro", "CMP": "305.20", "P/E": "27.21", "Mar Cap": "319444.51", "Div Yld": "0.16", "NP Qtr": "3226.60", "Qtr Profit Var": "21.26", "Sales Qtr": "22301.60", "Qtr Sales Var": "-0.95", "ROCE": "16.93"},
+      {"Name": "LTIMindtree", "CMP": "5824.30", "P/E": "37.08", "Mar Cap": "172561.99", "Div Yld": "1.12", "NP Qtr": "1251.60", "Qtr Profit Var": "7.68", "Sales Qtr": "9432.90", "Qtr Sales Var": "5.92", "ROCE": "31.17"},
+      {"Name": "Tech Mahindra", "CMP": "1686.05", "P/E": "50.42", "Mar Cap": "165013.36", "Div Yld": "2.37", "NP Qtr": "1257.50", "Qtr Profit Var": "153.11", "Sales Qtr": "13313.20", "Qtr Sales Var": "3.49", "ROCE": "11.88"},
+      {"Name": "Persistent Sys", "CMP": "6368.70", "P/E": "80.51", "Mar Cap": "99256.19", "Div Yld": "0.41", "NP Qtr": "325.00", "Qtr Profit Var": "23.45", "Sales Qtr": "2897.15", "Qtr Sales Var": "20.13", "ROCE": "29.17"}
+    ],
+    "Median": {
+      "CMP": "2950.6",
+      "P/E": "35.09",
+      "Mar Cap": "172561.99",
+      "Div Yld": "1.32",
+      "NP Qtr": "1257.5",
+      "Qtr Profit Var": "8.01",
+      "Sales Qtr": "13313.2",
+      "Qtr Sales Var": "7.65",
+      "ROCE": "29.6"
+    }
+  },
+  "Other Insights": {
+    "Pros": "Company is almost debt free. Company has been maintaining a healthy dividend payout of 87.4%",
+    "Cons": "Stock is trading at 7.53 times its book value",
+    "Disclaimer": "The pros and cons are machine generated. Pros / cons are based on a checklist to highlight important points. Please exercise caution and do your own analysis."
+  },
+  "Shareholding Pattern": {
+    "Quarterly": {
+      "Promoters": [
+        {"period": "Dec 2021", "value": "60.33%"},
+        {"period": "Mar 2022", "value": "60.72%"},
+        {"period": "Jun 2022", "value": "60.72%"},
+        {"period": "Sep 2022", "value": "60.72%"},
+        {"period": "Dec 2022", "value": "60.72%"},
+        {"period": "Mar 2023", "value": "60.82%"},
+        {"period": "Jun 2023", "value": "60.82%"},
+        {"period": "Sep 2023", "value": "60.82%"}
+      ],
+      "FIIs": [
+        {"period": "Dec 2021", "value": "20.43%"},
+        {"period": "Mar 2022", "value": "18.97%"},
+        {"period": "Jun 2022", "value": "17.91%"},
+        {"period": "Sep 2022", "value": "17.17%"},
+        {"period": "Dec 2022", "value": "18.29%"},
+        {"period": "Mar 2023", "value": "18.92%"},
+        {"period": "Jun 2023", "value": "18.98%"},
+        {"period": "Sep 2023", "value": "18.80%"}
+      ],
+      "DIIs": [
+        {"period": "Dec 2021", "value": "13.74%"},
+        {"period": "Mar 2022", "value": "14.68%"},
+        {"period": "Jun 2022", "value": "15.54%"},
+        {"period": "Sep 2022", "value": "16.52%"},
+        {"period": "Dec 2022", "value": "15.85%"},
+        {"period": "Mar 2023", "value": "15.28%"},
+        {"period": "Jun 2023", "value": "15.33%"},
+        {"period": "Sep 2023", "value": "15.62%"}
+      ]
+    },
+    "Yearly": {
+      "Promoters": [
+        {"period": "Mar 2017", "value": "59.68%"},
+        {"period": "Mar 2018", "value": "60.18%"},
+        {"period": "Mar 2019", "value": "60.00%"},
+        {"period": "Mar 2020", "value": "60.33%"},
+        {"period": "Mar 2021", "value": "60.33%"},
+        {"period": "Mar 2022", "value": "60.72%"},
+        {"period": "Mar 2023", "value": "60.82%"}
+      ],
+      "FIIs": [
+        {"period": "Mar 2017", "value": "24.56%"},
+        {"period": "Mar 2018", "value": "26.54%"},
+        {"period": "Mar 2019", "value": "28.74%"},
+        {"period": "Mar 2020", "value": "26.42%"},
+        {"period": "Mar 2021", "value": "24.14%"},
+        {"period": "Mar 2022", "value": "18.97%"},
+        {"period": "Mar 2023", "value": "18.92%"}
+      ],
+      "DIIs": [
+        {"period": "Mar 2017", "value": "7.74%"},
+        {"period": "Mar 2018", "value": "9.78%"},
+        {"period": "Mar 2019", "value": "7.67%"},
+        {"period": "Mar 2020", "value": "9.11%"},
+        {"period": "Mar 2021", "value": "10.54%"},
+        {"period": "Mar 2022", "value": "14.68%"},
+        {"period": "Mar 2023", "value": "15.28%"}
+      ]
+    }
+  }
+}
