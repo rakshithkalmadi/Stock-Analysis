@@ -5,3 +5,4 @@
 - [MSN Money](https://www.msn.com/en-in/money?id=ahkucw)
 - [NSE India](https://www.nseindia.com/)
 - [BSE India](https://www.bseindia.com/)
+- [NSE_cogencis](https://iinvest.cogencis.com/screeners)
